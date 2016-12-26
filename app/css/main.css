@@ -1,0 +1,62 @@
+html, body, #map-parent {
+    height: 100%;
+}
+#map {
+    height: 100%;
+}
+
+#logo-container {
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    left: 70px;
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+}
+#logo-container h1 {
+    margin: 0;
+}
+#logo-container p {
+    margin: 0;
+    font-size: 14px;
+}
+
+#user-menu {
+    z-index: 400;
+    position: absolute;
+    bottom: 3px;
+    left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#legend-layers {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 420px;
+}
+#legend-layers h1{
+    margin: 0;
+	font-weight: bold;
+	font-size: 14px;
+}
+#legend-layers p {
+    margin: 0;
+}
+
+#legend-layers > div {
+    display: flex;
+    flex-wrap: wrap;
+}
+#legend-layers > div > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+#legend-layers > div > div > .color-block {
+    width: 40px;
+    height: 15px;
+    margin: 1px 1px;
+    text-align: center;
+}
