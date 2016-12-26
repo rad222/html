@@ -1,0 +1,53 @@
+date;id_station;id_network;type;latitude;longitude;altitude;area_adm_1;area_adm_2;name;value;value_period
+24/12/2016 13:00;spain_1;Spain_CSN;gamma;37.3753656;-5.9900776;2;Andalucía;;Sevilla;9;9
+24/12/2016 13:00;spain_2;Spain_CSN;gamma;36.7489322;-3.527553215;2;Andalucía;;Motril;12;12
+24/12/2016 13:00;spain_3;Spain_CSN;gamma;36.1324649;-5.808492911;2;Andalucía;;Tarifa;11;11
+24/12/2016 13:00;spain_4;Spain_CSN;gamma;37.2708666;-6.9571999;2;Andalucía;;Huelva;1;1
+24/12/2016 13:00;spain_5;Spain_CSN;gamma;38.0396113;-4.0549427;2;Andalucía;;Andujar;1;1
+24/12/2016 13:00;spain_6;Spain_CSN;gamma;40.3450083;-1.1184744;2;Aragón;;Teruel;11;12
+24/12/2016 13:00;spain_7;Spain_CSN;gamma;42.5726164;-0.5582902;2;Aragón;;Jaca;12;13
+24/12/2016 13:00;spain_8;Spain_CSN;gamma;43.3694855;-5.866167414;2;Asturias;;Oviedo;11;11
+24/12/2016 13:00;spain_9;Spain_CSN;gamma;39.5699474;2.6457357;2;Baleares;;Palma de Mallorca;9;9
+24/12/2016 13:00;spain_10;Spain_CSN;gamma;28.4578193;-16.3038441;2;Canarias;;Sta. Cruz de Tenerife;12;12
+24/12/2016 13:00;spain_11;Spain_CSN;gamma;43.4613431;-3.8286466;2;Cantabria;;Santander;11;11
+24/12/2016 13:00;spain_12;Spain_CSN;gamma;39.5928804;-3.0503414;2;Castilla La Mancha;;Quintanar de la Orden;15;15
+24/12/2016 13:00;spain_13;Spain_CSN;gamma;41.7671202;-2.4920886;2;Castilla y León;;Soria;12;13
+24/12/2016 13:00;spain_14;Spain_CSN;gamma;40.6703275;-6.6350009;2;Castilla y León;;Saelices el Chico;15;16
+24/12/2016 13:00;spain_15;Spain_CSN;gamma;41.9913867;-4.6330151;2;Castilla y León;;Autilla del Pino;12;12
+24/12/2016 13:00;spain_16;Spain_CSN;gamma;42.5539034;-6.6273616;2;Castilla y León;;Ponferrada;12;13
+24/12/2016 13:00;spain_17;Spain_CSN;gamma;41.716528;1.4201802;2;Cataluña;;Pujalt;13;13
+24/12/2016 13:00;spain_18;Spain_CSN;gamma;41.587821;1.4698371;2;Cataluña;;Almadraba;11;12
+24/12/2016 13:00;spain_19;Spain_CSN;gamma;41.1818269;0.562265;2;Cataluña;;Ascó;12;12
+24/12/2016 13:00;spain_20;Spain_CSN;gamma;41.3947688;2.0787283;2;Cataluña;;Barcelona;9;9
+24/12/2016 13:00;spain_21;Spain_CSN;gamma;42.2698317;3.1640023;2;Cataluña;;Rosas;12;12
+24/12/2016 13:00;spain_22;Spain_CSN;gamma;39.3358743;-1.0866216;2;Comunidad Valenciana;;Pedrones;13;13
+24/12/2016 13:00;spain_23;Spain_CSN;gamma;39.2290021;-1.0670874;2;Comunidad Valenciana;;Cofrentes;13;14
+24/12/2016 13:00;spain_24;Spain_CSN;gamma;39.1906896;-1.0795596;2;Comunidad Valenciana;;Jalance;15;16
+24/12/2016 13:00;spain_25;Spain_CSN;gamma;39.2419042;-0.9438412;2;Comunidad Valenciana;;Cortes de Pallás;15;16
+24/12/2016 13:00;spain_26;Spain_CSN;gamma;39.7418843;-5.7013566;2;Extremadura;;Romangordo;13;13
+24/12/2016 13:00;spain_27;Spain_CSN;gamma;39.8539442;-5.6790114;2;Extremadura;;Saucedilla;12;13
+24/12/2016 13:00;spain_28;Spain_CSN;gamma;39.7266536;-5.7462058;2;Extremadura;;Casas de Miravete;nan;nan
+24/12/2016 13:00;spain_29;Spain_CSN;gamma;39.8142825;-5.6808715;2;Extremadura;;Almaraz;13;13
+24/12/2016 13:00;spain_30;Spain_CSN;gamma;39.8172469;-5.8047418;2;Extremadura;;Serrejón;1;1
+24/12/2016 13:00;spain_31;Spain_CSN;gamma;39.9867679;-5.6185893;2;Extremadura;;Talayuela;12;12
+24/12/2016 13:00;spain_32;Spain_CSN;gamma;39.8961767;-5.5482415;2;Extremadura;;Navalmoral de la Mata;11;12
+24/12/2016 13:00;spain_33;Spain_CSN;gamma;38.1678695;-6.6569154;2;Extremadura;;Fregenal de la Sierra;9;9
+24/12/2016 13:00;spain_34;Spain_CSN;gamma;38.1225016;-5.6935221;2;Extremadura;;Malcocinado;nan;nan
+24/12/2016 13:00;spain_35;Spain_CSN;gamma;39.4016384;-6.7205841;2;Extremadura;;Cáceres;7;7
+24/12/2016 13:00;spain_36;Spain_CSN;gamma;38.8765824;-6.7741131;2;Extremadura;;Talavera la Real;11;11
+24/12/2016 13:00;spain_37;Spain_CSN;gamma;39.1683051;-5.0558096;2;Extremadura;;Herrera del Duque;18;18
+24/12/2016 13:00;spain_38;Spain_CSN;gamma;42.4338595;-8.6568552;2;Galicia;;Pontevedra;17;17
+24/12/2016 13:00;spain_39;Spain_CSN;gamma;43.0122823;-7.5740097;2;Galicia;;Lugo;13;13
+24/12/2016 13:00;spain_40;Spain_CSN;gamma;42.4466259;-2.2987691;2;La Rioja;;Agoncillo;12;13
+24/12/2016 13:00;spain_41;Spain_CSN;gamma;40.4541302;-3.7310618;2;Madrid;;Madrid-Ciemat;18;19
+24/12/2016 13:00;spain_42;Spain_CSN;gamma;37.9805272;-1.1621947;2;Murcia;;Murcia;1;11
+24/12/2016 13:00;spain_43;Spain_CSN;gamma;43.3072913;-1.9913925;2;País vasco;;San Sebastián;1;1
+24/12/2016 13:00;spain_44;Spain_CSN;gamma;42.8508448;-2.7693936;2;País vasco;;Vitoria;8;8
+24/12/2016 13:00;spain_45;Spain_CSN;gamma;43.2633211;-2.9510076;2;País vasco;;Bilbao;8;8
+24/12/2016 13:10;ciemat_1;Spain_CIEMAT;gamma;40.4541302;-3.7310618;2;Madrid;Madrid;Sonda Ed. 23 Valla Sur;16;nan
+24/12/2016 13:10;ciemat_2;Spain_CIEMAT;gamma;40.4341302;-3.7210618;2;Madrid;Madrid;Sonda Ed. 23 Valla Este;17;nan
+24/12/2016 13:10;ciemat_3;Spain_CIEMAT;gamma;40.4321302;-3.7220618;2;Madrid;Madrid;Sonda Ed. 07 Avda. Complutense;15;nan
+24/12/2016 13:10;ciemat_4;Spain_CIEMAT;gamma;40.4231302;-3.7240618;2;Madrid;Madrid;Sonda Ed. 63 Valla Norte;15;nan
+24/12/2016 13:10;ciemat_5;Spain_CIEMAT;gamma;40.4021302;-3.7250618;2;Madrid;Madrid;Sonda Ed. 63 Valla Norte;14;nan
+24/12/2016 20:10;Monras_1;Czech_Republic_Monras;gamma;49.2020489;16.5079212;2;Brno;Brno;Brno;14;nan
+

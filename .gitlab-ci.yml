@@ -1,0 +1,15 @@
+image: node:latest
+
+pages:
+  cache:
+      paths:
+      - bower_components/
+
+  script:
+    - mv app public
+
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

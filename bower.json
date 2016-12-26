@@ -1,0 +1,20 @@
+{
+  "name": "map-spain",
+  "authors": [
+    "Sergey Panov <gostroy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^1.0.2"
+  }
+}
