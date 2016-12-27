@@ -28,7 +28,7 @@ input[type="radio"], input[type="checkbox"] {
 #user-menu {
     z-index: 400;
     position: absolute;
-    bottom: 3px;
+    bottom: 45px;
     left: 20px;
     display: flex;
     flex-direction: column;
@@ -64,3 +64,4 @@ input[type="radio"], input[type="checkbox"] {
     margin: 1px 1px;
     text-align: center;
 }
+
