@@ -60,7 +60,18 @@ var baseMaps = {
 // https://github.com/mapbox/leaflet-omnivore
 // https://github.com/hiasinho/Leaflet.vector-markers
 
+
+
+
+
 var stationLayerGeojson = L.geoJson(null, {
+	
+    filter: function(e) {
+		if (e.properties.id_network === 'Spain_CIEMAT')
+		//Spain_CIEMAT
+        return true;
+    },	
+	
     pointToLayer: function(feature, latlng) {
         return L.marker(latlng, {
             icon: L.VectorMarkers.icon({
@@ -81,12 +92,15 @@ var stationLayerGeojson = L.geoJson(null, {
     }
 });
 
-
 var stationLayer = omnivore.csv('data/meta.csv', {
     latfield: 'latitude',
     lonfield: 'longitude',
     delimiter: ';'
 }, stationLayerGeojson);
+
+
+
+
 
 
 var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
