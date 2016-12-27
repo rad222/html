@@ -10,3 +10,5 @@ var map = L.map('map', {
     zoom: 6,
     layers: [OpenStreetMap_Mapnik]
 });
+
+L.control.scale().addTo(map);
