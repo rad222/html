@@ -5,6 +5,10 @@ html, body, #map-parent {
     height: 100%;
 }
 
+input[type="radio"], input[type="checkbox"] {
+  margin: 0;
+}
+
 #logo-container {
     z-index: 100;
     position: absolute;
