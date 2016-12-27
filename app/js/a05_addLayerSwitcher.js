@@ -107,7 +107,7 @@ var overlayMaps = {
 };
 
 L.control.layers(baseMaps, overlayMaps, {
-    collapsed: true
+    collapsed: false
 }).addTo(map);
 
 $(document).ready(function() {
