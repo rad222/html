@@ -100,15 +100,22 @@ var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 });
 
 var overlayMaps = {
-    "Stations": stationLayer,
-    "CCAA": geojsonCCAA,
-    "Provincias": geojsonProvincias,
-    "Zonas": geojsonZonas
+    "Stations": {
+		"Stations": stationLayer
+	},  
+	"Layers": {
+		"CCAA": geojsonCCAA,
+		"Provincias": geojsonProvincias,
+		"Zonas": geojsonZonas
+	}
 };
 
-L.control.layers(baseMaps, overlayMaps, {
+L.control.groupedLayers(baseMaps, overlayMaps, {
     collapsed: false
 }).addTo(map);
+
+
+
 
 $(document).ready(function() {
     // change Leaflet Control.Layers view
@@ -120,4 +127,8 @@ $(document).ready(function() {
 	// define default layers
 	stationLayer.addTo(map);
 	$('#legend-layers').show();
+	
+	
+	
+	
 });
