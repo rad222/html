@@ -16,10 +16,10 @@ legend.addTo(map);
 
 
 map.on('overlayadd', function (e) {
-    $('#legend-layers').show();
+   // $('#legend-layers').show();
 });
 map.on('overlayremove', function (e) {
-    if (!map.hasLayer(geojsonCCAA) && !map.hasLayer(geojsonProvincias) && !map.hasLayer(geojsonZonas) && !map.hasLayer(stationLayer)) {
+    if (!map.hasLayer(geojsonCCAA) && !map.hasLayer(geojsonProvincias) && !map.hasLayer(geojsonZonas) /*&& !map.hasLayer(stationLayer)*/) {
         $('#legend-layers').hide();
     }
 });
