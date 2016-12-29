@@ -1,5 +1,34 @@
 'use strict';
 
+// register handlebar helpers
+Handlebars.registerHelper('ifIn', function (elem, list, options) {
+    if (list.indexOf(elem) > -1) {
+        return options.fn(this);
+    }
+    return options.inverse(this);
+});
+Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
+    if (list.indexOf(elem) > -1) {
+        return options.inverse(this);
+    }
+    return options.fn(this);
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // https://leaflet-extras.github.io/leaflet-providers/preview/
 var Stamen_Watercolor = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
 	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -61,20 +90,8 @@ var baseMaps = {
 // https://github.com/hiasinho/Leaflet.vector-markers
 // https://jsfiddle.net/qkvo7hav/7/
 
-var timeUpdate = 1800000;
 
-
-
-// var stationsOverlay = {};
-// var LayerControlStations = new L.control.groupedLayers(null, stationsOverlay, {
-// 	collapsed: false
-// }).addTo(map);
-
-
-
-
-
-
+var allPointsLG = L.layerGroup().addTo(map);
 var layer_Spain_CSN = L.layerGroup().addTo(map);
 var layer_Spain_CIEMAT = L.layerGroup().addTo(map);
 var layer_Czech_Republic_Monras = L.layerGroup().addTo(map);
@@ -101,13 +118,9 @@ var mcg = L.markerClusterGroup.layerSupport().addTo(map);
 
 				console.log('meta.csv loaded. count: ' + data['features'].length);
 
-
-				//layerStationsCluster.clearLayers();
-
 				mcg.clearLayers();
 
 
-				//layer_Spain_CSN.clearLayers();
 				var layer_geojson_Spain_CSN = L.geoJson(null, {
 					filter: function (feature, layer) {
 						return feature.properties.id_network === 'Spain_CSN';
@@ -136,7 +149,6 @@ var mcg = L.markerClusterGroup.layerSupport().addTo(map);
 				layer_Spain_CSN.addLayer(layer_geojson_Spain_CSN);
 
 
-				//layer_Spain_CIEMAT.clearLayers();
 				var layer_geojson_Spain_CIEMAT = L.geoJson(null, {
 					filter: function (feature, layer) {
 						return feature.properties.id_network === 'Spain_CIEMAT';
@@ -165,7 +177,6 @@ var mcg = L.markerClusterGroup.layerSupport().addTo(map);
 				layer_Spain_CIEMAT.addLayer(layer_geojson_Spain_CIEMAT);
 
 
-				//layer_Czech_Republic_Monras.clearLayers();
 				var layer_geojson_Czech_Republic_Monras = L.geoJson(null, {
 					filter: function (feature, layer) {
 						return feature.properties.id_network === 'Czech_Republic_Monras';
@@ -188,26 +199,15 @@ var mcg = L.markerClusterGroup.layerSupport().addTo(map);
 							click: onMouseOver
 						});
 					}
-
 				});
 				layer_geojson_Czech_Republic_Monras.addData(data);
 				layer_Czech_Republic_Monras.addLayer(layer_geojson_Czech_Republic_Monras);
-
-
-				//layerStationsCluster.addLayer(layerStationGeojson);
-
-
-
-
 			});
 		},
 		complete: function () {
-			setTimeout(worker, timeUpdate);
+			setTimeout(worker, 1800000);
 		}
 	});
-
-
-
 })();
 
 
@@ -227,17 +227,13 @@ var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 
 //Checking in the 'sub groups'
 mcg.checkIn([
+	allPointsLG,
 	layer_Spain_CSN,
 	layer_Spain_CIEMAT,
 	layer_Czech_Republic_Monras
 ]);
 
 var overlayMaps = {
-	"Stations": {
-		// "Spain_CSN": layer_Spain_CSN,
-		// "Spain_CIEMAT": layer_Spain_CIEMAT,
-		// "Czech_Republic_Monras": layer_Czech_Republic_Monras
-	},
 	"Layers": {
 		"CCAA": geojsonCCAA,
 		"Provincias": geojsonProvincias,
@@ -251,10 +247,42 @@ var LayerControlStations = L.control.groupedLayers(baseMaps, overlayMaps, {
 
 
 
-LayerControlStations.addOverlay(layer_Spain_CSN, "Spain_CSN", "Stations");
-LayerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain_CIEMAT", "Stations");
-LayerControlStations.addOverlay(layer_Czech_Republic_Monras, "Czech_Republic_Monras", "Stations");
+LayerControlStations.addOverlay(allPointsLG, "All/none", "Stations");
+LayerControlStations.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
+LayerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
+LayerControlStations.addOverlay(layer_Czech_Republic_Monras, "Czech Republic Monras", "Stations");
 
+
+
+
+
+// add check/uncheck functionality for Stations layer
+map.on("overlayadd overlayremove", function (event) {
+	var layer = event.layer;
+
+	if (event.type === "overlayadd") {
+		if (layer === allPointsLG) {
+			layer_Spain_CSN.addTo(map);
+			layer_Spain_CIEMAT.addTo(map);
+			layer_Czech_Republic_Monras.addTo(map);
+		};
+		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Czech_Republic_Monras)) {
+			map.addLayer(allPointsLG);
+		};
+	} else if (event.type === "overlayremove") {
+		if (layer === allPointsLG) {
+			map.removeLayer(layer_Spain_CSN);
+			map.removeLayer(layer_Spain_CIEMAT);
+			map.removeLayer(layer_Czech_Republic_Monras);
+		};
+		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Czech_Republic_Monras)) {
+			map.removeLayer(allPointsLG);
+		};
+	};
+
+	LayerControlStations._update();
+	$('.leaflet-control-layers-base').prepend('&nbsp<b>Base Layers</b>');
+});
 
 
 
@@ -269,11 +297,7 @@ $(document).ready(function () {
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 
-	// define default layers
-	//stationLayer.addTo(map);
-	//$('#legend-layers').show();
 
-
-
-
+	map.addLayer(allPointsLG);
+	$('#legend-layers').show();
 });
