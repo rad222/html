@@ -204,6 +204,7 @@ var map = L.map('map', {
 // add scale control
 L.control.scale().addTo(map);
 
+var sidebar = L.control.sidebar('sidebar').addTo(map);
 
 
 // define Stations layer: Spain_CSN, Spain_CIEMAT, Czech_Republic_Monras

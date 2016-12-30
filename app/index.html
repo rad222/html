@@ -2,9 +2,11 @@
 <html>
 
 <head>
-    <meta charset="utf-8" />
-    <title>Map Spain</title>
+    <meta charset="utf-8">
+    <title>RaViewer</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <meta name="description" content="RaViewer - on-line viewer of environmental radiological data">
+    <meta name="keywords" content="RaViewer, radiological data">
     <link rel="stylesheet" href="libs/leaflet-0.7.7/leaflet.css" />
     <link rel="stylesheet" href="libs/font-awesome-4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="libs/bootstrap-3.3.7/css/bootstrap.min.css" />
@@ -14,15 +16,41 @@
     <link rel="stylesheet" href="libs/leaflet.markercluster-0.5.0/MarkerCluster.css" />
     <link rel="stylesheet" href="libs/leaflet.markercluster-0.5.0/MarkerCluster.Default.css" />
     <link rel="stylesheet" href="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.css" />
+    <link rel="stylesheet" href="libs/sidebar-v2-0.3.1/leaflet-sidebar.min.css" />
     <link rel="stylesheet" href="libs/main.css" />
 </head>
 
 <body>
-    <div id="map-parent">
-        <div id="map"></div>
+    <div id="sidebar" class="sidebar collapsed">
+        <!-- Nav tabs -->
+        <div class="sidebar-tabs">
+            <ul role="tablist">
+                <img src="img/logo-sidebar.png" alt="">
+            </ul>
+            <ul role="tablist">
+                <li><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+                <li><a href="#documentation" role="tab"><i class="fa fa-file-text-o"></i></a></li>
+                <li><a href="#whatisnew" role="tab"><i class="fa fa-info-circle"></i></a></li>
+            </ul>
+        </div>
+        <!-- Tab panes -->
+        <div class="sidebar-content">
+            <div class="sidebar-pane" id="messages">
+                <h1 class="sidebar-header">Email<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+            </div>
+            <div class="sidebar-pane" id="documentation">
+                <h1 class="sidebar-header">Documentación<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+            </div>
+            <div class="sidebar-pane" id="whatisnew">
+                <h1 class="sidebar-header">Novedades<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+            </div>
+        </div>
     </div>
+    <!--<div id="map-parent">-->
+    <div id="map" class="sidebar-map"></div>
+    <!--</div>-->
     <div id="logo-container">
-        <img src="img/logo.png" alt="">
+        <!--<img src="img/logo.png" alt="">-->
         <h1>RaViewer</h1>
         <p>on-line viewer of environmental radiological data</p>
     </div>
@@ -34,7 +62,7 @@
     <script id="legend-layers-template" type="text/x-handlebars-template">
         <div id="legend-layers" hidden>
             <h1>Legend</h1>
-            <div id="opacity-control">Change layer opacity:
+            <div id="opacity-control">Change layer opacity:&nbsp;&nbsp;&nbsp;
                 <input type="text" class="span2" value="50" id="rangeSliderForVektorLayers" data-slider-min="10" data-slider-max="100" data-slider-step="5"
                     data-slider-value="50" onchange="updateVektorLayersOpacity(this.value)">
             </div>
@@ -71,6 +99,7 @@
     <script src="libs/leaflet.vector-markers-0.0.6/leaflet-vector-markers.min.js"></script>
     <script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.js"></script>
     <script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.layersupport-src.js"></script>
+    <script src="libs/sidebar-v2-0.3.1/leaflet-sidebar.min.js"></script>
     <script src="libs/main.js"></script>
 </body>
 
