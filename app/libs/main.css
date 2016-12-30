@@ -14,7 +14,6 @@ body,
     min-height: 460px;
 }
 
-
 input[type="radio"],
 input[type="checkbox"] {
     margin: 0;
@@ -53,7 +52,7 @@ input[type="checkbox"] {
     background: white;
     padding: 10px;
     border-radius: 10px;
-    width: 420px;
+    width: 400px;
 }
 
 #legend-layers h1 {
