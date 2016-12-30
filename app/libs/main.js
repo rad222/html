@@ -105,8 +105,9 @@ function getColor(radon_mean) {
 	}
 };
 
-function onMouseClick(e) {
+function showPopup(e) {
 	var layer = e.target;
+
 	var feature = layer.feature;
 	var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
 
@@ -121,22 +122,6 @@ function onMouseClick(e) {
 		.setLatLng(e.latlng)
 		.setContent(html)
 		.openOn(map);
-};
-
-var onEachFeature = function (feature, layer) {
-	if (feature.properties && feature.properties.radon_mean) {
-		var radon_mean = feature.properties.radon_mean;
-		layer.setStyle({
-			fillColor: getColor(radon_mean),
-			fillOpacity: 0.5
-		});
-	};
-	layer.on({
-		click: onMouseClick,
-		//mouseover: onMouseOver,
-		//mouseout: resetHighlight,
-		// click: zoomToFeature
-	});
 };
 
 
@@ -258,7 +243,7 @@ function geoJsonLayer(type) {
 					icon: 'nuclear',
 					prefix: 'ion',
 					markerColor: getColor(feature.properties.value),
-					iconColor: 'black',
+					iconColor: '#000000',
 					popupAnchor: [0, -46]
 				}),
 				title: feature.properties.name,
@@ -267,7 +252,7 @@ function geoJsonLayer(type) {
 		},
 		onEachFeature: function (feature, layer) {
 			layer.on({
-				click: onMouseClick
+				click: showPopup
 			});
 		}
 	})
@@ -291,33 +276,102 @@ function initStations(geojsonData) {
 };
 
 
+function highlightFeature(e) {
+	var layer = e.target;
+
+	layer.setStyle({
+		color: '#ff0000',
+		weight: 4
+	});
+
+	if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+		layer.bringToFront();
+	};
+};
+
 
 var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
 	style: function (feature) {
 		return {
-			color: "black",
+			color: '#000000',
 			weight: 2
 		};
 	},
-	onEachFeature: onEachFeature
+	onEachFeature: function (feature, layer) {
+		if (feature.properties && feature.properties.radon_mean) {
+			var radon_mean = feature.properties.radon_mean;
+			layer.setStyle({
+				fillColor: getColor(radon_mean),
+				fillOpacity: 0.5
+			});
+		};
+		layer.on({
+			click: showPopup,
+			mouseover: highlightFeature,
+			mouseout: function (e) {
+				geojsonCCAA.setStyle({
+					color: '#000000',
+					weight: 2
+				});
+			}
+		});
+	}
 });
+
 var geojsonProvincias = new L.GeoJSON.AJAX('data/provincias.json', {
 	style: function (feature) {
 		return {
-			color: "blue",
+			color: '#0000ff',
 			weight: 2
 		};
 	},
-	onEachFeature: onEachFeature
+	onEachFeature: function (feature, layer) {
+		if (feature.properties && feature.properties.radon_mean) {
+			var radon_mean = feature.properties.radon_mean;
+			layer.setStyle({
+				fillColor: getColor(radon_mean),
+				fillOpacity: 0.5
+			});
+		};
+		layer.on({
+			click: showPopup,
+			mouseover: highlightFeature,
+			mouseout: function (e) {
+				geojsonProvincias.setStyle({
+					color: '#0000ff',
+					weight: 2
+				});
+			}
+		});
+	}
 });
+
 var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 	style: function (feature) {
 		return {
-			color: "grey",
+			color: '#808080',
 			weight: 2
 		};
 	},
-	onEachFeature: onEachFeature
+	onEachFeature: function (feature, layer) {
+		if (feature.properties && feature.properties.radon_mean) {
+			var radon_mean = feature.properties.radon_mean;
+			layer.setStyle({
+				fillColor: getColor(radon_mean),
+				fillOpacity: 0.5
+			});
+		};
+		layer.on({
+			click: showPopup,
+			mouseover: highlightFeature,
+			mouseout: function (e) {
+				geojsonZonas.setStyle({
+					color: '#808080',
+					weight: 2
+				});
+			}
+		});
+	}
 });
 
 
@@ -350,7 +404,6 @@ layerControlStations.addOverlay(layer_Czech_Republic_Monras, "Czech Republic Mon
 layerControlStations.addOverlay(geojsonCCAA, "CCAA", "Layers");
 layerControlStations.addOverlay(geojsonProvincias, "Provincias", "Layers");
 layerControlStations.addOverlay(geojsonZonas, "Zonas", "Layers");
-
 
 
 // add check/uncheck functionality for Stations layer
@@ -390,7 +443,6 @@ map.on("overlayadd overlayremove", function (event) {
 });
 
 
-
 // add Legend control
 var legend = L.control({
 	position: 'bottomright'
@@ -427,7 +479,6 @@ map.on('overlayadd overlayremove', function (e) {
 });
 
 
-
 // opacity control
 $('#rangeSliderForVektorLayers').slider({
 	formatter: function (value) {
@@ -444,7 +495,6 @@ $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mouselea
 });
 
 
-
 function updateVektorLayersOpacity(value) {
 
 	geojsonCCAA.setStyle({
@@ -459,7 +509,6 @@ function updateVektorLayersOpacity(value) {
 };
 
 
-
 $(document).ready(function () {
 
 	setTimeout(function () {
@@ -467,18 +516,15 @@ $(document).ready(function () {
 		allPointsLG.addTo(map);
 	}, 500);
 
-
 	// add logo
 	var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control');
 	var logoContainer = $('#logo-container');
 	mapControlsContainer.append(logoContainer);
-
 
 	// change Leaflet Control.Layers view
 	$('.leaflet-control-layers-base').prepend('&nbsp<b>Base Layers</b>');
 	//$('.leaflet-control-layers-overlays').prepend('<b>Layers:</b>');
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
-
 
 });
