@@ -1,103 +1,77 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <meta charset="utf-8"/>
+    <meta charset="utf-8" />
     <title>Map Spain</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
-	
-	
-    <link rel="stylesheet" href="libs/leaflet-0.7.7/leaflet.css"/>
-    <link rel="stylesheet" href="libs/font-awesome-4.7.0/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="libs/bootstrap-3.3.7/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="libs/bootstrap-slider-9.5.4/css/bootstrap-slider.min.css"/>
+    <link rel="stylesheet" href="libs/leaflet-0.7.7/leaflet.css" />
+    <link rel="stylesheet" href="libs/font-awesome-4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="libs/bootstrap-3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="libs/bootstrap-slider-9.5.4/css/bootstrap-slider.min.css" />
     <link rel="stylesheet" href="libs/ionicons-2.0.1/css/ionicons.min.css" />
     <link rel="stylesheet" href="libs/leaflet.vector-markers-0.0.6/leaflet-vector-markers.css" />
-    <link rel="stylesheet" href="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.css" />
     <link rel="stylesheet" href="libs/leaflet.markercluster-0.5.0/MarkerCluster.css" />
     <link rel="stylesheet" href="libs/leaflet.markercluster-0.5.0/MarkerCluster.Default.css" />
-    <link rel="stylesheet" href="css/main.css"/>
+    <link rel="stylesheet" href="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.css" />
+    <link rel="stylesheet" href="libs/main.css" />
 </head>
+
 <body>
-
-<div id="map-parent">
-    <div id="map"></div>
-</div>
-
-<div id="logo-container">
-    <img src="img/logo.png" alt="">
-    <h1>RaViewer</h1>
-    <p>on-line viewer of environmental radiological data</p>
-</div>
-
-<div id="user-menu">
-    <i class="fa fa-envelope-o fa-2x" aria-hidden="true" title="Email"></i>
-    <i class="fa fa-file-text-o fa-2x" aria-hidden="true" title="Documentacion"></i>
-    <i class="fa fa-info-circle fa-2x" aria-hidden="true" title="Novedades"></i>
-</div>
-
-
-
-<script id="legend-layers-template" type="text/x-handlebars-template">
-    <div id="legend-layers" hidden>
-    	<h1>Legend</h1>
-    	<div>Change layer opacity:  
-        <input type="text" class="span2" value="50" id="rangeSliderForVektorLayers" data-slider-min="10"
-               data-slider-max="100"
-               data-slider-step="5" data-slider-value="50" onchange="updateVektorLayersOpacity(this.value)">
-        </div>        
-       <p>Terrestrial Gamma-Ray Exposure at 1m above ground (unit uR/h)</p>
-        <div>
-            
-            
-            {{#each colorRange}}
-            <div>
-                <div class="color-block" style="background-color: {{color}}">{{min}} - {{max}}</div>
+    <div id="map-parent">
+        <div id="map"></div>
+    </div>
+    <div id="logo-container">
+        <img src="img/logo.png" alt="">
+        <h1>RaViewer</h1>
+        <p>on-line viewer of environmental radiological data</p>
+    </div>
+    <div id="user-menu">
+        <i class="fa fa-envelope-o fa-2x" aria-hidden="true" title="Email"></i>
+        <i class="fa fa-file-text-o fa-2x" aria-hidden="true" title="Documentacion"></i>
+        <i class="fa fa-info-circle fa-2x" aria-hidden="true" title="Novedades"></i>
+    </div>
+    <script id="legend-layers-template" type="text/x-handlebars-template">
+        <div id="legend-layers" hidden>
+            <h1>Legend</h1>
+            <div id="opacity-control">Change layer opacity:
+                <input type="text" class="span2" value="50" id="rangeSliderForVektorLayers" data-slider-min="10" data-slider-max="100" data-slider-step="5"
+                    data-slider-value="50" onchange="updateVektorLayersOpacity(this.value)">
             </div>
-            {{/each}}
+            <p>Terrestrial Gamma-Ray Exposure at 1m above ground (unit uR/h)</p>
+            <div>
+                {{#each colorRange}}
+                <div>
+                    <div class="color-block" style="background-color: {{color}}">{{min}} - {{max}}</div>
+                </div>
+                {{/each}}
+            </div>
         </div>
-    </div>
-</script>
-<script id="popover-feature-content-template" type="text/x-handlebars-template">
-    <div id="popover-feature-content">
-        <table class="table table-striped">
-            {{#each featureObject}}
-            {{#ifNotIn @key ../notShownProperties }}
-            <tr>
-                <td>{{ @key }}</td>
-                <td>{{ this }}</td>
-            </tr>
-            {{/ifNotIn}}
-            {{/each}}
-        </table>
-    </div>
-</script>
-
-
-<script src="libs/leaflet-0.7.7/leaflet.js"></script>
-<script src="libs/leaflet-ajax-2.1.0/leaflet.ajax.min.js"></script>
-<script src="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.js"></script>
-<script src="libs/jquery-3.1.1.min.js"></script>
-<script src="libs/handlebars-4.0.6.js"></script>
-<script src="libs/bootstrap-3.3.7/js/bootstrap.min.js"></script>
-<script src="libs/bootstrap-slider-9.5.4/bootstrap-slider.min.js"></script>
-
-
-<script src="libs/csv2geojson.js"></script>
-<script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.js"></script>
-<script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.layersupport-src.js"></script>
-
-
-
-
-<script src="libs/leaflet.vector-markers-0.0.6/leaflet-vector-markers.min.js"></script>
-
-
-<script src="libs/a01_initMap.js"></script>
-<script src="libs/a03_geojsonFeatureFunctionallity.js"></script>
-<script src="libs/a04_addLogo.js"></script>
-<script src="libs/a05_addLayerSwitcher.js"></script>
-<script src="libs/a06_addLegend.js"></script>
-<script src="libs/a07_controlOpacity.js"></script>
-
+    </script>
+    <script id="popover-feature-content-template" type="text/x-handlebars-template">
+        <div id="popover-feature-content">
+            <table class="table table-striped">
+                {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}
+                <tr>
+                    <td>{{ @key }}</td>
+                    <td>{{ this }}</td>
+                </tr>
+                {{/ifNotIn}} {{/each}}
+            </table>
+        </div>
+    </script>
+    <script src="libs/jquery-3.1.1.min.js"></script>
+    <script src="libs/handlebars-4.0.6.js"></script>
+    <script src="libs/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+    <script src="libs/bootstrap-slider-9.5.4/bootstrap-slider.min.js"></script>
+    <script src="libs/leaflet-0.7.7/leaflet.js"></script>
+    <script src="libs/leaflet-ajax-2.1.0/leaflet.ajax.min.js"></script>
+    <script src="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.js"></script>
+    <script src="libs/csv2geojson.js"></script>
+    <script src="libs/leaflet.vector-markers-0.0.6/leaflet-vector-markers.min.js"></script>
+    <script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.js"></script>
+    <script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.layersupport-src.js"></script>
+    <script src="libs/main.js"></script>
 </body>
+
 </html>
