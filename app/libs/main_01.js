@@ -2,16 +2,16 @@
 
 // register handlebar helpers
 Handlebars.registerHelper('ifIn', function (elem, list, options) {
-    if (list.indexOf(elem) > -1) {
-        return options.fn(this);
-    }
-    return options.inverse(this);
+	if (list.indexOf(elem) > -1) {
+		return options.fn(this);
+	}
+	return options.inverse(this);
 });
 Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
-    if (list.indexOf(elem) > -1) {
-        return options.inverse(this);
-    }
-    return options.fn(this);
+	if (list.indexOf(elem) > -1) {
+		return options.inverse(this);
+	}
+	return options.fn(this);
 });
 
 
@@ -19,6 +19,126 @@ Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
 
 
 
+// add GeoJSON feature functionality
+var colorRange = [{
+    min: 0,
+    max: 5,
+    color: '#A6F9FF'
+}, {
+    min: 5,
+    max: 6,
+    color: '#05FDFF'
+}, {
+    min: 6,
+    max: 7,
+    color: '#37C79C'
+}, {
+    min: 7,
+    max: 8,
+    color: '#00FF09'
+}, {
+    min: 8,
+    max: 9,
+    color: '#8EFF03'
+}, {
+    min: 9,
+    max: 10,
+    color: '#96CC34'
+}, {
+    min: 10,
+    max: 11,
+    color: '#CAFF64'
+}, {
+    min: 11,
+    max: 12,
+    color: '#FCFE8B'
+}, {
+    min: 12,
+    max: 13,
+    color: '#FFFD74'
+}, {
+    min: 13,
+    max: 14,
+    color: '#FFFF08'
+}, {
+    min: 14,
+    max: 15,
+    color: '#FCCE00'
+}, {
+    min: 15,
+    max: 16,
+    color: '#FF9765'
+}, {
+    min: 16,
+    max: 17,
+    color: '#FF9735'
+}, {
+    min: 17,
+    max: 18,
+    color: '#FF6400'
+}, {
+    min: 18,
+    max: 19,
+    color: '#CA6836'
+}, {
+    min: 19,
+    max: 20,
+    color: '#D23003'
+}, {
+    min: 20,
+    max: 21,
+    color: '#F60400'
+}, {
+    min: 21,
+    max: 25,
+    color: '#9E0005'
+}, {
+    min: 25,
+    max: 30,
+    color: '#CD326C'
+}];
+
+function getColor(radon_mean) {
+    for (var i = 0; i < colorRange.length; i++) {
+        if (radon_mean >= colorRange[i].min && radon_mean < colorRange[i].max) {
+            return colorRange[i].color;
+        } else if (radon_mean == 'nan') {
+            return 'white';
+        }
+    }
+};
+
+function onMouseOver(e) {
+    var layer = e.target;
+    var feature = layer.feature;
+    var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+
+    var source = $("#popover-feature-content-template").html();
+    var template = Handlebars.compile(source);
+    var html = template({
+        'featureObject': feature.properties,
+        'notShownProperties': notShownProperties
+    });
+
+    var popup = L.popup()
+        .setLatLng(e.latlng)
+        .setContent(html)
+        .openOn(map);
+};
+
+var onEachFeature = function (feature, layer) {
+    if (feature.properties && feature.properties.radon_mean) {
+        var radon_mean = feature.properties.radon_mean;
+        layer.setStyle({
+            fillColor: getColor(radon_mean)
+        });
+    };
+    layer.on({
+        mouseover: onMouseOver,
+        // mouseout: resetHighlight,
+        // click: zoomToFeature
+    });
+};
 
 
 
@@ -28,8 +148,13 @@ Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
 
 
 
-
+// Define Base Layers
 // https://leaflet-extras.github.io/leaflet-providers/preview/
+var OpenStreetMap_Mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	maxZoom: 19,
+	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+});
+
 var Stamen_Watercolor = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
 	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 	subdomains: 'abcd',
@@ -42,7 +167,6 @@ var OpenTopoMap = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',
 	maxZoom: 17,
 	attribution: 'Map data: &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
 });
-
 
 var BingLayer = L.TileLayer.extend({
 	getTileUrl: function (tilePoint) {
@@ -76,29 +200,31 @@ var BingAerial = new BingLayer('https://t{s}.tiles.virtualearth.net/tiles/a{q}.j
 });
 
 
+// init map
+var map = L.map('map', {
+	center: [40.416775, -3.703790],
+	zoom: 6,
+	layers: [OpenStreetMap_Mapnik]
+});
 
-var baseMaps = {
-	"OSM": OpenStreetMap_Mapnik,
-	"Water color": Stamen_Watercolor,
-	"OpenTopoMap": OpenTopoMap,
-	"Bing Aerial": BingAerial
-};
+// add scale control
+L.control.scale().addTo(map);
 
 
-// Stations layer: Spain_CSN, Spain_CIEMAT, Czech_Republic_Monras
+
+
+
+
+
+
+// define Stations layer: Spain_CSN, Spain_CIEMAT, Czech_Republic_Monras
 // https://github.com/mapbox/leaflet-omnivore
 // https://github.com/hiasinho/Leaflet.vector-markers
 // https://jsfiddle.net/qkvo7hav/7/
-
-
 var allPointsLG = L.layerGroup().addTo(map);
 var layer_Spain_CSN = L.layerGroup().addTo(map);
 var layer_Spain_CIEMAT = L.layerGroup().addTo(map);
 var layer_Czech_Republic_Monras = L.layerGroup().addTo(map);
-
-
-var layerStationsCluster = L.markerClusterGroup().addTo(map);
-
 
 //Creates a Marker Cluster Group
 var mcg = L.markerClusterGroup.layerSupport().addTo(map);
@@ -119,7 +245,6 @@ var mcg = L.markerClusterGroup.layerSupport().addTo(map);
 				console.log('meta.csv loaded. count: ' + data['features'].length);
 
 				mcg.clearLayers();
-
 
 				var layer_geojson_Spain_CSN = L.geoJson(null, {
 					filter: function (feature, layer) {
@@ -205,7 +330,8 @@ var mcg = L.markerClusterGroup.layerSupport().addTo(map);
 			});
 		},
 		complete: function () {
-			setTimeout(worker, 1800000);
+			//setTimeout(worker, 1800000);
+			setTimeout(worker, 2000);
 		}
 	});
 })();
@@ -233,7 +359,14 @@ mcg.checkIn([
 	layer_Czech_Republic_Monras
 ]);
 
-var overlayMaps = {
+var baseLayers = {
+	"OpenStreetMap": OpenStreetMap_Mapnik,
+	"Water color": Stamen_Watercolor,
+	"OpenTopoMap": OpenTopoMap,
+	"Bing Aerial": BingAerial
+};
+
+var overlayLayers = {
 	"Layers": {
 		"CCAA": geojsonCCAA,
 		"Provincias": geojsonProvincias,
@@ -241,16 +374,16 @@ var overlayMaps = {
 	}
 };
 
-var LayerControlStations = L.control.groupedLayers(baseMaps, overlayMaps, {
+var layerControlStations = L.control.groupedLayers(baseLayers, overlayLayers, {
 	collapsed: false
 }).addTo(map);
 
+layerControlStations.addOverlay(allPointsLG, "All / none", "Stations");
+layerControlStations.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
+layerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
+layerControlStations.addOverlay(layer_Czech_Republic_Monras, "Czech Republic Monras", "Stations");
 
 
-LayerControlStations.addOverlay(allPointsLG, "All/none", "Stations");
-LayerControlStations.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
-LayerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
-LayerControlStations.addOverlay(layer_Czech_Republic_Monras, "Czech Republic Monras", "Stations");
 
 
 
@@ -280,7 +413,8 @@ map.on("overlayadd overlayremove", function (event) {
 		};
 	};
 
-	LayerControlStations._update();
+	layerControlStations._update();
+	mcg.refreshClusters();
 	$('.leaflet-control-layers-base').prepend('&nbsp<b>Base Layers</b>');
 });
 
@@ -288,9 +422,57 @@ map.on("overlayadd overlayremove", function (event) {
 
 
 
+// add Legend control
+var legend = L.control({position: 'bottomright'});
+
+legend.onAdd = function (map) {
+
+    var source = $("#legend-layers-template").html();
+    var template = Handlebars.compile(source);
+    var html = template({'colorRange': colorRange});
+    var div = L.DomUtil.create('div', 'info legend');
+    div.innerHTML += html;
+
+    return div;
+};
+legend.addTo(map);
+
+
+map.on('overlayadd', function (e) {
+   // $('#legend-layers').show();
+});
+map.on('overlayremove', function (e) {
+    if (!map.hasLayer(geojsonCCAA) && !map.hasLayer(geojsonProvincias) && !map.hasLayer(geojsonZonas) /*&& !map.hasLayer(stationLayer)*/) {
+        $('#legend-layers').hide();
+    }
+});
+
+
+
+// opacity control
+$('#rangeSliderForVektorLayers').slider({
+    formatter: function (value) {
+        return 'Current value: ' + value;
+    }
+});
+
+function updateVektorLayersOpacity(value) {
+    geojsonCCAA.setStyle({fillOpacity: value / 100});
+    geojsonProvincias.setStyle({fillOpacity: value / 100});
+    geojsonZonas.setStyle({fillOpacity: value / 100});
+}
+
+
 
 
 $(document).ready(function () {
+	
+	// add logo
+    var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control');
+    var logoContainer = $('#logo-container');
+    mapControlsContainer.append(logoContainer);
+	
+	
 	// change Leaflet Control.Layers view
 	$('.leaflet-control-layers-base').prepend('&nbsp<b>Base Layers</b>');
 	//$('.leaflet-control-layers-overlays').prepend('<b>Layers:</b>');
