@@ -39,15 +39,6 @@ input[type="checkbox"] {
     font-size: 14px;
 }
 
-#user-menu {
-    z-index: 400;
-    position: absolute;
-    bottom: 45px;
-    left: 20px;
-    display: flex;
-    flex-direction: column;
-}
-
 #legend-layers {
     background: white;
     padding: 10px;
