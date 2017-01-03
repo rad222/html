@@ -39,6 +39,11 @@
         <div class="sidebar-content">
             <div class="sidebar-pane" id="settings">
                 <h1 class="sidebar-header">Configuración<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                <br>
+                <div id="base-layers-opacity-control">Change base layer opacity:
+                    <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
+                        data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)">
+                </div>
             </div>
             <div class="sidebar-pane" id="messages">
                 <h1 class="sidebar-header">Email<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
@@ -56,7 +61,6 @@
         <h1>RaViewer</h1>
         <p>on-line viewer of environmental radiological data</p>
     </div>
-
     <script id="legend-layers-template" type="text/x-handlebars-template">
         <div id="legend-layers" hidden>
             <h1>Legend</h1>
