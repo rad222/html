@@ -479,14 +479,14 @@ map.on('overlayadd overlayremove', function (e) {
 });
 
 
-// opacity control
+// vector layer opacity control
 $('#rangeSliderForVektorLayers').slider({
 	formatter: function (value) {
 		return 'Current value: ' + value;
 	}
 });
 
-
+// disable map dragging
 $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mousedown(function () {
 	map.dragging.disable();
 });
@@ -494,9 +494,8 @@ $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mouselea
 	map.dragging.enable();
 });
 
-
+// update vector layer opacity
 function updateVektorLayersOpacity(value) {
-
 	geojsonCCAA.setStyle({
 		fillOpacity: value / 100
 	});
@@ -506,6 +505,30 @@ function updateVektorLayersOpacity(value) {
 	geojsonZonas.setStyle({
 		fillOpacity: value / 100
 	});
+};
+
+// base layer opacity control
+$('#rangeSliderForBaseLayers').slider({
+	tooltip_position: 'bottom',
+	formatter: function (value) {
+		return value;
+	}
+});
+
+// update base layer opacity
+function updateBaseLayersOpacity(value) {
+	if (map.hasLayer(OpenStreetMap_Mapnik)) {
+		OpenStreetMap_Mapnik.setOpacity(value / 100);
+	};
+	if (map.hasLayer(Stamen_Watercolor)) {
+		Stamen_Watercolor.setOpacity(value / 100);
+	};
+	if (map.hasLayer(OpenTopoMap)) {
+		OpenTopoMap.setOpacity(value / 100);
+	};
+	if (map.hasLayer(BingAerial)) {
+		BingAerial.setOpacity(value / 100);
+	};
 };
 
 
