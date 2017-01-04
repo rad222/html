@@ -85,3 +85,7 @@ input[type="checkbox"] {
 #popover-feature-content>table>tbody>tr>td {
     padding: 2px;
 }
+
+.radio-inline input {
+    margin-top: 4px;
+}
