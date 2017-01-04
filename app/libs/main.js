@@ -105,24 +105,88 @@ function getColor(radon_mean) {
 	}
 };
 
-function showPopup(e) {
-	var layer = e.target;
+function showPopupClick(e) {
+	if ($("#optradio_point_click").prop('checked')) {
+		var layer = e.target;
+		var feature = layer.feature;
+		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
 
-	var feature = layer.feature;
-	var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+		var source = $("#popover-feature-content-template").html();
+		var template = Handlebars.compile(source);
+		var html = template({
+			'featureObject': feature.properties,
+			'notShownProperties': notShownProperties
+		});
 
-	var source = $("#popover-feature-content-template").html();
-	var template = Handlebars.compile(source);
-	var html = template({
-		'featureObject': feature.properties,
-		'notShownProperties': notShownProperties
-	});
+		var popup = L.popup()
+			.setLatLng(e.latlng)
+			.setContent(html)
+			.openOn(map);
+	};
 
-	var popup = L.popup()
-		.setLatLng(e.latlng)
-		.setContent(html)
-		.openOn(map);
+	if ($("#optradio_polygon_click").prop('checked')) {
+		var layer = e.target;
+		var feature = layer.feature;
+		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+
+		var source = $("#popover-feature-content-template").html();
+		var template = Handlebars.compile(source);
+		var html = template({
+			'featureObject': feature.properties,
+			'notShownProperties': notShownProperties
+		});
+
+		var popup = L.popup()
+			.setLatLng(e.latlng)
+			.setContent(html)
+			.openOn(map);
+	};
 };
+
+
+function showPopupMouseover(e) {
+	if ($("#optradio_point_mouseover").prop('checked')) {
+		var layer = e.target;
+		var feature = layer.feature;
+		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+
+		var source = $("#popover-feature-content-template").html();
+		var template = Handlebars.compile(source);
+		var html = template({
+			'featureObject': feature.properties,
+			'notShownProperties': notShownProperties
+		});
+
+		var popup = L.popup()
+			.setLatLng(e.latlng)
+			.setContent(html)
+			.openOn(map);
+	};
+
+};
+
+
+function showPopupMouseoverPolygon(e) {
+	if ($("#optradio_polygon_mouseover").prop('checked')) {
+		var layer = e.target;
+		var feature = layer.feature;
+		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+
+		var source = $("#popover-feature-content-template").html();
+		var template = Handlebars.compile(source);
+		var html = template({
+			'featureObject': feature.properties,
+			'notShownProperties': notShownProperties
+		});
+
+		var popup = L.popup()
+			.setLatLng(e.latlng)
+			.setContent(html)
+			.openOn(map);
+			highlightFeature(e)
+	};
+};
+
 
 
 
@@ -231,7 +295,6 @@ var geojsonData = null;
 })();
 
 
-
 function geoJsonLayer(type) {
 	return L.geoJson(null, {
 		filter: function (feature, layer) {
@@ -252,7 +315,8 @@ function geoJsonLayer(type) {
 		},
 		onEachFeature: function (feature, layer) {
 			layer.on({
-				click: showPopup
+				click: showPopupClick,
+				mouseover: showPopupMouseover
 			});
 		}
 	})
@@ -306,8 +370,9 @@ var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
 			});
 		};
 		layer.on({
-			click: showPopup,
+			click: showPopupClick,
 			mouseover: highlightFeature,
+			mouseover: showPopupMouseoverPolygon,
 			mouseout: function (e) {
 				geojsonCCAA.setStyle({
 					color: '#000000',
@@ -334,8 +399,9 @@ var geojsonProvincias = new L.GeoJSON.AJAX('data/provincias.json', {
 			});
 		};
 		layer.on({
-			click: showPopup,
+			click: showPopupClick,
 			mouseover: highlightFeature,
+			mouseover: showPopupMouseoverPolygon,
 			mouseout: function (e) {
 				geojsonProvincias.setStyle({
 					color: '#0000ff',
@@ -362,8 +428,9 @@ var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 			});
 		};
 		layer.on({
-			click: showPopup,
+			click: showPopupClick,
 			mouseover: highlightFeature,
+			mouseover: showPopupMouseoverPolygon,
 			mouseout: function (e) {
 				geojsonZonas.setStyle({
 					color: '#808080',
@@ -373,7 +440,6 @@ var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 		});
 	}
 });
-
 
 
 //Checking in the 'sub groups'
