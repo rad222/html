@@ -105,8 +105,19 @@ function getColor(radon_mean) {
 	}
 };
 
-function showPopupClick(e) {
+
+var highlight = L.geoJson(null);
+var highlightStyle = {
+	stroke: false,
+	fillColor: "#00FFFF",
+	fillOpacity: 0.7,
+	radius: 10
+};
+
+
+function showPopupClickPoint(e) {
 	if ($("#optradio_point_click").prop('checked')) {
+		$(".info.layerinfo").show();
 		var layer = e.target;
 		var feature = layer.feature;
 		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
@@ -118,12 +129,39 @@ function showPopupClick(e) {
 			'notShownProperties': notShownProperties
 		});
 
-		var popup = L.popup()
-			.setLatLng(e.latlng)
-			.setContent(html)
-			.openOn(map);
+		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+
+		info.update(html);
 	};
 
+};
+
+function showPopupMouseoverPoint(e) {
+	if ($("#optradio_point_mouseover").prop('checked')) {
+		$(".info.layerinfo").show();
+		var layer = e.target;
+		var feature = layer.feature;
+		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+
+		var source = $("#popover-feature-content-template").html();
+		var template = Handlebars.compile(source);
+		var html = template({
+			'featureObject': feature.properties,
+			'notShownProperties': notShownProperties
+		});
+
+		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+
+		info.update(html);
+	};
+
+};
+
+
+
+
+
+function showPopupClick(e) {
 	if ($("#optradio_polygon_click").prop('checked')) {
 		var layer = e.target;
 		var feature = layer.feature;
@@ -143,29 +181,6 @@ function showPopupClick(e) {
 	};
 };
 
-
-function showPopupMouseover(e) {
-	if ($("#optradio_point_mouseover").prop('checked')) {
-		var layer = e.target;
-		var feature = layer.feature;
-		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
-
-		var source = $("#popover-feature-content-template").html();
-		var template = Handlebars.compile(source);
-		var html = template({
-			'featureObject': feature.properties,
-			'notShownProperties': notShownProperties
-		});
-
-		var popup = L.popup()
-			.setLatLng(e.latlng)
-			.setContent(html)
-			.openOn(map);
-	};
-
-};
-
-
 function showPopupMouseoverPolygon(e) {
 	if ($("#optradio_polygon_mouseover").prop('checked')) {
 		var layer = e.target;
@@ -183,7 +198,7 @@ function showPopupMouseoverPolygon(e) {
 			.setLatLng(e.latlng)
 			.setContent(html)
 			.openOn(map);
-			highlightFeature(e)
+		highlightFeature(e)
 	};
 };
 
@@ -247,7 +262,7 @@ var BingAerial = new BingLayer('https://t{s}.tiles.virtualearth.net/tiles/a{q}.j
 var map = L.map('map', {
 	center: [40.416775, -3.703790],
 	zoom: 6,
-	layers: [OpenStreetMap_Mapnik]
+	layers: [OpenStreetMap_Mapnik, highlight]
 });
 
 // add scale control
@@ -315,8 +330,8 @@ function geoJsonLayer(type) {
 		},
 		onEachFeature: function (feature, layer) {
 			layer.on({
-				click: showPopupClick,
-				mouseover: showPopupMouseover
+				click: showPopupClickPoint,
+				mouseover: showPopupMouseoverPoint
 			});
 		}
 	})
@@ -616,4 +631,34 @@ $(document).ready(function () {
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 
+});
+
+
+
+
+var info = L.control({
+	position: 'bottomleft'
+});
+
+info.onAdd = function (map) {
+	this._div = L.DomUtil.create('div', 'info layerinfo');
+	this.update();
+	return this._div;
+};
+
+info.update = function (content) {
+	this._div.innerHTML = "<b>Information:</b><a id='some_id' class='leaflet-popup-close-button' href='#' onclick='return hideInfo();'>×</a><br>" + content;
+};
+
+info.addTo(map);
+
+$(".info.layerinfo").hide();
+
+function hideInfo() {
+	$(".info.layerinfo").hide();
+};
+
+map.on("click", function (e) {
+	highlight.clearLayers();
+	$(".info.layerinfo").hide();
 });
