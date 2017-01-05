@@ -44,7 +44,14 @@
                     <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
                         data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)">
                 </div>
-                <br>
+				
+				<br>				
+				<div id="base-layers-opacity-control">Change layer opacity:
+					<input type="text" class="span2" value="50" id="rangeSliderForVektorLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1" 
+					    data-slider-value="50" onchange="updateVektorLayersOpacity(this.value)">
+				</div>
+                
+				<br>
                 <div id="base-layers-opacity-control">Layer popup display options:
                     <ul>
                         <li>point layer<br>
@@ -77,10 +84,7 @@
     <script id="legend-layers-template" type="text/x-handlebars-template">
         <div id="legend-layers" hidden>
             <h1>Legend</h1>
-            <div id="opacity-control">Change layer opacity:&nbsp;&nbsp;&nbsp;
-                <input type="text" class="span2" value="50" id="rangeSliderForVektorLayers" data-slider-min="10" data-slider-max="100" data-slider-step="5"
-                    data-slider-value="50" onchange="updateVektorLayersOpacity(this.value)">
-            </div>
+
             <p>Terrestrial Gamma-Ray Exposure at 1m above ground (unit uR/h)</p>
             <div>
                 {{#each colorRange}}
