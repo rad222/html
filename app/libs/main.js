@@ -15,7 +15,6 @@ Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
 });
 
 
-
 // add GeoJSON feature functionality
 var colorRange = [{
 	min: 0,
@@ -105,13 +104,18 @@ function getColor(radon_mean) {
 	}
 };
 
-
+// highlight layer for point&polygon overlay layer
 var highlight = L.geoJson(null);
-var highlightStyle = {
+var highlightStylePoint = {
 	stroke: false,
 	fillColor: "#00FFFF",
 	fillOpacity: 0.7,
 	radius: 10
+};
+var highlightStylePolygon = {
+	color: '#00FFFF',
+	weight: 5,
+	fillOpacity: 0
 };
 
 
@@ -129,7 +133,7 @@ function showPopupClickPoint(e) {
 			'notShownProperties': notShownProperties
 		});
 
-		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStylePoint));
 
 		info.update(html);
 	};
@@ -150,19 +154,16 @@ function showPopupMouseoverPoint(e) {
 			'notShownProperties': notShownProperties
 		});
 
-		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStylePoint));
 
 		info.update(html);
 	};
 
 };
 
-
-
-
-
-function showPopupClick(e) {
+function showPopupClickPolygon(e) {
 	if ($("#optradio_polygon_click").prop('checked')) {
+		$(".info.layerinfo").show();
 		var layer = e.target;
 		var feature = layer.feature;
 		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
@@ -174,15 +175,15 @@ function showPopupClick(e) {
 			'notShownProperties': notShownProperties
 		});
 
-		var popup = L.popup()
-			.setLatLng(e.latlng)
-			.setContent(html)
-			.openOn(map);
+		highlight.clearLayers().addLayer(L.geoJson(feature.geometry, highlightStylePolygon));
+
+		info.update(html);
 	};
 };
 
 function showPopupMouseoverPolygon(e) {
 	if ($("#optradio_polygon_mouseover").prop('checked')) {
+		$(".info.layerinfo").show();
 		var layer = e.target;
 		var feature = layer.feature;
 		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
@@ -194,15 +195,11 @@ function showPopupMouseoverPolygon(e) {
 			'notShownProperties': notShownProperties
 		});
 
-		var popup = L.popup()
-			.setLatLng(e.latlng)
-			.setContent(html)
-			.openOn(map);
-		highlightFeature(e)
+		highlight.clearLayers().addLayer(L.geoJson(feature.geometry, highlightStylePolygon));
+
+		info.update(html);
 	};
 };
-
-
 
 
 // Define Base Layers
@@ -355,20 +352,6 @@ function initStations(geojsonData) {
 };
 
 
-function highlightFeature(e) {
-	var layer = e.target;
-
-	layer.setStyle({
-		color: '#ff0000',
-		weight: 4
-	});
-
-	if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-		layer.bringToFront();
-	};
-};
-
-
 var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
 	style: function (feature) {
 		return {
@@ -385,8 +368,7 @@ var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
 			});
 		};
 		layer.on({
-			click: showPopupClick,
-			mouseover: highlightFeature,
+			click: showPopupClickPolygon,
 			mouseover: showPopupMouseoverPolygon,
 			mouseout: function (e) {
 				geojsonCCAA.setStyle({
@@ -414,8 +396,7 @@ var geojsonProvincias = new L.GeoJSON.AJAX('data/provincias.json', {
 			});
 		};
 		layer.on({
-			click: showPopupClick,
-			mouseover: highlightFeature,
+			click: showPopupClickPolygon,
 			mouseover: showPopupMouseoverPolygon,
 			mouseout: function (e) {
 				geojsonProvincias.setStyle({
@@ -443,8 +424,7 @@ var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 			});
 		};
 		layer.on({
-			click: showPopupClick,
-			mouseover: highlightFeature,
+			click: showPopupClickPolygon,
 			mouseover: showPopupMouseoverPolygon,
 			mouseout: function (e) {
 				geojsonZonas.setStyle({
@@ -560,11 +540,10 @@ map.on('overlayadd overlayremove', function (e) {
 });
 
 
-// vector layer opacity control
-$('#rangeSliderForVektorLayers').slider({
-	formatter: function (value) {
-		return 'Current value: ' + value;
-	}
+// overlay layer opacity control
+$('#rangeSliderForOverlayLayers').slider({});
+$('#rangeSliderForOverlayLayers').on("slide", function (e) {
+	$("#overlayOpacityVal").text(e.value);
 });
 
 // disable map dragging
@@ -576,7 +555,7 @@ $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mouselea
 });
 
 // update vector layer opacity
-function updateVektorLayersOpacity(value) {
+function updateOverlayLayersOpacity(value) {
 	geojsonCCAA.setStyle({
 		fillOpacity: value / 100
 	});
@@ -589,11 +568,9 @@ function updateVektorLayersOpacity(value) {
 };
 
 // base layer opacity control
-$('#rangeSliderForBaseLayers').slider({
-	tooltip_position: 'bottom',
-	formatter: function (value) {
-		return value;
-	}
+$('#rangeSliderForBaseLayers').slider({});
+$('#rangeSliderForBaseLayers').on("slide", function (e) {
+	$("#baseOpacityVal").text(e.value);
 });
 
 // update base layer opacity
@@ -632,7 +609,6 @@ $(document).ready(function () {
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 
 });
-
 
 
 
