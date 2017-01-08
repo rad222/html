@@ -40,19 +40,19 @@
             <div class="sidebar-pane" id="settings">
                 <h1 class="sidebar-header">Configuración<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
                 <br>
+                <div id="base-layers-opacity-control">Change overlay layer opacity:<br>
+                    <input type="text" class="span2" value="50" id="rangeSliderForOverlayLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1"
+                        data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">
+                        &nbsp;&nbsp;&nbsp;<span id="overlayOpacityVal">50</span>
+                </div>
+                <br>
                 <div id="base-layers-opacity-control">Change base layer opacity:
                     <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
-                        data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)">
+                        data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)" data-slider-tooltip="hide">
+                        &nbsp;&nbsp;&nbsp;<span id="baseOpacityVal">100</span>
                 </div>
-				
-				<br>				
-				<div id="base-layers-opacity-control">Change layer opacity:
-					<input type="text" class="span2" value="50" id="rangeSliderForVektorLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1" 
-					    data-slider-value="50" onchange="updateVektorLayersOpacity(this.value)">
-				</div>
-                
-				<br>
-                <div id="base-layers-opacity-control">Layer popup display options:
+                <br>
+                <div id="base-layers-opacity-control">Overlay layer popup display options:
                     <ul>
                         <li>point layer<br>
                             <label class="radio-inline"><input type="radio" name="optradio_point" id="optradio_point_click" checked>click (default)</label>
@@ -84,7 +84,6 @@
     <script id="legend-layers-template" type="text/x-handlebars-template">
         <div id="legend-layers" hidden>
             <h1>Legend</h1>
-
             <p>Terrestrial Gamma-Ray Exposure at 1m above ground (unit uR/h)</p>
             <div>
                 {{#each colorRange}}
@@ -120,14 +119,20 @@
     <script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.layersupport-src.js"></script>
     <script src="libs/sidebar-v2-0.3.1/leaflet-sidebar.min.js"></script>
     <script src="libs/main.js"></script>
-	
     <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	  ga('create', 'UA-52585396-1', 'auto');
-	  ga('send', 'pageview');
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-52585396-1', 'auto');
+        ga('send', 'pageview');
     </script>
 </body>
 
