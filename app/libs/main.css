@@ -80,12 +80,11 @@ input[type="checkbox"] {
     margin: 0;
     padding: 0;
 }
-#base-layers-opacity-control li p {
-    float: left;
-    white-space: nowrap;
+#base-layers-opacity-control li {
+    float: left;    
 }
 #base-layers-opacity-control label {
-    float: left;
+    display: block;
 }
 
 .leaflet-popup-content {
