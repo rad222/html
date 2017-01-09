@@ -81,6 +81,7 @@ input[type="checkbox"] {
     padding: 0;
 }
 #base-layers-opacity-control li p {
+    float: left;
     white-space: nowrap;
 }
 #base-layers-opacity-control label {
