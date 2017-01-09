@@ -349,6 +349,11 @@ function initStations(geojsonData) {
 	var layer_geojson_Czech_Republic_Monras = geoJsonLayer('Czech_Republic_Monras');
 	layer_geojson_Czech_Republic_Monras.addData(geojsonData);
 	layer_Czech_Republic_Monras.addLayer(layer_geojson_Czech_Republic_Monras);
+	
+	var layer_geojson_Eurdep = geoJsonLayer('Eurdep');
+	layer_geojson_Eurdep.addData(geojsonData);
+	layer_Czech_Republic_Monras.addLayer(layer_geojson_Eurdep);
+	
 };
 
 
@@ -460,6 +465,7 @@ layerControlStations.addOverlay(allPointsLG, "All / none", "Stations");
 layerControlStations.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
 layerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
 layerControlStations.addOverlay(layer_Czech_Republic_Monras, "Czech Republic Monras", "Stations");
+layerControlStations.addOverlay(layer_Eurdep, "Eurdep", "Stations");
 
 
 layerControlStations.addOverlay(geojsonCCAA, "CCAA", "Layers");
@@ -482,8 +488,11 @@ map.on("overlayadd overlayremove", function (event) {
 			if (!map.hasLayer(layer_Czech_Republic_Monras)) {
 				layer_Czech_Republic_Monras.addTo(map);
 			};
+			if (!map.hasLayer(layer_Eurdep)) {
+				layer_Eurdep.addTo(map);
+			};			
 		};
-		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Czech_Republic_Monras)) {
+		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Czech_Republic_Monras) && map.hasLayer(layer_Eurdep)) {
 			map.addLayer(allPointsLG);
 		};
 	};
@@ -493,8 +502,9 @@ map.on("overlayadd overlayremove", function (event) {
 			map.removeLayer(layer_Spain_CSN);
 			map.removeLayer(layer_Spain_CIEMAT);
 			map.removeLayer(layer_Czech_Republic_Monras);
+			map.removeLayer(layer_Eurdep);
 		};
-		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Czech_Republic_Monras)) {
+		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Czech_Republic_Monras) && !map.hasLayer(layer_Eurdep)) {
 			map.removeLayer(allPointsLG);
 		};
 	};
