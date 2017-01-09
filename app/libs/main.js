@@ -268,7 +268,7 @@ L.control.scale().addTo(map);
 var sidebar = L.control.sidebar('sidebar').addTo(map);
 
 
-// define Stations layer: Spain_CSN, Spain_CIEMAT, Czech_Republic_Monras
+// define Stations layer: Spain_CSN, Spain_CIEMAT, Eurdep
 // https://github.com/mapbox/leaflet-omnivore
 // https://github.com/hiasinho/Leaflet.vector-markers
 // https://jsfiddle.net/qkvo7hav/7/
@@ -277,7 +277,7 @@ var allPointsLG = L.layerGroup();
 
 var layer_Spain_CSN = L.layerGroup();
 var layer_Spain_CIEMAT = L.layerGroup();
-var layer_Czech_Republic_Monras = L.layerGroup();
+var layer_Eurdep = L.layerGroup();
 
 
 // Creates a Marker Cluster Group
@@ -346,9 +346,9 @@ function initStations(geojsonData) {
 	layer_geojson_Spain_CIEMAT.addData(geojsonData);
 	layer_Spain_CIEMAT.addLayer(layer_geojson_Spain_CIEMAT);
 
-	var layer_geojson_Czech_Republic_Monras = geoJsonLayer('Czech_Republic_Monras');
-	layer_geojson_Czech_Republic_Monras.addData(geojsonData);
-	layer_Czech_Republic_Monras.addLayer(layer_geojson_Czech_Republic_Monras);
+	var layer_geojson_Eurdep = geoJsonLayer('Eurdep');
+	layer_geojson_Eurdep.addData(geojsonData);
+	layer_Eurdep.addLayer(layer_geojson_Eurdep);
 };
 
 
@@ -441,7 +441,7 @@ var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 mcg.checkIn([
 	layer_Spain_CSN,
 	layer_Spain_CIEMAT,
-	layer_Czech_Republic_Monras
+	layer_Eurdep
 ]);
 
 var baseLayers = {
@@ -459,7 +459,7 @@ var layerControlStations = L.control.groupedLayers(baseLayers, null, {
 layerControlStations.addOverlay(allPointsLG, "All / none", "Stations");
 layerControlStations.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
 layerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
-layerControlStations.addOverlay(layer_Czech_Republic_Monras, "Czech Republic Monras", "Stations");
+layerControlStations.addOverlay(layer_Eurdep, "Czech Republic Monras", "Stations");
 
 
 layerControlStations.addOverlay(geojsonCCAA, "CCAA", "Layers");
@@ -479,11 +479,11 @@ map.on("overlayadd overlayremove", function (event) {
 			if (!map.hasLayer(layer_Spain_CIEMAT)) {
 				layer_Spain_CIEMAT.addTo(map);
 			};
-			if (!map.hasLayer(layer_Czech_Republic_Monras)) {
-				layer_Czech_Republic_Monras.addTo(map);
+			if (!map.hasLayer(layer_Eurdep)) {
+				layer_Eurdep.addTo(map);
 			};
 		};
-		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Czech_Republic_Monras)) {
+		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Eurdep)) {
 			map.addLayer(allPointsLG);
 		};
 	};
@@ -492,9 +492,9 @@ map.on("overlayadd overlayremove", function (event) {
 		if (layer === allPointsLG) {
 			map.removeLayer(layer_Spain_CSN);
 			map.removeLayer(layer_Spain_CIEMAT);
-			map.removeLayer(layer_Czech_Republic_Monras);
+			map.removeLayer(layer_Eurdep);
 		};
-		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Czech_Republic_Monras)) {
+		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Eurdep)) {
 			map.removeLayer(allPointsLG);
 		};
 	};
@@ -524,11 +524,11 @@ legend.addTo(map);
 
 // overlayadd&overlayremove legends events
 map.on('overlayadd overlayremove', function (e) {
-	if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas) || map.hasLayer(layer_Spain_CSN) || map.hasLayer(layer_Spain_CIEMAT) || map.hasLayer(layer_Czech_Republic_Monras)) {
+	if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas) || map.hasLayer(layer_Spain_CSN) || map.hasLayer(layer_Spain_CIEMAT) || map.hasLayer(layer_Eurdep)) {
 		$('#legend-layers').show();
 	};
 
-	if (!map.hasLayer(geojsonCCAA) && !map.hasLayer(geojsonProvincias) && !map.hasLayer(geojsonZonas) && !map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Czech_Republic_Monras)) {
+	if (!map.hasLayer(geojsonCCAA) && !map.hasLayer(geojsonProvincias) && !map.hasLayer(geojsonZonas) && !map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Eurdep)) {
 		$('#legend-layers').hide();
 	};
 
