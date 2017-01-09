@@ -80,12 +80,7 @@ input[type="checkbox"] {
     margin: 0;
     padding: 0;
 }
-#base-layers-opacity-control li {
-    float: left;
-}
-#base-layers-opacity-control label {
-    display: block;
-}
+
 
 .leaflet-popup-content {
     margin: 10px 17px 7px 7px;
