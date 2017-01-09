@@ -459,7 +459,7 @@ var layerControlStations = L.control.groupedLayers(baseLayers, null, {
 layerControlStations.addOverlay(allPointsLG, "All / none", "Stations");
 layerControlStations.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
 layerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
-layerControlStations.addOverlay(layer_Eurdep, "Czech Republic Monras", "Stations");
+layerControlStations.addOverlay(layer_Eurdep, "Eurdep", "Stations");
 
 
 layerControlStations.addOverlay(geojsonCCAA, "CCAA", "Layers");
