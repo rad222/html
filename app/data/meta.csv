@@ -1,39 +1,39 @@
 date;id_station;id_network;type;latitude;longitude;altitude;area_adm_1;area_adm_2;name;value;value_period
-24/12/2016 13:00;spain_1;Spain_CSN;gamma;37.3753656;-5.9900776;2;Andaluc�a;;Sevilla;9;9
-24/12/2016 13:00;spain_2;Spain_CSN;gamma;36.7489322;-3.527553215;2;Andaluc�a;;Motril;12;12
-24/12/2016 13:00;spain_3;Spain_CSN;gamma;36.1324649;-5.808492911;2;Andaluc�a;;Tarifa;11;11
-24/12/2016 13:00;spain_4;Spain_CSN;gamma;37.2708666;-6.9571999;2;Andaluc�a;;Huelva;1;1
-24/12/2016 13:00;spain_5;Spain_CSN;gamma;38.0396113;-4.0549427;2;Andaluc�a;;Andujar;1;1
-24/12/2016 13:00;spain_6;Spain_CSN;gamma;40.3450083;-1.1184744;2;Arag�n;;Teruel;11;12
-24/12/2016 13:00;spain_7;Spain_CSN;gamma;42.5726164;-0.5582902;2;Arag�n;;Jaca;12;13
+24/12/2016 13:00;spain_1;Spain_CSN;gamma;37.3753656;-5.9900776;2;Andalucía;;Sevilla;9;9
+24/12/2016 13:00;spain_2;Spain_CSN;gamma;36.7489322;-3.527553215;2;Andalucía;;Motril;12;12
+24/12/2016 13:00;spain_3;Spain_CSN;gamma;36.1324649;-5.808492911;2;Andalucía;;Tarifa;11;11
+24/12/2016 13:00;spain_4;Spain_CSN;gamma;37.2708666;-6.9571999;2;Andalucía;;Huelva;1;1
+24/12/2016 13:00;spain_5;Spain_CSN;gamma;38.0396113;-4.0549427;2;Andalucía;;Andujar;1;1
+24/12/2016 13:00;spain_6;Spain_CSN;gamma;40.3450083;-1.1184744;2;Aragón;;Teruel;11;12
+24/12/2016 13:00;spain_7;Spain_CSN;gamma;42.5726164;-0.5582902;2;Aragón;;Jaca;12;13
 24/12/2016 13:00;spain_8;Spain_CSN;gamma;43.3694855;-5.866167414;2;Asturias;;Oviedo;11;11
 24/12/2016 13:00;spain_9;Spain_CSN;gamma;39.5699474;2.6457357;2;Baleares;;Palma de Mallorca;9;9
 24/12/2016 13:00;spain_10;Spain_CSN;gamma;28.4578193;-16.3038441;2;Canarias;;Sta. Cruz de Tenerife;12;12
 24/12/2016 13:00;spain_11;Spain_CSN;gamma;43.4613431;-3.8286466;2;Cantabria;;Santander;11;11
 24/12/2016 13:00;spain_12;Spain_CSN;gamma;39.5928804;-3.0503414;2;Castilla La Mancha;;Quintanar de la Orden;15;15
-24/12/2016 13:00;spain_13;Spain_CSN;gamma;41.7671202;-2.4920886;2;Castilla y Le�n;;Soria;12;13
-24/12/2016 13:00;spain_14;Spain_CSN;gamma;40.6703275;-6.6350009;2;Castilla y Le�n;;Saelices el Chico;15;16
-24/12/2016 13:00;spain_15;Spain_CSN;gamma;41.9913867;-4.6330151;2;Castilla y Le�n;;Autilla del Pino;12;12
-24/12/2016 13:00;spain_16;Spain_CSN;gamma;42.5539034;-6.6273616;2;Castilla y Le�n;;Ponferrada;12;13
-24/12/2016 13:00;spain_17;Spain_CSN;gamma;41.716528;1.4201802;2;Catalu�a;;Pujalt;13;13
-24/12/2016 13:00;spain_18;Spain_CSN;gamma;41.587821;1.4698371;2;Catalu�a;;Almadraba;11;12
-24/12/2016 13:00;spain_19;Spain_CSN;gamma;41.1818269;0.562265;2;Catalu�a;;Asc�;12;12
-24/12/2016 13:00;spain_20;Spain_CSN;gamma;41.3947688;2.0787283;2;Catalu�a;;Barcelona;9;9
-24/12/2016 13:00;spain_21;Spain_CSN;gamma;42.2698317;3.1640023;2;Catalu�a;;Rosas;12;12
+24/12/2016 13:00;spain_13;Spain_CSN;gamma;41.7671202;-2.4920886;2;Castilla y León;;Soria;12;13
+24/12/2016 13:00;spain_14;Spain_CSN;gamma;40.6703275;-6.6350009;2;Castilla y León;;Saelices el Chico;15;16
+24/12/2016 13:00;spain_15;Spain_CSN;gamma;41.9913867;-4.6330151;2;Castilla y León;;Autilla del Pino;12;12
+24/12/2016 13:00;spain_16;Spain_CSN;gamma;42.5539034;-6.6273616;2;Castilla y León;;Ponferrada;12;13
+24/12/2016 13:00;spain_17;Spain_CSN;gamma;41.716528;1.4201802;2;Cataluña;;Pujalt;13;13
+24/12/2016 13:00;spain_18;Spain_CSN;gamma;41.587821;1.4698371;2;Cataluña;;Almadraba;11;12
+24/12/2016 13:00;spain_19;Spain_CSN;gamma;41.1818269;0.562265;2;Cataluña;;Ascó;12;12
+24/12/2016 13:00;spain_20;Spain_CSN;gamma;41.3947688;2.0787283;2;Cataluña;;Barcelona;9;9
+24/12/2016 13:00;spain_21;Spain_CSN;gamma;42.2698317;3.1640023;2;Cataluña;;Rosas;12;12
 24/12/2016 13:00;spain_22;Spain_CSN;gamma;39.3358743;-1.0866216;2;Comunidad Valenciana;;Pedrones;13;13
 24/12/2016 13:00;spain_23;Spain_CSN;gamma;39.2290021;-1.0670874;2;Comunidad Valenciana;;Cofrentes;13;14
 24/12/2016 13:00;spain_24;Spain_CSN;gamma;39.1906896;-1.0795596;2;Comunidad Valenciana;;Jalance;15;16
-24/12/2016 13:00;spain_25;Spain_CSN;gamma;39.2419042;-0.9438412;2;Comunidad Valenciana;;Cortes de Pall�s;15;16
+24/12/2016 13:00;spain_25;Spain_CSN;gamma;39.2419042;-0.9438412;2;Comunidad Valenciana;;Cortes de Pallás;15;16
 24/12/2016 13:00;spain_26;Spain_CSN;gamma;39.7418843;-5.7013566;2;Extremadura;;Romangordo;13;13
 24/12/2016 13:00;spain_27;Spain_CSN;gamma;39.8539442;-5.6790114;2;Extremadura;;Saucedilla;12;13
 24/12/2016 13:00;spain_28;Spain_CSN;gamma;39.7266536;-5.7462058;2;Extremadura;;Casas de Miravete;nan;nan
 24/12/2016 13:00;spain_29;Spain_CSN;gamma;39.8142825;-5.6808715;2;Extremadura;;Almaraz;13;13
-24/12/2016 13:00;spain_30;Spain_CSN;gamma;39.8172469;-5.8047418;2;Extremadura;;Serrej�n;1;1
+24/12/2016 13:00;spain_30;Spain_CSN;gamma;39.8172469;-5.8047418;2;Extremadura;;Serrejón;1;1
 24/12/2016 13:00;spain_31;Spain_CSN;gamma;39.9867679;-5.6185893;2;Extremadura;;Talayuela;12;12
 24/12/2016 13:00;spain_32;Spain_CSN;gamma;39.8961767;-5.5482415;2;Extremadura;;Navalmoral de la Mata;11;12
 24/12/2016 13:00;spain_33;Spain_CSN;gamma;38.1678695;-6.6569154;2;Extremadura;;Fregenal de la Sierra;9;9
 24/12/2016 13:00;spain_34;Spain_CSN;gamma;38.1225016;-5.6935221;2;Extremadura;;Malcocinado;nan;nan
-24/12/2016 13:00;spain_35;Spain_CSN;gamma;39.4016384;-6.7205841;2;Extremadura;;C�ceres;7;7
+24/12/2016 13:00;spain_35;Spain_CSN;gamma;39.4016384;-6.7205841;2;Extremadura;;Cáceres;7;7
 24/12/2016 13:00;spain_36;Spain_CSN;gamma;38.8765824;-6.7741131;2;Extremadura;;Talavera la Real;11;11
 24/12/2016 13:00;spain_37;Spain_CSN;gamma;39.1683051;-5.0558096;2;Extremadura;;Herrera del Duque;18;18
 24/12/2016 13:00;spain_38;Spain_CSN;gamma;42.4338595;-8.6568552;2;Galicia;;Pontevedra;17;17
@@ -41,13 +41,174 @@ date;id_station;id_network;type;latitude;longitude;altitude;area_adm_1;area_adm_
 24/12/2016 13:00;spain_40;Spain_CSN;gamma;42.4466259;-2.2987691;2;La Rioja;;Agoncillo;12;13
 24/12/2016 13:00;spain_41;Spain_CSN;gamma;40.4541302;-3.7310618;2;Madrid;;Madrid-Ciemat;18;19
 24/12/2016 13:00;spain_42;Spain_CSN;gamma;37.9805272;-1.1621947;2;Murcia;;Murcia;1;11
-24/12/2016 13:00;spain_43;Spain_CSN;gamma;43.3072913;-1.9913925;2;Pa�s vasco;;San Sebasti�n;1;1
-24/12/2016 13:00;spain_44;Spain_CSN;gamma;42.8508448;-2.7693936;2;Pa�s vasco;;Vitoria;8;8
-24/12/2016 13:00;spain_45;Spain_CSN;gamma;43.2633211;-2.9510076;2;Pa�s vasco;;Bilbao;8;8
+24/12/2016 13:00;spain_43;Spain_CSN;gamma;43.3072913;-1.9913925;2;País vasco;;San Sebastián;1;1
+24/12/2016 13:00;spain_44;Spain_CSN;gamma;42.8508448;-2.7693936;2;País vasco;;Vitoria;8;8
+24/12/2016 13:00;spain_45;Spain_CSN;gamma;43.2633211;-2.9510076;2;País vasco;;Bilbao;8;8
 24/12/2016 13:10;ciemat_1;Spain_CIEMAT;gamma;40.4541302;-3.7310618;2;Madrid;Madrid;Sonda Ed. 23 Valla Sur;16;nan
 24/12/2016 13:10;ciemat_2;Spain_CIEMAT;gamma;40.4341302;-3.7210618;2;Madrid;Madrid;Sonda Ed. 23 Valla Este;17;nan
 24/12/2016 13:10;ciemat_3;Spain_CIEMAT;gamma;40.4321302;-3.7220618;2;Madrid;Madrid;Sonda Ed. 07 Avda. Complutense;15;nan
 24/12/2016 13:10;ciemat_4;Spain_CIEMAT;gamma;40.4231302;-3.7240618;2;Madrid;Madrid;Sonda Ed. 63 Valla Norte;15;nan
 24/12/2016 13:10;ciemat_5;Spain_CIEMAT;gamma;40.4021302;-3.7250618;2;Madrid;Madrid;Sonda Ed. 63 Valla Norte;14;nan
-24/12/2016 20:10;Monras_1;Czech_Republic_Monras;gamma;49.2020489;16.5079212;2;Brno;Brno;Brno;14;nan
+29/12/2016 14:00;AT0001;Eurdep;air;48.73;16.39;;Austria;Laa/Thaya;Laa/Thaya;7.742;7
+29/12/2016 14:00;AT0002;Eurdep;air;48.77;14.99;;Austria;Gmünd;Gmünd;14.471;14
+29/12/2016 14:00;AT0003;Eurdep;air;48.34;16.84;;Austria;Zwerndorf;Zwerndorf;7.789;7.92
+29/12/2016 14:00;AT0004;Eurdep;air;46.62;13.85;;Austria;Villach;Villach;10.288;10
+29/12/2016 14:00;AT0005;Eurdep;air;46.69;15.98;;Austria;Bad Radkersburg;Bad Radkersburg;9.166;9.42
+29/12/2016 14:00;AT0006;Eurdep;air;47.58;12.17;;Austria;Kufstein;Kufstein;8.764;9.02
+29/12/2016 14:00;AT0007;Eurdep;air;48.64;14.46;;Austria;Wullowitz;Wullowitz;16.133;16
+29/12/2016 14:00;AT0012;Eurdep;air;48.25;13.04;;Austria;Braunau;Braunau;10.588;10
+29/12/2016 14:00;AT0015;Eurdep;air;47.41;9.74;;Austria;Dornbirn;Dornbirn;6.818;6.98
+29/12/2016 14:00;AT0017;Eurdep;air;47.31;16.44;;Austria;Rechnitz;Rechnitz;7.235;7.39
+29/12/2016 14:00;AT0101;Eurdep;air;47.63;16.63;;Austria;Deutschkreutz;Deutschkreutz;7.453;7.59
+29/12/2016 14:00;AT0102;Eurdep;air;47.11;16.46;;Austria;Eberau;Eberau;9.461;9.65
+29/12/2016 14:00;AT0103;Eurdep;air;47.85;16.54;;Austria;Eisenstadt;Eisenstadt;8.366;8.53
+29/12/2016 14:00;AT0104;Eurdep;air;47.84;16.93;;Austria;Frauenkirchen;Frauenkirchen;7.616;7.77
+29/12/2016 14:00;AT0105;Eurdep;air;47.24;16.32;;Austria;Großpetersdorf;Großpetersdorf;9.631;9.75
+29/12/2016 14:00;AT0106;Eurdep;air;47.06;16.32;;Austria;Güssing;Güssing;7.094;7.22
+29/12/2016 14:00;AT0108;Eurdep;air;46.94;16.13;;Austria;Jennersdorf;Jennersdorf;8.219;8.33
+29/12/2016 14:00;AT0109;Eurdep;air;48.09;17.07;;Austria;Kittsee;Kittsee;9.157;9
+29/12/2016 14:00;AT0110;Eurdep;air;47.6;16.39;;Austria;Kobersdorf;Kobersdorf;6.347;6.48
+29/12/2016 14:00;AT0111;Eurdep;air;47.41;16.42;;Austria;Lockenhaus;Lockenhaus;6.892;7.01
+29/12/2016 14:00;AT0112;Eurdep;air;47.74;16.4;;Austria;Mattersburg;Mattersburg;7.271;7
+29/12/2016 14:00;AT0113;Eurdep;air;47.96;16.84;;Austria;Neusiedl/See;Neusiedl/See;7.954;8.05
+29/12/2016 14:00;AT0114;Eurdep;air;47.5;16.5;;Austria;Oberpullendorf;Oberpullendorf;7.371;7.55
+29/12/2016 14:00;AT0115;Eurdep;air;47.29;16.21;;Austria;Oberwart;Oberwart;7.176;7.31
+29/12/2016 14:00;AT0116;Eurdep;air;47.7;16.91;;Austria;Pamhagen;Pamhagen;9.038;9.21
+29/12/2016 14:00;AT0117;Eurdep;air;47.81;16.68;;Austria;Rust;Rust;6.378;6.52
+29/12/2016 14:00;AT0118;Eurdep;air;47.37;16.12;;Austria;Pinkafeld;Pinkafeld;9.928;10
+29/12/2016 14:00;AT0119;Eurdep;air;47.3;16.45;;Austria;Rechnitz;Rechnitz;7;7.61
+29/12/2016 14:00;AT0120;Eurdep;air;47.16;16.17;;Austria;Stegersbach;Stegersbach;9.624;9.76
+29/12/2016 14:00;AT0201;Eurdep;air;47.72;15.78;;Austria;Rax;Rax;8.087;8.36
+29/12/2016 14:00;AT0202;Eurdep;air;48.08;15.92;;Austria;Schöpfl;Schöpfl;7.121;7.36
+29/12/2016 14:00;AT0203;Eurdep;air;47.62;15.83;;Austria;Semmering-Hirschenk.;Semmering-Hirschenk.;9.807;10
+29/12/2016 14:00;AT0301;Eurdep;air;46.55;13.71;;Austria;Arnoldstein;Arnoldstein;9.179;9.42
+29/12/2016 14:00;AT0302;Eurdep;air;46.96;14.8;;Austria;Bad St. Leonhard;Bad St. Leonhard;8.116;8.26
+29/12/2016 14:00;AT0303;Eurdep;air;46.62;13.69;;Austria;Bleiberg;Bleiberg;9.811;9.97
+29/12/2016 14:00;AT0304;Eurdep;air;46.59;14.8;;Austria;Bleiburg;Bleiburg;9.386;9.48
+29/12/2016 14:00;AT0305;Eurdep;air;46.59;14.64;;Austria;Bad Eisenkappel;Bad Eisenkappel;9.132;9.34
+29/12/2016 14:00;AT0306;Eurdep;air;46.72;14.1;;Austria;Feldkirchen;Feldkirchen;8.482;8
+29/12/2016 14:00;AT0307;Eurdep;air;46.54;14.31;;Austria;Ferlach;Ferlach;8.257;8.38
+29/12/2016 14:00;AT0308;Eurdep;air;46.57;13.91;;Austria;Faak;Faak;7.423;7.53
+29/12/2016 14:00;AT0309;Eurdep;air;46.96;14.4;;Austria;Friesach;Friesach;7.367;7.51
+29/12/2016 14:00;AT0310;Eurdep;air;46.9;13.53;;Austria;Gmünd Ktn.;Gmünd Ktn.;10.967;11
+29/12/2016 14:00;AT0311;Eurdep;air;46.87;14.29;;Austria;Gurk;Gurk;10.971;11
+29/12/2016 14:00;AT0312;Eurdep;air;47.04;12.85;;Austria;Heiligenblut;Heiligenblut;8.596;8.84
+29/12/2016 14:00;AT0313;Eurdep;air;46.63;13.36;;Austria;Hermagor;Hermagor;8.766;8.94
+29/12/2016 14:00;AT0314;Eurdep;air;46.61;14.32;;Austria;Klagenfurt LRG;Klagenfurt LRG;6.982;7.39
+29/12/2016 14:00;AT0316;Eurdep;air;46.87;14.12;;Austria;Glödnitz;Glödnitz;8.403;8.58
+29/12/2016 14:00;AT0317;Eurdep;air;46.67;13;;Austria;Kötschach/Mauthen;Kötschach/Mauthen;7.709;7.99
+29/12/2016 14:00;AT0318;Eurdep;air;46.64;14.94;;Austria;Lavamünd;Lavamünd;9.795;9.93
+29/12/2016 14:00;AT0319;Eurdep;air;46.75;12.97;;Austria;Oberdrauburg;Oberdrauburg;10.633;10
+29/12/2016 14:00;AT0320;Eurdep;air;46.93;13.2;;Austria;Obervellach;Obervellach;8.767;9.01
+29/12/2016 14:00;AT0322;Eurdep;air;46.71;13.64;;Austria;Paternion;Paternion;11.238;11
+29/12/2016 14:00;AT0323;Eurdep;air;46.8;13.7;;Austria;Radenthein;Radenthein;8.822;9.01
+29/12/2016 14:00;AT0401;Eurdep;air;46.55;14.06;;Austria;St. Jakob/Rosental;St. Jakob/Rosental;9.558;9.82
+29/12/2016 14:00;AT0402;Eurdep;air;46.77;14.83;;Austria;St. Andrä/Lavanttal;St. Andrä/Lavanttal;9.237;9
+29/12/2016 14:00;AT0403;Eurdep;air;46.7;14.87;;Austria;St. Paul/Lavanttal;St. Paul/Lavanttal;7.38;7.53
+29/12/2016 14:00;AT0404;Eurdep;air;46.75;14.34;;Austria;St. Veit/Glan;St. Veit/Glan;8.687;8.87
+29/12/2016 14:00;AT0405;Eurdep;air;46.8;13.5;;Austria;Spittal/Drau;Spittal/Drau;9.47;9.62
+29/12/2016 14:00;AT0406;Eurdep;air;46.87;14.47;;Austria;Treibach/Althofen;Treibach/Althofen;8.257;8.45
+29/12/2016 14:00;AT0408;Eurdep;air;46.61;13.85;;Austria;Villach;Villach;7.977;8.13
+29/12/2016 14:00;AT0409;Eurdep;air;46.63;14.15;;Austria;Pörtschach;Pörtschach;8.181;8.29
+29/12/2016 14:00;AT0410;Eurdep;air;46.66;14.62;;Austria;Völkermarkt;Völkermarkt;7.821;7
+29/12/2016 14:00;AT0413;Eurdep;air;46.83;14.82;;Austria;Wolfsberg;Wolfsberg;10.746;11
+29/12/2016 14:00;AT0416;Eurdep;air;47.06;13.61;;Austria;Katschberg;Katschberg;12.796;13
+29/12/2016 14:00;AT0417;Eurdep;air;46.79;14.96;;Austria;Koralpe;Koralpe;11.633;12
+29/12/2016 14:00;AT0501;Eurdep;air;48.7;15.32;;Austria;Allentsteig;Allentsteig;9.201;9.35
+29/12/2016 14:00;AT0502;Eurdep;air;48.02;16;;Austria;Altenmarkt;Altenmarkt;8.117;8.28
+29/12/2016 14:00;AT0503;Eurdep;air;48.12;14.87;;Austria;Amstetten;Amstetten;7.718;8.85
+29/12/2016 14:00;AT0504;Eurdep;air;47.51;16.04;;Austria;Mönichkirchen;Mönichkirchen;8.702;9.24
+29/12/2016 14:00;AT0505;Eurdep;air;48;16.25;;Austria;Baden;Baden;8.996;9.16
+29/12/2016 14:00;AT0507;Eurdep;air;47.95;16.11;;Austria;Berndorf;Berndorf;7.672;7.91
+29/12/2016 14:00;AT0508;Eurdep;air;48.03;16.78;;Austria;Bruck/Leitha;Bruck/Leitha;7.668;7.77
+29/12/2016 14:00;AT0510;Eurdep;air;47.96;16.4;;Austria;Ebreichsdorf;Ebreichsdorf;7.517;7.62
+29/12/2016 14:00;AT0511;Eurdep;air;48.65;15.82;;Austria;Eggenburg;Eggenburg;7.382;7.53
+29/12/2016 14:00;AT0512;Eurdep;air;48.31;16.69;;Austria;Gänserndorf;Gänserndorf;9.065;9.18
+29/12/2016 14:00;AT0513;Eurdep;air;47.67;15.94;;Austria;Gloggnitz;Gloggnitz;6.655;6.94
+29/12/2016 14:00;AT0514;Eurdep;air;48.76;14.97;;Austria;Gm?nd N?;Gm?nd N?;11.608;11
+29/12/2016 14:00;AT0515;Eurdep;air;48.57;14.96;;Austria;Groß Gerungs;Groß Gerungs;15.633;16
+29/12/2016 14:00;AT0516;Eurdep;air;47.8;16;;Austria;Grünbach;Grünbach;8.178;8.26
+29/12/2016 14:00;AT0518;Eurdep;air;47.88;15.89;;Austria;Gutenstein;Gutenstein;7.194;7
+29/12/2016 14:00;AT0519;Eurdep;air;48.11;14.57;;Austria;Haag;Haag;10.392;11
+29/12/2016 14:00;AT0520;Eurdep;air;48.15;16.94;;Austria;Hainburg;Hainburg;9.92;10
+29/12/2016 14:00;AT0521;Eurdep;air;48.03;15.77;;Austria;Hainfeld;Hainfeld;9.207;9.39
+29/12/2016 14:00;AT0522;Eurdep;air;48.87;15.12;;Austria;Heidenreichstein;Heidenreichstein;13.042;13
+29/12/2016 14:00;AT0523;Eurdep;air;48.29;15.69;;Austria;Herzogenburg;Herzogenburg;8.598;8.73
+29/12/2016 14:00;AT0601;Eurdep;air;48.56;16.08;;Austria;Hollabrunn;Hollabrunn;8.806;8.97
+29/12/2016 14:00;AT0602;Eurdep;air;48.67;15.65;;Austria;Horn;Horn;10.128;10
+29/12/2016 14:00;AT0603;Eurdep;air;48.3;16.32;;Austria;Klosterneuburg;Klosterneuburg;6.839;6.92
+29/12/2016 14:00;AT0604;Eurdep;air;48.36;16.33;;Austria;Korneuburg;Korneuburg;8.447;8.54
+29/12/2016 14:00;AT0605;Eurdep;air;48.42;15.62;;Austria;Krems;Krems;8.28;8.43
+29/12/2016 14:00;AT0606;Eurdep;air;48.73;16.39;;Austria;Laa/Thaya;Laa/Thaya;8.079;8.29
+29/12/2016 14:00;AT0607;Eurdep;air;48.47;15.7;;Austria;Langenlois;Langenlois;9.613;9.78
+29/12/2016 14:00;AT0609;Eurdep;air;48.02;15.6;;Austria;Lilienfeld;Lilienfeld;7.432;8
+29/12/2016 14:00;AT0610;Eurdep;air;47.86;15.03;;Austria;Lunz/See;Lunz/See;7.95;8.82
+29/12/2016 14:00;AT0611;Eurdep;air;48.11;15.34;;Austria;Mank;Mank;9.029;9.19
+29/12/2016 14:00;AT0612;Eurdep;air;47.97;16.6;;Austria;Mannersdorf;Mannersdorf;11.808;12
+29/12/2016 14:00;AT0614;Eurdep;air;48.23;15.33;;Austria;Melk;Melk;7.142;7.25
+29/12/2016 14:00;AT0615;Eurdep;air;48.57;16.61;;Austria;Mistelbach;Mistelbach;9.68;9.86
+29/12/2016 14:00;AT0616;Eurdep;air;48.08;16.3;;Austria;Mödling;Mödling;8.689;8.84
+29/12/2016 14:00;AT0617;Eurdep;air;48.2;15.91;;Austria;Neulengbach;Neulengbach;9.035;9.17
+29/12/2016 14:00;AT0619;Eurdep;air;47.88;14.82;;Austria;Opponitz;Opponitz;8.985;10
+29/12/2016 14:00;AT0620;Eurdep;air;48.42;15.22;;Austria;Ottenschlag;Ottenschlag;7.949;8.07
+29/12/2016 14:00;AT0621;Eurdep;air;48.12;16.27;;Austria;Perchtoldsdorf;Perchtoldsdorf;8.723;8.89
+29/12/2016 14:00;AT0623;Eurdep;air;48.67;16.63;;Austria;Poysdorf;Poysdorf;10.571;10
+29/12/2016 14:00;AT0701;Eurdep;air;48.85;15.49;;Austria;Raabs;Raabs;9.243;9
+29/12/2016 14:00;AT0702;Eurdep;air;48.75;15.96;;Austria;Retz;Retz;8.83;8.97
+29/12/2016 14:00;AT0703;Eurdep;air;47.85;15.56;;Austria;St. Aegyd;St. Aegyd;6.473;7.54
+29/12/2016 14:00;AT0704;Eurdep;air;48.2;15.62;;Austria;St. Pölten Pol.-Dion;St. Pölten Pol.-Dion;7.638;7.77
+29/12/2016 14:00;AT0705;Eurdep;air;48.21;15.63;;Austria;St. Pölten BH;St. Pölten BH;7.584;7.75
+29/12/2016 14:00;AT0706;Eurdep;air;48.17;14.53;;Austria;St. Valentin;St. Valentin;8.613;9.59
+29/12/2016 14:00;AT0707;Eurdep;air;48.01;15.17;;Austria;Scheibbs;Scheibbs;9.513;10
+29/12/2016 14:00;AT0708;Eurdep;air;48.79;15.07;;Austria;Schrems;Schrems;12.821;13
+29/12/2016 14:00;AT0709;Eurdep;air;48.14;16.48;;Austria;Schwechat;Schwechat;6.743;6.86
+29/12/2016 14:00;AT0710;Eurdep;air;48.39;16.22;;Austria;Stockerau;Stockerau;6.565;6.66
+29/12/2016 14:00;AT0714;Eurdep;air;48.33;16.05;;Austria;Tulln;Tulln;6.727;6.81
+29/12/2016 14:00;AT0715;Eurdep;air;48.81;15.28;;Austria;Waidhofen/Thaya;Waidhofen/Thaya;10.134;10
+29/12/2016 14:00;AT0716;Eurdep;air;47.96;14.78;;Austria;Waidhofen/Ybbs;Waidhofen/Ybbs;8.937;9.94
+29/12/2016 14:00;AT0717;Eurdep;air;47.84;16.25;;Austria;Wr. Neustadt FLH;Wr. Neustadt FLH;6.628;6.73
+29/12/2016 14:00;AT0718;Eurdep;air;47.82;16.23;;Austria;Wr. Neustadt;Wr. Neustadt;6.64;6.78
+29/12/2016 14:00;AT0720;Eurdep;air;48.1;15.61;;Austria;Wilhelmsburg;Wilhelmsburg;7.362;7.51
+29/12/2016 14:00;AT0721;Eurdep;air;48.38;16.51;;Austria;Wolkersdorf;Wolkersdorf;8.799;8.89
+29/12/2016 14:00;AT0722;Eurdep;air;48.18;15.09;;Austria;Ybbs/Donau;Ybbs/Donau;9.986;10
+29/12/2016 14:00;AT0723;Eurdep;air;48.55;16.76;;Austria;Zistersdorf;Zistersdorf;9.232;9
+29/12/2016 14:00;AT0801;Eurdep;air;48.6;15.16;;Austria;Zwettl;Zwettl;16.367;16
+29/12/2016 14:00;AT0802;Eurdep;air;48.71;16.13;;Austria;HADRES;HADRES;10.246;10
+29/12/2016 14:00;AT0803;Eurdep;air;48.28;16.91;;Austria;Marchegg;Marchegg;8.538;8.71
+29/12/2016 14:00;AT0804;Eurdep;air;48.83;15.72;;Austria;Langau;Langau;10.971;11
+29/12/2016 14:00;AT0805;Eurdep;air;48.67;14.84;;Austria;St. Martin;St. Martin;14.233;14
+29/12/2016 14:00;AT0818;Eurdep;air;48.56;16.37;;Austria;Oberleiser Berg;Oberleiser Berg;7.257;7.36
+29/12/2016 14:00;AT0819;Eurdep;air;48.12;16.62;;Austria;Fischamend;Fischamend;7.143;7.29
+29/12/2016 14:00;AT0820;Eurdep;air;47.81;15.25;;Austria;Gemeindealpe;Gemeindealpe;8.176;8.41
+29/12/2016 14:00;AT0821;Eurdep;air;48.52;15.49;;Austria;Gföhl;Gföhl;11.921;12
+29/12/2016 14:00;AT0823;Eurdep;air;48.18;16.08;;Austria;Pressbaum;Pressbaum;9.518;9.69
+29/12/2016 14:00;AT0901;Eurdep;air;48.25;13.23;;Austria;Altheim;Altheim;8.92;9.14
+29/12/2016 14:00;AT0903;Eurdep;air;47.71;13.62;;Austria;Bad Ischl;Bad Ischl;8.944;9.15
+29/12/2016 14:00;AT0904;Eurdep;air;48.03;14.21;;Austria;Bad Hall;Bad Hall;8.659;9.58
+29/12/2016 14:00;AT0906;Eurdep;air;48.26;13.04;;Austria;Braunau/Inn;Braunau/Inn;7.986;8.25
+29/12/2016 14:00;AT0908;Eurdep;air;48.31;14.02;;Austria;Eferding;Eferding;10.542;11
+29/12/2016 14:00;AT0909;Eurdep;air;48.49;13.74;;Austria;Engelhartszell;Engelhartszell;9.458;9.76
+29/12/2016 14:00;AT0910;Eurdep;air;48.21;14.48;;Austria;Enns;Enns;10.204;11
+29/12/2016 14:00;AT0911;Eurdep;air;47.99;13.4;;Austria;Frankenmarkt;Frankenmarkt;8.895;9
+29/12/2016 14:00;AT0912;Eurdep;air;48.51;14.5;;Austria;Freistadt;Freistadt;10.193;11
+29/12/2016 14:00;AT0913;Eurdep;air;47.92;13.79;;Austria;Gmunden;Gmunden;8.345;8.65
+29/12/2016 14:00;AT0914;Eurdep;air;48.23;14.85;;Austria;Grein;Grein;12;13
+29/12/2016 14:00;AT0915;Eurdep;air;48.23;13.83;;Austria;Grieskirchen;Grieskirchen;7.815;7.92
+29/12/2016 14:00;AT0916;Eurdep;air;47.85;13.96;;Austria;Grünau;Grünau;7.732;7.98
+29/12/2016 14:00;AT0917;Eurdep;air;47.56;13.65;;Austria;Hallstatt;Hallstatt;7.212;7.32
+29/12/2016 14:00;AT0918;Eurdep;air;47.9;14.12;;Austria;Kirchdorf;Kirchdorf;7.746;8.08
+29/12/2016 14:00;AT0919;Eurdep;air;48.32;14.28;;Austria;Linz Urfahr;Linz Urfahr;10.094;11
+29/12/2016 14:00;AT0920;Eurdep;air;48.06;14.13;;Austria;Kremsmünster;Kremsmünster;9.435;10
+29/12/2016 14:00;AT0922;Eurdep;air;48.08;13.88;;Austria;Lambach;Lambach;9.089;9.27
+29/12/2016 14:00;AT1002;Eurdep;air;48.31;14.31;;Austria;Linz LFK;Linz LFK;10.667;11
+29/12/2016 14:00;AT1004;Eurdep;air;48.19;14.11;;Austria;Marchtrenk;Marchtrenk;6.629;6.99
+29/12/2016 14:00;AT1005;Eurdep;air;48.1;13.15;;Austria;Mattighofen;Mattighofen;9.384;9.55
+29/12/2016 14:00;AT1006;Eurdep;air;47.87;13.33;;Austria;Mondsee;Mondsee;8.393;8.52
+29/12/2016 14:00;AT1007;Eurdep;air;48.48;13.56;;Austria;Münzkirchen;Münzkirchen;11.138;11
+29/12/2016 14:00;AT1008;Eurdep;air;48.48;13.99;;Austria;Neufelden;Neufelden;8.168;9.05
+29/12/2016 14:00;AT1009;Eurdep;air;48.27;13.73;;Austria;Neumarkt-Kallham;Neumarkt-Kallham;8.85;9.07
+29/12/2016 14:00;AT1010;Eurdep;air;48.32;13.32;;Austria;Obernberg;Obernberg;9.731;9
+29/12/2016 14:00;AT1011;Eurdep;air;48.46;14.22;;Austria;Oberneukirchen;Oberneukirchen;8.248;9.23
+29/12/2016 14:00;AT1012;Eurdep;air;48.03;12.89;;Austria;Riedersbach;Riedersbach;8.854;9.06
+29/12/2016 14:00;AT1013;Eurdep;air;48.26;14.21;;Austria;Pasching;Pasching;6.899;7.59
 
