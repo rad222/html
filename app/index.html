@@ -40,6 +40,7 @@
             <div class="sidebar-pane" id="settings">
                 <h1 class="sidebar-header">Configuración<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
                 <br>
+                <h2 class="sidebar-header">Change overlay layer opacity:</h2>
                 <div id="base-layers-opacity-control">Change overlay layer opacity:<br>
                     <input type="text" class="span2" value="50" id="rangeSliderForOverlayLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1"
                         data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">
@@ -54,7 +55,7 @@
                 <br>
                 <div id="base-layers-opacity-control">Overlay layer popup display options:
                     <ul>
-                        <li>point layer: 
+                        <li>point layer:
                             <label class="radio-inline"><input type="radio" name="optradio_point" id="optradio_point_click" checked>click (default)</label>
                             <label class="radio-inline"><input type="radio" name="optradio_point" id="optradio_point_mouseover">mouseover</label>
                         </li>
