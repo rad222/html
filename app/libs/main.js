@@ -256,17 +256,18 @@ var BingAerial = new BingLayer('https://t{s}.tiles.virtualearth.net/tiles/a{q}.j
 
 
 // init map
-var map = L.map('map', {
+var map = new L.map('map', {
 	center: [40.416775, -3.703790],
 	zoom: 6,
-	layers: [OpenStreetMap_Mapnik, highlight]
+	layers: [OpenStreetMap_Mapnik, highlight],
+	loadingControl: true
 });
 
 // add scale control
-L.control.scale().addTo(map);
+var scale = L.control.scale().addTo(map);
 
+// add sidebar control
 var sidebar = L.control.sidebar('sidebar').addTo(map);
-
 
 // define Stations layer: Spain_CSN, Spain_CIEMAT, Eurdep
 // https://github.com/mapbox/leaflet-omnivore
