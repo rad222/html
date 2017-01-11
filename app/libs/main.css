@@ -75,6 +75,13 @@ input[type="checkbox"] {
     text-align: center;
 }
 
+#base-layers-opacity-control ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
 .leaflet-popup-content {
     margin: 10px 17px 7px 7px;
 }
