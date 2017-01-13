@@ -147,6 +147,7 @@ input[type="checkbox"] {
 }
 
 .switch-field label:hover {
+    color: rgba(2, 0, 0, 0);
     cursor: pointer;
 }
 
