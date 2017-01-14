@@ -41,7 +41,7 @@
             <div class="sidebar-pane" id="settings">
                 <h1 class="sidebar-header">Configuración<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
                 <br>
-                <div id="base-layers-opacity-control">Change overlay layer opacity:<br>
+                <div id="overlay-layers-opacity-control">Change overlay layer opacity:<br>
                     <input type="text" class="span2" value="50" id="rangeSliderForOverlayLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1"
                         data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">
                         &nbsp;&nbsp;&nbsp;<span id="overlayOpacityVal">50</span>
@@ -53,28 +53,27 @@
                         &nbsp;&nbsp;&nbsp;<span id="baseOpacityVal">100</span>
                 </div>
                 <br>
-                <div id="base-layers-opacity-control">Overlay layer popup display options:
-                       
+                <div id="overlay-layer-popup-display">Overlay layer popup display options:
+                    <form class="form">
+                        <div class="switch-field">
+                            <div class="switch-title">Point layer:</div>
+                            <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
+                            <label for="optradio_point_click">Click</label>
+                            <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
+                            <label for="optradio_point_mouseover">Mouseover</label>
+                        </div>
+                        <div class="switch-field">
+                            <div class="switch-title">Polygon layer:</div>
+                            <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
+                            <label for="optradio_polygon_click">Click</label>
+                            <input type="radio" id="optradio_polygon_mouseover" name="optradio_polygon" value="mouseover" />
+                            <label for="optradio_polygon_mouseover">Mouseover</label>
+                        </div>
+                    </form>
                 </div>
-            <form class="form">
-                <div class="switch-field">
-                  <div class="switch-title">Point layer:</div>
-                  <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
-                  <label for="optradio_point_click">Click</label>
-                  <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
-                  <label for="optradio_point_mouseover">Mouseover</label>
-               </div>
-
-                <div class="switch-field">
-                  <div class="switch-title">Polygon layer:</div>
-                  <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
-                  <label for="optradio_polygon_click">Click</label>
-                  <input type="radio" id="optradio_polygon_mouseover" name="optradio_polygon" value="mouseover" />
-                  <label for="optradio_polygon_mouseover">Mouseover</label>
-
+                <div id="legend-color-ranges">
+                    <!--legend color ranges-->
                 </div>
-            </form>
-            
             </div>
             <div class="sidebar-pane" id="messages">
                 <h1 class="sidebar-header">Email<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
