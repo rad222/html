@@ -709,8 +709,10 @@ $(".switch-field.color-selector").change(function (e) {
 		'colorRange': colorRange
 	});
 
-	$("#legend-layers").remove();
-	$(".info.legend.leaflet-control").append(html);
+	if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas) || map.hasLayer(layer_Spain_CSN) || map.hasLayer(layer_Spain_CIEMAT) || map.hasLayer(layer_Eurdep)) {
+		$("#legend-layers").remove();
+		$(".info.legend.leaflet-control").append(html);
+	};
 
 	// change text color in '.color-block'
 	if (value === 'colorRange2') {
