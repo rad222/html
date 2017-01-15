@@ -16,7 +16,7 @@ Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
 
 
 // add GeoJSON feature functionality
-var colorRange = [{
+var colorRange1 = [{
 	min: 0,
 	max: 5,
 	color: '#A6F9FF'
@@ -93,6 +93,49 @@ var colorRange = [{
 	max: 30,
 	color: '#CD326C'
 }];
+
+var colorRange2 = [{
+	min: 0,
+	max: 10,
+	color: '#1AB0AF'
+}, {
+	min: 10,
+	max: 20,
+	color: '#3E8CA4'
+}, {
+	min: 20,
+	max: 30,
+	color: '#1D65AF'
+}, {
+	min: 30,
+	max: 50,
+	color: '#2040AF'
+}, {
+	min: 50,
+	max: 200,
+	color: '#3F1EAD'
+}, {
+	min: 200,
+	max: 300,
+	color: '#671CAE'
+}];
+
+var colorRange3 = [{
+	min: 0,
+	max: 8,
+	color: '#6BBA70'
+}, {
+	min: 8,
+	max: 14,
+	color: '#FFFE3E'
+}, {
+	min: 14,
+	max: 20,
+	color: '#EA4949'
+}];
+
+var colorRange = colorRange1;
+
 
 function getColor(radon_mean) {
 	for (var i = 0; i < colorRange.length; i++) {
@@ -505,23 +548,8 @@ map.on("overlayadd overlayremove", function (event) {
 });
 
 
-// add Legend control
-var legend = L.control({
-	position: 'bottomright'
-});
 
-legend.onAdd = function (map) {
-	var source = $("#legend-layers-template").html();
-	var template = Handlebars.compile(source);
-	var html = template({
-		'colorRange': colorRange
-	});
-	var div = L.DomUtil.create('div', 'info legend');
-	div.innerHTML += html;
 
-	return div;
-};
-legend.addTo(map);
 
 // overlayadd&overlayremove legends events
 map.on('overlayadd overlayremove', function (e) {
@@ -590,7 +618,7 @@ function updateBaseLayersOpacity(value) {
 	};
 };
 
-
+// document ready event
 $(document).ready(function () {
 
 	setTimeout(function () {
@@ -612,7 +640,7 @@ $(document).ready(function () {
 });
 
 
-
+// info control
 var info = L.control({
 	position: 'bottomleft'
 });
@@ -638,4 +666,56 @@ function hideInfo() {
 map.on("click", function (e) {
 	highlight.clearLayers();
 	$(".info.layerinfo").hide();
+});
+
+
+
+
+
+// add Legend control
+var legend = L.control({
+	position: 'bottomright'
+});
+
+legend.onAdd = function (map) {
+	var source = $("#legend-layers-template").html();
+	var template = Handlebars.compile(source);
+	var html = template({
+		'colorRange': colorRange
+	});
+	var div = L.DomUtil.create('div', 'info legend');
+	div.innerHTML += html;
+	return div;
+};
+legend.addTo(map);
+
+
+
+//legend-color-ranges selector
+$(".switch-field.color-selector").change(function (e) {
+	var value = e.target.value;
+	// change legend color range
+	if (value === 'colorRange1') { // colorRange1
+		colorRange = colorRange1;
+	} else if (value === 'colorRange2') { // colorRange2
+		colorRange = colorRange2;
+	} else { // colorRange3
+		colorRange = colorRange3;
+	};
+
+	var source = $("#legend-layers-template").html();
+	var template = Handlebars.compile(source);
+	var html = template({
+		'colorRange': colorRange
+	});
+
+	$("#legend-layers").remove();
+	$(".info.legend.leaflet-control").append(html);
+
+	// change text color in '.color-block'
+	if (value === 'colorRange2') {
+		$("#legend-layers>div>div>.color-block").css('color', '#FFFFFF');
+	} else {
+		$("#legend-layers>div>div>.color-block").css('color', '#000000');
+	};
 });

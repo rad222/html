@@ -55,14 +55,14 @@
                 <br>
                 <div id="overlay-layer-popup-display">Overlay layer popup display options:
                     <form class="form">
-                        <div class="switch-field">
+                        <div class="switch-field point-event">
                             <div class="switch-title">Point layer:</div>
                             <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
                             <label for="optradio_point_click">Click</label>
                             <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
                             <label for="optradio_point_mouseover">Mouseover</label>
                         </div>
-                        <div class="switch-field">
+                        <div class="switch-field polygon-event">
                             <div class="switch-title">Polygon layer:</div>
                             <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
                             <label for="optradio_polygon_click">Click</label>
@@ -71,8 +71,15 @@
                         </div>
                     </form>
                 </div>
-                <div id="legend-color-ranges">
-                    <!--legend color ranges-->
+                <div id="legend-color-ranges">Legend color selector:
+                    <div class="switch-field color-selector">
+                        <input type="radio" id="optradio_color_range1" name="optradio_color" value="colorRange1" checked/>
+                        <label for="optradio_color_range1">Scale 1</label>
+                        <input type="radio" id="optradio_color_range2" name="optradio_color" value="colorRange2" />
+                        <label for="optradio_color_range2">Scale 2</label>
+                        <input type="radio" id="optradio_color_range3" name="optradio_color" value="colorRange3" />
+                        <label for="optradio_color_range3">Scale 3</label>
+                    </div>
                 </div>
             </div>
             <div class="sidebar-pane" id="messages">
@@ -92,7 +99,7 @@
         <p>on-line viewer of environmental radiological data</p>
     </div>
     <script id="legend-layers-template" type="text/x-handlebars-template">
-        <div id="legend-layers" hidden>
+        <div id="legend-layers">
             <h1>Legend</h1>
             <p>Terrestrial Gamma-Ray Exposure at 1m above ground (unit uR/h)</p>
             <div>
