@@ -633,7 +633,7 @@ $(document).ready(function () {
 
 	// change Leaflet Control.Layers view
 	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
-	//$('.leaflet-control-layers-overlays').prepend('<b>Layers:</b>');
+	//$('.leaflet-control-layers-overlays').prepend('<b tkey="layers">Layers:</b>');
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 
