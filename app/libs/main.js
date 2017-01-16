@@ -544,7 +544,7 @@ map.on("overlayadd overlayremove", function (event) {
 	};
 
 	layerControlStations._update();
-	$('.leaflet-control-layers-base').prepend('&nbsp<b>Base Layers</b>');
+	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
 });
 
 
