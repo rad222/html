@@ -1,6 +1,10 @@
 {
-    "settings" : "Settings",
-    "messages" : "Email",
-	"whatisnew" : "What is new",
-	"documentation" : "Documentation"
+"settings" : "Settings",
+"messages" : "Email",
+"whatisnew" : "What is new",
+"documentation" : "Documentation",
+"stations":"Stations",
+"layers":"Layers",
+"baselayers":"Base Layers",
+"legend":"Legend"
 }
