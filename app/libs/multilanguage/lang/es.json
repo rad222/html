@@ -1,6 +1,11 @@
 {
-    "settings" : "Configuracion",
-    "messages" : "Email",
-	"whatisnew" : "Novedades",
-	"documentation" : "Documentacion"
+"settings" : "Configuracion",
+"messages" : "Email",
+"whatisnew" : "Novedades",
+"documentation" : "Documentación",	
+"stations":"Estaciones",
+"layers":"Capas",
+"baselayers":"Capas Base",
+"legend":"Leyenda"
+	
 }
