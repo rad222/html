@@ -6,6 +6,11 @@
 "stations":"Estaciones",
 "layers":"Capas",
 "baselayers":"Capas Base",
-"legend":"Leyenda"
-	
+"legend":"Leyenda",
+"change-overlay": "Cambiar opacidad de la capa:",
+"change-base": "Cambiar opacidad del fondo:",
+"overlay-layer": "Opciones de visualización de la capa:",
+"point-layer": "Capa de puntos:",
+"polygon-layer": "Capa de polígonos:",
+"legend-color-selector": "Tipo de leyenda:"	
 }
