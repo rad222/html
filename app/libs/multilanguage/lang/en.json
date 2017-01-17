@@ -6,5 +6,11 @@
 "stations":"Stations",
 "layers":"Layers",
 "baselayers":"Base Layers",
-"legend":"Legend"
+"legend":"Legend",
+"change-overlay": "Change overlay layer opacity:",
+"change-base": "Change base layer opacity:",
+"overlay-layer": "Overlay layer popup display options:",
+"point-layer": "Point layer:",
+"polygon-layer": "Polygon layer:",
+"legend-color-selector": "Legend color selector:"
 }
