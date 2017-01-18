@@ -116,7 +116,7 @@
             <table class="table table-striped">
                 {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}
                 <tr>
-                    <td><div tkey="{{ @key }}">{{ @key }}</div></td>
+                    <td tkey="{{ @key }}">{{ @key }}</td>
                     <td>{{ this }}</td>
                 </tr>
                 {{/ifNotIn}} {{/each}}
