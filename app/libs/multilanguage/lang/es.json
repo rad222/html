@@ -13,5 +13,8 @@
 "overlay-layer": "Opciones de visualización de la capa:",
 "point-layer": "Capa de puntos:",
 "polygon-layer": "Capa de polígonos:",
-"legend-color-selector": "Tipo de leyenda:"	
+"legend-color-selector": "Tipo de leyenda:",
+ "id_station": "estación",
+"id_network": "red" 
+	
 }
