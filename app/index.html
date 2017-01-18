@@ -115,7 +115,7 @@
         <div id="popover-feature-content">
             <table class="table table-striped">
                 {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}
-                <p tkey="{{ @key }}"></p>
+                <div tkey="{{ @key }}">{{ @key }}</div>
                 <tr>
                     <td>{{ @key }}</td>
                     <td>{{ this }}</td>
