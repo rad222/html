@@ -114,10 +114,10 @@
     <script id="popover-feature-content-template" type="text/x-handlebars-template">      
         <div id="popover-feature-content">
             <table class="table table-striped">
-                {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}
-                
+                {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}                
                 <tr>
-                    <td><p tkey="id_station">{{ @key }}</p></td>
+                    <h1 tkey="{{ @key }}">{{ @key }}</h1>
+                    <td><p>{{ @key }}</p></td>
                     <td>{{ this }}</td>
                 </tr>
                 {{/ifNotIn}} {{/each}}
