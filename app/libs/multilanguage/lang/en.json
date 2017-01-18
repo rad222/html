@@ -12,5 +12,7 @@
 "overlay-layer": "Overlay layer popup display options:",
 "point-layer": "Point layer:",
 "polygon-layer": "Polygon layer:",
-"legend-color-selector": "Legend color selector:"
+"legend-color-selector": "Legend color selector:",
+"id_station": "station",
+"id_network": "network"  
 }
