@@ -30,71 +30,77 @@
                 <img src="img/logo-sidebar.png" alt="">
             </ul>
             <ul role="tablist">
-                <li><a href="#settings" role="tab"><i class="fa fa-gear"></i></a></li>
-                <li><a href="#messages" role="tab"><i class="fa fa-envelope"></i></a></li>
-                <li><a href="#documentation" role="tab"><i class="fa fa-file-text-o"></i></a></li>
-                <li><a href="#whatisnew" role="tab"><i class="fa fa-info-circle"></i></a></li>
+                <li><a href="#settings" title="Settings" role="tab"><i class="fa fa-gear"></i></a></li>
+                <li><a href="#messages" title="Messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+                <li><a href="#documentation" title="Documentation" role="tab"><i class="fa fa-file-text-o"></i></a></li>
+                <li><a href="#whatisnew" title="Whatisnew" role="tab"><i class="fa fa-info-circle"></i></a></li>
             </ul>
         </div>
         <!-- Tab panes -->
         <div class="sidebar-content">
             <div class="sidebar-pane" id="settings">
-                <h1 class="sidebar-header">Configuración<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                <h1 class="sidebar-header" tkey="settings">Settings<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
                 <br>
-                <div id="base-layers-opacity-control">Change overlay layer opacity:<br>
+                <div id="overlay-layers-opacity-control"><p tkey="change-overlay">Change overlay layer opacity:</p><br>
                     <input type="text" class="span2" value="50" id="rangeSliderForOverlayLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1"
                         data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">
                         &nbsp;&nbsp;&nbsp;<span id="overlayOpacityVal">50</span>
                 </div>
                 <br>
-                <div id="base-layers-opacity-control">Change base layer opacity:
+                <div id="base-layers-opacity-control"><p tkey="change-base">Change base layer opacity:</p>
                     <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
                         data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)" data-slider-tooltip="hide">
                         &nbsp;&nbsp;&nbsp;<span id="baseOpacityVal">100</span>
                 </div>
                 <br>
-                <div id="base-layers-opacity-control">Overlay layer popup display options:
-                       
+                <div id="overlay-layer-popup-display"><p tkey="overlay-layer">Overlay layer popup display options:</p>
+                    <form class="form">
+                        <div class="switch-field point-event">
+                            <div class="switch-title"><p tkey="point-layer">Point layer:</p></div>
+                            <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
+                            <label for="optradio_point_click">Click</label>
+                            <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
+                            <label for="optradio_point_mouseover">Mouseover</label>
+                        </div>
+                        <div class="switch-field polygon-event">
+                            <div class="switch-title"><p tkey="polygon-layer">Polygon layer:</p></div>
+                            <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
+                            <label for="optradio_polygon_click">Click</label>
+                            <input type="radio" id="optradio_polygon_mouseover" name="optradio_polygon" value="mouseover" />
+                            <label for="optradio_polygon_mouseover">Mouseover</label>
+                        </div>
+                    </form>
                 </div>
-            <form class="form">
-                <div class="switch-field">
-                  <div class="switch-title">Point layer:</div>
-                  <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
-                  <label for="optradio_point_click">Click</label>
-                  <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
-                  <label for="optradio_point_mouseover">Mouseover</label>
-               </div>
-
-                <div class="switch-field">
-                  <div class="switch-title">Polygon layer:</div>
-                  <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
-                  <label for="optradio_polygon_click">Click</label>
-                  <input type="radio" id="optradio_polygon_mouseover" name="optradio_polygon" value="mouseover" />
-                  <label for="optradio_polygon_mouseover">Mouseover</label>
-
+                <div id="legend-color-ranges"><p tkey="legend-color-selector">Legend color selector:</p>
+                    <div class="switch-field color-selector">
+                        <input type="radio" id="optradio_color_range1" name="optradio_color" value="colorRange1" checked/>
+                        <label for="optradio_color_range1">Scale 1</label>
+                        <input type="radio" id="optradio_color_range2" name="optradio_color" value="colorRange2" />
+                        <label for="optradio_color_range2">Scale 2</label>
+                        <input type="radio" id="optradio_color_range3" name="optradio_color" value="colorRange3" />
+                        <label for="optradio_color_range3">Scale 3</label>
+                    </div>
                 </div>
-            </form>
-            
             </div>
             <div class="sidebar-pane" id="messages">
-                <h1 class="sidebar-header">Email<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                <h1 class="sidebar-header" tkey="messages">Email<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
             </div>
             <div class="sidebar-pane" id="documentation">
-                <h1 class="sidebar-header">Documentación<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                <h1 class="sidebar-header" tkey="documentation">Documentation<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
             </div>
             <div class="sidebar-pane" id="whatisnew">
-                <h1 class="sidebar-header">Novedades<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                <h1 class="sidebar-header" tkey="whatisnew">What is new<span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
             </div>
         </div>
     </div>
     <div id="map" class="sidebar-map"></div>
     <div id="logo-container">
         <h1>RaViewer</h1>
-        <p>on-line viewer of environmental radiological data</p>
+        <p tkey="description">on-line viewer of environmental radiological data</p>
     </div>
     <script id="legend-layers-template" type="text/x-handlebars-template">
-        <div id="legend-layers" hidden>
-            <h1>Legend</h1>
+        <div id="legend-layers">
+            <h1 tkey="legend">Legend</h1>
             <p>Terrestrial Gamma-Ray Exposure at 1m above ground (unit uR/h)</p>
             <div>
                 {{#each colorRange}}
@@ -105,10 +111,10 @@
             </div>
         </div>
     </script>
-    <script id="popover-feature-content-template" type="text/x-handlebars-template">
-        <div id="popover-feature-content">
+    <script id="popover-feature-content-template" type="text/x-handlebars-template">      
+        <div id="popover-feature-content">   
             <table class="table table-striped">
-                {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}
+                {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}                
                 <tr>
                     <td>{{ @key }}</td>
                     <td>{{ this }}</td>
@@ -131,6 +137,7 @@
     <script src="libs/leaflet.markercluster-0.5.0/leaflet.markercluster.layersupport-src.js"></script>
     <script src="libs/sidebar-v2-0.3.1/leaflet-sidebar.min.js"></script>
     <script src="libs/main.js"></script>
+    <script src="libs/multilanguage/lang.js"></script>
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
