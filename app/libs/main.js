@@ -179,6 +179,7 @@ function showPopupClickPoint(e) {
 		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStylePoint));
 
 		info.update(html);
+		initTranslate();
 	};
 
 };
@@ -200,6 +201,7 @@ function showPopupMouseoverPoint(e) {
 		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStylePoint));
 
 		info.update(html);
+		initTranslate();
 	};
 
 };
@@ -221,6 +223,7 @@ function showPopupClickPolygon(e) {
 		highlight.clearLayers().addLayer(L.geoJson(feature.geometry, highlightStylePolygon));
 
 		info.update(html);
+		initTranslate();
 	};
 };
 
@@ -241,6 +244,7 @@ function showPopupMouseoverPolygon(e) {
 		highlight.clearLayers().addLayer(L.geoJson(feature.geometry, highlightStylePolygon));
 
 		info.update(html);
+		initTranslate();
 	};
 };
 
