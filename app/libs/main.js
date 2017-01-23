@@ -706,6 +706,9 @@ $(".switch-field.color-selector").change(function (e) {
 		colorRange = colorRange3;
 	};
 
+	// update style for point layer
+	//initStations(geojsonData);
+
 	// change polygon layer style
 	geojsonCCAA.eachLayer(function (layer) {
 		var radon_mean = layer.feature.properties.radon_mean;
@@ -725,7 +728,6 @@ $(".switch-field.color-selector").change(function (e) {
 			fillColor: getColor(radon_mean)
 		});
 	});
-
 
 	var source = $("#legend-layers-template").html();
 	var template = Handlebars.compile(source);
