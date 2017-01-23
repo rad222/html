@@ -399,7 +399,6 @@ function initStations(geojsonData) {
 	layer_Eurdep.addLayer(layer_geojson_Eurdep);
 };
 
-
 var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
 	style: function (feature) {
 		return {
@@ -706,6 +705,27 @@ $(".switch-field.color-selector").change(function (e) {
 	} else { // colorRange3
 		colorRange = colorRange3;
 	};
+
+	// change polygon layer style
+	geojsonCCAA.eachLayer(function (layer) {
+		var radon_mean = layer.feature.properties.radon_mean;
+		layer.setStyle({
+			fillColor: getColor(radon_mean)
+		});
+	});
+	geojsonProvincias.eachLayer(function (layer) {
+		var radon_mean = layer.feature.properties.radon_mean;
+		layer.setStyle({
+			fillColor: getColor(radon_mean)
+		});
+	});
+	geojsonZonas.eachLayer(function (layer) {
+		var radon_mean = layer.feature.properties.radon_mean;
+		layer.setStyle({
+			fillColor: getColor(radon_mean)
+		});
+	});
+
 
 	var source = $("#legend-layers-template").html();
 	var template = Handlebars.compile(source);
