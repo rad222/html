@@ -18,6 +18,7 @@
     "id_station": "station",
     "id_network": "network",
     "type":"type of network",
+    "altitude":"altitude (m)"
     "area_adm_1":"NUTS-2",
     "area_adm_2":"NUTS-3",
     "name":"name",
