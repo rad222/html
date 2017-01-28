@@ -167,7 +167,7 @@ function showPopupClickPoint(e) {
 		$(".info.layerinfo").show();
 		var layer = e.target;
 		var feature = layer.feature;
-		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+		var notShownProperties = ['xxx'];
 
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
@@ -189,7 +189,7 @@ function showPopupMouseoverPoint(e) {
 		$(".info.layerinfo").show();
 		var layer = e.target;
 		var feature = layer.feature;
-		var notShownProperties = ['ISO', 'ID_0', 'ID_1', 'NAME_0', 'NAME_1', 'HASC_1', 'CCN_1', 'CCA_1', 'TYPE_1', 'ENGTYPE_1', 'NL_NAME_1', 'VARNAME_1'];
+		var notShownProperties = ['xxx'];
 
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
