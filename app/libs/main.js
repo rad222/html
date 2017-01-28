@@ -655,7 +655,7 @@ info.onAdd = function (map) {
 };
 
 info.update = function (content) {
-	this._div.innerHTML = "<b tkey="information">Information:</b><a id='some_id' class='leaflet-popup-close-button' href='#' onclick='return hideInfo();'>×</a><br>" + content;
+	this._div.innerHTML = "<b>Information:</b><a id='some_id' class='leaflet-popup-close-button' href='#' onclick='return hideInfo();'>×</a><br>" + content;
 };
 
 info.addTo(map);
