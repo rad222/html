@@ -107,7 +107,6 @@ input[type="checkbox"] {
 }
 /* header popup info */
 .header-info {
-    margin:-10px -20px 0;
     height:40px;padding:0 20px;
     line-height:40px;
     color:#fff;
