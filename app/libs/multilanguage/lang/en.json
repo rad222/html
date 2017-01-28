@@ -14,7 +14,9 @@
     "overlay-layer": "Overlay layer popup display options:",
     "point-layer": "Point layer:",
     "polygon-layer": "Polygon layer:",
+    "__legend__":"comment",
     "legend-color-selector": "Legend color selector:",
+    "__window__":"comment",
     "information":"Information",
     "date":"date",
     "id_station": "station",
@@ -24,5 +26,6 @@
     "area_adm_1":"NUTS-2",
     "area_adm_2":"NUTS-3",
     "name":"name",
-    "value":"value"
+    "value":"value",
+    "radon_mean":"value"
 }
