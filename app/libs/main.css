@@ -107,7 +107,7 @@ input[type="checkbox"] {
 }
 /* header popup info */
 .header-info {
-    padding:0 20px;
+    padding:5px 20px 5px 0px;
     color:#fff;
     background-color:#0074d9;
     
