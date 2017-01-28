@@ -27,5 +27,6 @@
     "area_adm_2":"NUTS-3",
     "name":"nombre",
     "value":"valor",
-    "radon_mean":"valor"
+    "radon_mean":"valor",
+    "DIST_NAME":"zona"
 }
