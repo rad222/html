@@ -19,7 +19,7 @@
     "id_station": "estación",
     "id_network": "red",
     "type":"tipo",
-    "altitude":"altitud (m)"
+    "altitude":"altitud (m)",
     "area_adm_1":"NUTS-2",
     "area_adm_2":"NUTS-3",
     "name":"nombre",
