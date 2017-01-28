@@ -1,6 +1,6 @@
 {
     "description": "visor online de datos radiológico-ambientales",
-    "settings": "Configuracion",
+    "settings": "Configuración",
     "messages": "Email",
     "whatisnew": "Novedades",
     "documentation": "Documentación",
@@ -14,6 +14,11 @@
     "point-layer": "Capa de puntos:",
     "polygon-layer": "Capa de polígonos:",
     "legend-color-selector": "Tipo de leyenda:",
+    "Information":"Información",
     "id_station": "estación",
-    "id_network": "red"
+    "id_network": "red",
+    "area_adm_1":"NUTS-2",
+    "area_adm_2":"NUTS-3",
+    "name":"nombre",
+    "value":"valor"
 }
