@@ -122,6 +122,7 @@
     <script id="popover-feature-content-template" type="text/x-handlebars-template">
         <div id="popover-feature-content">
             <table class="table table-striped">
+            <p tkey="information>Information</p>
                 {{#each featureObject}} {{#ifNotIn @key ../notShownProperties }}
                 <tr>
                     <td tkey={{ @key }}>{{ @key }}</td>
