@@ -110,8 +110,7 @@ input[type="checkbox"] {
     padding:5px;
     margin-right:12px;
     color:#fff;
-    background-color:#0074d9;
-    
+    background: linear-gradient(to right, #0074d9, #ffffff);
 }
 
 /* menu sidebar radio items */
