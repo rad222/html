@@ -169,6 +169,9 @@ function showPopupClickPoint(e) {
 		var feature = layer.feature;
 		var notShownProperties = ['xxx'];
 
+		// add lat/lng properties
+		feature.properties['lat,lng'] = feature.geometry.coordinates[1].toFixed(4) + ',' + feature.geometry.coordinates[0].toFixed(4);
+
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
 		var html = template({
@@ -190,6 +193,9 @@ function showPopupMouseoverPoint(e) {
 		var layer = e.target;
 		var feature = layer.feature;
 		var notShownProperties = ['xxx'];
+
+		// add lat/lng properties
+		feature.properties['lat,lng'] = feature.geometry.coordinates[1].toFixed(4) + ',' + feature.geometry.coordinates[0].toFixed(4);
 
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
@@ -213,6 +219,9 @@ function showPopupClickPolygon(e) {
 		var feature = layer.feature;
 		var notShownProperties = ['NAME_0'];
 
+		// change digits count for 'radon_mean'
+		feature.properties['radon_mean'] = feature.properties['radon_mean'].toFixed(2);
+
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
 		var html = template({
@@ -233,6 +242,9 @@ function showPopupMouseoverPolygon(e) {
 		var layer = e.target;
 		var feature = layer.feature;
 		var notShownProperties = ['NAME_0'];
+
+		// change digits count for 'radon_mean'
+		feature.properties['radon_mean'] = feature.properties['radon_mean'].toFixed(2);
 
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
