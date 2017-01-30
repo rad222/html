@@ -343,9 +343,11 @@ var layer_Eurdep = L.layerGroup();
 // Creates a Marker Cluster Group
 var mcg = L.markerClusterGroup.layerSupport().addTo(map);
 
-var geojsonData = null;
+var stationsMetaData = {};
 
+// worker for update stationsMetaData object from meta.csv every 'n' ms
 (function worker() {
+	console.time("loading meta.csv");
 	$.ajax({
 		url: 'data/meta.csv',
 		cache: false,
@@ -355,15 +357,16 @@ var geojsonData = null;
 				lonfield: 'longitude',
 				delimiter: ';'
 			}, function (err, data) {
-				geojsonData = data;
-				console.log('meta.csv loaded. count: ' + geojsonData['features'].length);
+				stationsMetaData = data;
+				console.log('meta.csv loaded. count: ' + stationsMetaData['features'].length);
 			});
 		},
 		complete: function () {
-			//setTimeout(worker, 1800000);
-			//setTimeout(worker, 3000);
+			setTimeout(worker, 1800000);
+			//setTimeout(worker, 5000);
 		}
 	});
+	console.timeEnd("loading meta.csv");
 })();
 
 
@@ -395,19 +398,24 @@ function geoJsonLayer(type) {
 };
 
 
-function initStations(geojsonData) {
+function initStations(stationsMetaData) {
 	mcg.clearLayers();
 
+	// layer_Spain_CSN.clearLayers();
+	// layer_Spain_CIEMAT.clearLayers();
+	// layer_Eurdep.clearLayers();
+	// allPointsLG.addTo(map);
+
 	var layer_geojson_Spain_CSN = geoJsonLayer('Spain_CSN');
-	layer_geojson_Spain_CSN.addData(geojsonData);
+	layer_geojson_Spain_CSN.addData(stationsMetaData);
 	layer_Spain_CSN.addLayer(layer_geojson_Spain_CSN);
 
 	var layer_geojson_Spain_CIEMAT = geoJsonLayer('Spain_CIEMAT');
-	layer_geojson_Spain_CIEMAT.addData(geojsonData);
+	layer_geojson_Spain_CIEMAT.addData(stationsMetaData);
 	layer_Spain_CIEMAT.addLayer(layer_geojson_Spain_CIEMAT);
 
 	var layer_geojson_Eurdep = geoJsonLayer('Eurdep');
-	layer_geojson_Eurdep.addData(geojsonData);
+	layer_geojson_Eurdep.addData(stationsMetaData);
 	layer_Eurdep.addLayer(layer_geojson_Eurdep);
 };
 
@@ -511,19 +519,19 @@ var baseLayers = {
 };
 
 
-var layerControlStations = L.control.groupedLayers(baseLayers, null, {
+var layerControl = L.control.groupedLayers(baseLayers, null, {
 	collapsed: false
 }).addTo(map);
 
-layerControlStations.addOverlay(allPointsLG, "All / none", "Stations");
-layerControlStations.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
-layerControlStations.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
-layerControlStations.addOverlay(layer_Eurdep, "Eurdep", "Stations");
+layerControl.addOverlay(allPointsLG, "All / none", "Stations");
+layerControl.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
+layerControl.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
+layerControl.addOverlay(layer_Eurdep, "Eurdep", "Stations");
 
 
-layerControlStations.addOverlay(geojsonCCAA, "CCAA", "Layers");
-layerControlStations.addOverlay(geojsonProvincias, "Provincias", "Layers");
-layerControlStations.addOverlay(geojsonZonas, "Zonas", "Layers");
+layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
+layerControl.addOverlay(geojsonProvincias, "Provincias", "Layers");
+layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
 
 
 // add check/uncheck functionality for Stations layer
@@ -558,7 +566,7 @@ map.on("overlayadd overlayremove", function (event) {
 		};
 	};
 
-	layerControlStations._update();
+	layerControl._update();
 	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
 });
 
@@ -637,7 +645,7 @@ function updateBaseLayersOpacity(value) {
 $(document).ready(function () {
 
 	setTimeout(function () {
-		initStations(geojsonData);
+		initStations(stationsMetaData);
 		allPointsLG.addTo(map);
 	}, 500);
 
@@ -719,7 +727,7 @@ $(".switch-field.color-selector").change(function (e) {
 	};
 
 	// update style for point layer
-	//initStations(geojsonData);
+	//initStations(stationsMetaData);
 
 	// change polygon layer style
 	geojsonCCAA.eachLayer(function (layer) {
