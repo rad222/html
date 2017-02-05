@@ -105,16 +105,16 @@ input[type="checkbox"] {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
 }
+
 /* header popup info */
 .header-info {
-    padding:5px;
-    margin-right:12px;
-    color:#fff;
+    padding: 5px;
+    margin-right: 12px;
+    color: #fff;
     background: linear-gradient(to right, #0074d9, #ffffff);
 }
 
 /* menu sidebar radio items */
-
 .switch-field {
     font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
     padding: 2px 5px 2px 5px;

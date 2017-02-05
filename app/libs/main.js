@@ -15,7 +15,7 @@ Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
 });
 
 
-// add GeoJSON feature functionality
+// markers, polygons and legend color range style
 var colorRange1 = [{
 	min: 0,
 	max: 5,
@@ -134,7 +134,7 @@ var colorRange3 = [{
 	color: '#EA4949'
 }];
 
-var colorRange = colorRange1;
+var colorRange = colorRange1; // define global colorRange variable
 
 
 function getColor(radon_mean) {
@@ -147,7 +147,7 @@ function getColor(radon_mean) {
 	}
 };
 
-// highlight layer for point&polygon overlay layer
+// highlight layer for point & polygon overlay layer
 var highlight = L.geoJson(null);
 var highlightStylePoint = {
 	stroke: false,
@@ -161,7 +161,7 @@ var highlightStylePolygon = {
 	fillOpacity: 0
 };
 
-
+// stations popup events
 function showPopupClickPoint(e) {
 	if ($("#optradio_point_click").prop('checked')) {
 		$(".info.layerinfo").show();
@@ -209,9 +209,10 @@ function showPopupMouseoverPoint(e) {
 		info.update(html);
 		initTranslate();
 	};
-
 };
 
+
+// polygons popup events
 function showPopupClickPolygon(e) {
 	if ($("#optradio_polygon_click").prop('checked')) {
 		$(".info.layerinfo").show();
@@ -220,7 +221,7 @@ function showPopupClickPolygon(e) {
 		var notShownProperties = ['NAME_0'];
 
 		// change digits count for 'radon_mean'
-		feature.properties['radon_mean'] = feature.properties['radon_mean'].toFixed(2);
+		feature.properties['radon_mean'] = +feature.properties['radon_mean'].toFixed(2);
 
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
@@ -244,7 +245,7 @@ function showPopupMouseoverPolygon(e) {
 		var notShownProperties = ['NAME_0'];
 
 		// change digits count for 'radon_mean'
-		feature.properties['radon_mean'] = feature.properties['radon_mean'].toFixed(2);
+		feature.properties['radon_mean'] = +feature.properties['radon_mean'].toFixed(2);
 
 		var source = $("#popover-feature-content-template").html();
 		var template = Handlebars.compile(source);
@@ -261,7 +262,7 @@ function showPopupMouseoverPolygon(e) {
 };
 
 
-// Define Base Layers
+// define map base layers
 // https://leaflet-extras.github.io/leaflet-providers/preview/
 var OpenStreetMap_Mapnik = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	maxZoom: 19,
@@ -314,7 +315,7 @@ var BingAerial = new BingLayer('https://t{s}.tiles.virtualearth.net/tiles/a{q}.j
 
 
 
-// init map
+// map initialization
 var map = new L.map('map', {
 	center: [40.416775, -3.703790],
 	zoom: 6,
@@ -324,101 +325,11 @@ var map = new L.map('map', {
 
 // add scale control
 var scale = L.control.scale().addTo(map);
-
-// add sidebar control
+// add left sidebar control
 var sidebar = L.control.sidebar('sidebar').addTo(map);
 
-// define Stations layer: Spain_CSN, Spain_CIEMAT, Eurdep
-// https://github.com/mapbox/leaflet-omnivore
-// https://github.com/hiasinho/Leaflet.vector-markers
-// https://jsfiddle.net/qkvo7hav/7/
 
-var allPointsLG = L.layerGroup();
-
-var layer_Spain_CSN = L.layerGroup();
-var layer_Spain_CIEMAT = L.layerGroup();
-var layer_Eurdep = L.layerGroup();
-
-
-// Creates a Marker Cluster Group
-var mcg = L.markerClusterGroup.layerSupport().addTo(map);
-
-var stationsMetaData = {};
-
-// worker for update stationsMetaData object from meta.csv every 'n' ms
-(function worker() {
-	console.time("loading meta.csv");
-	$.ajax({
-		url: 'data/meta.csv',
-		cache: false,
-		success: function (csv) {
-			csv2geojson.csv2geojson(csv, {
-				latfield: 'latitude',
-				lonfield: 'longitude',
-				delimiter: ';'
-			}, function (err, data) {
-				stationsMetaData = data;
-				console.log('meta.csv loaded. count: ' + stationsMetaData['features'].length);
-			});
-		},
-		complete: function () {
-			setTimeout(worker, 1800000);
-			//setTimeout(worker, 5000);
-		}
-	});
-	console.timeEnd("loading meta.csv");
-})();
-
-
-function geoJsonLayer(type) {
-	return L.geoJson(null, {
-		filter: function (feature, layer) {
-			return feature.properties.id_network === type;
-		},
-		pointToLayer: function (feature, latlng) {
-			return L.marker(latlng, {
-				icon: L.VectorMarkers.icon({
-					icon: 'nuclear',
-					prefix: 'ion',
-					markerColor: getColor(feature.properties.value),
-					iconColor: '#000000',
-					popupAnchor: [0, -46]
-				}),
-				title: feature.properties.name,
-				riseOnHover: true
-			});
-		},
-		onEachFeature: function (feature, layer) {
-			layer.on({
-				click: showPopupClickPoint,
-				mouseover: showPopupMouseoverPoint
-			});
-		}
-	})
-};
-
-
-function initStations(stationsMetaData) {
-	mcg.clearLayers();
-
-	// layer_Spain_CSN.clearLayers();
-	// layer_Spain_CIEMAT.clearLayers();
-	// layer_Eurdep.clearLayers();
-	// allPointsLG.addTo(map);
-
-	var layer_geojson_Spain_CSN = geoJsonLayer('Spain_CSN');
-	layer_geojson_Spain_CSN.addData(stationsMetaData);
-	layer_Spain_CSN.addLayer(layer_geojson_Spain_CSN);
-
-	var layer_geojson_Spain_CIEMAT = geoJsonLayer('Spain_CIEMAT');
-	layer_geojson_Spain_CIEMAT.addData(stationsMetaData);
-	layer_Spain_CIEMAT.addLayer(layer_geojson_Spain_CIEMAT);
-
-	var layer_geojson_Eurdep = geoJsonLayer('Eurdep');
-	layer_geojson_Eurdep.addData(stationsMetaData);
-	layer_Eurdep.addLayer(layer_geojson_Eurdep);
-};
-
+// define polygonal layers
 var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
 	style: function (feature) {
 		return {
@@ -503,14 +414,6 @@ var geojsonZonas = new L.GeoJSON.AJAX('data/zona.json', {
 	}
 });
 
-
-//Checking in the 'sub groups'
-mcg.checkIn([
-	layer_Spain_CSN,
-	layer_Spain_CIEMAT,
-	layer_Eurdep
-]);
-
 var baseLayers = {
 	"OpenStreetMap": OpenStreetMap_Mapnik,
 	"Water color": Stamen_Watercolor,
@@ -523,74 +426,194 @@ var layerControl = L.control.groupedLayers(baseLayers, null, {
 	collapsed: false
 }).addTo(map);
 
-layerControl.addOverlay(allPointsLG, "All / none", "Stations");
-layerControl.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
-layerControl.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
-layerControl.addOverlay(layer_Eurdep, "Eurdep", "Stations");
-
-
 layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
 layerControl.addOverlay(geojsonProvincias, "Provincias", "Layers");
 layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
 
 
-// add check/uncheck functionality for Stations layer
+// var overlayLayerObject = {};
+// // add polygonal overlay layers to overlayLayerObject
+// overlayLayerObject['geojsonCCAA'] = geojsonCCAA;
+// overlayLayerObject['geojsonProvincias'] = geojsonProvincias;
+// overlayLayerObject['geojsonZonas'] = geojsonZonas;
+
+
+// ----------------------------------------------------------------------------------------------
+
+
+// define stations GeoJSON data from meta.csv
+var stationsMetaData = {};
+
+// worker for update stationsMetaData object from meta.csv every 'n' ms
+(function worker() {
+	console.time("loading meta.csv");
+	$.ajax({
+		url: 'data/meta.csv',
+		cache: false,
+		success: function (csv) {
+			csv2geojson.csv2geojson(csv, {
+				latfield: 'latitude',
+				lonfield: 'longitude',
+				delimiter: ';'
+			}, function (err, data) {
+				stationsMetaData = data;
+				console.log('meta.csv loaded. count: ' + stationsMetaData['features'].length);
+			});
+		},
+		complete: function () {
+			setTimeout(worker, 1800000);
+			//setTimeout(worker, 5000);
+		}
+	});
+	console.timeEnd("loading meta.csv");
+})();
+
+// define stations markercluster group
+var stationsMCG = L.markerClusterGroup.layerSupport().addTo(map);
+
+function initStations() {
+	setTimeout(() => {
+		var categories = {},
+			category;
+
+		console.time("init allStations");
+
+		var allStations = L.geoJson(null, {
+			pointToLayer: function (feature, latlng) {
+				return L.marker(latlng, {
+					icon: L.VectorMarkers.icon({
+						icon: 'nuclear',
+						prefix: 'ion',
+						markerColor: getColor(feature.properties.value),
+						iconColor: '#000000',
+						popupAnchor: [0, -46]
+					}),
+					title: feature.properties.name,
+					riseOnHover: true
+				});
+			},
+			onEachFeature: function (feature, layer) {
+				// define click and mouseover events
+				layer.on({
+					click: showPopupClickPoint,
+					mouseover: showPopupMouseoverPoint
+				});
+
+				// define stations layer category
+				category = feature.properties.id_network;
+				if (typeof categories[category] === "undefined") {
+					categories[category] = [];
+				};
+				categories[category].push(layer);
+			}
+		});
+		allStations.addData(stationsMetaData);
+
+		console.timeEnd("init allStations");
+
+		updateOverlaysObj(categories);
+
+	}, 700);
+};
+
+var overlaysObj = {};
+var allStationsLG = L.layerGroup();
+
+
+function updateOverlaysObj(categories) {
+	stationsMCG.clearLayers();
+	allStationsLG.clearLayers();
+
+	overlaysObj["All / none"] = allStationsLG;
+
+	for (var categoryName in overlaysObj) {
+		layerControl.removeLayer(overlaysObj[categoryName]);
+		overlaysObj[categoryName].clearLayers();
+	};
+
+	var categoryName,
+		categoryArray,
+		categoryLG;
+
+	for (categoryName in categories) {
+		categoryArray = categories[categoryName];
+		categoryLG = L.layerGroup(categoryArray);
+		categoryLG.categoryName = categoryName;
+		overlaysObj[categoryName] = categoryLG;
+
+		// add stations overlay layers to overlayLayerObject
+		//overlayLayerObject[categoryName] = categoryLG;
+	};
+	initStationsLayerControl(overlaysObj)
+};
+
+
+
+
+function initStationsLayerControl(overlaysObj) {
+
+	// add layers to layerControl
+	for (var categoryName in overlaysObj) {
+		layerControl.addOverlay(overlaysObj[categoryName], categoryName, "Stations");
+	};
+
+
+	var stationStamps = [];
+	for (var categoryName in overlaysObj) {
+		if (categoryName !== "All / none") {
+			stationStamps.push(overlaysObj[categoryName]);
+		};
+	};
+	stationsMCG.checkIn(stationStamps);
+
+	map.removeLayer(allStationsLG);
+	map.addLayer(allStationsLG);
+};
+
+
+
+// overlayadd overlayremove for stations layer
 map.on("overlayadd overlayremove", function (event) {
-	var layer = event.layer;
 
-	if (event.type === "overlayadd") {
-		if (layer === allPointsLG) {
-			if (!map.hasLayer(layer_Spain_CSN)) {
-				layer_Spain_CSN.addTo(map);
-			};
-			if (!map.hasLayer(layer_Spain_CIEMAT)) {
-				layer_Spain_CIEMAT.addTo(map);
-			};
-			if (!map.hasLayer(layer_Eurdep)) {
-				layer_Eurdep.addTo(map);
+	var layer = event.layer,
+		layerCategory;
+	if (layer === allStationsLG) {
+		if (layer.notUserAction) {
+			layer.notUserAction = false;
+			return;
+		};
+		for (var categoryName in overlaysObj) {
+			if (categoryName !== "All / none") {
+				if (event.type === "overlayadd") {
+					overlaysObj[categoryName].addTo(map);
+				} else {
+					map.removeLayer(overlaysObj[categoryName]);
+				};
 			};
 		};
-		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Eurdep)) {
-			map.addLayer(allPointsLG);
+		layerControl._update();
+	} else if (layer.categoryName && layer.categoryName in overlaysObj) {
+		if (event.type === "overlayadd") {
+			for (var categoryName in overlaysObj) {
+				layerCategory = overlaysObj[categoryName];
+				if (categoryName !== "All / none" && !layerCategory._map) {
+					return;
+				};
+			};
+			allStationsLG.addTo(map);
+			layerControl._update();
+		} else if (event.type === "overlayremove" && allStationsLG._map) {
+			allStationsLG.notUserAction = true;
+			map.removeLayer(allStationsLG);
+			layerControl._update();
 		};
 	};
+	// change order Stations and Layers groups
+	$("#leaflet-control-layers-group-1").insertAfter("#leaflet-control-layers-group-2");
 
-	if (event.type === "overlayremove") {
-		if (layer === allPointsLG) {
-			map.removeLayer(layer_Spain_CSN);
-			map.removeLayer(layer_Spain_CIEMAT);
-			map.removeLayer(layer_Eurdep);
-		};
-		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Eurdep)) {
-			map.removeLayer(allPointsLG);
-		};
-	};
-
-	layerControl._update();
-	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
 });
 
-
-
-
-
-// overlayadd&overlayremove legends events
-map.on('overlayadd overlayremove', function (e) {
-	if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas) || map.hasLayer(layer_Spain_CSN) || map.hasLayer(layer_Spain_CIEMAT) || map.hasLayer(layer_Eurdep)) {
-		$('#legend-layers').show();
-	};
-
-	if (!map.hasLayer(geojsonCCAA) && !map.hasLayer(geojsonProvincias) && !map.hasLayer(geojsonZonas) && !map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Eurdep)) {
-		$('#legend-layers').hide();
-	};
-
-	if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas)) {
-		$('#opacity-control').css('display', 'flex');
-	} else {
-		$('#opacity-control').css('display', 'none');
-	};
-});
-
+// ----------------------------------------------------------------------------------------------
 
 // overlay layer opacity control
 $('#rangeSliderForOverlayLayers').slider({});
@@ -598,15 +621,7 @@ $('#rangeSliderForOverlayLayers').on("slide", function (e) {
 	$("#overlayOpacityVal").text(e.value);
 });
 
-// disable map dragging
-$('#opacity-control > div > div.slider-handle.min-slider-handle.round').mousedown(function () {
-	map.dragging.disable();
-});
-$('#opacity-control > div > div.slider-handle.min-slider-handle.round').mouseleave(function () {
-	map.dragging.enable();
-});
-
-// update vector layer opacity
+// update polygonal layer opacity
 function updateOverlayLayersOpacity(value) {
 	geojsonCCAA.setStyle({
 		fillOpacity: value / 100
@@ -641,29 +656,7 @@ function updateBaseLayersOpacity(value) {
 	};
 };
 
-// document ready event
-$(document).ready(function () {
-
-	setTimeout(function () {
-		initStations(stationsMetaData);
-		allPointsLG.addTo(map);
-	}, 500);
-
-	// add logo
-	var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control');
-	var logoContainer = $('#logo-container');
-	mapControlsContainer.append(logoContainer);
-
-	// change Leaflet Control.Layers view
-	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
-	//$('.leaflet-control-layers-overlays').prepend('<b tkey="layers">Layers:</b>');
-	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
-	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
-
-});
-
-
-// info control
+// layer (stations and zones) info control
 var info = L.control({
 	position: 'bottomleft'
 });
@@ -691,10 +684,6 @@ map.on("click", function (e) {
 	$(".info.layerinfo").hide();
 });
 
-
-
-
-
 // add Legend control
 var legend = L.control({
 	position: 'bottomright'
@@ -713,7 +702,6 @@ legend.onAdd = function (map) {
 legend.addTo(map);
 
 
-
 //legend-color-ranges selector
 $(".switch-field.color-selector").change(function (e) {
 	var value = e.target.value;
@@ -726,8 +714,8 @@ $(".switch-field.color-selector").change(function (e) {
 		colorRange = colorRange3;
 	};
 
-	// update style for point layer
-	//initStations(stationsMetaData);
+	// update style for stations layer
+	initStations();
 
 	// change polygon layer style
 	geojsonCCAA.eachLayer(function (layer) {
@@ -755,10 +743,8 @@ $(".switch-field.color-selector").change(function (e) {
 		'colorRange': colorRange
 	});
 
-	if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas) || map.hasLayer(layer_Spain_CSN) || map.hasLayer(layer_Spain_CIEMAT) || map.hasLayer(layer_Eurdep)) {
-		$("#legend-layers").remove();
-		$(".info.legend.leaflet-control").append(html);
-	};
+	$("#legend-layers").remove();
+	$(".info.legend.leaflet-control").append(html);
 
 	// change text color in '.color-block'
 	if (value === 'colorRange2') {
@@ -767,3 +753,178 @@ $(".switch-field.color-selector").change(function (e) {
 		$("#legend-layers>div>div>.color-block").css('color', '#000000');
 	};
 });
+
+
+// document ready event
+$(document).ready(function () {
+	initStations();
+
+	// add logo
+	var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control');
+	var logoContainer = $('#logo-container');
+	mapControlsContainer.append(logoContainer);
+
+	// change Leaflet Control.Layers view
+	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
+	//$('.leaflet-control-layers-overlays').prepend('<b tkey="layers">Layers:</b>');
+	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
+	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
+});
+
+// ----------------------------------------------------------------------------------------------
+
+// disable map dragging on opacity control
+// $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mousedown(function () {
+// 	map.dragging.disable();
+// });
+// $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mouseleave(function () {
+// 	map.dragging.enable();
+// });
+
+
+// update legend
+// if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas)) {
+// 	$("#legend-layers").remove();
+// 	$(".info.legend.leaflet-control").append(html);
+// };
+
+
+// define Stations layer: Spain_CSN, Spain_CIEMAT, Eurdep
+// https://github.com/mapbox/leaflet-omnivore
+// https://github.com/hiasinho/Leaflet.vector-markers
+// https://jsfiddle.net/qkvo7hav/7/
+
+// var allPointsLG = L.layerGroup();
+
+// var layer_Spain_CSN = L.layerGroup();
+// var layer_Spain_CIEMAT = L.layerGroup();
+// var layer_Eurdep = L.layerGroup();
+
+// // Creates a Marker Cluster Group
+// var mcg = L.markerClusterGroup.layerSupport().addTo(map);
+
+// var stationsMetaData = {};
+
+// // worker for update stationsMetaData object from meta.csv every 'n' ms
+// (function worker() {
+// 	console.time("loading meta.csv");
+// 	$.ajax({
+// 		url: 'data/meta.csv',
+// 		cache: false,
+// 		success: function (csv) {
+// 			csv2geojson.csv2geojson(csv, {
+// 				latfield: 'latitude',
+// 				lonfield: 'longitude',
+// 				delimiter: ';'
+// 			}, function (err, data) {
+// 				stationsMetaData = data;
+// 				console.log('meta.csv loaded. count: ' + stationsMetaData['features'].length);
+// 			});
+// 		},
+// 		complete: function () {
+// 			setTimeout(worker, 1800000);
+// 			//setTimeout(worker, 5000);
+// 		}
+// 	});
+// 	console.timeEnd("loading meta.csv");
+// })();
+
+// function geoJsonLayer(type) {
+// 	return L.geoJson(null, {
+// 		filter: function (feature, layer) {
+// 			return feature.properties.id_network === type;
+// 		},
+// 		pointToLayer: function (feature, latlng) {
+// 			return L.marker(latlng, {
+// 				icon: L.VectorMarkers.icon({
+// 					icon: 'nuclear',
+// 					prefix: 'ion',
+// 					markerColor: getColor(feature.properties.value),
+// 					iconColor: '#000000',
+// 					popupAnchor: [0, -46]
+// 				}),
+// 				title: feature.properties.name,
+// 				riseOnHover: true
+// 			});
+// 		},
+// 		onEachFeature: function (feature, layer) {
+// 			layer.on({
+// 				click: showPopupClickPoint,
+// 				mouseover: showPopupMouseoverPoint
+// 			});
+// 		}
+// 	})
+// };
+
+
+// function initStations(stationsMetaData) {
+// 	mcg.clearLayers();
+
+// 	// layer_Spain_CSN.clearLayers();
+// 	// layer_Spain_CIEMAT.clearLayers();
+// 	// layer_Eurdep.clearLayers();
+// 	// allPointsLG.addTo(map);
+
+// 	var layer_geojson_Spain_CSN = geoJsonLayer('Spain_CSN');
+// 	layer_geojson_Spain_CSN.addData(stationsMetaData);
+// 	layer_Spain_CSN.addLayer(layer_geojson_Spain_CSN);
+
+// 	var layer_geojson_Spain_CIEMAT = geoJsonLayer('Spain_CIEMAT');
+// 	layer_geojson_Spain_CIEMAT.addData(stationsMetaData);
+// 	layer_Spain_CIEMAT.addLayer(layer_geojson_Spain_CIEMAT);
+
+// 	var layer_geojson_Eurdep = geoJsonLayer('Eurdep');
+// 	layer_geojson_Eurdep.addData(stationsMetaData);
+// 	layer_Eurdep.addLayer(layer_geojson_Eurdep);
+// };
+
+
+//Checking in the 'sub groups'
+// mcg.checkIn([
+// 	layer_Spain_CSN,
+// 	layer_Spain_CIEMAT,
+// 	layer_Eurdep
+// ]);
+
+
+// layerControl.addOverlay(allPointsLG, "All / none", "Stations");
+// layerControl.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
+// layerControl.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
+// layerControl.addOverlay(layer_Eurdep, "Eurdep", "Stations");
+
+
+// add check/uncheck functionality for Stations layer
+// map.on("overlayadd overlayremove", function (event) {
+// 	var layer = event.layer;
+
+// 	if (event.type === "overlayadd") {
+// 		if (layer === allPointsLG) {
+// 			if (!map.hasLayer(layer_Spain_CSN)) {
+// 				layer_Spain_CSN.addTo(map);
+// 			};
+// 			if (!map.hasLayer(layer_Spain_CIEMAT)) {
+// 				layer_Spain_CIEMAT.addTo(map);
+// 			};
+// 			if (!map.hasLayer(layer_Eurdep)) {
+// 				layer_Eurdep.addTo(map);
+// 			};
+// 		};
+// 		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Eurdep)) {
+// 			map.addLayer(allPointsLG);
+// 		};
+// 	};
+
+// 	if (event.type === "overlayremove") {
+// 		if (layer === allPointsLG) {
+// 			map.removeLayer(layer_Spain_CSN);
+// 			map.removeLayer(layer_Spain_CIEMAT);
+// 			map.removeLayer(layer_Eurdep);
+// 		};
+// 		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Eurdep)) {
+// 			map.removeLayer(allPointsLG);
+// 		};
+// 	};
+
+// 	layerControl._update();
+// 	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
+// });
