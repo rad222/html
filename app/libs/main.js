@@ -470,25 +470,61 @@ var stationsMetaData = {};
 
 // define stations markercluster group
 var stationsMCG = L.markerClusterGroup.layerSupport({
-	/*iconCreateFunction: function (cluster) {
-		var children = cluster.getAllChildMarkers();
-		var count = cluster.getChildCount();
-		
-		var sum = 0;
-		for (var i = 0; i < children.length; i++) {
-			var val = isNaN(parseFloat(children[i].feature.properties.value)) ? 0 : parseFloat(children[i].feature.properties.value);
-			sum += val;
-		};
+	//iconCreateFunction: function (cluster) {
 
-		var average = sum / count;
-		//average = average.toFixed(2); // precision to 2 digits
-		average = Math.round(average); // round
+		/*
+		// default marcercluster
+				var childCount = cluster.getChildCount();
 
-		return new L.DivIcon({
-			html: '<b>' + average + '</b>'
-		});
+				var c = ' marker-cluster-';
+				if (childCount < 10) {
+					c += 'small';
+				} else if (childCount < 100) {
+					c += 'medium';
+				} else {
+					c += 'large';
+				}
 
-	}*/
+				return new L.DivIcon({
+					html: '<div><span>' + childCount + '</span></div>',
+					className: 'marker-cluster' + c,
+					iconSize: new L.Point(40, 40)
+				});
+		*/
+		/*
+		// average marcercluster with legend color
+				var children = cluster.getAllChildMarkers();
+				var childCount = cluster.getChildCount();
+
+				var c = ' marker-cluster-';
+				if (childCount < 10) {
+					c += 'small';
+				} else if (childCount < 100) {
+					c += 'medium';
+				} else {
+					c += 'large';
+				}
+
+				var sum = 0;
+				for (var i = 0; i < children.length; i++) {
+					var val = isNaN(parseFloat(children[i].feature.properties.value)) ? 0 : parseFloat(children[i].feature.properties.value);
+					sum += val;
+				};
+
+				var average = sum / childCount;
+				//average = average.toFixed(2); // precision to 2 digits
+				average = Math.round(average); // round
+
+				var color = getColor(average);
+
+				return new L.DivIcon({
+					html: '<div style="background-color:' + color + '"><span>' + average + '</span></div>',
+					className: 'marker-cluster',
+					iconSize: new L.Point(40, 40)
+				});
+		*/
+
+	//}
 }).addTo(map);
 
 function initStations() {
