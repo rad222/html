@@ -469,7 +469,27 @@ var stationsMetaData = {};
 })();
 
 // define stations markercluster group
-var stationsMCG = L.markerClusterGroup.layerSupport().addTo(map);
+var stationsMCG = L.markerClusterGroup.layerSupport({
+	/*iconCreateFunction: function (cluster) {
+		var children = cluster.getAllChildMarkers();
+		var count = cluster.getChildCount();
+		
+		var sum = 0;
+		for (var i = 0; i < children.length; i++) {
+			var val = isNaN(parseFloat(children[i].feature.properties.value)) ? 0 : parseFloat(children[i].feature.properties.value);
+			sum += val;
+		};
+
+		var average = sum / count;
+		//average = average.toFixed(2); // precision to 2 digits
+		average = Math.round(average); // round
+
+		return new L.DivIcon({
+			html: '<b>' + average + '</b>'
+		});
+
+	}*/
+}).addTo(map);
 
 function initStations() {
 	setTimeout(() => {
@@ -770,6 +790,15 @@ $(document).ready(function () {
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 });
+
+
+
+
+
+
+
+
+
 
 // ----------------------------------------------------------------------------------------------
 
