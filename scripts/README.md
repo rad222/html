@@ -12,6 +12,13 @@ $ sudo pip install -r requirements.txt
 $ cd ~/html
 $ git pull
 ```
+### Update repository
+```sh
+$ cd ~/html
+$ git status
+$ git commit -a -m 'Update data'
+$ git push
+```
 ### Running
 ```sh
 $ cd ~/html/scripts
