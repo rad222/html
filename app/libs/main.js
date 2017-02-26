@@ -468,63 +468,67 @@ var stationsMetaData = {};
 	console.timeEnd("loading meta.csv");
 })();
 
+
+var clusterType = 'average';
+
 // define stations markercluster group
 var stationsMCG = L.markerClusterGroup.layerSupport({
-	//iconCreateFunction: function (cluster) {
+	iconCreateFunction: function (cluster) {
 
-		/*
-		// default marcercluster
-				var childCount = cluster.getChildCount();
+		if (clusterType === 'average') {
+			// average marcercluster with legend color
+			var children = cluster.getAllChildMarkers();
+			var childCount = cluster.getChildCount();
 
-				var c = ' marker-cluster-';
-				if (childCount < 10) {
-					c += 'small';
-				} else if (childCount < 100) {
-					c += 'medium';
-				} else {
-					c += 'large';
-				}
+			var c = ' marker-cluster-';
+			if (childCount < 10) {
+				c += 'small';
+			} else if (childCount < 100) {
+				c += 'medium';
+			} else {
+				c += 'large';
+			};
 
-				return new L.DivIcon({
-					html: '<div><span>' + childCount + '</span></div>',
-					className: 'marker-cluster' + c,
-					iconSize: new L.Point(40, 40)
-				});
-		*/
-		/*
-		// average marcercluster with legend color
-				var children = cluster.getAllChildMarkers();
-				var childCount = cluster.getChildCount();
+			var sum = 0;
+			for (var i = 0; i < children.length; i++) {
+				var val = isNaN(parseFloat(children[i].feature.properties.value)) ? 0 : parseFloat(children[i].feature.properties.value);
+				sum += val;
+			};
 
-				var c = ' marker-cluster-';
-				if (childCount < 10) {
-					c += 'small';
-				} else if (childCount < 100) {
-					c += 'medium';
-				} else {
-					c += 'large';
-				}
+			var average = sum / childCount;
+			//average = average.toFixed(2); // precision to 2 digits
+			average = Math.round(average); // round
 
-				var sum = 0;
-				for (var i = 0; i < children.length; i++) {
-					var val = isNaN(parseFloat(children[i].feature.properties.value)) ? 0 : parseFloat(children[i].feature.properties.value);
-					sum += val;
-				};
+			var color = getColor(average);
 
-				var average = sum / childCount;
-				//average = average.toFixed(2); // precision to 2 digits
-				average = Math.round(average); // round
+			return new L.DivIcon({
+				html: '<div style="background-color:' + color + '"><span>' + average + '</span></div>',
+				className: 'marker-cluster',
+				iconSize: new L.Point(40, 40)
+			});
+		};
 
-				var color = getColor(average);
+		if (clusterType === 'count') {
+			// default marcercluster
+			var childCount = cluster.getChildCount();
 
-				return new L.DivIcon({
-					html: '<div style="background-color:' + color + '"><span>' + average + '</span></div>',
-					className: 'marker-cluster',
-					iconSize: new L.Point(40, 40)
-				});
-		*/
+			var c = ' marker-cluster-';
+			if (childCount < 10) {
+				c += 'small';
+			} else if (childCount < 100) {
+				c += 'medium';
+			} else {
+				c += 'large';
+			};
 
-	//}
+			return new L.DivIcon({
+				html: '<div><span>' + childCount + '</span></div>',
+				className: 'marker-cluster' + c,
+				iconSize: new L.Point(40, 40)
+			});
+
+		};
+	}
 }).addTo(map);
 
 function initStations() {
@@ -810,6 +814,19 @@ $(".switch-field.color-selector").change(function (e) {
 	};
 });
 
+//Stations cluster mode selector
+$(".switch-field.cluster").change(function (e) {
+	var value = e.target.value;
+
+	if (value === 'modeAverage') { // Average cluster
+		clusterType = 'average';
+	} else if (value === 'modeCount') { // Count cluster
+		clusterType = 'count';
+	};
+
+	// update style for stations layer
+	initStations();
+});
 
 // document ready event
 $(document).ready(function () {
@@ -826,12 +843,6 @@ $(document).ready(function () {
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 });
-
-
-
-
-
-
 
 
 

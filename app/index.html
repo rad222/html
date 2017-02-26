@@ -61,7 +61,7 @@
                     <form class="form">
                         <div class="switch-field point-event">
                             <div class="switch-title">
-                                <p tkey="point-layer">Point layer:</p>
+                                <p tkey="point-layer"><i>Point layer:</i></p>
                             </div>
                             <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
                             <label for="optradio_point_click">Click</label>
@@ -70,7 +70,7 @@
                         </div>
                         <div class="switch-field polygon-event">
                             <div class="switch-title">
-                                <p tkey="polygon-layer">Polygon layer:</p>
+                                <p tkey="polygon-layer"><i>Polygon layer:</i></p>
                             </div>
                             <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
                             <label for="optradio_polygon_click">Click</label>
@@ -88,6 +88,15 @@
                         <label for="optradio_color_range2">Scale 2</label>
                         <input type="radio" id="optradio_color_range3" name="optradio_color" value="colorRange3" />
                         <label for="optradio_color_range3">Scale 3</label>
+                    </div>
+                </div>
+                <div id="stations-cluster">
+                    <p tkey="stations-selector-cluster">Stations cluster mode:</p>
+                    <div class="switch-field cluster">
+                        <input type="radio" id="optradio_clusterAverage" name="optradio_cluster" value="modeAverage" checked/>
+                        <label for="optradio_clusterAverage">Average</label>
+                        <input type="radio" id="optradio_clusterCount" name="optradio_cluster" value="modeCount" />
+                        <label for="optradio_clusterCount">Count</label>
                     </div>
                 </div>
                 <div id="stations-mode-ranges" style="display: none">
