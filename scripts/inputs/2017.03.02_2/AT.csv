@@ -1,0 +1,333 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+02/03/17 09:00;AT0001;Eurdep;air;48.73;16.39;180.3;Austria;Baja Austria;Distrito de Mistelbach;;Laa/Thaya;8.0;8.4
+02/03/17 09:00;AT0002;Eurdep;air;48.77;14.99;492.0;Austria;Baja Austria;Distrito de Gmünd;Gmünd;Gmünd;16.2;16.0
+02/03/17 09:00;AT0003;Eurdep;air;48.34;16.84;144.5;Austria;Baja Austria;Distrito de Gänserndorf;;Zwerndorf;8.3;8.8
+02/03/17 09:00;AT0004;Eurdep;air;46.62;13.85;504.8;Austria;Carintia;Villach;Villach;Villach;10.7;11.0
+02/03/17 09:00;AT0005;Eurdep;air;46.69;15.98;206.8;Austria;Estiria;Südoststeiermark;;Bad Radkersburg;9.6;9.8
+02/03/17 09:00;AT0006;Eurdep;air;47.58;12.17;490.6;Austria;Tirol;Distrito de Kufstein;Kufstein;Kufstein;9.2;10.0
+02/03/17 09:00;AT0007;Eurdep;air;48.64;14.46;643.2;Austria;Alta Austria;Distrito de Freistadt;;Wullowitz;17.3;18.0
+02/03/17 09:00;AT0012;Eurdep;air;48.25;13.04;353.7;Austria;Alta Austria;Braunau am Inn District;Braunau am Inn;Braunau;11.2;12.0
+02/03/17 09:00;AT0015;Eurdep;air;47.41;9.74;441.5;Austria;Vorarlberg;Distrito de Dornbirn;Dornbirn;Dornbirn;7.0;7.0
+02/03/17 09:00;AT0017;Eurdep;air;47.31;16.44;360.1;Austria;Burgenland;Distrito de Oberwart;Rechnitz;Rechnitz;7.6;7.0
+02/03/17 09:00;AT0101;Eurdep;air;47.63;16.63;220.7;Austria;Győr-Moson-Sopron;Sopron–Fertődi;Kópháza;Deutschkreutz;7.8;8.0
+02/03/17 09:00;AT0102;Eurdep;air;47.11;16.46;216.2;Austria;Burgenland;Distrito de Güssing;;Eberau;9.8;10.0
+02/03/17 09:00;AT0103;Eurdep;air;47.85;16.54;169.1;Austria;Burgenland;Distrito de Eisenstadt-Umgebung;Eisenstadt;Eisenstadt;8.8;9.0
+02/03/17 09:00;AT0104;Eurdep;air;47.84;16.93;124.4;Austria;Burgenland;Distrito de Neusiedl am See;Frauenkirchen;Frauenkirchen;8.0;8.4
+02/03/17 09:00;AT0105;Eurdep;air;47.24;16.32;293.9;Austria;Burgenland;Distrito de Oberwart;Grosspetersdorf;Großpetersdorf;10.1;10.0
+02/03/17 09:00;AT0106;Eurdep;air;47.06;16.32;217.2;Austria;Burgenland;Distrito de Güssing;Güssing;Güssing;7.5;8.1
+02/03/17 09:00;AT0108;Eurdep;air;46.94;16.13;258.2;Austria;Burgenland;Distrito de Jennersdorf;Jennersdorf;Jennersdorf;8.6;8.8
+02/03/17 09:00;AT0109;Eurdep;air;48.09;17.07;136.7;Austria;Burgenland;Distrito de Neusiedl am See;Kittsee;Kittsee;9.6;10.0
+02/03/17 09:00;AT0110;Eurdep;air;47.6;16.39;324.0;Austria;Burgenland;Distrito de Oberpullendorf;;Kobersdorf;6.8;6.9
+02/03/17 09:00;AT0111;Eurdep;air;47.41;16.42;358.6;Austria;Burgenland;Distrito de Oberpullendorf;;Lockenhaus;7.3;7.5
+02/03/17 09:00;AT0112;Eurdep;air;47.74;16.4;241.2;Austria;Burgenland;Distrito de Mattersburg;Mattersburg;Mattersburg;7.7;7.9
+02/03/17 09:00;AT0113;Eurdep;air;47.96;16.84;174.2;Austria;Burgenland;Distrito de Neusiedl am See;Neusiedl am See;Neusiedl/See;8.3;8.6
+02/03/17 09:00;AT0114;Eurdep;air;47.5;16.5;289.9;Austria;Burgenland;Distrito de Oberpullendorf;Oberpullendorf;Oberpullendorf;7.7;7.9
+02/03/17 09:00;AT0115;Eurdep;air;47.29;16.21;321.9;Austria;Burgenland;Distrito de Oberwart;Oberwart;Oberwart;7.6;7.8
+02/03/17 09:00;AT0116;Eurdep;air;47.7;16.91;121.3;Austria;Burgenland;Distrito de Neusiedl am See;Pamhagen;Pamhagen;9.4;10.0
+02/03/17 09:00;AT0117;Eurdep;air;47.81;16.68;114.7;Austria;Burgenland;Rust;Rust;Rust;6.7;7.0
+02/03/17 09:00;AT0118;Eurdep;air;47.37;16.12;388.4;Austria;Burgenland;Distrito de Oberwart;Pinkafeld;Pinkafeld;10.4;10.0
+02/03/17 09:00;AT0119;Eurdep;air;47.3;16.45;312.6;Austria;Burgenland;Distrito de Oberwart;Rechnitz;Rechnitz;7.8;8.0
+02/03/17 09:00;AT0120;Eurdep;air;47.16;16.17;266.3;Austria;Burgenland;Distrito de Güssing;Stegersbach;Stegersbach;10.1;10.0
+02/03/17 09:00;AT0201;Eurdep;air;47.72;15.78;1473.6;Austria;Baja Austria;Distrito de Neunkirchen;;Rax;8.7;8.9
+02/03/17 09:00;AT0202;Eurdep;air;48.08;15.92;845.3;Austria;Baja Austria;Distrito de Baden;;Schöpfl;7.9;8.0
+02/03/17 09:00;AT0203;Eurdep;air;47.62;15.83;1141.2;Austria;Estiria;Bruck-Mürzzuschlag District;;Semmering-Hirschenk.;10.0;10.0
+02/03/17 09:00;AT0301;Eurdep;air;46.55;13.71;571.9;Austria;Carintia;Distrito de Villach-Land;Arnoldstein;Arnoldstein;9.5;9.8
+02/03/17 09:00;AT0302;Eurdep;air;46.96;14.8;714.0;Austria;Carintia;Distrito de Wolfsberg;Bad Sankt Leonhard im Lavanttal;Bad St. Leonhard;8.5;8.7
+02/03/17 09:00;AT0303;Eurdep;air;46.62;13.69;1003.9;Austria;Carintia;Distrito de Villach-Land;;Bleiberg;9.3;9.5
+02/03/17 09:00;AT0304;Eurdep;air;46.59;14.8;483.5;Austria;Carintia;Distrito de Völkermarkt;Bleiburg;Bleiburg;9.8;10.0
+02/03/17 09:00;AT0305;Eurdep;air;46.59;14.64;471.9;Austria;Carintia;Distrito de Völkermarkt;;Bad Eisenkappel;9.4;9.7
+02/03/17 09:00;AT0306;Eurdep;air;46.72;14.1;551.0;Austria;Carintia;Distrito de Feldkirchen;Feldkirchen in Kärnten;Feldkirchen;8.9;9.0
+22/02/17 23:00;AT0307;Eurdep;air;46.54;14.31;430.9;Austria;Carintia;Distrito de Klagenfurt-Land;Ferlach;Ferlach;0.0;0.0
+02/03/17 09:00;AT0308;Eurdep;air;46.57;13.91;555.0;Austria;Carintia;Distrito de Villach-Land;;Faak;7.7;7.9
+02/03/17 09:00;AT0309;Eurdep;air;46.96;14.4;643.4;Austria;Carintia;Distrito de Sankt Veit an der Glan;Friesach;Friesach;7.8;8.0
+02/03/17 09:00;AT0310;Eurdep;air;46.9;13.53;731.5;Austria;Carintia;Distrito de Spittal an der Drau;;Gmünd Ktn.;11.6;12.0
+02/03/17 09:00;AT0311;Eurdep;air;46.87;14.29;716.4;Austria;Carintia;Distrito de Sankt Veit an der Glan;;Gurk;11.4;11.0
+02/03/17 09:00;AT0312;Eurdep;air;47.04;12.85;1452.9;Austria;Carintia;Distrito de Spittal an der Drau;;Heiligenblut;9.0;9.3
+02/03/17 09:00;AT0313;Eurdep;air;46.63;13.36;641.9;Austria;Carintia;Distrito de Hermagor;Hermagor-Pressegger See;Hermagor;8.8;9.0
+02/03/17 09:00;AT0314;Eurdep;air;46.61;14.32;438.2;Austria;Carintia;Klagenfurt am Wörthersee;Klagenfurt;Klagenfurt LRG;7.3;7.0
+02/03/17 09:00;AT0316;Eurdep;air;46.87;14.12;746.1;Austria;Carintia;Distrito de Sankt Veit an der Glan;;Glödnitz;8.9;9.2
+02/03/17 09:00;AT0317;Eurdep;air;46.67;13.0;0.0;Austria;0;0;0;Kötschach/Mauthen;8.0;8.2
+02/03/17 09:00;AT0318;Eurdep;air;46.64;14.94;368.2;Austria;Carintia;Distrito de Völkermarkt;;Lavamünd;10.1;10.0
+02/03/17 09:00;AT0319;Eurdep;air;46.75;12.97;682.2;Austria;Carintia;Distrito de Spittal an der Drau;;Oberdrauburg;10.8;11.0
+02/03/17 09:00;AT0320;Eurdep;air;46.93;13.2;671.2;Austria;Carintia;Distrito de Spittal an der Drau;Obervellach;Obervellach;9.5;9.9
+02/03/17 09:00;AT0322;Eurdep;air;46.71;13.64;549.3;Austria;Carintia;Distrito de Villach-Land;;Paternion;11.7;11.0
+02/03/17 09:00;AT0323;Eurdep;air;46.8;13.7;703.3;Austria;Carintia;Distrito de Spittal an der Drau;Radenthein;Radenthein;9.2;9.5
+02/03/17 09:00;AT0401;Eurdep;air;46.55;14.06;483.3;Austria;Carintia;Distrito de Villach-Land;;St. Jakob/Rosental;9.8;10.0
+02/03/17 09:00;AT0402;Eurdep;air;46.77;14.83;404.9;Austria;Carintia;Distrito de Wolfsberg;Sankt Andrä;St. Andrä/Lavanttal;9.6;9.8
+02/03/17 09:00;AT0403;Eurdep;air;46.7;14.87;380.6;Austria;Carintia;Distrito de Wolfsberg;;St. Paul/Lavanttal;7.7;7.0
+02/03/17 09:00;AT0404;Eurdep;air;46.75;14.34;472.1;Austria;Carintia;Distrito de Sankt Veit an der Glan;Sankt Veit an der Glan;St. Veit/Glan;9.1;9.3
+02/03/17 09:00;AT0405;Eurdep;air;46.8;13.5;559.6;Austria;Carintia;Distrito de Spittal an der Drau;Spittal an der Drau;Spittal/Drau;9.7;10.0
+02/03/17 09:00;AT0406;Eurdep;air;46.87;14.47;614.9;Austria;Carintia;Distrito de Sankt Veit an der Glan;;Treibach/Althofen;8.8;9.0
+02/03/17 06:00;AT0407;Eurdep;air;46.61;14.04;0.0;Austria;0;0;0.0;Velden;9.3;9.4
+02/03/17 09:00;AT0408;Eurdep;air;46.61;13.85;499.8;Austria;Carintia;Villach;Villach;Villach;8.4;8.7
+02/03/17 09:00;AT0409;Eurdep;air;46.63;14.15;439.0;Austria;Carintia;Distrito de Klagenfurt-Land;;Pörtschach;8.6;8.8
+02/03/17 09:00;AT0410;Eurdep;air;46.66;14.62;470.9;Austria;Carintia;Distrito de Völkermarkt;Völkermarkt;Völkermarkt;8.1;8.4
+02/03/17 09:00;AT0412;Eurdep;air;46.87;12.88;0.0;Austria;0;0;0.0;Winklern;9.7;10.0
+02/03/17 09:00;AT0413;Eurdep;air;46.83;14.82;474.3;Austria;Carintia;Distrito de Wolfsberg;Wolfsberg;Wolfsberg;11.3;11.0
+02/03/17 09:00;AT0416;Eurdep;air;47.06;13.61;1629.4;Austria;Salsburgo;Distrito de Tamsweg;;Katschberg;12.3;12.0
+02/03/17 09:00;AT0417;Eurdep;air;46.79;14.96;1981.2;Austria;Carintia;Distrito de Wolfsberg;Sankt Andrä;Koralpe;11.0;11.0
+02/03/17 09:00;AT0501;Eurdep;air;48.7;15.32;535.1;Austria;Baja Austria;Distrito de Zwettl;;Allentsteig;9.7;10.0
+02/03/17 09:00;AT0502;Eurdep;air;48.02;16.0;0.0;Austria;0;0;0;Altenmarkt;9.1;9.2
+02/03/17 09:00;AT0503;Eurdep;air;48.12;14.87;271.2;Austria;Baja Austria;Distrito de Amstetten;Amstetten;Amstetten;8.1;8.0
+02/03/17 09:00;AT0504;Eurdep;air;47.51;16.04;910.8;Austria;Baja Austria;Distrito de Neunkirchen;Mönichkirchen;Mönichkirchen;9.8;10.0
+02/03/17 09:00;AT0505;Eurdep;air;48.0;16.25;0.0;Austria;0;0;0;Baden;9.5;9.7
+02/03/17 09:00;AT0507;Eurdep;air;47.95;16.11;329.0;Austria;Baja Austria;Distrito de Baden;Berndorf;Berndorf;8.1;8.4
+02/03/17 09:00;AT0508;Eurdep;air;48.03;16.78;155.4;Austria;Baja Austria;Distrito de Bruck an der Leitha;Bruck an der Leitha;Bruck/Leitha;8.1;8.3
+02/03/17 09:00;AT0510;Eurdep;air;47.96;16.4;201.4;Austria;Baja Austria;Distrito de Baden;Ebreichsdorf;Ebreichsdorf;8.0;8.2
+02/03/17 09:00;AT0511;Eurdep;air;48.65;15.82;318.6;Austria;Baja Austria;Distrito de Horn;Eggenburg;Eggenburg;7.7;8.0
+02/03/17 09:00;AT0512;Eurdep;air;48.31;16.69;161.8;Austria;Baja Austria;Distrito de Gänserndorf;Gänserndorf;Gänserndorf;9.6;10.0
+02/03/17 09:00;AT0513;Eurdep;air;47.67;15.94;500.0;Austria;Baja Austria;Distrito de Neunkirchen;;Gloggnitz;7.2;7.3
+02/03/17 09:00;AT0514;Eurdep;air;48.76;14.97;494.2;Austria;Baja Austria;Distrito de Gmünd;Gmünd;Gm�nd N�;12.6;12.0
+02/03/17 09:00;AT0515;Eurdep;air;48.57;14.96;701.5;Austria;Baja Austria;Distrito de Zwettl;;Groß Gerungs;17.0;17.0
+02/03/17 09:00;AT0516;Eurdep;air;47.8;16.0;0.0;Austria;0;0;0;Grünbach;8.9;9.1
+02/03/17 09:00;AT0518;Eurdep;air;47.88;15.89;653.1;Austria;Baja Austria;Distrito de Wiener Neustadt-Land;;Gutenstein;7.8;8.1
+02/03/17 09:00;AT0519;Eurdep;air;48.11;14.57;346.3;Austria;Baja Austria;Distrito de Amstetten;Haag;Haag;10.9;11.0
+02/03/17 09:00;AT0520;Eurdep;air;48.15;16.94;137.0;Austria;Baja Austria;Distrito de Bruck an der Leitha;Hainburg an der Donau;Hainburg;10.4;10.0
+02/03/17 09:00;AT0521;Eurdep;air;48.03;15.77;483.4;Austria;Baja Austria;Lilienfeld District;Hainfeld;Hainfeld;9.7;10.0
+02/03/17 09:00;AT0522;Eurdep;air;48.87;15.12;566.0;Austria;Baja Austria;Distrito de Gmünd;Heidenreichstein;Heidenreichstein;14.2;14.0
+02/03/17 09:00;AT0523;Eurdep;air;48.29;15.69;229.3;Austria;Baja Austria;Distrito de Sankt Pölten-Land;Herzogenburg;Herzogenburg;9.2;9.3
+02/03/17 09:00;AT0601;Eurdep;air;48.56;16.08;229.3;Austria;Baja Austria;Distrito de Hollabrunn;Hollabrunn;Hollabrunn;9.3;9.6
+02/03/17 09:00;AT0602;Eurdep;air;48.67;15.65;303.0;Austria;Baja Austria;Distrito de Horn;Horn;Horn;10.7;11.0
+02/03/17 09:00;AT0603;Eurdep;air;48.3;16.32;230.8;Austria;Baja Austria;Distrito de Wien-Umgebung;Klosterneuburg;Klosterneuburg;7.3;7.6
+02/03/17 09:00;AT0604;Eurdep;air;48.36;16.33;166.4;Austria;Baja Austria;Distrito de Korneuburg;Korneuburg;Korneuburg;8.9;9.2
+02/03/17 09:00;AT0605;Eurdep;air;48.42;15.62;212.5;Austria;Baja Austria;Krems an der Donau;Krems an der Donau;Krems;8.7;9.0
+02/03/17 09:00;AT0606;Eurdep;air;48.73;16.39;180.3;Austria;Baja Austria;Distrito de Mistelbach;;Laa/Thaya;8.4;9.0
+02/03/17 09:00;AT0607;Eurdep;air;48.47;15.7;205.1;Austria;Baja Austria;Distrito de Krems-Land;;Langenlois;10.2;10.0
+02/03/17 09:00;AT0609;Eurdep;air;48.02;15.6;389.8;Austria;Baja Austria;Lilienfeld District;Lilienfeld;Lilienfeld;8.0;8.6
+02/03/17 09:00;AT0610;Eurdep;air;47.86;15.03;593.4;Austria;Baja Austria;Distrito de Scheibbs;Lunz am See;Lunz/See;8.5;9.2
+02/03/17 09:00;AT0611;Eurdep;air;48.11;15.34;299.2;Austria;Baja Austria;Distrito de Melk;Mank;Mank;9.5;10.0
+02/03/17 09:00;AT0612;Eurdep;air;47.97;16.6;208.4;Austria;Baja Austria;Distrito de Bruck an der Leitha;Mannersdorf am Leithagebirge;Mannersdorf;12.4;12.0
+02/03/17 09:00;AT0614;Eurdep;air;48.23;15.33;207.2;Austria;Baja Austria;Distrito de Melk;Melk;Melk;7.5;7.7
+02/03/17 09:00;AT0615;Eurdep;air;48.57;16.61;190.6;Austria;Baja Austria;Distrito de Mistelbach;Mistelbach;Mistelbach;10.1;10.0
+02/03/17 09:00;AT0616;Eurdep;air;48.08;16.3;212.3;Austria;Baja Austria;Distrito de Mödling;Mödling;Mödling;9.2;9.4
+02/03/17 09:00;AT0617;Eurdep;air;48.2;15.91;258.6;Austria;Baja Austria;Distrito de Sankt Pölten-Land;Neulengbach;Neulengbach;9.5;9.7
+02/03/17 09:00;AT0619;Eurdep;air;47.88;14.82;443.2;Austria;Baja Austria;Distrito de Amstetten;;Opponitz;9.5;10.0
+02/03/17 09:00;AT0620;Eurdep;air;48.42;15.22;865.2;Austria;Baja Austria;Distrito de Zwettl;;Ottenschlag;8.6;8.8
+02/03/17 09:00;AT0621;Eurdep;air;48.12;16.27;247.6;Austria;Baja Austria;Distrito de Mödling;Perchtoldsdorf;Perchtoldsdorf;9.1;9.5
+02/03/17 09:00;AT0623;Eurdep;air;48.67;16.63;212.4;Austria;Baja Austria;Distrito de Mistelbach;Poysdorf;Poysdorf;11.0;11.0
+02/03/17 09:00;AT0701;Eurdep;air;48.85;15.49;433.8;Austria;Baja Austria;Distrito de Waidhofen an der Thaya;;Raabs;9.7;10.0
+02/03/17 09:00;AT0702;Eurdep;air;48.75;15.96;236.9;Austria;Baja Austria;Distrito de Hollabrunn;;Retz;9.4;9.7
+02/03/17 09:00;AT0703;Eurdep;air;47.85;15.56;601.1;Austria;Baja Austria;Lilienfeld District;;St. Aegyd;7.0;7.6
+02/03/17 09:00;AT0704;Eurdep;air;48.2;15.62;272.3;Austria;Baja Austria;Sankt Pölten;Sankt Pölten;St. Pölten Pol.-Dion;8.0;8.2
+02/03/17 09:00;AT0705;Eurdep;air;48.21;15.63;266.8;Austria;Baja Austria;Sankt Pölten;Sankt Pölten;St. Pölten BH;8.0;8.2
+02/03/17 09:00;AT0706;Eurdep;air;48.17;14.53;269.2;Austria;Baja Austria;Distrito de Amstetten;Saint Valentin;St. Valentin;8.8;9.5
+02/03/17 09:00;AT0707;Eurdep;air;48.01;15.17;372.4;Austria;Baja Austria;Distrito de Scheibbs;Scheibbs;Scheibbs;10.0;10.0
+02/03/17 09:00;AT0708;Eurdep;air;48.79;15.07;526.5;Austria;Baja Austria;Distrito de Gmünd;Schrems;Schrems;14.0;14.0
+02/03/17 09:00;AT0709;Eurdep;air;48.14;16.48;162.3;Austria;Baja Austria;Distrito de Wien-Umgebung;Schwechat;Schwechat;7.1;7.3
+02/03/17 09:00;AT0710;Eurdep;air;48.39;16.22;180.3;Austria;Baja Austria;Distrito de Korneuburg;Stockerau;Stockerau;6.9;7.5
+02/03/17 09:00;AT0714;Eurdep;air;48.33;16.05;178.7;Austria;Baja Austria;Distrito de Tulln;Tulln an der Donau;Tulln;7.1;7.7
+02/03/17 09:00;AT0715;Eurdep;air;48.81;15.28;499.2;Austria;Baja Austria;Distrito de Waidhofen an der Thaya;Waidhofen an der Thaya;Waidhofen/Thaya;10.7;11.0
+02/03/17 09:00;AT0716;Eurdep;air;47.96;14.78;364.2;Austria;Baja Austria;Waidhofen an der Ybbs;Waidhofen an der Ybbs;Waidhofen/Ybbs;9.3;9.9
+02/03/17 09:00;AT0717;Eurdep;air;47.84;16.25;271.3;Austria;Baja Austria;Wiener Neustadt;Wiener Neustadt;Wr. Neustadt FLH;7.0;7.1
+02/03/17 09:00;AT0718;Eurdep;air;47.82;16.23;263.6;Austria;Baja Austria;Wiener Neustadt;Wiener Neustadt;Wr. Neustadt;7.0;7.2
+02/03/17 09:00;AT0720;Eurdep;air;48.1;15.61;330.2;Austria;Baja Austria;Distrito de Sankt Pölten-Land;Wilhelmsburg;Wilhelmsburg;7.8;7.9
+02/03/17 09:00;AT0721;Eurdep;air;48.38;16.51;183.7;Austria;Baja Austria;Distrito de Mistelbach;Wolkersdorf;Wolkersdorf;9.3;9.5
+02/03/17 09:00;AT0722;Eurdep;air;48.18;15.09;217.2;Austria;Baja Austria;Distrito de Melk;;Ybbs/Donau;10.5;10.0
+02/03/17 09:00;AT0723;Eurdep;air;48.55;16.76;200.4;Austria;Baja Austria;Distrito de Gänserndorf;;Zistersdorf;9.7;10.0
+02/03/17 09:00;AT0801;Eurdep;air;48.6;15.16;574.2;Austria;Baja Austria;Distrito de Zwettl;Zwettl;Zwettl;17.8;18.0
+02/03/17 09:00;AT0802;Eurdep;air;48.71;16.13;195.0;Austria;Baja Austria;Distrito de Hollabrunn;;HADRES;10.0;11.0
+02/03/17 09:00;AT0803;Eurdep;air;48.28;16.91;140.8;Austria;Baja Austria;Distrito de Gänserndorf;;Marchegg;8.9;9.3
+02/03/17 09:00;AT0804;Eurdep;air;48.83;15.72;451.0;Austria;Baja Austria;Distrito de Horn;Langau;Langau;11.5;11.0
+02/03/17 09:00;AT0805;Eurdep;air;48.67;14.84;626.5;Austria;Baja Austria;Distrito de Gmünd;;St. Martin;15.3;15.0
+02/03/17 09:00;AT0818;Eurdep;air;48.56;16.37;422.6;Austria;Baja Austria;Distrito de Korneuburg;;Oberleiser Berg;7.7;8.5
+02/03/17 09:00;AT0819;Eurdep;air;48.12;16.62;151.1;Austria;Baja Austria;Distrito de Wien-Umgebung;Fischamend;Fischamend;7.5;7.7
+02/03/17 09:00;AT0820;Eurdep;air;47.81;15.25;1527.2;Austria;Baja Austria;Lilienfeld District;;Gemeindealpe;8.7;9.0
+02/03/17 09:00;AT0821;Eurdep;air;48.52;15.49;594.6;Austria;Baja Austria;Distrito de Krems-Land;Gföhl;Gföhl;12.5;12.0
+02/03/17 09:00;AT0823;Eurdep;air;48.18;16.08;309.7;Austria;Baja Austria;Distrito de Wien-Umgebung;Pressbaum;Pressbaum;10.0;10.0
+02/03/17 09:00;AT0901;Eurdep;air;48.25;13.23;357.9;Austria;Alta Austria;Braunau am Inn District;Altheim;Altheim;9.5;10.0
+02/03/17 09:00;AT0903;Eurdep;air;47.71;13.62;466.3;Austria;Alta Austria;Distrito de Gmunden;Bad Ischl;Bad Ischl;9.5;10.0
+02/03/17 09:00;AT0904;Eurdep;air;48.03;14.21;398.9;Austria;Alta Austria;Distrito de Steyr-Land;Bad Hall;Bad Hall;9.5;10.0
+02/03/17 09:00;AT0906;Eurdep;air;48.26;13.04;349.3;Austria;Alta Austria;Braunau am Inn District;Braunau am Inn;Braunau/Inn;8.5;8.9
+02/03/17 09:00;AT0908;Eurdep;air;48.31;14.02;269.1;Austria;Alta Austria;Distrito de Eferding;Eferding;Eferding;11.1;12.0
+02/03/17 09:00;AT0909;Eurdep;air;48.49;13.74;366.4;Austria;Alta Austria;Distrito de Schärding;Engelhartszell an der Donau;Engelhartszell;10.2;11.0
+02/03/17 09:00;AT0910;Eurdep;air;48.21;14.48;255.2;Austria;Alta Austria;Distrito de Linz-Land;Enns;Enns;10.0;11.0
+02/03/17 09:00;AT0911;Eurdep;air;47.99;13.4;549.5;Austria;Alta Austria;Distrito de Vöcklabruck;;Frankenmarkt;9.6;10.0
+02/03/17 09:00;AT0912;Eurdep;air;48.51;14.5;556.5;Austria;Alta Austria;Distrito de Freistadt;Freistadt;Freistadt;10.9;11.0
+02/03/17 09:00;AT0913;Eurdep;air;47.92;13.79;469.6;Austria;Alta Austria;Distrito de Gmunden;Gmunden;Gmunden;8.8;9.1
+02/03/17 09:00;AT0914;Eurdep;air;48.23;14.85;246.5;Austria;Alta Austria;Distrito de Perg;Grein;Grein;12.8;13.0
+02/03/17 09:00;AT0915;Eurdep;air;48.23;13.83;347.6;Austria;Alta Austria;Distrito de Grieskirchen;Grieskirchen;Grieskirchen;8.2;8.8
+02/03/17 09:00;AT0916;Eurdep;air;47.85;13.96;556.3;Austria;Alta Austria;Distrito de Gmunden;;Grünau;8.2;8.7
+02/03/17 09:00;AT0917;Eurdep;air;47.56;13.65;508.2;Austria;Alta Austria;Distrito de Gmunden;Hallstatt;Hallstatt;7.6;8.0
+02/03/17 09:00;AT0918;Eurdep;air;47.9;14.12;430.8;Austria;Alta Austria;Distrito de Kirchdorf an der Krems;Kirchdorf an der Krems;Kirchdorf;8.2;8.6
+02/03/17 09:00;AT0919;Eurdep;air;48.32;14.28;275.5;Austria;Alta Austria;Linz;Linz;Linz Urfahr;10.6;11.0
+02/03/17 09:00;AT0920;Eurdep;air;48.06;14.13;410.3;Austria;Alta Austria;Distrito de Kirchdorf an der Krems;Kremsmünster;Kremsmünster;9.9;10.0
+02/03/17 09:00;AT0922;Eurdep;air;48.08;13.88;366.3;Austria;Alta Austria;Distrito de Wels-Land;;Lambach;9.6;10.0
+02/03/17 09:00;AT1002;Eurdep;air;48.31;14.31;256.2;Austria;Alta Austria;Linz;Linz;Linz LFK;11.0;11.0
+02/03/17 09:00;AT1004;Eurdep;air;48.19;14.11;300.8;Austria;Alta Austria;Distrito de Wels-Land;Marchtrenk;Marchtrenk;7.1;7.0
+02/03/17 09:00;AT1005;Eurdep;air;48.1;13.15;457.7;Austria;Alta Austria;Braunau am Inn District;Mattighofen;Mattighofen;10.1;10.0
+02/03/17 09:00;AT1006;Eurdep;air;47.87;13.33;565.5;Austria;Alta Austria;Distrito de Vöcklabruck;;Mondsee;9.1;9.6
+02/03/17 09:00;AT1007;Eurdep;air;48.48;13.56;534.0;Austria;Alta Austria;Distrito de Schärding;Münzkirchen;Münzkirchen;12.0;13.0
+02/03/17 09:00;AT1008;Eurdep;air;48.48;13.99;547.1;Austria;Alta Austria;Distrito de Rohrbach;;Neufelden;8.8;9.6
+02/03/17 09:00;AT1009;Eurdep;air;48.27;13.73;389.6;Austria;Alta Austria;Distrito de Grieskirchen;;Neumarkt-Kallham;9.3;9.0
+02/03/17 09:00;AT1010;Eurdep;air;48.32;13.32;318.3;Austria;Baviera;Niederbayern;Bad Füssing;Obernberg;10.2;10.0
+02/03/17 09:00;AT1011;Eurdep;air;48.46;14.22;801.9;Austria;Alta Austria;Distrito de Urfahr-Umgebung;Oberneukirchen;Oberneukirchen;9.1;9.8
+02/03/17 09:00;AT1012;Eurdep;air;48.03;12.89;456.3;Austria;Alta Austria;Braunau am Inn District;;Riedersbach;9.4;10.0
+02/03/17 09:00;AT1013;Eurdep;air;48.26;14.21;292.6;Austria;Alta Austria;Distrito de Linz-Land;Pasching;Pasching;7.3;8.0
+02/03/17 09:00;AT1014;Eurdep;air;48.25;14.64;258.5;Austria;Alta Austria;Distrito de Perg;Perg;Perg;16.1;16.0
+02/03/17 09:00;AT1015;Eurdep;air;48.35;14.54;429.9;Austria;Alta Austria;Distrito de Freistadt;Pregarten;Pregarten;16.0;16.0
+02/03/17 09:00;AT1016;Eurdep;air;48.21;13.48;433.3;Austria;Alta Austria;Distrito de Ried im Innkreis;Ried im Innkreis;Ried/Innkreis;9.8;10.0
+02/03/17 09:00;AT1017;Eurdep;air;48.57;13.99;584.4;Austria;Alta Austria;Distrito de Rohrbach;Rohrbach in Oberösterreich;Rohrbach;9.5;10.0
+02/03/17 09:00;AT1018;Eurdep;air;48.56;14.65;917.8;Austria;Alta Austria;Distrito de Freistadt;;Sandl;14.2;14.0
+02/03/17 09:00;AT1020;Eurdep;air;48.46;13.43;305.0;Austria;Alta Austria;Distrito de Schärding;Schärding;Schärding;9.8;10.0
+02/03/17 09:00;AT1021;Eurdep;air;48.04;14.41;294.7;Austria;Alta Austria;Steyr;Steyr;Steyr;7.3;7.8
+02/03/17 09:00;AT1023;Eurdep;air;48.24;14.25;278.3;Austria;Alta Austria;Distrito de Linz-Land;Traun;Traun;6.9;7.5
+02/03/17 09:00;AT1101;Eurdep;air;48.44;14.78;630.5;Austria;Alta Austria;Distrito de Freistadt;Unterweißenbach;Unterweißenbach;18.6;19.0
+02/03/17 09:00;AT1102;Eurdep;air;48.68;13.9;592.7;Austria;Alta Austria;Distrito de Rohrbach;;Ulrichsberg;9.8;11.0
+02/03/17 09:00;AT1103;Eurdep;air;48.01;13.92;408.3;Austria;Alta Austria;Distrito de Gmunden;Vorchdorf;Vorchdorf;9.0;9.8
+02/03/17 09:00;AT1104;Eurdep;air;48.01;13.65;425.8;Austria;Alta Austria;Distrito de Vöcklabruck;Vöcklabruck;Vöcklabruck;9.2;9.7
+02/03/17 09:00;AT1105;Eurdep;air;48.16;14.02;320.0;Austria;Alta Austria;Wels;Wels;Wels;8.2;8.9
+02/03/17 09:00;AT1107;Eurdep;air;47.85;14.68;488.9;Austria;Alta Austria;Distrito de Steyr-Land;Weyer;Weyer/Enns;11.8;12.0
+02/03/17 09:00;AT1108;Eurdep;air;48.11;13.67;605.9;Austria;Alta Austria;Distrito de Vöcklabruck;;Wolfsegg;10.7;11.0
+02/03/17 09:00;AT1109;Eurdep;air;47.72;14.33;616.5;Austria;Alta Austria;Distrito de Kirchdorf an der Krems;Windischgarsten;Windischgarsten;10.0;10.0
+02/03/17 09:00;AT1110;Eurdep;air;48.52;14.29;723.8;Austria;Alta Austria;Distrito de Urfahr-Umgebung;;Bad Leonfelden;9.0;9.7
+02/03/17 09:00;AT1115;Eurdep;air;48.37;13.57;345.9;Austria;Alta Austria;Distrito de Schärding;Andorf;Andorf;10.8;12.0
+02/03/17 09:00;AT1116;Eurdep;air;47.52;13.69;1995.3;Austria;Alta Austria;Distrito de Gmunden;Obertraun;Dachstein;13.2;13.0
+02/03/17 09:00;AT1117;Eurdep;air;47.82;13.72;1372.8;Austria;Alta Austria;Distrito de Gmunden;Ebensee;Feuerkogel;9.1;9.5
+02/03/17 09:00;AT1118;Eurdep;air;47.67;14.17;1576.5;Austria;Alta Austria;Distrito de Kirchdorf an der Krems;Hinterstoder;Hutterer H��;8.2;8.6
+02/03/17 09:00;AT1201;Eurdep;air;47.56;13.34;660.6;Austria;Salsburgo;Distrito de Hallein;;Abtenau;9.3;9.8
+02/03/17 09:00;AT1203;Eurdep;air;47.17;13.1;838.7;Austria;Salsburgo;Distrito de Sankt Johann im Pongau;Bad Hofgastein;Bad Hofgastein;9.7;10.0
+02/03/17 09:00;AT1204;Eurdep;air;47.42;13.23;708.8;Austria;Salsburgo;Distrito de Sankt Johann im Pongau;Bischofshofen;Bischofshofen;7.6;7.0
+02/03/17 09:00;AT1205;Eurdep;air;47.23;12.83;860.6;Austria;Salsburgo;Distrito de Zell am See;Fusch;Fusch;7.4;7.6
+02/03/17 09:00;AT1206;Eurdep;air;47.6;13.17;475.2;Austria;Salsburgo;Distrito de Hallein;Golling an der Salzach;Golling;7.4;7.9
+02/03/17 09:00;AT1207;Eurdep;air;47.69;13.1;447.0;Austria;Salsburgo;Distrito de Hallein;Oberalm;Hallein;6.8;7.0
+02/03/17 09:00;AT1208;Eurdep;air;47.22;12.18;1023.0;Austria;Salsburgo;Distrito de Zell am See;;Krimml;9.0;9.0
+02/03/17 09:00;AT1209;Eurdep;air;47.99;12.96;454.8;Austria;Salsburgo;Distrito de Salzburg-Umgebung;;Lamprechtshausen;9.7;10.0
+02/03/17 09:00;AT1210;Eurdep;air;47.58;12.7;624.9;Austria;Salsburgo;Distrito de Zell am See;Sankt Martin bei Lofer;Lofer;7.3;7.8
+02/03/17 09:00;AT1211;Eurdep;air;47.28;12.48;788.0;Austria;Salsburgo;Distrito de Zell am See;Mittersill;Mittersill;9.1;9.0
+02/03/17 09:00;AT1212;Eurdep;air;47.39;13.46;925.3;Austria;Salsburgo;Distrito de Sankt Johann im Pongau;;Radstadt;8.8;9.0
+02/03/17 09:00;AT1213;Eurdep;air;47.22;12.99;934.3;Austria;Salsburgo;Distrito de Zell am See;;Rauris;8.2;8.4
+02/03/17 09:00;AT1214;Eurdep;air;47.42;12.85;777.3;Austria;Salsburgo;Distrito de Zell am See;Saalfelden;Saalfelden;8.0;8.2
+02/03/17 09:00;AT1216;Eurdep;air;47.79;13.05;424.0;Austria;Salsburgo;Salzburg;Salzburgo;Salzburg WD;7.7;8.2
+02/03/17 09:00;AT1219;Eurdep;air;47.35;13.2;572.6;Austria;Salsburgo;Distrito de Sankt Johann im Pongau;Sankt Johann im Pongau;St. Johann/Pongau;7.1;7.4
+02/03/17 09:00;AT1220;Eurdep;air;47.1;13.64;1091.8;Austria;Salsburgo;Distrito de Tamsweg;;St. Michael/Lungau;10.0;10.0
+02/03/17 09:00;AT1221;Eurdep;air;47.9;13.1;572.5;Austria;Salsburgo;Distrito de Salzburg-Umgebung;Seekirchen am Wallersee;Seekirchen;9.6;10.0
+02/03/17 09:00;AT1222;Eurdep;air;47.05;12.96;2929.2;Austria;Salsburgo;Distrito de Zell am See;;Sonnblick;17.5;18.0
+02/03/17 09:00;AT1223;Eurdep;air;47.13;13.81;1020.1;Austria;Salsburgo;Distrito de Tamsweg;Tamsweg;Tamsweg;10.7;11.0
+02/03/17 09:00;AT1301;Eurdep;air;47.29;12.97;699.5;Austria;Salsburgo;Distrito de Zell am See;Taxenbach;Taxenbach;8.9;9.1
+02/03/17 09:00;AT1302;Eurdep;air;47.84;13.26;538.7;Austria;Salsburgo;Distrito de Salzburg-Umgebung;Thalgau;Thalgau;8.2;8.5
+02/03/17 09:00;AT1303;Eurdep;air;47.79;12.97;438.8;Austria;Salsburgo;Distrito de Salzburg-Umgebung;;Wals-Siezenheim;9.6;10.0
+02/03/17 09:00;AT1304;Eurdep;air;47.48;13.19;528.6;Austria;Salsburgo;Distrito de Sankt Johann im Pongau;;Werfen;9.5;10.0
+02/03/17 09:00;AT1305;Eurdep;air;47.33;12.8;750.0;Austria;Salsburgo;Distrito de Zell am See;Zell am See;Zell/See I;9.6;9.9
+02/03/17 09:00;AT1306;Eurdep;air;47.81;13.11;986.2;Austria;Salsburgo;Distrito de Salzburg-Umgebung;;Gaisberg;8.7;9.0
+02/03/17 09:00;AT1307;Eurdep;air;47.25;13.56;1753.6;Austria;Salsburgo;Distrito de Sankt Johann im Pongau;Obertauern;Obertauern;9.1;9.5
+01/03/17 18:00;AT1308;Eurdep;air;47.13;12.63;2173.3;Austria;Salsburgo;Distrito de Zell am See;;Rudolfshütte;13.0;13.0
+02/03/17 09:00;AT1310;Eurdep;air;47.33;12.74;1892.1;Austria;Salsburgo;Distrito de Zell am See;Zell am See;Zell/See II;10.0;10.0
+02/03/17 09:00;AT1401;Eurdep;air;47.54;15.24;737.8;Austria;Estiria;Bruck-Mürzzuschlag District;Aflenz Kurort;Aflenz;10.1;10.0
+02/03/17 09:00;AT1402;Eurdep;air;47.59;14.46;641.3;Austria;Estiria;Distrito de Liezen;Hall bei Admont;Admont;8.2;8.8
+02/03/17 09:00;AT1403;Eurdep;air;47.61;13.78;649.0;Austria;Estiria;Distrito de Liezen;Bad Aussee;Bad Aussee;7.0;7.0
+02/03/17 09:00;AT1404;Eurdep;air;46.89;15.98;366.1;Austria;Estiria;Südoststeiermark;;Kapfenstein;12.1;12.0
+02/03/17 09:00;AT1406;Eurdep;air;47.36;15.69;607.0;Austria;Estiria;Distrito de Weiz;Birkfeld;Birkfeld;10.9;11.0
+02/03/17 09:00;AT1407;Eurdep;air;47.41;15.26;489.8;Austria;Estiria;Bruck-Mürzzuschlag District;Bruck an der Mur;Bruck/Mur;7.9;8.2
+02/03/17 09:00;AT1408;Eurdep;air;46.75;15.83;242.2;Austria;Estiria;Südoststeiermark;;Deutsch-Goritz;9.4;9.6
+02/03/17 09:00;AT1409;Eurdep;air;46.82;15.21;377.3;Austria;Estiria;Distrito de Deutschlandsberg;Deutschlandsberg;Deutschlandsberg;9.7;10.0
+02/03/17 09:00;AT1411;Eurdep;air;46.95;15.89;286.8;Austria;Estiria;Südoststeiermark;Feldbach;Feldbach;10.6;10.0
+02/03/17 09:00;AT1413;Eurdep;air;47.44;16.06;569.3;Austria;Estiria;Hartberg-Fürstenfeld District;;Friedberg;8.5;8.8
+02/03/17 09:00;AT1414;Eurdep;air;47.27;15.32;431.9;Austria;Estiria;Distrito de Graz-Umgebung;Frohnleiten;Frohnleiten;9.0;9.0
+02/03/17 09:00;AT1415;Eurdep;air;47.05;16.08;275.2;Austria;Estiria;Hartberg-Fürstenfeld District;Fürstenfeld;Fürstenfeld;8.5;8.7
+02/03/17 09:00;AT1416;Eurdep;air;47.1;15.71;347.7;Austria;Estiria;Distrito de Weiz;Gleisdorf;Gleisdorf;9.7;10.0
+02/03/17 09:00;AT1417;Eurdep;air;47.14;15.35;443.1;Austria;Estiria;Distrito de Graz-Umgebung;Gratkorn;Gratkorn;9.6;9.8
+02/03/17 09:00;AT1419;Eurdep;air;47.08;15.45;373.5;Austria;Estiria;Graz;Graz;Graz UNI;10.2;10.0
+02/03/17 09:00;AT1420;Eurdep;air;47.07;15.44;362.4;Austria;Estiria;Graz;Graz;Graz LRG;9.4;9.6
+02/03/17 09:00;AT1421;Eurdep;air;47.44;13.9;778.1;Austria;Estiria;Distrito de Liezen;;Gröbming;8.3;8.6
+02/03/17 09:00;AT1422;Eurdep;air;47.28;15.97;351.2;Austria;Estiria;Hartberg-Fürstenfeld District;Hartberg;Hartberg;9.4;9.0
+02/03/17 09:00;AT1423;Eurdep;air;47.61;14.74;497.3;Austria;Estiria;Distrito de Leoben;;Hieflau;7.7;8.0
+02/03/17 09:00;AT1501;Eurdep;air;47.17;14.66;737.4;Austria;Estiria;Distrito de Murtal;Judenburg;Judenburg;10.0;10.0
+02/03/17 09:00;AT1502;Eurdep;air;47.44;15.29;508.2;Austria;Estiria;Bruck-Mürzzuschlag District;Kapfenberg;Kapfenberg;10.6;10.0
+02/03/17 09:00;AT1503;Eurdep;air;47.51;15.45;566.2;Austria;Estiria;Bruck-Mürzzuschlag District;Kindberg;Kindberg;8.9;9.0
+02/03/17 09:00;AT1504;Eurdep;air;47.22;14.83;644.8;Austria;Estiria;Distrito de Murtal;Knittelfeld;Knittelfeld;8.9;9.0
+02/03/17 09:00;AT1506;Eurdep;air;47.55;15.56;608.8;Austria;Estiria;Bruck-Mürzzuschlag District;Krieglach;Krieglach;8.9;9.3
+02/03/17 09:00;AT1507;Eurdep;air;46.85;15.54;287.2;Austria;Estiria;Distrito de Leibnitz;;Lebring;10.4;10.0
+02/03/17 09:00;AT1508;Eurdep;air;46.78;15.54;273.0;Austria;Estiria;Distrito de Leibnitz;Leibnitz;Leibnitz;8.3;8.6
+02/03/17 09:00;AT1509;Eurdep;air;47.37;15.08;657.5;Austria;Estiria;Distrito de Leoben;Leoben;Leoben;9.0;9.3
+02/03/17 09:00;AT1511;Eurdep;air;46.98;15.33;352.1;Austria;Estiria;Distrito de Graz-Umgebung;;Lieboch;7.5;7.8
+02/03/17 09:00;AT1512;Eurdep;air;47.57;14.24;675.4;Austria;Estiria;Distrito de Liezen;Liezen;Liezen;9.8;10.0
+02/03/17 09:00;AT1513;Eurdep;air;47.77;15.32;857.1;Austria;Estiria;Bruck-Mürzzuschlag District;Mariazell;Mariazell;8.6;9.1
+02/03/17 09:00;AT1514;Eurdep;air;47.4;14.82;713.0;Austria;Estiria;Distrito de Leoben;;Mautern;8.5;8.9
+02/03/17 09:00;AT1515;Eurdep;air;47.11;14.18;800.0;Austria;Estiria;Distrito de Murau;Murau;Murau;10.3;10.0
+02/03/17 09:00;AT1516;Eurdep;air;47.61;15.67;684.1;Austria;Estiria;Bruck-Mürzzuschlag District;Mürzzuschlag;Mürzzuschlag;8.4;8.9
+02/03/17 09:00;AT1517;Eurdep;air;47.67;15.57;739.1;Austria;Estiria;Bruck-Mürzzuschlag District;;Neuberg;9.1;9.5
+02/03/17 09:00;AT1518;Eurdep;air;47.08;14.43;913.0;Austria;Estiria;Distrito de Murau;Neumarkt in der Steiermark;Neumarkt/Stmk.;9.3;9.6
+02/03/17 09:00;AT1519;Eurdep;air;47.07;14.7;908.9;Austria;Estiria;Distrito de Murtal;;Obdach;9.1;9.2
+02/03/17 09:00;AT1520;Eurdep;air;47.2;14.28;822.3;Austria;Estiria;Distrito de Murau;Oberwölz Stadt;Oberwölz;10.2;10.0
+02/03/17 09:00;AT1521;Eurdep;air;46.69;15.99;203.0;Austria;Estiria;Südoststeiermark;Bad Radkersburg;Bad Radkersburg;9.1;9.3
+02/03/17 09:00;AT1522;Eurdep;air;47.46;15.71;746.4;Austria;Estiria;Distrito de Weiz;Ratten;Ratten;12.7;13.0
+02/03/17 09:00;AT1523;Eurdep;air;46.87;15.5;449.3;Austria;Estiria;Distrito de Leibnitz;;Wildon/Bockberg;8.5;8.7
+02/03/17 09:00;AT1601;Eurdep;air;47.49;14.48;699.7;Austria;Estiria;Distrito de Liezen;Trieben;Trieben;7.5;7.8
+02/03/17 09:00;AT1602;Eurdep;air;47.34;15.01;589.2;Austria;Estiria;Distrito de Leoben;Sankt Michael in der Obersteiermark;St. Michael;8.2;8.4
+02/03/17 09:00;AT1603;Eurdep;air;47.39;13.68;755.2;Austria;Estiria;Distrito de Liezen;Schladming;Schladming;11.3;12.0
+02/03/17 09:00;AT1604;Eurdep;air;46.69;15.64;292.0;Austria;Pesnica;Municipality of Šentilj;Šentilj v Slov. goricah;Spielfeld;8.7;9.0
+02/03/17 09:00;AT1605;Eurdep;air;47.89;14.23;465.5;Austria;Alta Austria;Distrito de Kirchdorf an der Krems;;Aigen/Ennstal;9.4;10.0
+02/03/17 09:00;AT1606;Eurdep;air;47.43;15.01;663.7;Austria;Estiria;Distrito de Leoben;Trofaiach;Trofaiach;8.3;8.6
+02/03/17 09:00;AT1607;Eurdep;air;47.2;14.45;803.8;Austria;Estiria;Distrito de Murtal;;Unzmarkt;10.7;10.0
+02/03/17 09:00;AT1608;Eurdep;air;47.05;15.15;402.0;Austria;Estiria;Distrito de Voitsberg;Voitsberg;Voitsberg;9.0;9.2
+02/03/17 09:00;AT1609;Eurdep;air;47.4;15.89;685.9;Austria;Estiria;Hartberg-Fürstenfeld District;Vorau;Vorau;7.5;7.7
+02/03/17 09:00;AT1610;Eurdep;air;47.22;15.63;468.1;Austria;Estiria;Distrito de Weiz;Weiz;Weiz;10.5;10.0
+02/03/17 09:00;AT1611;Eurdep;air;46.72;15.27;353.5;Austria;Estiria;Distrito de Deutschlandsberg;;Wies;9.4;9.6
+02/03/17 09:00;AT1612;Eurdep;air;47.66;14.99;615.3;Austria;Estiria;Distrito de Liezen;;Wildalpen;7.1;7.6
+02/03/17 09:00;AT1617;Eurdep;air;46.93;15.66;341.5;Austria;Estiria;Südoststeiermark;;Kirchbach/Stmk.;9.4;9.0
+02/03/17 09:00;AT1618;Eurdep;air;47.71;14.91;1732.6;Austria;Estiria;Distrito de Liezen;;Hochkar;9.5;10.0
+02/03/17 09:00;AT1619;Eurdep;air;47.19;15.49;866.7;Austria;Estiria;Distrito de Graz-Umgebung;;Schöckl;9.0;9.0
+02/03/17 09:00;AT1620;Eurdep;air;47.12;14.19;1213.2;Austria;Estiria;Distrito de Murau;Stolzalpe;Stolzalpe;12.0;12.0
+02/03/17 09:00;AT1621;Eurdep;air;47.36;14.47;1063.9;Austria;Estiria;Distrito de Murtal;;St. Johann/Tauern;9.2;9.5
+02/03/17 09:00;AT1622;Eurdep;air;47.35;14.03;1085.9;Austria;Estiria;Distrito de Liezen;;St. Nikolai/Sölktal;10.2;10.0
+02/03/17 09:00;AT1623;Eurdep;air;47.56;14.01;888.6;Austria;Estiria;Distrito de Liezen;Tauplitz;Tauplitz;8.6;9.1
+02/03/17 09:00;AT1702;Eurdep;air;47.4;10.92;985.9;Austria;Tirol;Distrito de Reutte;Ehrwald;Ehrwald;9.5;9.9
+02/03/17 09:00;AT1703;Eurdep;air;47.29;10.44;1030.6;Austria;Tirol;Distrito de Reutte;;Elbigenalp;8.3;8.5
+02/03/17 09:00;AT1704;Eurdep;air;47.15;11.35;910.5;Austria;Tirol;Distrito de Innsbruck-Land;Fulpmes;Fulpmes;9.8;10.0
+02/03/17 09:00;AT1705;Eurdep;air;46.97;10.19;1568.0;Austria;Tirol;Distrito de Landeck;Galtür;Galtür;9.3;9.6
+02/03/17 09:00;AT1707;Eurdep;air;47.23;10.74;771.8;Austria;Tirol;Distrito de Imst;Imst;Imst;7.8;8.1
+02/03/17 09:00;AT1708;Eurdep;air;47.26;11.41;582.6;Austria;Tirol;Innsbruck;Innsbruck;Innsbruck FW;9.2;9.5
+02/03/17 09:00;AT1710;Eurdep;air;47.4;11.78;710.6;Austria;Tirol;Distrito de Schwaz;Jenbach;Jenbach;9.0;9.3
+02/03/17 09:00;AT1711;Eurdep;air;47.0;12.65;0.0;Austria;0;0;0;Kals;11.2;11.0
+02/03/17 09:00;AT1712;Eurdep;air;47.46;12.38;800.0;Austria;Tirol;Distrito de Kitzbühel;Kitzbühel;Kitzbühel;8.1;8.5
+02/03/17 09:00;AT1713;Eurdep;air;47.58;12.17;490.6;Austria;Tirol;Distrito de Kufstein;Kufstein;Kufstein;7.4;7.9
+02/03/17 09:00;AT1714;Eurdep;air;47.14;10.57;807.5;Austria;Tirol;Distrito de Landeck;Landeck;Landeck;10.4;11.0
+02/03/17 09:00;AT1715;Eurdep;air;46.83;12.76;677.9;Austria;Tirol;Distrito de Lienz;Lienz;Lienz;8.5;8.8
+02/03/17 09:00;AT1716;Eurdep;air;47.0;12.54;0.0;Austria;0;0;0;Matrei/Osttirol;9.6;9.8
+02/03/17 09:00;AT1717;Eurdep;air;47.16;11.85;642.7;Austria;Tirol;Distrito de Schwaz;Mayrhofen;Mayrhofen;8.5;9.3
+02/03/17 09:00;AT1718;Eurdep;air;46.89;10.5;1341.1;Austria;Tirol;Distrito de Landeck;;Nauders;13.8;14.0
+02/03/17 09:00;AT1719;Eurdep;air;47.53;11.7;949.9;Austria;Tirol;Distrito de Schwaz;Achenkirch;Achenkirch;8.3;8.8
+02/03/17 09:00;AT1720;Eurdep;air;47.05;10.65;889.2;Austria;Tirol;Distrito de Landeck;;Ried/Oberinntal;10.4;10.0
+02/03/17 09:00;AT1801;Eurdep;air;47.49;10.72;853.3;Austria;Tirol;Distrito de Reutte;Reutte;Reutte;8.3;8.9
+02/03/17 09:00;AT1803;Eurdep;air;47.13;10.27;1286.2;Austria;Tirol;Distrito de Landeck;Sankt Anton am Arlberg;St. Anton;9.9;10.0
+02/03/17 09:00;AT1804;Eurdep;air;46.92;12.33;1511.2;Austria;Tirol;Distrito de Lienz;;St. Jakob/Defereggen;10.3;10.0
+02/03/17 09:00;AT1805;Eurdep;air;47.52;12.43;661.0;Austria;Tirol;Distrito de Kitzbühel;Sankt Johann;St. Johann/Tirol;8.0;8.0
+02/03/17 09:00;AT1806;Eurdep;air;47.35;11.71;538.0;Austria;Tirol;Distrito de Schwaz;Schwaz;Schwaz;9.9;10.0
+02/03/17 09:00;AT1807;Eurdep;air;47.33;11.2;1219.9;Austria;Tirol;Distrito de Innsbruck-Land;Seefeld in Tirol;Seefeld;8.8;9.7
+02/03/17 09:00;AT1808;Eurdep;air;46.75;12.42;1105.0;Austria;Tirol;Distrito de Lienz;;Sillian;10.9;11.0
+02/03/17 09:00;AT1810;Eurdep;air;46.97;11.01;1345.5;Austria;Tirol;Distrito de Imst;;Sölden;11.1;11.0
+02/03/17 09:00;AT1811;Eurdep;air;47.09;11.47;1052.4;Austria;Tirol;Distrito de Innsbruck-Land;;Steinach/Brenner;10.5;10.0
+02/03/17 09:00;AT1812;Eurdep;air;47.31;11.07;642.5;Austria;Tirol;Distrito de Innsbruck-Land;Telfs;Telfs;8.0;8.4
+02/03/17 09:00;AT1813;Eurdep;air;47.55;10.66;809.1;Austria;Tirol;Distrito de Reutte;;Vils;8.1;8.5
+02/03/17 09:00;AT1815;Eurdep;air;47.49;12.06;503.4;Austria;Tirol;Distrito de Kufstein;Wörgl;Wörgl;6.5;6.8
+02/03/17 09:00;AT1819;Eurdep;air;47.21;11.99;1199.0;Austria;Tirol;Distrito de Schwaz;Gerlos;Gerlos;8.7;8.8
+02/03/17 09:00;AT1820;Eurdep;air;47.42;12.36;1752.5;Austria;Tirol;Distrito de Kitzbühel;Kirchberg in Tirol;Ehrenbachhöhe;11.0;11.0
+02/03/17 09:00;AT1821;Eurdep;air;47.47;11.47;931.1;Austria;Tirol;Distrito de Schwaz;;Hinterriß;7.3;7.7
+02/03/17 09:00;AT1823;Eurdep;air;47.66;12.4;590.1;Austria;Tirol;Distrito de Kitzbühel;;Kössen;7.0;7.0
+02/03/17 09:00;AT1901;Eurdep;air;47.38;9.9;648.8;Austria;Vorarlberg;Bregenz District;Bezau;Bezau;7.7;8.4
+02/03/17 09:00;AT1902;Eurdep;air;47.16;9.82;595.5;Austria;Vorarlberg;Distrito de Bludenz;Bludenz;Bludenz;8.4;8.9
+02/03/17 09:00;AT1903;Eurdep;air;47.5;9.74;419.6;Austria;Vorarlberg;Bregenz District;Bregenz;Bregenz;7.7;7.9
+02/03/17 09:00;AT1904;Eurdep;air;47.41;9.75;467.4;Austria;Vorarlberg;Distrito de Dornbirn;Dornbirn;Dornbirn;7.7;8.2
+02/03/17 09:00;AT1906;Eurdep;air;47.24;9.6;457.6;Austria;Vorarlberg;Distrito de Feldkirch;Feldkirch;Feldkirch;9.3;9.9
+02/03/17 09:00;AT1907;Eurdep;air;46.99;10.03;1063.3;Austria;Vorarlberg;Distrito de Bludenz;Gaschurn;Gaschurn;9.4;10.0
+02/03/17 09:00;AT1908;Eurdep;air;47.34;9.64;425.2;Austria;Vorarlberg;Distrito de Feldkirch;Götzis;Götzis;10.7;11.0
+02/03/17 09:00;AT1911;Eurdep;air;47.13;10.09;1066.8;Austria;Vorarlberg;Distrito de Bludenz;;Klösterle;8.2;9.3
+02/03/17 09:00;AT1913;Eurdep;air;47.43;9.66;405.1;Austria;Vorarlberg;Distrito de Dornbirn;Lustenau;Lustenau;7.6;7.9
+02/03/17 09:00;AT1914;Eurdep;air;47.36;10.18;1052.5;Austria;Vorarlberg;Bregenz District;;Mittelberg/Riezlern;7.8;8.2
+02/03/17 09:00;AT1915;Eurdep;air;47.25;9.91;1241.0;Austria;Vorarlberg;Distrito de Bludenz;Fontanella;Fontanella;7.9;8.2
+02/03/17 09:00;AT1918;Eurdep;air;47.52;9.91;996.4;Austria;Vorarlberg;Bregenz District;Sulzberg;Sulzberg;10.1;10.0
+15/02/17 23:00;AT1921;Eurdep;air;46.93;10.05;1816.9;Austria;Vorarlberg;Distrito de Bludenz;Gaschurn;Bieler Höhe;0.0;0.0
+02/03/17 09:00;AT1922;Eurdep;air;47.05;9.76;2061.2;Austria;Vorarlberg;Distrito de Bludenz;Vandans;Lüner See;10.0;10.0
+02/03/17 09:00;AT1923;Eurdep;air;47.51;9.78;1020.3;Austria;Vorarlberg;Bregenz District;Lochau;Pfänder;7.9;8.3
+02/03/17 09:00;AT2002;Eurdep;air;48.21;16.39;164.6;Austria;Viena;;Viena;Regierungsgebäude;7.2;7.5
+02/03/17 09:00;AT2003;Eurdep;air;48.17;16.36;235.3;Austria;Viena;;Viena;Rudolfshügel;7.9;8.1
+02/03/17 09:00;AT2006;Eurdep;air;48.21;16.27;279.9;Austria;Viena;;Viena;Wien-Steinhof;9.4;9.9
+02/03/17 09:00;AT2008;Eurdep;air;48.26;16.48;185.4;Austria;Viena;;Viena;Breitenlee AGES;9.2;9.5
+02/03/17 09:00;AT2009;Eurdep;air;48.2;16.41;160.4;Austria;Viena;;Viena;Atominstitut;8.8;9.2
+02/03/17 09:00;AT2101;Eurdep;air;46.87;11.02;1999.4;Austria;Tirol;Distrito de Imst;;Obergurgl;12.6;12.0
+02/03/17 09:00;AT2102;Eurdep;air;47.21;11.46;2159.7;Austria;Tirol;Distrito de Innsbruck-Land;;Patscherkofel;13.3;13.0
+02/03/17 09:00;AT2103;Eurdep;air;46.93;10.88;3003.1;Austria;Tirol;Distrito de Imst;;Pitztaler Gletscher;14.5;15.0
+02/03/17 09:00;AT2106;Eurdep;air;47.51;10.46;1119.2;Austria;Tirol;Distrito de Reutte;;Schattwald;8.9;9.6
+02/03/17 09:00;AT2107;Eurdep;air;46.86;12.79;1644.0;Austria;Tirol;Distrito de Lienz;Gaimberg;Zettersfeld;9.9;10.0
+02/03/17 09:00;AT2108;Eurdep;air;47.26;11.35;577.0;Austria;Tirol;Innsbruck;Innsbruck;Innsbruck FLH;7.3;7.5
+02/03/17 09:00;AT2201;Eurdep;air;47.16;10.21;2568.6;Austria;Tirol;Distrito de Reutte;;Valluga;12.9;13.0
