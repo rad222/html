@@ -313,8 +313,6 @@ var BingAerial = new BingLayer('https://t{s}.tiles.virtualearth.net/tiles/a{q}.j
 	attribution: '&copy; <a href="http://bing.com/maps">Bing Maps</a>'
 });
 
-
-
 // map initialization
 var map = new L.map('map', {
 	center: [40.416775, -3.703790],
@@ -323,11 +321,15 @@ var map = new L.map('map', {
 	loadingControl: true
 });
 
-// add scale control
-var scale = L.control.scale().addTo(map);
-// add left sidebar control
-var sidebar = L.control.sidebar('sidebar').addTo(map);
-
+// add Leaflet scale control
+L.control.scale().addTo(map);
+// add Leaflet sidebar control
+L.control.sidebar('sidebar').addTo(map);
+// add Leaflet Geocoder control
+var geocoder = L.Control.geocoder({
+	position: 'topleft',
+	placeholder: 'Search...'
+}).addTo(map);
 
 // define polygonal layers
 var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
@@ -773,6 +775,10 @@ function hideInfo() {
 
 map.on("click", function (e) {
 	highlight.clearLayers();
+
+	// remove geocoder marker
+	map.removeLayer(geocoder._geocodeMarker);
+
 	$(".info.layerinfo").hide();
 });
 
@@ -864,8 +870,8 @@ $(".switch-field.cluster").change(function (e) {
 $(document).ready(function () {
 	initStations();
 
-	// add logo
-	var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control');
+	// add RaViewer logo
+	var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control-zoom');
 	var logoContainer = $('#logo-container');
 	mapControlsContainer.append(logoContainer);
 
