@@ -330,6 +330,8 @@ var geocoder = L.Control.geocoder({
 	position: 'topleft',
 	placeholder: 'Search...'
 }).addTo(map);
+// add Leaflet hash control
+var hash = new L.Hash(map);
 
 // define polygonal layers
 var geojsonCCAA = new L.GeoJSON.AJAX('data/ccaa.json', {
