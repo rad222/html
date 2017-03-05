@@ -476,7 +476,7 @@ var stationsMCG = L.markerClusterGroup.layerSupport({
 	iconCreateFunction: function (cluster) {
 
 		if (clusterType === 'average') {
-			// average marcercluster with legend color
+			// average marcercluster value with legend color
 			var children = cluster.getAllChildMarkers();
 			var childCount = cluster.getChildCount();
 
@@ -496,20 +496,19 @@ var stationsMCG = L.markerClusterGroup.layerSupport({
 			};
 
 			var average = sum / childCount;
-			//average = average.toFixed(2); // precision to 2 digits
 			average = Math.round(average); // round
-
 			var color = getColor(average);
 
 			return new L.DivIcon({
-				html: '<div style="background-color:' + color + '"><span>' + average + '</span></div>',
+				html: '<div style="background-color:' + color + '; border: 1px solid #000000; border-color: rgba(0,0,0,0.4);"><span>' + average + '</span></div>',
 				className: 'marker-cluster',
 				iconSize: new L.Point(40, 40)
 			});
 		};
 
-		if (clusterType === 'count') {
-			// default marcercluster
+		if (clusterType === 'max') {
+			// maximum marcercluster value with legend color
+			var children = cluster.getAllChildMarkers();
 			var childCount = cluster.getChildCount();
 
 			var c = ' marker-cluster-';
@@ -521,13 +520,46 @@ var stationsMCG = L.markerClusterGroup.layerSupport({
 				c += 'large';
 			};
 
+			var valArray = [];
+			for (var i = 0; i < children.length; i++) {
+				var val = isNaN(parseFloat(children[i].feature.properties.value)) ? 0 : parseFloat(children[i].feature.properties.value);
+				valArray.push(val);
+			};
+
+			var max_val = Math.max(...valArray);
+			max_val = Math.round(max_val); // round
+			var color = getColor(max_val);
+
 			return new L.DivIcon({
-				html: '<div><span>' + childCount + '</span></div>',
-				className: 'marker-cluster' + c,
+				html: '<div style="background-color:' + color + '; border: 1px solid #000000; border-color: rgba(0,0,0,0.4);"><span>' + max_val + '</span></div>',
+				className: 'marker-cluster',
 				iconSize: new L.Point(40, 40)
 			});
-
 		};
+
+		/*
+				if (clusterType === 'count') {
+					// default marcercluster
+					var childCount = cluster.getChildCount();
+
+					var c = ' marker-cluster-';
+					if (childCount < 10) {
+						c += 'small';
+					} else if (childCount < 100) {
+						c += 'medium';
+					} else {
+						c += 'large';
+					};
+
+					return new L.DivIcon({
+						html: '<div><span>' + childCount + '</span></div>',
+						className: 'marker-cluster' + c,
+						iconSize: new L.Point(40, 40)
+					});
+
+				};
+		*/
+
 	}
 }).addTo(map);
 
@@ -818,10 +850,10 @@ $(".switch-field.color-selector").change(function (e) {
 $(".switch-field.cluster").change(function (e) {
 	var value = e.target.value;
 
-	if (value === 'modeAverage') { // Average cluster
+	if (value === 'modeAverage') { // Average value cluster
 		clusterType = 'average';
-	} else if (value === 'modeCount') { // Count cluster
-		clusterType = 'count';
+	} else if (value === 'modeMax') { // Max value cluster
+		clusterType = 'max';
 	};
 
 	// update style for stations layer

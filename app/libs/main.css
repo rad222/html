@@ -106,6 +106,7 @@ input[type="checkbox"] {
 
 
 /* header popup info */
+
 .header-info {
     padding: 5px;
     margin-right: 12px;
@@ -115,6 +116,7 @@ input[type="checkbox"] {
 
 
 /* menu sidebar radio items */
+
 .switch-field {
     font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
     padding: 2px 5px 2px 5px;
