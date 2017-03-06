@@ -1,0 +1,181 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+05/03/17 15:00;GB2001;Eurdep;air;52.79;-4.75;46.3;United Kingdom;Gales;Gwynedd;;Aberdaron;9.7;10.0
+05/03/17 15:00;GB2002;Eurdep;air;53.25;-4.54;6.2;United Kingdom;Gales;Isla de Anglesey;;Valley;9.6;11.0
+05/03/17 15:00;GB2003;Eurdep;air;52.76;-3.46;284.2;United Kingdom;Gales;Powys;;Lake Vyrnwy;11.7;13.0
+05/03/17 15:00;GB2004;Eurdep;air;53.26;-3.51;70.5;United Kingdom;Gales;Denbighshire;;Rhyl;10.8;11.8
+05/03/17 15:00;GB2006;Eurdep;air;53.81;-1.87;268.9;United Kingdom;Inglaterra;Yorkshire del Oeste;Wilsden;Wilsden (Bingley);11.3;13.0
+05/03/17 15:00;GB2007;Eurdep;air;53.18;-0.52;72.0;United Kingdom;Inglaterra;Lincolnshire;;Waddington;11.4;12.0
+05/03/17 15:00;GB2009;Eurdep;air;53.09;-0.17;7.9;United Kingdom;Inglaterra;Lincolnshire;Coningsby;Coningsby;9.6;10.0
+05/03/17 15:00;GB2010;Eurdep;air;54.36;-0.67;259.3;United Kingdom;Inglaterra;Yorkshire Norte;;Fylingdales;9.9;10.8
+05/03/17 15:00;GB2011;Eurdep;air;53.77;-3.03;9.3;United Kingdom;Inglaterra;Lancashire;;Squires Gate (Blackpool);10.2;10.8
+05/03/17 15:00;GB2012;Eurdep;air;53.87;-0.43;6.0;United Kingdom;Inglaterra;Yorkshire Oriental;;Leconfield;10.6;12.2
+05/03/17 15:00;GB2013;Eurdep;air;54.57;-2.41;229.0;United Kingdom;Inglaterra;Cumbria;;Warcop Range;11.8;12.8
+05/03/17 15:00;GB2014;Eurdep;air;54.3;-1.53;33.1;United Kingdom;Inglaterra;Yorkshire Norte;;Leeming;11.1;12.0
+05/03/17 15:00;GB2017;Eurdep;air;54.93;-2.96;23.4;United Kingdom;Inglaterra;Cumbria;Carlisle;Carlisle;10.7;12.0
+05/03/17 15:00;GB2018;Eurdep;air;55.42;-1.6;23.0;United Kingdom;Inglaterra;Northumberland;;Boulmer;10.0;11.8
+05/03/17 15:00;GB2019;Eurdep;air;54.09;-4.63;22.2;United Kingdom;;;;Ronaldsway (Isle of Man);10.8;11.8
+05/03/17 15:00;GB2020;Eurdep;air;53.01;-1.25;119.4;United Kingdom;Inglaterra;Nottinghamshire;;Nottingham WC (Watnall);11.3;12.0
+05/03/17 15:00;GB2101;Eurdep;air;52.65;0.57;0.0;United Kingdom;0;0;0;Marham;9.5;10.8
+05/03/17 15:00;GB2104;Eurdep;air;52.12;0.96;86.6;United Kingdom;Inglaterra;Suffolk;;Wattisham;10.9;12.0
+05/03/17 15:00;GB2107;Eurdep;air;51.55;0.83;0.0;United Kingdom;0;0;0;Shoeburyness;10.3;11.2
+05/03/17 15:00;GB2108;Eurdep;air;51.76;-1.58;83.0;United Kingdom;Inglaterra;Oxfordshire;;Brize Norton;9.4;10.0
+05/03/17 15:00;GB2109;Eurdep;air;51.48;-0.45;25.8;United Kingdom;Inglaterra;Gran Londres;Longford;Heathrow;11.3;12.0
+05/03/17 15:00;GB2110;Eurdep;air;51.35;1.35;41.9;United Kingdom;Inglaterra;Kent;;Manston;10.3;11.0
+05/03/17 15:00;GB2111;Eurdep;air;51.13;1.34;15.2;United Kingdom;Inglaterra;Kent;Dover;Langdon Bay;10.3;11.0
+05/03/17 15:00;GB2112;Eurdep;air;51.15;-0.19;57.7;United Kingdom;Inglaterra;Sussex Occidental;Horley;Gatwick;10.5;12.0
+05/03/17 15:00;GB2114;Eurdep;air;51.29;0.45;23.9;United Kingdom;Inglaterra;Kent;;East Malling;11.0;12.0
+05/03/17 15:00;GB2115;Eurdep;air;50.95;0.89;2.0;United Kingdom;Inglaterra;Kent;;Lydd (Airport);9.2;10.0
+05/03/17 15:00;GB2116;Eurdep;air;50.78;-1.83;10.3;United Kingdom;Inglaterra;Dorset;;Hurn (Bournemouth);9.6;11.0
+05/03/17 15:00;GB2117;Eurdep;air;50.82;-0.92;4.2;United Kingdom;Inglaterra;Sussex Occidental;;Thorney Island;11.8;14.0
+05/03/17 15:00;GB2118;Eurdep;air;50.89;0.32;0.0;United Kingdom;0;0;0;Herstmonceux;10.2;11.0
+05/03/17 15:00;GB2119;Eurdep;air;50.51;-2.46;0.0;United Kingdom;;;;Portland Bill;9.8;11.0
+05/03/17 15:00;GB2120;Eurdep;air;49.44;-2.6;94.3;United Kingdom;Saint Saviour;;;Guernsey;9.8;11.0
+05/03/17 15:00;GB2121;Eurdep;air;49.21;-2.19;86.4;United Kingdom;St Peter;;;Jersey;9.8;10.8
+05/03/17 15:00;GB2122;Eurdep;air;51.24;-0.94;0.0;United Kingdom;0;0;0;Odiham;8.6;9.0
+05/03/17 15:00;GB2123;Eurdep;air;52.26;0.57;0.0;United Kingdom;0;0;0;Brooms Barn;10.1;10.8
+05/03/17 15:00;GB2125;Eurdep;air;52.48;-1.69;96.7;United Kingdom;Inglaterra;Warwickshire;Coleshill;Coleshill;10.1;11.0
+05/03/17 15:00;GB2126;Eurdep;air;55.91;-4.5;33.1;United Kingdom;Escocia;Renfrewshire;Bishopton;Bishopton;10.3;11.0
+27/02/17 23:00;GB2127;Eurdep;air;58.15;-5.25;0.0;United Kingdom;0;0;0;Stoer Head;0.0;0.0
+05/03/17 15:00;GB2129;Eurdep;air;51.41;-3.43;46.0;United Kingdom;Gales;Valle de Glamorgan;;St Athan;10.9;11.8
+05/03/17 15:00;GB2130;Eurdep;air;50.58;-1.3;94.2;United Kingdom;Inglaterra;Isla de Wight;Niton;St Catherines (Isle of Wight);10.3;11.0
+05/03/17 15:00;GB2201;Eurdep;air;52.79;-2.66;71.9;United Kingdom;Inglaterra;Shropshire;Shawbury;Shawbury;11.2;12.0
+05/03/17 15:00;GB2202;Eurdep;air;52.61;-0.47;0.0;United Kingdom;0;0;0;Wittering;11.1;11.8
+05/03/17 15:00;GB2204;Eurdep;air;52.24;-2.88;94.0;United Kingdom;Inglaterra;Herefordshire;;Shobdon;11.9;12.8
+05/03/17 15:00;GB2205;Eurdep;air;52.35;-3.94;140.3;United Kingdom;Gales;Ceredigion;;Trawscoed;12.0;13.0
+05/03/17 15:00;GB2206;Eurdep;air;52.14;-4.57;132.7;United Kingdom;Gales;Ceredigion;;Aberporth;12.6;13.8
+05/03/17 15:00;GB2207;Eurdep;air;51.71;-5.05;31.4;United Kingdom;Gales;Pembrokeshire;Milford Haven;Milford Haven;11.7;13.2
+05/03/17 15:00;GB2208;Eurdep;air;51.57;-3.98;0.0;United Kingdom;;Swansea;The Mumbles;Mumbles Head;9.9;11.0
+05/03/17 15:00;GB2211;Eurdep;air;52.15;-2.04;30.1;United Kingdom;Inglaterra;Worcestershire;;Pershore;12.1;13.2
+05/03/17 15:00;GB2212;Eurdep;air;51.09;-3.61;367.5;United Kingdom;Inglaterra;Somerset;;Liscombe;13.3;15.0
+05/03/17 15:00;GB2213;Eurdep;air;51.16;-1.75;113.3;United Kingdom;Inglaterra;Wiltshire;Amesbury;Boscombe Down;10.0;11.0
+05/03/17 15:00;GB2214;Eurdep;air;51.01;-2.64;16.4;United Kingdom;Inglaterra;Somerset;;Yeovilton;10.8;12.0
+05/03/17 15:00;GB2215;Eurdep;air;50.71;-3.5;13.8;United Kingdom;Inglaterra;Devon;Exeter;Exeter;14.3;15.0
+05/03/17 15:00;GB2216;Eurdep;air;50.36;-4.14;0.0;United Kingdom;;;;Plymouth;13.2;14.2
+05/03/17 15:00;GB2217;Eurdep;air;50.44;-5.0;0.0;United Kingdom;0;0;0;St Mawgan;12.1;13.0
+05/03/17 15:00;GB2218;Eurdep;air;50.22;-5.33;80.4;United Kingdom;Inglaterra;Cornualles;Kehelland;Camborne;13.9;15.0
+05/03/17 15:00;GB2219;Eurdep;air;49.92;-6.29;4.4;United Kingdom;Inglaterra;Islas Sorlingas;;Scilly;13.7;14.8
+05/03/17 15:00;GB2301;Eurdep;air;55.02;-7.21;90.6;United Kingdom;Irlanda del Norte;Derry;;Carmoney;10.9;12.0
+05/03/17 15:00;GB2302;Eurdep;air;55.18;-6.15;162.2;United Kingdom;Irlanda del Norte;Moyle;;Ballypatrick Forest;10.5;11.0
+05/03/17 15:00;GB2303;Eurdep;air;54.65;-6.22;75.2;United Kingdom;Irlanda del Norte;Antrim;;Aldergrove (Belfast Airport);10.2;11.0
+05/03/17 15:00;GB2304;Eurdep;air;54.24;-6.5;148.1;United Kingdom;Irlanda del Norte;Armagh;;Glenanne;10.0;10.8
+05/03/17 15:00;GB2305;Eurdep;air;54.36;-7.59;101.4;United Kingdom;Irlanda del Norte;Fermanagh;;Enniskillen;11.6;12.8
+05/03/17 15:00;GB2401;Eurdep;air;54.86;-4.93;8.0;United Kingdom;Escocia;Dumfries y Galloway;;West Freugh;9.5;10.0
+05/03/17 15:00;GB2402;Eurdep;air;55.5;-4.58;15.4;United Kingdom;Escocia;Ayrshire Sur;Prestwick;Prestwick;10.1;11.0
+05/03/17 15:00;GB2403;Eurdep;air;55.31;-3.21;228.6;United Kingdom;Escocia;Dumfries y Galloway;;Eskdalemuir;11.2;12.8
+05/03/17 15:00;GB2404;Eurdep;air;55.72;-2.38;132.4;United Kingdom;Escocia;Scottish Borders;;Charterhall;12.0;13.2
+05/03/17 15:00;GB2405;Eurdep;air;55.44;-5.7;9.0;United Kingdom;Escocia;Argyll y Bute;;Machrihanish;9.4;10.0
+05/03/17 15:00;GB2407;Eurdep;air;56.38;-2.86;10.4;United Kingdom;Escocia;Fife;;Leuchars;11.2;12.0
+05/03/17 15:00;GB2408;Eurdep;air;55.95;-3.35;31.3;United Kingdom;Escocia;Edinburgh;Ingliston;Turnhouse (Edinburgh Airport);10.0;11.0
+05/03/17 15:00;GB2409;Eurdep;air;56.33;-3.73;21.5;United Kingdom;Escocia;Perth y Kinross;;Strathallan;12.2;14.0
+05/03/17 15:00;GB2410;Eurdep;air;56.41;-5.47;5.8;United Kingdom;Escocia;Argyll y Bute;Oban;Oban;11.0;12.0
+05/03/17 15:00;GB2411;Eurdep;air;56.72;-3.78;0.0;United Kingdom;0;0;0;Clunie;11.7;12.8
+05/03/17 15:00;GB2412;Eurdep;air;56.85;-2.26;105.9;United Kingdom;Escocia;Aberdeenshire;;Inverbervie;11.7;13.0
+05/03/17 15:00;GB2413;Eurdep;air;56.87;-4.71;243.5;United Kingdom;Escocia;Highland;;Tulloch Bridge;12.5;13.8
+05/03/17 15:00;GB2414;Eurdep;air;57.21;-2.2;57.1;United Kingdom;Escocia;Aberdeen;;Dyce (Aberdeen Airport);13.0;14.2
+05/03/17 15:00;GB2415;Eurdep;air;57.21;-3.83;260.2;United Kingdom;Escocia;Highland;;Aviemore;12.0;13.8
+05/03/17 15:00;GB2416;Eurdep;air;57.47;-5.87;4.4;United Kingdom;Escocia;Highland;;Applecross;12.2;13.0
+05/03/17 15:00;GB2417;Eurdep;air;57.54;-4.06;8.9;United Kingdom;Escocia;Highland;;Dalcross (Inverness Airport);14.5;16.2
+05/03/17 15:00;GB2418;Eurdep;air;57.71;-3.32;8.2;United Kingdom;Escocia;Moray;;Lossiemouth;11.0;13.0
+05/03/17 15:00;GB2419;Eurdep;air;57.86;-5.63;18.9;United Kingdom;Escocia;Highland;;Aultbea;11.0;12.0
+05/03/17 15:00;GB2420;Eurdep;air;57.94;-4.41;6.9;United Kingdom;Escocia;Highland;;Shin;13.0;14.0
+05/03/17 15:00;GB2421;Eurdep;air;58.45;-3.09;33.0;United Kingdom;Escocia;Highland;Wick;Wick;12.6;14.0
+05/03/17 15:00;GB2423;Eurdep;air;58.95;-2.9;51.7;United Kingdom;Escocia;Islas Orcadas;;Kirkwall;12.5;14.8
+05/03/17 15:00;GB2424;Eurdep;air;60.14;-1.19;77.7;United Kingdom;Escocia;Islas Shetland;;Lerwick;11.7;13.0
+05/03/17 15:00;GB2425;Eurdep;air;57.48;-7.37;5.3;United Kingdom;Escocia;Orcadas Occidentales;;Benbecula;9.2;10.0
+05/03/17 15:00;GB2426;Eurdep;air;58.21;-6.32;13.3;United Kingdom;Escocia;Orcadas Occidentales;;Stornoway;9.6;10.8
+05/03/17 15:00;GB2427;Eurdep;air;56.5;-6.88;10.1;United Kingdom;Escocia;Argyll y Bute;;Tiree;8.7;9.8
+05/03/17 15:00;GB3006;Eurdep;air;49.71;-2.22;77.9;United Kingdom;Alderney;;;Alderney;11.9;13.8
+05/03/17 15:00;GB3007;Eurdep;air;52.11;-0.42;32.5;United Kingdom;Inglaterra;Bedfordshire;;Cardington;12.3;14.0
+05/03/17 15:00;GB3008;Eurdep;air;55.02;-1.88;145.1;United Kingdom;Inglaterra;Northumberland;;Albemarle;10.1;11.0
+05/03/17 15:00;GB3009;Eurdep;air;53.36;-2.38;33.9;United Kingdom;Inglaterra;Cheshire East;;Rostherne;10.8;13.0
+05/03/17 15:00;GB3010;Eurdep;air;54.05;-1.25;13.0;United Kingdom;Inglaterra;Yorkshire Norte;;Linton;11.2;12.0
+05/03/17 15:00;GB3011;Eurdep;air;51.81;-0.36;125.5;United Kingdom;Inglaterra;Hertfordshire;Harpenden;Rothamsted;10.5;11.8
+05/03/17 15:00;GB-439869567;Eurdep;air;54.51;-3.64;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;11.0;11.7
+05/02/17 23:00;GB-453078989;Eurdep;air;50.61;-3.4;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-457543319;Eurdep;air;50.61;-2.45;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;8.9;9.3
+05/03/17 15:00;GB-460191890;Eurdep;air;50.72;-2.94;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;9.9;10.3
+05/03/17 15:00;GB448871960;Eurdep;air;52.28;1.63;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;10.0;10.3
+05/03/17 15:00;GB449174612;Eurdep;air;52.21;1.57;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;10.2;10.7
+05/03/17 15:00;GB449311237;Eurdep;air;52.22;1.58;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;9.2;9.7
+05/03/17 15:00;GB450445827;Eurdep;air;52.26;1.58;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;9.7;10.0
+20/02/17 23:00;GB433270010;Eurdep;air;50.79;0.05;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;0.0;0.0
+09/02/17 23:00;GB-467122049;Eurdep;air;50.15;-5.06;0.0;United Kingdom;0;0;0;UK Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB3012;Eurdep;air;52.93;1.29;34.8;United Kingdom;Inglaterra;Norfolk;Cromer;Cromer;9.7;10.0
+05/03/17 15:00;GB-459431964;Eurdep;air;50.71;-2.76;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.1;10.0
+05/03/17 15:00;GB-439485482;Eurdep;air;54.65;-3.57;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;11.6;12.0
+05/03/17 15:00;GB-453077724;Eurdep;air;50.61;-3.4;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;8.9;9.3
+05/03/17 15:00;GB-465190524;Eurdep;air;51.06;-4.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;14.9;15.7
+05/03/17 15:00;GB437607901;Eurdep;air;50.79;0.33;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.9;10.3
+05/03/17 15:00;GB-1688220646;Eurdep;air;50.61;-1.95;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;8.8;9.3
+05/03/17 15:00;GB449256735;Eurdep;air;52.16;1.6;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;11.1;11.7
+05/03/17 15:00;GB449380884;Eurdep;air;52.24;1.55;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.3;9.7
+05/03/17 15:00;GB-1682387801;Eurdep;air;50.81;-0.54;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;8.9;9.0
+05/03/17 15:00;GB449061720;Eurdep;air;52.19;1.57;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.3;10.0
+27/02/17 23:00;GB449169446;Eurdep;air;52.18;1.61;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB449223861;Eurdep;air;52.21;1.59;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.5;10.0
+05/03/17 15:00;GB449093900;Eurdep;air;52.24;1.59;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.0;9.7
+05/03/17 15:00;GB452874074;Eurdep;air;52.47;1.75;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;12.2;13.0
+05/03/17 15:00;GB-466200226;Eurdep;air;50.12;-5.55;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;13.6;14.0
+03/02/17 23:00;GB-466943503;Eurdep;air;50.16;-5.09;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+04/03/17 22:00;GB467533459;Eurdep;air;53.34;0.27;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;12.9;13.3
+02/03/17 23:00;GB-453389667;Eurdep;air;50.4;-3.51;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+01/03/17 23:00;GB-467073688;Eurdep;air;50.16;-5.09;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+09/02/17 23:00;GB-467895618;Eurdep;air;50.38;-4.14;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/02/17 23:00;GB-467904175;Eurdep;air;50.41;-4.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB407463315;Eurdep;air;53.73;0.04;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;12.0;12.7
+05/03/17 15:00;GB-439118433;Eurdep;air;53.42;-4.29;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;11.1;12.0
+05/03/17 15:00;GB-467358885;Eurdep;air;50.83;-4.55;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;10.3;10.7
+15/02/17 23:00;GB-1681003485;Eurdep;air;54.08;-0.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-1687070396;Eurdep;air;50.72;-1.74;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;8.9;9.3
+01/03/17 23:00;GB-467867461;Eurdep;air;50.39;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+02/02/17 23:00;GB-466462722;Eurdep;air;50.12;-5.68;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+03/02/17 23:00;GB-453393479;Eurdep;air;50.4;-3.51;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/02/17 23:00;GB-467892037;Eurdep;air;50.38;-4.14;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/02/17 23:00;GB-467770721;Eurdep;air;50.41;-4.14;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+27/02/17 23:00;GB-467904825;Eurdep;air;50.41;-4.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 09:00;GB-467116246;Eurdep;air;50.15;-5.06;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;13.3;13.7
+05/02/17 23:00;GB-467897818;Eurdep;air;50.41;-4.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/02/17 23:00;GB-467899931;Eurdep;air;50.41;-4.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+06/02/17 23:00;GB-467836516;Eurdep;air;50.41;-4.23;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-467807745;Eurdep;air;50.38;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.6;10.0
+05/03/17 15:00;GB-467784636;Eurdep;air;50.38;-4.19;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;11.0;12.0
+09/02/17 23:00;GB-453098440;Eurdep;air;50.24;-3.77;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+13/02/17 23:00;GB-467855044;Eurdep;air;50.39;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+13/02/17 23:00;GB-1681784336;Eurdep;air;54.08;-0.19;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+14/02/17 23:00;GB-466472422;Eurdep;air;50.12;-5.68;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+17/02/17 23:00;GB-453096679;Eurdep;air;50.24;-3.77;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+22/02/17 23:00;GB-468409682;Eurdep;air;50.37;-4.12;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+22/02/17 23:00;GB-467821226;Eurdep;air;50.38;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+22/02/17 23:00;GB-467824553;Eurdep;air;50.38;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+22/02/17 23:00;GB-467860664;Eurdep;air;50.39;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-467854371;Eurdep;air;50.39;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;15.7;16.3
+05/03/17 15:00;GB-467896845;Eurdep;air;50.38;-4.14;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;13.0;13.7
+23/02/17 23:00;GB-468515288;Eurdep;air;50.35;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+25/02/17 23:00;GB-467787545;Eurdep;air;50.41;-4.13;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+26/02/17 23:00;GB-467868113;Eurdep;air;50.39;-4.19;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-466469852;Eurdep;air;50.12;-5.68;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;15.0;15.3
+26/02/17 23:00;GB-466471747;Eurdep;air;50.12;-5.68;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-467862661;Eurdep;air;50.39;-4.19;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;13.8;14.3
+05/03/17 15:00;GB-468398413;Eurdep;air;50.37;-4.12;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.6;10.3
+27/02/17 23:00;GB-468400541;Eurdep;air;50.37;-4.12;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB466773808;Eurdep;air;53.34;0.27;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;13.1;13.7
+05/03/17 15:00;GB-453094903;Eurdep;air;50.24;-3.77;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;16.7;17.0
+05/03/17 15:00;GB-467904190;Eurdep;air;50.41;-4.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;15.6;16.0
+05/03/17 15:00;GB434734444;Eurdep;air;50.79;0.05;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;9.9;10.3
+05/03/17 15:00;GB-468503630;Eurdep;air;50.36;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;16.0;17.0
+05/03/17 15:00;GB-466976506;Eurdep;air;50.51;-4.31;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;18.5;19.0
+02/03/17 23:00;GB466766025;Eurdep;air;53.34;0.26;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+02/03/17 23:00;GB467420040;Eurdep;air;53.34;0.27;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+02/03/17 23:00;GB467648741;Eurdep;air;53.34;0.27;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-467854383;Eurdep;air;50.41;-4.23;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;13.6;14.3
+05/03/17 15:00;GB-1680919906;Eurdep;air;54.08;-0.2;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;16.2;16.7
+05/03/17 15:00;GB-453385128;Eurdep;air;50.4;-3.51;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;10.1;10.7
+03/03/17 23:00;GB-467764425;Eurdep;air;50.41;-4.13;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+03/03/17 23:00;GB-455006096;Eurdep;air;50.24;-3.72;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-467764160;Eurdep;air;50.41;-4.13;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;12.3;12.7
+03/03/17 23:00;GB-468463302;Eurdep;air;50.35;-4.17;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;0.0;0.0
+05/03/17 15:00;GB-467077495;Eurdep;air;50.16;-5.09;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;15.0;16.3
+05/03/17 05:00;GB-467078693;Eurdep;air;50.16;-5.09;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;16.0;16.0
+05/03/17 15:00;GB-467865343;Eurdep;air;50.39;-4.18;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;14.1;14.7
+05/03/17 05:00;GB407593081;Eurdep;air;53.73;0.04;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;12.0;12.0
+05/03/17 06:00;GB408676671;Eurdep;air;53.73;0.04;0.0;United Kingdom;0;0;0;GB Mobile Monitoring;11.0;11.0
