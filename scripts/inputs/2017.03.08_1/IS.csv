@@ -1,0 +1,5 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+08/03/17 04:00;IS0002;Eurdep;air;64.13;-21.9;0;Iceland;0;0;0;Reykjavik;5.2;5.7
+08/03/17 04:00;IS0005;Eurdep;air;66.46;-15.95;0;Iceland;0;0;0;Raufarhofn;4.9;5.3
+08/03/17 04:00;IS0004;Eurdep;air;66.16;-23.25;0;Iceland;0;0;0;Bolungarvik;5.0;5.0
+08/03/17 04:00;IS0003;Eurdep;air;64.27;-15.21;0;Iceland;0;0;0;Hofn i Hornafirdi;5.3;6.0
