@@ -43,6 +43,7 @@ def find_between(s, first, last):
         return s[start:end]
     except ValueError:
         None
+
 def latlonSpain(lat0, lon0):
     '''
     A method to check if a point is placed within Spain Area (or near)
