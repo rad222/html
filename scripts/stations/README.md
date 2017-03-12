@@ -4,7 +4,7 @@
 ```sh
 $ sudo apt-get install git build-essential python-pip python-dev python-numpy
 $ https://github.com/rad222/html.git
-$ cd ~/html/scripts
+$ cd ~/html/scripts/stations
 $ sudo pip install -r requirements.txt
 ```
 ### Update from repository
@@ -22,13 +22,13 @@ $ git push
 ### Running
 ```sh
 # run parsing for Spain:
-$ cd ~/html/scripts
+$ cd ~/html/scripts/stations
 $ python test_eurdep_single.py ES
 ```
 
 ```sh
 # run parsing for all countries:
-$ cd ~/html/scripts
+$ cd ~/html/scripts/stations
 $ ./run.sh
 ```
 
