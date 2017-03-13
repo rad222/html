@@ -8,7 +8,7 @@ import sys
 import socket
 from bs4 import BeautifulSoup
 from logging.handlers import RotatingFileHandler
-
+sys.setrecursionlimit(10000) #to avoid RuntimeError: maximum recursion depth exceeded
 
 #===========================================================================================#
 #                                                                                           #
@@ -42,8 +42,6 @@ def find_between(s, first, last):
         return s[start:end]
     except ValueError:
         None
-
-		
 def latlonSpain(lat0, lon0):
     '''
     A method to check if a point is placed within Spain Area (or near)
@@ -71,7 +69,6 @@ def latlonSpain(lat0, lon0):
         ans = False
     return ans
 
-	
 def tiempovistazo(network):
     url = 'http://www.eltiempodeunvistazo.com/ubicaciones.xml'
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
@@ -136,11 +133,12 @@ def tiempovistazo(network):
                     logger.info('Get data from webcam %s' % id)
 
                 fp.write("%s;%s;%s;%s\n" % (id, lon, lat, img))
+
+
     return
 
-	
 def metcli(network):
-    meta_url = '/spred/stq/prod/pyleech/data/metcli/meta'
+    meta_url = '/home/radon/html/scripts/pywebcam/meta'
     meta_csv = os.path.join(meta_url, 'meta.csv')
 
     webcam_url = 'http://www.meteoclimatic.net/webcams'
@@ -168,8 +166,8 @@ def metcli(network):
     #send_trueno(file_name)
     return
 
-	
 def DGT(network):
+
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
     url = 'http://infocar.dgt.es/datex2/dgt/CCTVSiteTablePublication/all/content.xml'
 
@@ -217,12 +215,14 @@ def DGT(network):
                 else:
                     logger.error('%s Url not found %s' % (e.code, id))
                 continue
+
             name = find_between(str(message), '<cctvcameraidentification>', '</cctvcameraidentification>').strip()
             for i in message.find_all('latitude'):
                 lat = i.text
             for i in message.find_all('longitude'):
                 lon = i.text
             fp.write("%s;%s;%s;%s\n" % (id, float(lon), float(lat), str(img)))
+
     #send_trueno(file_name)
     return
 
@@ -245,7 +245,6 @@ def test():
     else:
         logger.error('Network does not exist!')
 
-		
 if __name__ == "__main__":
     #main()
     test()
