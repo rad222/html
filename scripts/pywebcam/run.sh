@@ -1,22 +1,22 @@
 #!/bin/bash
 
-#/home/radon/html/scripts/pywebcam/run.sh
+# pywebcam path
+PYWEBCAM_PATH=/home/radon/html/scripts/pywebcam
 
+# parse webcam data 
 for ccode in DGT metcli tiempovistazo
 do
 	CCODE=$ccode
 	echo ${CCODE}
-	#python pywebcam.py ${CCODE}
-
+	python ${PYWEBCAM_PATH}/pywebcam.py ${CCODE}
 done
 
+# merge 'DGT metcli tiempovistazo' to 'webcams.csv'
+sed 1d ${PYWEBCAM_PATH}/webcams_metcli.csv > ${PYWEBCAM_PATH}/webcams_metcli_.csv
+sed 1d ${PYWEBCAM_PATH}/webcams_tiempovistazo.csv > ${PYWEBCAM_PATH}/webcams_tiempovistazo_.csv
+cat ${PYWEBCAM_PATH}/webcams_DGT.csv ${PYWEBCAM_PATH}/webcams_metcli_.csv ${PYWEBCAM_PATH}/webcams_tiempovistazo_.csv > ${PYWEBCAM_PATH}/webcams.csv
+rm ${PYWEBCAM_PATH}/webcams_metcli_.csv
+rm ${PYWEBCAM_PATH}/webcams_tiempovistazo_.csv
 
-cd ~/html/scripts/pywebcam/
-sed 1d ~/html/scripts/pywebcam/webcams_metcli.csv > ~/html/scripts/pywebcam/webcams_metcli_.csv
-sed 1d ~/html/scripts/pywebcam/webcams_tiempovistazo.csv > ~/html/scripts/pywebcam/webcams_tiempovistazo_.csv
-cat ~/html/scripts/pywebcam/webcams_DGT.csv ~/html/scripts/pywebcam/webcams_metcli_.csv ~/html/scripts/pywebcam/webcams_tiempovistazo_.csv > ~/html/scripts/pywebcam/webcams.csv
-
-
-echo "stop" + $(date) >> /home/radon/html/scripts/pywebcam/runlog.log
-
-cd ~
+# copy 'webcams.csv' to web app folder
+cp -R ${PYWEBCAM_PATH}/webcams.csv /var/www/html

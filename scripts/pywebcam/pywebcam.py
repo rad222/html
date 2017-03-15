@@ -81,11 +81,11 @@ def tiempovistazo(network):
     contents = infile.read()
     soup = BeautifulSoup(contents)
     with open(file_name, 'w') as fp:
-        fp.write("%s;%s;%s;%s\n" % ('id', 'lon', 'lat', 'img'))
+        fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
         # Stations manual #
-        fp.write("%s;%s;%s;%s\n" % ('gencat_tavascan','1.256915', '42.644804','http://www.tavascan.net/wp-content/uploads/coses-webcam/webcam.jpg'))
-        fp.write("%s;%s;%s;%s\n" % ('gencat_esterri_aneu','1.122711','42.626923','http://www.cannirus.net/rb/foto.jpg'))
-        fp.write("%s;%s;%s;%s\n" % ('gencat_saint_joan_lerm','1.286978','42.417716','http://www.santjoandelerm.com/camara/SantJoan.jpg'))
+        fp.write("%s|%s|%s|%s\n" % ('gencat_tavascan','1.256915', '42.644804','http://www.tavascan.net/wp-content/uploads/coses-webcam/webcam.jpg'))
+        fp.write("%s|%s|%s|%s\n" % ('gencat_esterri_aneu','1.122711','42.626923','http://www.cannirus.net/rb/foto.jpg'))
+        fp.write("%s|%s|%s|%s\n" % ('gencat_saint_joan_lerm','1.286978','42.417716','http://www.santjoandelerm.com/camara/SantJoan.jpg'))
         logger.info('Get data from webcam %s' % 'manual stations')
         # end
         for message in soup.find_all('marker'):
@@ -132,14 +132,13 @@ def tiempovistazo(network):
 
                     logger.info('Get data from webcam %s' % id)
 
-                fp.write("%s;%s;%s;%s\n" % (id, lon, lat, img))
+                fp.write("%s|%s|%s|%s\n" % (id, lon, lat, img))
 
 
     return
 
 def metcli(network):
-    meta_url = '/home/radon/html/scripts/pywebcam/meta'
-    meta_csv = os.path.join(meta_url, 'meta.csv')
+    meta_csv = os.path.join(home, 'meta/meta.csv')
 
     webcam_url = 'http://www.meteoclimatic.net/webcams'
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
@@ -147,14 +146,14 @@ def metcli(network):
     with open(meta_csv, 'rb') as csvfile:
         table = csv.reader(csvfile)
         with open(file_name, 'w') as fp:
-            fp.write("%s;%s;%s;%s\n" % ('id', 'lon', 'lat', 'img'))
+            fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
             for enum, row in enumerate(table):
                 if enum > 0:
                     img = os.path.join(webcam_url, 'g_' + row[0])
                     try:
                         if isinstance(urllib2.urlopen(img).read(), basestring) is True:
                             logger.info('Get data from webcam %s' % row[0])
-                            fp.write("%s;%s;%s;%s\n" % (row[0], row[2], row[1], img))
+                            fp.write("%s|%s|%s|%s\n" % (row[0], row[2], row[1], img))
 
                     except urllib2.HTTPError, e:
                         #url of the image does not work
@@ -181,7 +180,7 @@ def DGT(network):
     soup = BeautifulSoup(contents)
 
     with open (file_name, 'w') as fp:
-        fp.write("%s;%s;%s;%s\n" % ('id', 'lon', 'lat', 'img'))
+        fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
         net = 'DGT'
         for message in soup.find_all('cctvcamerametadatarecord'):
             #each message is a block of data from one webcam
@@ -221,7 +220,7 @@ def DGT(network):
                 lat = i.text
             for i in message.find_all('longitude'):
                 lon = i.text
-            fp.write("%s;%s;%s;%s\n" % (id, float(lon), float(lat), str(img)))
+            fp.write("%s|%s|%s|%s\n" % (id, float(lon), float(lat), str(img)))
 
     #send_trueno(file_name)
     return

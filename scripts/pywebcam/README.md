@@ -29,3 +29,11 @@ $ python pywebcam.py tiempovistazo
 $ cd ~/html/scripts/pywebcam
 $ ./run.sh
 ```
+```sh
+# crontab
+$ sudo crontab -e
+# m h dom mon dow command
+# 00 12 * * * /home/radon/html/scripts/pywebcam/run.sh
+```
+
+http://134.249.136.27:805/webcams.csv
