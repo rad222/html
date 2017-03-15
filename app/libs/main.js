@@ -1044,3 +1044,53 @@ $(document).ready(function () {
 // 	layerControl._update();
 // 	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
 // });
+
+
+
+
+/*
+var webCamsCluster = L.markerClusterGroup({
+	spiderfyOnMaxZoom: false,
+	showCoverageOnHover: false
+});
+map.addLayer(webCamsCluster);
+
+var webCamsData = {};
+$.ajax({
+	url: 'data/webcams.csv',
+	//url: 'http://134.249.136.27:805/webcams.csv',
+	cache: false,
+	success: function (csv) {
+		csv2geojson.csv2geojson(csv, {
+			latfield: 'lat',
+			lonfield: 'lon',
+			delimiter: '|'
+		}, function (err, data) {
+			webCamsData = data;
+			console.log(webCamsData)
+			console.log('webcams.csv loaded. count: ' + data['features'].length);
+		});
+	},
+	complete: function (data) {
+		var webCamsLayer = L.geoJson(null, {
+			pointToLayer: function (feature, latlng) {
+				return L.marker(latlng, {
+					icon: L.VectorMarkers.icon({
+						icon: 'nuclear',
+						prefix: 'ion',
+						markerColor: '#000000',
+						iconColor: '#000000',
+						popupAnchor: [0, -46]
+					}),
+					//title: feature.properties.name,
+					riseOnHover: true
+				});
+			},
+			onEachFeature: function (feature, layer) {
+			}
+		});
+		webCamsLayer.addData(webCamsData);
+		webCamsCluster.addLayer(webCamsLayer);
+	}
+});
+*/
