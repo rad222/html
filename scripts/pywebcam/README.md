@@ -37,3 +37,10 @@ $ sudo crontab -e
 ```
 
 http://134.249.136.27:805/webcams.csv
+
+```sh
+publish_path=/home/radon/html
+git --git-dir=$publish_path/.git --work-tree=$publish_path commit -a -m "update data (`date +%d/%m/%Y' '%H:%M`)"
+git --git-dir=$publish_path/.git --work-tree=$publish_path push origin gh-pages
+```
+
