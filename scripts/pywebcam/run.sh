@@ -35,11 +35,11 @@ rm ${PYWEBCAM_PATH}/webcams_DGT.csv
 rm ${PYWEBCAM_PATH}/webcams_metcli.csv
 rm ${PYWEBCAM_PATH}/webcams_tiempovistazo.csv
 
-chmod -R 777 ${PYWEBCAM_PATH}
-chown -R radon:radon ${PYWEBCAM_PATH}
+#chmod -R 777 ${PYWEBCAM_PATH}
+#chown -R radon:radon ${PYWEBCAM_PATH}
 
 # copy 'webcams.csv' to web app folder
-cp -R ${PYWEBCAM_PATH}/webcams.csv /var/www/html
+#cp -R ${PYWEBCAM_PATH}/webcams.csv /var/www/html
 
 # copy 'webcams.csv' to 'html/app/data' folder
 cp -R ${PYWEBCAM_PATH}/webcams.csv /home/radon/html/app/data

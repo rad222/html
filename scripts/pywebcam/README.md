@@ -33,7 +33,8 @@ $ ./run.sh
 # crontab
 $ sudo crontab -e
 # m h dom mon dow command
-# 00 12 * * * /home/radon/html/scripts/pywebcam/run.sh
+# 1 10 * * * /home/radon/html/scripts/pywebcam/run.sh
+# 1 18 * * * /home/radon/html/scripts/pywebcam/run.sh
 ```
 
 http://134.249.136.27:805/webcams.csv
