@@ -37,3 +37,6 @@ chown -R radon:radon ${PYWEBCAM_PATH}
 
 # copy 'webcams.csv' to web app folder
 cp -R ${PYWEBCAM_PATH}/webcams.csv /var/www/html
+
+# copy 'webcams.csv' to 'html/app/data' folder
+cp -R ${PYWEBCAM_PATH}/webcams.csv /home/radon/html/app/data
