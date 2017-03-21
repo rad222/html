@@ -39,3 +39,4 @@ $ sudo crontab -e
 
 http://134.249.136.27:805/webcams.csv
 
+http://stackoverflow.com/questions/8588768/git-push-username-password-how-to-avoid
