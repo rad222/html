@@ -31,7 +31,7 @@ $ ./run.sh
 ```
 ```sh
 # crontab
-$ sudo crontab -e
+$ crontab -e
 # m h dom mon dow command
 # 1 10 * * * /home/radon/html/scripts/pywebcam/run.sh
 # 1 18 * * * /home/radon/html/scripts/pywebcam/run.sh
