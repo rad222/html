@@ -174,3 +174,23 @@ input[type="checkbox"] {
 .switch-field label:last-of-type {
     border-radius: 0 4px 4px 0;
 }
+
+
+/* webcam popup */
+
+.leaflet-popup-content-wrapper {
+    border-radius: 3px;
+}
+
+.leaflet-popup-content {
+    margin: 5px 20px 5px 5px;
+}
+
+.webcam1,
+.webcam2,
+.webcam3 {
+    display: inline-block;
+    width: 20px;
+    margin-left: 10px;
+    height: 8px;
+}

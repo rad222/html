@@ -425,14 +425,9 @@ var baseLayers = {
 	"Bing Aerial": BingAerial
 };
 
-
 var layerControl = L.control.groupedLayers(baseLayers, null, {
 	collapsed: false
 }).addTo(map);
-
-layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
-layerControl.addOverlay(geojsonProvincias, "Provincias", "Layers");
-layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
 
 
 // var overlayLayerObject = {};
@@ -440,7 +435,6 @@ layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
 // overlayLayerObject['geojsonCCAA'] = geojsonCCAA;
 // overlayLayerObject['geojsonProvincias'] = geojsonProvincias;
 // overlayLayerObject['geojsonZonas'] = geojsonZonas;
-
 
 // ----------------------------------------------------------------------------------------------
 
@@ -644,15 +638,11 @@ function updateOverlaysObj(categories) {
 };
 
 
-
-
 function initStationsLayerControl(overlaysObj) {
-
 	// add layers to layerControl
 	for (var categoryName in overlaysObj) {
 		layerControl.addOverlay(overlaysObj[categoryName], categoryName, "Stations");
 	};
-
 
 	var stationStamps = [];
 	for (var categoryName in overlaysObj) {
@@ -665,7 +655,6 @@ function initStationsLayerControl(overlaysObj) {
 	map.removeLayer(allStationsLG);
 	map.addLayer(allStationsLG);
 };
-
 
 
 // overlayadd overlayremove for stations layer
@@ -779,7 +768,9 @@ map.on("click", function (e) {
 	highlight.clearLayers();
 
 	// remove geocoder marker
-	map.removeLayer(geocoder._geocodeMarker);
+	if (map.hasLayer(geocoder._geocodeMarker)) {
+		map.removeLayer(geocoder._geocodeMarker);
+	};
 
 	$(".info.layerinfo").hide();
 });
@@ -868,10 +859,86 @@ $(".switch-field.cluster").change(function (e) {
 	initStations();
 });
 
+// 'Webcams' layer
+var webCamsCluster = L.markerClusterGroup({
+	spiderfyOnMaxZoom: false,
+	showCoverageOnHover: false
+});
+//map.addLayer(webCamsCluster);
+
+function initWebCams() {
+
+	function webcamColor(color) {
+		if (color === 'DGT') {
+			return '#A23434';
+		}
+		if (color === 'metcli') {
+			return '#415A44';
+		}
+		if (color === 'tiempovistazo') {
+			return '#005B96';
+		}
+	};
+
+	var webCamsData = {};
+	$.ajax({
+		url: 'data/webcams.csv',
+		cache: false,
+		success: function (csv) {
+			csv2geojson.csv2geojson(csv, {
+				latfield: 'lat',
+				lonfield: 'lon',
+				delimiter: '|'
+			}, function (err, data) {
+				webCamsData = data;
+			});
+		},
+		complete: function () {
+			var webCamsLayer = L.geoJson(null, {
+				pointToLayer: function (feature, latlng) {
+					return L.marker(latlng, {
+						icon: L.VectorMarkers.icon({
+							icon: 'camera',
+							prefix: 'fa',
+							markerColor: '#D3D3D3',
+							iconColor: webcamColor(feature.properties.type),
+							popupAnchor: [0, -46]
+						}),
+						riseOnHover: true
+					});
+				}
+			}).on('click', function (e) {
+				var layer = e.layer;
+				var feature = layer.feature.properties;
+				var id = feature['id'];
+				var img = feature['img'];
+				var type = feature['type'];
+				var popupContent = type + ', ' + id + '<br>' + '<img src="' + img + '" alt="&nbsp;&nbsp;IMAGE NOT AVAILABLE&nbsp;" width="317px"/>';
+				layer.bindPopup(popupContent).openPopup();
+			});
+			webCamsLayer.addData(webCamsData);
+			webCamsCluster.addLayer(webCamsLayer);
+		}
+	});
+};
+
 // document ready event
 $(document).ready(function () {
-	initStations();
-	//initWebCams();
+
+	initStations(); // init 'stations' layers
+	initWebCams(); // init 'webcams' layers
+
+	// add layers to 'Layers' group
+	var webcamsLegendHTML = 'Webcams<br>' +
+		'<div id="webcam-legend" class="legend-subtext collapse in">' +
+		'<div class="webcam1"><i class="fa fa-camera" style="color: #A23434;"></i></div><small>DGT</small><br>' +
+		'<div class="webcam2"><i class="fa fa-camera" style="color: #415A44;"></i></div><small>metcli</small><br>' +
+		'<div class="webcam3"><i class="fa fa-camera" style="color: #005B96;"></i></div><small>tiempovistazo</small></div>';
+
+	layerControl.addOverlay(webCamsCluster, webcamsLegendHTML, "Layers");
+	layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
+	layerControl.addOverlay(geojsonProvincias, "Provincias", "Layers");
+	layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
 
 	// add RaViewer logo
 	var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control-zoom');
@@ -884,220 +951,3 @@ $(document).ready(function () {
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 });
-
-
-
-
-// ----------------------------------------------------------------------------------------------
-
-// disable map dragging on opacity control
-// $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mousedown(function () {
-// 	map.dragging.disable();
-// });
-// $('#opacity-control > div > div.slider-handle.min-slider-handle.round').mouseleave(function () {
-// 	map.dragging.enable();
-// });
-
-
-// update legend
-// if (map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas)) {
-// 	$("#legend-layers").remove();
-// 	$(".info.legend.leaflet-control").append(html);
-// };
-
-
-// define Stations layer: Spain_CSN, Spain_CIEMAT, Eurdep
-// https://github.com/mapbox/leaflet-omnivore
-// https://github.com/hiasinho/Leaflet.vector-markers
-// https://jsfiddle.net/qkvo7hav/7/
-
-// var allPointsLG = L.layerGroup();
-
-// var layer_Spain_CSN = L.layerGroup();
-// var layer_Spain_CIEMAT = L.layerGroup();
-// var layer_Eurdep = L.layerGroup();
-
-// // Creates a Marker Cluster Group
-// var mcg = L.markerClusterGroup.layerSupport().addTo(map);
-
-// var stationsMetaData = {};
-
-// // worker for update stationsMetaData object from meta.csv every 'n' ms
-// (function worker() {
-// 	console.time("loading meta.csv");
-// 	$.ajax({
-// 		url: 'data/meta.csv',
-// 		cache: false,
-// 		success: function (csv) {
-// 			csv2geojson.csv2geojson(csv, {
-// 				latfield: 'latitude',
-// 				lonfield: 'longitude',
-// 				delimiter: ';'
-// 			}, function (err, data) {
-// 				stationsMetaData = data;
-// 				console.log('meta.csv loaded. count: ' + stationsMetaData['features'].length);
-// 			});
-// 		},
-// 		complete: function () {
-// 			setTimeout(worker, 1800000);
-// 			//setTimeout(worker, 5000);
-// 		}
-// 	});
-// 	console.timeEnd("loading meta.csv");
-// })();
-
-// function geoJsonLayer(type) {
-// 	return L.geoJson(null, {
-// 		filter: function (feature, layer) {
-// 			return feature.properties.id_network === type;
-// 		},
-// 		pointToLayer: function (feature, latlng) {
-// 			return L.marker(latlng, {
-// 				icon: L.VectorMarkers.icon({
-// 					icon: 'nuclear',
-// 					prefix: 'ion',
-// 					markerColor: getColor(feature.properties.value),
-// 					iconColor: '#000000',
-// 					popupAnchor: [0, -46]
-// 				}),
-// 				title: feature.properties.name,
-// 				riseOnHover: true
-// 			});
-// 		},
-// 		onEachFeature: function (feature, layer) {
-// 			layer.on({
-// 				click: showPopupClickPoint,
-// 				mouseover: showPopupMouseoverPoint
-// 			});
-// 		}
-// 	})
-// };
-
-
-// function initStations(stationsMetaData) {
-// 	mcg.clearLayers();
-
-// 	// layer_Spain_CSN.clearLayers();
-// 	// layer_Spain_CIEMAT.clearLayers();
-// 	// layer_Eurdep.clearLayers();
-// 	// allPointsLG.addTo(map);
-
-// 	var layer_geojson_Spain_CSN = geoJsonLayer('Spain_CSN');
-// 	layer_geojson_Spain_CSN.addData(stationsMetaData);
-// 	layer_Spain_CSN.addLayer(layer_geojson_Spain_CSN);
-
-// 	var layer_geojson_Spain_CIEMAT = geoJsonLayer('Spain_CIEMAT');
-// 	layer_geojson_Spain_CIEMAT.addData(stationsMetaData);
-// 	layer_Spain_CIEMAT.addLayer(layer_geojson_Spain_CIEMAT);
-
-// 	var layer_geojson_Eurdep = geoJsonLayer('Eurdep');
-// 	layer_geojson_Eurdep.addData(stationsMetaData);
-// 	layer_Eurdep.addLayer(layer_geojson_Eurdep);
-// };
-
-
-//Checking in the 'sub groups'
-// mcg.checkIn([
-// 	layer_Spain_CSN,
-// 	layer_Spain_CIEMAT,
-// 	layer_Eurdep
-// ]);
-
-
-// layerControl.addOverlay(allPointsLG, "All / none", "Stations");
-// layerControl.addOverlay(layer_Spain_CSN, "Spain CSN", "Stations");
-// layerControl.addOverlay(layer_Spain_CIEMAT, "Spain CIEMAT", "Stations");
-// layerControl.addOverlay(layer_Eurdep, "Eurdep", "Stations");
-
-
-// add check/uncheck functionality for Stations layer
-// map.on("overlayadd overlayremove", function (event) {
-// 	var layer = event.layer;
-
-// 	if (event.type === "overlayadd") {
-// 		if (layer === allPointsLG) {
-// 			if (!map.hasLayer(layer_Spain_CSN)) {
-// 				layer_Spain_CSN.addTo(map);
-// 			};
-// 			if (!map.hasLayer(layer_Spain_CIEMAT)) {
-// 				layer_Spain_CIEMAT.addTo(map);
-// 			};
-// 			if (!map.hasLayer(layer_Eurdep)) {
-// 				layer_Eurdep.addTo(map);
-// 			};
-// 		};
-// 		if (map.hasLayer(layer_Spain_CSN) && map.hasLayer(layer_Spain_CIEMAT) && map.hasLayer(layer_Eurdep)) {
-// 			map.addLayer(allPointsLG);
-// 		};
-// 	};
-
-// 	if (event.type === "overlayremove") {
-// 		if (layer === allPointsLG) {
-// 			map.removeLayer(layer_Spain_CSN);
-// 			map.removeLayer(layer_Spain_CIEMAT);
-// 			map.removeLayer(layer_Eurdep);
-// 		};
-// 		if (!map.hasLayer(layer_Spain_CSN) && !map.hasLayer(layer_Spain_CIEMAT) && !map.hasLayer(layer_Eurdep)) {
-// 			map.removeLayer(allPointsLG);
-// 		};
-// 	};
-
-// 	layerControl._update();
-// 	$('.leaflet-control-layers-base').prepend('&nbsp<b tkey="baselayers">Base Layers</b>');
-// });
-
-
-function initWebCams() {
-
-
-	var webCamsCluster = L.markerClusterGroup({
-		spiderfyOnMaxZoom: false,
-		showCoverageOnHover: false
-	});
-	map.addLayer(webCamsCluster);
-
-
-
-	var webCamsData = {};
-	$.ajax({
-		url: 'data/webcams.csv',
-		//url: 'http://134.249.136.27:805/webcams.csv',
-		cache: false,
-		success: function (csv) {
-			csv2geojson.csv2geojson(csv, {
-				latfield: 'lat',
-				lonfield: 'lon',
-				delimiter: '|'
-			}, function (err, data) {
-				webCamsData = data;
-				console.log('webcams.csv loaded. count: ' + data['features'].length);
-			});
-		},
-		complete: function () {
-
-			var webCamsLayer = L.geoJson(null, {
-				pointToLayer: function (feature, latlng) {
-					return L.marker(latlng, {
-						icon: L.VectorMarkers.icon({
-							icon: 'nuclear',
-							prefix: 'ion',
-							markerColor: '#000000',
-							iconColor: '#000000',
-							popupAnchor: [0, -46]
-						}),
-						//title: feature.properties.name,
-						riseOnHover: true
-					});
-				},
-				onEachFeature: function (feature, layer) {}
-			});
-			webCamsLayer.addData(webCamsData);
-			webCamsCluster.addLayer(webCamsLayer);
-
-
-		}
-	});
-
-
-
-};
