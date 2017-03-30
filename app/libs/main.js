@@ -662,6 +662,17 @@ map.on("overlayadd overlayremove", function (event) {
 
 	var layer = event.layer,
 		layerCategory;
+
+	// webcam layer
+	if (layer === webCamsCluster) {
+		if (event.type === "overlayadd") {
+			$('#webcam-legend').collapse('show');
+		} else if (event.type === "overlayremove") {
+			$('#webcam-legend').collapse('hide');
+		};
+	};
+
+	// stations layer
 	if (layer === allStationsLG) {
 		if (layer.notUserAction) {
 			layer.notUserAction = false;
@@ -930,7 +941,7 @@ $(document).ready(function () {
 
 	// add layers to 'Layers' group
 	var webcamsLegendHTML = 'Webcams<br>' +
-		'<div id="webcam-legend" class="legend-subtext collapse in">' +
+		'<div id="webcam-legend" class="legend-subtext collapse">' +
 		'<div class="webcam1"><i class="fa fa-camera" style="color: #A23434;"></i></div><small>DGT</small><br>' +
 		'<div class="webcam2"><i class="fa fa-camera" style="color: #415A44;"></i></div><small>metcli</small><br>' +
 		'<div class="webcam3"><i class="fa fa-camera" style="color: #005B96;"></i></div><small>tiempovistazo</small></div>';
