@@ -8,7 +8,7 @@ $ sudo pip install -r requirements.txt
 ### Update from repository
 ```sh
 $ cd ~/html
-$ git pull
+$ git pull origin master
 ```
 ### Update repository
 ```sh
