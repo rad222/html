@@ -1,11 +1,10 @@
-__author__ = 'sti'
-
 import urllib2
 import csv
 import os
 import logging
 import sys
 import socket
+import requests
 from bs4 import BeautifulSoup
 from logging.handlers import RotatingFileHandler
 sys.setrecursionlimit(10000) #to avoid RuntimeError: maximum recursion depth exceeded
@@ -14,7 +13,7 @@ sys.setrecursionlimit(10000) #to avoid RuntimeError: maximum recursion depth exc
 #                                                                                           #
 #                                     PyWebcam                                              #
 #                                                                                           #
-#         A script written in Python 2.x to get data from DGT webcams                       #
+#         A script written in Python 2.x to get data from webcams                           #
 #                                                                                           #
 #===========================================================================================#
 
@@ -50,23 +49,22 @@ def latlonSpain(lat0, lon0):
     :return:
     '''
     lat = float(lat0)
-    lon = float(lon0)
+    lon = float(lon0) 
     #Area Spain
     NE = [43.7383229, 7.4244581]
     NO = [43.7383229, -7.9764943]
     SO = [35.9215639, -7.9764943]
     SE = [35.9215639, 7.4244581]
     #Area Canary
-    NEC = [31.251822, -14.4913868]
-    NOC = [31.251822, -18.8859181]
-    SOC = [30.3980253, -18.8859181]
-    SEC = [30.3980253, -14.4913868]
-    if (SE[0] < lat < NE[0]) and (SO[1] < lon < SE[1]):
+    NEC = [29.64350248, -18.6181964]
+    NOC = [29.64350248, -13.02905291]
+    SOC = [22.5040134, -13.02905291]
+    SEC = [22.5040134, -18.6181964]
+    ans = False
+    if (SE[0] < lat < NE[0]) and (SO[1] < lon < SE[1]): #spain
         ans = True
-    elif (SEC[0] < lat < NEC[0]) and (SOC[1] < lon < SEC[1]):
+    if (NEC[0] > lat > SEC[0]) and (SOC[1] > lon > SEC[1]): #canary islands
         ans = True
-    else:
-        ans = False
     return ans
 
 def tiempovistazo(network):
@@ -89,7 +87,7 @@ def tiempovistazo(network):
         logger.info('Get data from webcam %s' % 'manual stations')
         # end
         for message in soup.find_all('marker'):
-            if 'wunderground' in str(message) or 'Proximamente.jpg' in str(message) or 'metcli' in str(message) or 'infocar.dgt.es' in str(message) or 'Fueraservicio.jpg'in str(message):
+            if 'wunderground' in str(message) or 'Proximamente.jpg' in str(message) or 'metcli' in str(message) or 'infocar.dgt.es' in str(message) or 'ftp' in str(message) or 'Fueraservicio.jpg'in str(message):
                 continue
             else:
                 lat = find_between(str(message), 'lat="', 'lng=').replace('"', '').strip()
@@ -101,10 +99,10 @@ def tiempovistazo(network):
                 my_img = find_between(str(message), 'src', 'onError')
                 if my_img is not None:
                     img = my_img.replace('=', '').replace('"', '').strip()[1:-1]
-                    #to solve a bug about gencat network (catalonya)
+                    #to solve a bug about gencat network (catalonya, Spain)
                     if '&amp;visualitzacioimatge' in img:
                         img = img.replace('&amp;visualitzacioimatge', '&visualitzacio=imatge').replace('?nom','?nom=')
-                    # Analisis de las url para descartar los enlaces rotos (404)
+                    # Analysis url (404)
                     try:
                         req = urllib2.Request(img)
                         handle = urllib2.urlopen(req, timeout=5)
@@ -129,11 +127,20 @@ def tiempovistazo(network):
                         else:
                             logger.error('%s Url not found %s' % (e.code, id))
                         continue
-
+                    except:
+                        continue
+                    #analysis head image
+                    try:
+                        resp = requests.head(img)
+                        data_headers = resp.headers
+                        my_length = data_headers['content-length']
+                    except:
+                        continue
+                    if (resp.status_code != 200) or (float(my_length) == 0):  #image error
+                        logger.error('Analysis head: Url not found %s' % img)
+                        continue
                     logger.info('Get data from webcam %s' % id)
-
-                fp.write("%s|%s|%s|%s\n" % (id, lon, lat, img))
-
+                    fp.write("%s|%s|%s|%s\n" % (id, lon, lat, img))
 
     return
 
@@ -162,7 +169,6 @@ def metcli(network):
                         else:
                             logger.error('%s Url not found %s' % (e.code, row[0]))
                             continue
-    #send_trueno(file_name)
     return
 
 def DGT(network):
@@ -214,20 +220,22 @@ def DGT(network):
                 else:
                     logger.error('%s Url not found %s' % (e.code, id))
                 continue
-
+            except:
+                continue                
+            resp = requests.head(img)		
+            data_headers = resp.headers
+            my_length = data_headers['content-length']
             name = find_between(str(message), '<cctvcameraidentification>', '</cctvcameraidentification>').strip()
             for i in message.find_all('latitude'):
                 lat = i.text
             for i in message.find_all('longitude'):
-                lon = i.text
+                lon = i.text                
+            if (resp.status_code != 200) or (float(my_length)<7000): #images error
+                logger.error('Url not found %s' % (id))
+                continue 
             fp.write("%s|%s|%s|%s\n" % (id, float(lon), float(lat), str(img)))
 
-    #send_trueno(file_name)
     return
-
-
-def send_trueno(file_name):
-    os.system('scp {0} wwj@trueno:/www0/wwj/stapwww/datos/webcams/' .format(file_name))
 
 def test():
     network = sys.argv[1]
