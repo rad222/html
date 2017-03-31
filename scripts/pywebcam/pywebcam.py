@@ -136,7 +136,7 @@ def tiempovistazo(network):
                         my_length = data_headers['content-length']
                     except:
                         continue
-                    if (resp.status_code != 200) or (float(my_length) == 0):  #image error
+                    if (resp.status_code != 200):  #image error
                         logger.error('Analysis head: Url not found %s' % img)
                         continue
                     logger.info('Get data from webcam %s' % id)
