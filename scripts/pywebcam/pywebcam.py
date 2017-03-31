@@ -146,7 +146,6 @@ def tiempovistazo(network):
 
 def metcli(network):
     meta_csv = os.path.join(home, 'meta/meta.csv')
-
     webcam_url = 'http://www.meteoclimatic.net/webcams'
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
 
@@ -161,7 +160,7 @@ def metcli(network):
                         if isinstance(urllib2.urlopen(img).read(), basestring) is True:
                             logger.info('Get data from webcam %s' % row[0])
                             fp.write("%s|%s|%s|%s\n" % (row[0], row[2], row[1], img))
-
+                            
                     except urllib2.HTTPError, e:
                         #url of the image does not work
                         if e.code == 404:
@@ -169,6 +168,15 @@ def metcli(network):
                         else:
                             logger.error('%s Url not found %s' % (e.code, row[0]))
                             continue
+                    except:
+                        continue
+                    try:
+                        my_length = data_headers['content-length']
+                    except:
+                        continue
+                    if (resp.status_code != 200) or (float(my_length) < 7000):
+                        logger.error('Url not found %s' % (row[0]))
+                        continue
     return
 
 def DGT(network):
