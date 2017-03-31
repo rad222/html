@@ -171,6 +171,8 @@ def metcli(network):
                     except:
                         continue
                     try:
+                        resp = requests.head(img)
+                        data_headers = resp.headers
                         my_length = data_headers['content-length']
                     except:
                         continue
@@ -229,10 +231,13 @@ def DGT(network):
                     logger.error('%s Url not found %s' % (e.code, id))
                 continue
             except:
-                continue                
-            resp = requests.head(img)		
-            data_headers = resp.headers
-            my_length = data_headers['content-length']
+                continue
+            try:
+                resp = requests.head(img)		
+                data_headers = resp.headers
+                my_length = data_headers['content-length']
+            except:
+                continue
             name = find_between(str(message), '<cctvcameraidentification>', '</cctvcameraidentification>').strip()
             for i in message.find_all('latitude'):
                 lat = i.text
