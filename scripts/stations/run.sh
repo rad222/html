@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 # project path
 PROJECT_PATH=/home/radon/html
 
@@ -9,13 +8,14 @@ PROJECT_PATH=/home/radon/html
 STATIONS_PATH=/home/radon/html/scripts/stations
 
 # run python scarping script
+cd ${STATIONS_PATH}
 for scode in AT BE BG CH CY CZ DE DK EE ES FI FR GB GL GR HR HU IE IS IT LT LU LV MK MT NL NO PL PT RO RS RU SE SI SK TR UA 
 do
 	SCODE=$scode
-	#echo ${SCODE}
-	#python ${STATIONS_PATH}/test_eurdep_single.py ${SCODE}
+	echo ${SCODE}
+	python ${STATIONS_PATH}/test_eurdep_single.py ${SCODE}
 done
-
+cd ~
 
 
 # merge csv files in one
