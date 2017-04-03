@@ -90,33 +90,33 @@ var colorRange1 = [{
 	color: '#9E0005'
 }, {
 	min: 25,
-	max: 30,
+	max: 50,
 	color: '#CD326C'
 }];
 
 var colorRange2 = [{
 	min: 0,
-	max: 1,
+	max: 10,
 	color: '#1AB0AF'
 }, {
-	min: 1,
-	max: 2,
-	color: '#3E8CA4'
-}, {
-	min: 2,
-	max: 3,
-	color: '#1D65AF'
-}, {
-	min: 3,
-	max: 5,
-	color: '#2040AF'
-}, {
-	min: 5,
+	min: 10,
 	max: 20,
-	color: '#3F1EAD'
+	color: '#3E8CA4'
 }, {
 	min: 20,
 	max: 30,
+	color: '#1D65AF'
+}, {
+	min: 30,
+	max: 50,
+	color: '#2040AF'
+}, {
+	min: 50,
+	max: 200,
+	color: '#3F1EAD'
+}, {
+	min: 200,
+	max: 300,
 	color: '#671CAE'
 }];
 
@@ -130,7 +130,7 @@ var colorRange3 = [{
 	color: '#FFFE3E'
 }, {
 	min: 14,
-	max: 30,
+	max: 50,
 	color: '#EA4949'
 }];
 
