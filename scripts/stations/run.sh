@@ -34,6 +34,9 @@ for filename in ${STATIONS_PATH}/inputs/*.csv; do
 done
 
 
+# copy 'YYYYMMDDHHMM.csv' to 'html/app/data/web' folder
+cp -R ${STATIONS_PATH}/${STATIONS_DATE}.csv /home/radon/html/app/data/web
+
 # push changes
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update data (`date +%d/%m/%Y' '%H:%M`)"
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master
