@@ -1,4 +1,4 @@
-# webcam data parser
+# RaViewer webcams data parser
 
 ### Installation on Ubuntu Server 14.04.5
 ```sh
@@ -14,7 +14,8 @@ $ git pull origin master
 ```sh
 $ cd ~/html
 $ git status
-$ git commit -a -m 'Update data'
+$ git add .
+$ git commit -a -m 'update data'
 $ git push
 ```
 ### Running
@@ -28,15 +29,16 @@ $ python pywebcam.py tiempovistazo
 # run all
 $ cd ~/html/scripts/pywebcam
 $ ./run.sh
+or
+$ ~/html/scripts/pywebcam/run.sh
 ```
 ```sh
 # crontab
 $ crontab -e
 # m h dom mon dow command
-# 1 10 * * * /home/radon/html/scripts/pywebcam/run.sh
-# 1 18 * * * /home/radon/html/scripts/pywebcam/run.sh
+# 0 9 * * * /home/radon/html/scripts/pywebcam/run.sh
+# 0 17 * * * /home/radon/html/scripts/pywebcam/run.sh
 ```
 
-http://134.249.136.27:805/webcams.csv
 
 http://stackoverflow.com/questions/8588768/git-push-username-password-how-to-avoid

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# ~/html/scripts/pywebcam/run.sh
+
 # project path
 PROJECT_PATH=/home/radon/html
 
@@ -41,10 +43,10 @@ rm ${PYWEBCAM_PATH}/webcams_tiempovistazo.csv
 # copy 'webcams.csv' to web app folder
 #cp -R ${PYWEBCAM_PATH}/webcams.csv /var/www/html
 
+
 # copy 'webcams.csv' to 'html/app/data' folder
 cp -R ${PYWEBCAM_PATH}/webcams.csv /home/radon/html/app/data
 
-
 # push changes
-git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update data (`date +%d/%m/%Y' '%H:%M`)"
+git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update webcams data (`date +%d/%m/%Y' '%H:%M`)"
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master

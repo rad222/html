@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# ~/html/scripts/stations/run.sh
 
 # project path
 PROJECT_PATH=/home/radon/html
@@ -13,7 +14,7 @@ for scode in AT BE BG CH CY CZ DE DK EE ES FI FR GB GL GR HR HU IE IS IT LT LU L
 do
 	SCODE=$scode
 	echo ${SCODE}
-	#python ${STATIONS_PATH}/test_eurdep_single.py ${SCODE}
+	#python ${STATIONS_PATH}/eurdep_single.py ${SCODE}
 done
 cd ~
 
@@ -38,5 +39,5 @@ done
 cp -R $OUTPUT_STATIONS /home/radon/html/app/data/web
 
 # push changes
-git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update data (`date +%d/%m/%Y' '%H:%M`)"
+git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update stations data (`date +%d/%m/%Y' '%H:%M`)"
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master
