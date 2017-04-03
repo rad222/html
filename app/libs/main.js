@@ -130,7 +130,7 @@ var colorRange3 = [{
 	color: '#FFFE3E'
 }, {
 	min: 14,
-	max: 20,
+	max: 30,
 	color: '#EA4949'
 }];
 
