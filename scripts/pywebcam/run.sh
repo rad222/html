@@ -48,5 +48,6 @@ rm ${PYWEBCAM_PATH}/webcams_tiempovistazo.csv
 cp -R ${PYWEBCAM_PATH}/webcams.csv /home/radon/html/app/data
 
 # push changes
+git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH add .
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update webcams data (`date +%d/%m/%Y' '%H:%M`)"
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master

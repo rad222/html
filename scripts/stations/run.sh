@@ -39,5 +39,6 @@ done
 cp -R $OUTPUT_STATIONS /home/radon/html/app/data/web
 
 # push changes
+git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH add .
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update stations data (`date +%d/%m/%Y' '%H:%M`)"
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master
