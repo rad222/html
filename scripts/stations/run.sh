@@ -14,7 +14,7 @@ for scode in AT BE BG CH CY CZ DE DK EE ES FI FR GB GL GR HR HU IE IS IT LT LU L
 do
 	SCODE=$scode
 	echo ${SCODE}
-	#python ${STATIONS_PATH}/eurdep_single.py ${SCODE}
+	python ${STATIONS_PATH}/eurdep_single.py ${SCODE}
 done
 cd ~
 
