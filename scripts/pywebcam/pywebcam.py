@@ -193,18 +193,20 @@ def munimadrid(network):
         logger.error('Not available %s' % url)
         return
     fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
+    lon = None
+    lat = None
     for enum, i in enumerate(infile):
         ans = find_between(str(i), '<coordinates>', '</coordinates>')
         if ans is not None:
             ans_str = ans.split(',')
-            lon = ans_str[0]
-            lat = ans_str[1]
+            lon = float(ans_str[0])
+            lat = float(ans_str[1])
         ans2 = find_between(str(i), '<description>', '</description>')
         if ans2 is not None: 
             id = 'munimadrid_' + str(enum)
             logger.info('Get data from webcam %s' % id)
             img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ans2)[0].replace('_mdf','').replace('?v=625','')
-            fp.write("%s|%s|%s|%s\n" % (id, float(lon), float(lat), str(img)))
+            fp.write("%s|%s|%s|%s\n" % (id, lon, lat, str(img)))
     return
 
 def DGT(network):
