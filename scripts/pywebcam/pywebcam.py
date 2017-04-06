@@ -5,6 +5,7 @@ import logging
 import sys
 import socket
 import requests
+import re
 from bs4 import BeautifulSoup
 from logging.handlers import RotatingFileHandler
 sys.setrecursionlimit(10000) #to avoid RuntimeError: maximum recursion depth exceeded
@@ -181,11 +182,35 @@ def metcli(network):
                         continue
     return
 
+def munimadrid(network):
+
+    file_name = os.path.join(home, 'webcams_' + network + '.csv') 
+    url = 'http://informo.munimadrid.es/informo/tmadrid/cctv.kml'
+    try:
+        infile = urllib2.urlopen(url).readlines()
+        logger.info('#### START PYWEBCAM ####')
+    except:
+        logger.error('Not available %s' % url)
+        return
+    fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
+    for enum, i in enumerate(infile):
+        ans = find_between(str(i), '<coordinates>', '</coordinates>')
+        if ans is not None:
+            ans_str = ans.split(',')
+            lon = ans_str[0]
+            lat = ans_str[1]
+        ans2 = find_between(str(i), '<description>', '</description>')
+        if ans2 is not None: 
+            id = 'munimadrid_' + str(enum)
+            logger.info('Get data from webcam %s' % id)
+            img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ans2)[0].replace('_mdf','').replace('?v=625','')
+            fp.write("%s|%s|%s|%s\n" % (id, float(lon), float(lat), str(img)))
+    return
+
 def DGT(network):
 
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
-    url = 'http://infocar.dgt.es/datex2/dgt/CCTVSiteTablePublication/all/content.xml'
-
+    url = 'http://infocar.dgt.es/datex2/dgt/CCTVSiteTablePublication/all/content.xml' 
     try:
         infile = urllib2.urlopen(url)
         logger.info('#### START PYWEBCAM ####')
@@ -252,13 +277,15 @@ def DGT(network):
 
 def test():
     network = sys.argv[1]
-    if network in ['metcli', 'DGT', 'tiempovistazo']:
+    if network in ['metcli', 'DGT', 'tiempovistazo','munimadrid']:
         if network == 'metcli':
             metcli(network)
         elif network == 'DGT':
             DGT(network)
         elif network == 'tiempovistazo':
             tiempovistazo(network)
+        elif network == 'tiempovistazo':
+            munimadrid(network)
         else:
             None
         return
