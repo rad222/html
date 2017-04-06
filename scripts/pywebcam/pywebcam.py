@@ -277,14 +277,14 @@ def DGT(network):
 
 def test():
     network = sys.argv[1]
-    if network in ['metcli', 'DGT', 'tiempovistazo','munimadrid']:
+    if network in ['metcli', 'DGT', 'tiempovistazo', 'munimadrid']:
         if network == 'metcli':
             metcli(network)
         elif network == 'DGT':
             DGT(network)
         elif network == 'tiempovistazo':
             tiempovistazo(network)
-        elif network == 'tiempovistazo':
+        elif network == 'munimadrid':
             munimadrid(network)
         else:
             None
