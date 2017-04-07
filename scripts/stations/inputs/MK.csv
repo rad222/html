@@ -1,13 +1,13 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-06/04/17 16:00;MK0001;Eurdep;air;42.0;21.43;0.0;Macedonia;0;0;0;Skopje;10.2;10
-06/04/17 10:00;MK0002;Eurdep;air;41.72;21.78;157.8;Macedonia;Municipality of Veles;;;Veles;16.9;17
-06/04/17 16:00;MK0003;Eurdep;air;41.48;22.09;0.0;Macedonia;0;0.0;0;Negotino;13.8;14
-06/04/17 16:00;MK0004;Eurdep;air;41.14;22.5;64.5;Macedonia;Municipality of Gevgelija;;Gevgelija;Gevgelija;11.2;11
-06/04/17 16:00;MK0005;Eurdep;air;41.44;22.64;230.0;Macedonia;Strumitsa;;Municipalidad de Strumica;Strumica;15.4;16
-06/04/17 16:00;MK0006;Eurdep;air;41.7;22.86;861.8;Macedonia;Municipality of Berovo;;Berovo;Berovo;13.9;14
-06/04/17 16:00;MK0007;Eurdep;air;42.2;22.33;635.3;Macedonia;Municipality of Kriva Palanka;;Municipalidad de Kriva Palanka;Kriva Palanka;13.1;13
-06/04/17 16:00;MK0008;Eurdep;air;41.53;20.53;773.7;Macedonia;Municipality of Debar;;Debar;Debar;12.8;13
-06/04/17 16:00;MK0009;Eurdep;air;41.51;20.96;613.1;Macedonia;Municipality of Kichevo;;Municipalidad de Kičevo;Kicevo;18.5;55
-06/04/17 16:00;MK0010;Eurdep;air;41.37;21.25;1215.8;Macedonia;Municipality of Krushevo;;Krushevo;Krusevo;18.6;18
-06/04/17 16:00;MK0011;Eurdep;air;41.14;20.82;720.2;Macedonia;Ohrid;;Ohrid;Ohrid;15.7;16
-06/04/17 16:00;MK0012;Eurdep;air;41.03;21.34;607.4;Macedonia;Municipality of Bitola;;Bitola;Bitola;19.0;20
+07/04/17 02:00;MK0001;Eurdep;air;42.0;21.43;0.0;Macedonia;0;0;0;Skopje;10.3;10.0
+07/04/17 02:00;MK0002;Eurdep;air;41.72;21.78;157.8;Macedonia;Municipality of Veles;;;Veles;16.8;17.0
+07/04/17 04:00;MK0003;Eurdep;air;41.48;22.09;0.0;Macedonia;0;0.0;0;Negotino;13.8;14.0
+07/04/17 04:00;MK0004;Eurdep;air;41.14;22.5;64.5;Macedonia;Municipality of Gevgelija;;Gevgelija;Gevgelija;11.2;11.0
+07/04/17 04:00;MK0005;Eurdep;air;41.44;22.64;230.0;Macedonia;Strumitsa;;Municipalidad de Strumica;Strumica;15.2;15.0
+07/04/17 04:00;MK0006;Eurdep;air;41.7;22.86;861.8;Macedonia;Municipality of Berovo;;Berovo;Berovo;13.7;14.0
+07/04/17 02:00;MK0007;Eurdep;air;42.2;22.33;635.3;Macedonia;Municipality of Kriva Palanka;;Municipalidad de Kriva Palanka;Kriva Palanka;13.0;13.4
+07/04/17 04:00;MK0008;Eurdep;air;41.53;20.53;773.7;Macedonia;Municipality of Debar;;Debar;Debar;12.8;13.0
+07/04/17 01:00;MK0009;Eurdep;air;41.51;20.96;613.1;Macedonia;Municipality of Kichevo;;Municipalidad de Kičevo;Kicevo;18.0;55.0
+07/04/17 01:00;MK0010;Eurdep;air;41.37;21.25;1215.8;Macedonia;Municipality of Krushevo;;Krushevo;Krusevo;18.5;18.0
+07/04/17 02:00;MK0011;Eurdep;air;41.14;20.82;720.2;Macedonia;Ohrid;;Ohrid;Ohrid;15.7;16.0
+07/04/17 02:00;MK0012;Eurdep;air;41.03;21.34;607.4;Macedonia;Municipality of Bitola;;Bitola;Bitola;19.9;20.0
