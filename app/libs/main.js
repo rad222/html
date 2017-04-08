@@ -153,7 +153,7 @@ var highlightStylePoint = {
 	stroke: false,
 	fillColor: "#00FFFF",
 	fillOpacity: 0.7,
-	radius: 10
+	radius: 15
 };
 var highlightStylePolygon = {
 	color: '#00FFFF',
@@ -570,17 +570,35 @@ function initStations() {
 
 		var allStations = L.geoJson(null, {
 			pointToLayer: function (feature, latlng) {
+
+				// https://github.com/marslan390/BeautifyMarker
 				return L.marker(latlng, {
-					icon: L.VectorMarkers.icon({
-						icon: 'nuclear',
-						prefix: 'ion',
-						markerColor: getColor(feature.properties.value),
-						iconColor: '#000000',
-						popupAnchor: [0, -46]
+					icon: L.BeautifyIcon.icon({
+						isAlphaNumericIcon: true,
+						text: Math.round(feature.properties.value),
+						iconSize: [24, 24],
+						iconAnchor: [12, 12],
+						borderWidth: 3,
+						borderColor: getColor(feature.properties.value),
+						textColor: '#00ABDC',
+						innerIconStyle: 'margin-top: 0;'
 					}),
+					draggable: false,
 					title: feature.properties.name,
-					riseOnHover: true
-				});
+				})
+
+				// https://github.com/hiasinho/Leaflet.vector-markers
+				// return L.marker(latlng, {
+				// 	icon: L.VectorMarkers.icon({
+				// 		icon: 8,
+				// 		prefix: 'ion',
+				// 		markerColor: getColor(feature.properties.value),
+				// 		iconColor: '#000000',
+				// 		popupAnchor: [0, -46]
+				// 	}),
+				// 	title: feature.properties.name,
+				// 	riseOnHover: true
+				// });
 			},
 			onEachFeature: function (feature, layer) {
 				// define click and mouseover events
