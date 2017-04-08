@@ -24,6 +24,7 @@ $ cd ~/html/scripts/pywebcam
 $ python pywebcam.py DGT
 $ python pywebcam.py metcli
 $ python pywebcam.py tiempovistazo
+$ python pywebcam.py munimadrid
 ```
 ```sh
 # run all
