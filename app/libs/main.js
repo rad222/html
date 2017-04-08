@@ -708,10 +708,18 @@ map.on("overlayadd overlayremove", function (event) {
 		};
 	};
 
+	// webcam legend in layer contro display option
 	if (map.hasLayer(webCamsCluster)) {
 		$('#webcam-legend').collapse('show');
 	} else {
 		$('#webcam-legend').collapse('hide');
+	};
+
+	// legend display option
+	if (map.hasLayer(allStationsLG) || map.hasLayer(geojsonCCAA) || map.hasLayer(geojsonProvincias) || map.hasLayer(geojsonZonas)) {
+		$('.info.legend.leaflet-control').css('display', 'block');
+	} else {
+		$('.info.legend.leaflet-control').css('display', 'none');
 	};
 
 });
