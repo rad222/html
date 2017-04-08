@@ -654,6 +654,7 @@ function initStationsLayerControl(overlaysObj) {
 
 	map.removeLayer(allStationsLG);
 	map.addLayer(allStationsLG);
+
 };
 
 
@@ -662,15 +663,6 @@ map.on("overlayadd overlayremove", function (event) {
 
 	var layer = event.layer,
 		layerCategory;
-
-	// webcam layer
-	if (layer === webCamsCluster) {
-		if (event.type === "overlayadd") {
-			$('#webcam-legend').collapse('show');
-		} else if (event.type === "overlayremove") {
-			$('#webcam-legend').collapse('hide');
-		};
-	};
 
 	// stations layer
 	if (layer === allStationsLG) {
@@ -706,6 +698,21 @@ map.on("overlayadd overlayremove", function (event) {
 	};
 	// change order Stations and Layers groups
 	$("#leaflet-control-layers-group-1").insertAfter("#leaflet-control-layers-group-2");
+
+	// webcam layer
+	if (layer === webCamsCluster) {
+		if (event.type === "overlayadd") {
+			$('#webcam-legend').collapse('show');
+		} else if (event.type === "overlayremove") {
+			$('#webcam-legend').collapse('hide');
+		};
+	};
+
+	if (map.hasLayer(webCamsCluster)) {
+		$('#webcam-legend').collapse('show');
+	} else {
+		$('#webcam-legend').collapse('hide');
+	};
 
 });
 
@@ -889,6 +896,9 @@ function initWebCams() {
 		if (color === 'tiempovistazo') {
 			return '#005B96';
 		}
+		if (color === 'munimadrid') {
+			return '#e500e5';
+		}
 	};
 
 	var webCamsData = {};
@@ -944,7 +954,8 @@ $(document).ready(function () {
 		'<div id="webcam-legend" class="legend-subtext collapse">' +
 		'<div class="webcam1"><i class="fa fa-camera" style="color: #A23434;"></i></div><small>DGT</small><br>' +
 		'<div class="webcam2"><i class="fa fa-camera" style="color: #415A44;"></i></div><small>metcli</small><br>' +
-		'<div class="webcam3"><i class="fa fa-camera" style="color: #005B96;"></i></div><small>tiempovistazo</small></div>';
+		'<div class="webcam3"><i class="fa fa-camera" style="color: #005B96;"></i></div><small>tiempovistazo</small><br>' +
+		'<div class="webcam4"><i class="fa fa-camera" style="color: #e500e5;"></i></div><small>munimadrid</small></div>';
 
 	layerControl.addOverlay(webCamsCluster, webcamsLegendHTML, "Layers");
 	layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
