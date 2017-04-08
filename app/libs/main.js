@@ -14,6 +14,11 @@ Handlebars.registerHelper('ifNotIn', function (elem, list, options) {
 	return options.fn(this);
 });
 
+function capitalizeEachWord(str) {
+	return str.replace(/\w\S*/g, function (txt) {
+		return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+	});
+};
 
 // markers, polygons and legend color range style
 var colorRange1 = [{
@@ -969,24 +974,57 @@ function initWebCams() {
 	});
 };
 
+
+var nPowerStationsLayer = L.geoJson(null, {
+	pointToLayer: function (feature, latlng) {
+		return L.marker(latlng, {
+			icon: L.BeautifyIcon.icon({
+				icon: 'ionicons ion-nuclear',
+				borderColor: '#000000',
+				textColor: '#000000',
+				backgroundColor: '#E5E500'
+			}),
+			draggable: false,
+			title: capitalizeEachWord(feature.properties.Name),
+		})
+	}
+}).on('click', function (e) {
+	var layer = e.layer;
+	var feature = layer.feature.properties;
+	var country = capitalizeEachWord(feature['Country']);
+	var name = capitalizeEachWord(feature['Name']);
+	var tr_count = feature['Total number of reactors'];
+	var ar_count = feature['Active Reactors'] != 0 ? 'Active reactors: ' + feature['Active Reactors'] + '<br>' : '';
+	var rc_count = feature['Reactors Under Construction'] != 0 ? 'Reactors under construction: ' + feature['Reactors Under Construction'] + '<br>' : '';
+	var sr_count = feature['Shut Down Reactors'] != 0 ? 'Shutdown reactors: ' + feature['Shut Down Reactors'] : '';
+
+	var popupContent = 'Country: ' + country + '<br>' + 'Name: ' + name + '<br>' + 'Total number of reactors: ' + tr_count + '<br>' + ar_count + rc_count + sr_count;
+	layer.bindPopup(popupContent).openPopup();
+});
+
+function initNuclearPowerStations() {
+	$.ajax({
+		url: 'data/nuclearstations.csv',
+		cache: false,
+		success: function (csv) {
+			csv2geojson.csv2geojson(csv, {
+				latfield: 'Lat',
+				lonfield: 'Lon',
+				delimiter: ';'
+			}, function (err, data) {
+				nPowerStationsLayer.addData(data);
+			});
+		}
+	});
+};
+
+
 // document ready event
 $(document).ready(function () {
 
 	initStations(); // init 'stations' layers
-	initWebCams(); // init 'webcams' layers
-
-	// add layers to 'Layers' group
-	var webcamsLegendHTML = 'Webcams<br>' +
-		'<div id="webcam-legend" class="legend-subtext collapse">' +
-		'<div class="webcam1"><i class="fa fa-camera" style="color: #A23434;"></i></div><small>DGT</small><br>' +
-		'<div class="webcam2"><i class="fa fa-camera" style="color: #415A44;"></i></div><small>metcli</small><br>' +
-		'<div class="webcam3"><i class="fa fa-camera" style="color: #005B96;"></i></div><small>tiempovistazo</small><br>' +
-		'<div class="webcam4"><i class="fa fa-camera" style="color: #e500e5;"></i></div><small>munimadrid</small></div>';
-
-	layerControl.addOverlay(webCamsCluster, webcamsLegendHTML, "Layers");
-	layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
-	layerControl.addOverlay(geojsonProvincias, "Provincias", "Layers");
-	layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
+	initWebCams(); // init 'webcams' layer
+	initNuclearPowerStations(); // init 'Nuclear Power Stations' layer
 
 	// add RaViewer logo
 	var mapControlsContainer = $('.leaflet-top.leaflet-left > .leaflet-control-zoom');
@@ -998,4 +1036,18 @@ $(document).ready(function () {
 	//$('.leaflet-control-layers-overlays').prepend('<b tkey="layers">Layers:</b>');
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
+
 });
+
+// add layers to 'Layers' group
+var webcamsLegendHTML = 'Webcams<br>' +
+	'<div id="webcam-legend" class="legend-subtext collapse">' +
+	'<div class="webcam1"><i class="fa fa-camera" style="color: #A23434;"></i></div><small>DGT</small><br>' +
+	'<div class="webcam2"><i class="fa fa-camera" style="color: #415A44;"></i></div><small>metcli</small><br>' +
+	'<div class="webcam3"><i class="fa fa-camera" style="color: #005B96;"></i></div><small>tiempovistazo</small><br>' +
+	'<div class="webcam4"><i class="fa fa-camera" style="color: #e500e5;"></i></div><small>munimadrid</small></div>';
+layerControl.addOverlay(webCamsCluster, webcamsLegendHTML, "Layers");
+layerControl.addOverlay(nPowerStationsLayer, "Nuclear Power Stations", "Layers");
+layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
+layerControl.addOverlay(geojsonProvincias, "Provincias", "Layers");
+layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
