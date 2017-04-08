@@ -1,0 +1,3981 @@
+﻿<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <NetworkLinkControl>
+      <expires>onChange</expires>
+    </NetworkLinkControl>
+    <name>CCTV.kml</name>
+    <drawOrder>4</drawOrder>
+    <Style id="s_ylw-pushpin1">
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>http://informo.munimadrid.es/informo/tmadrid/IMAGENES/ICO_CAM.gif</href>
+        </Icon>
+        <hotSpot x="0.2" y="0.2" xunits="fraction" yunits="fraction" />
+        <ListStyle />
+      </IconStyle>
+    </Style>
+    <Style id="s_ylw-pushpin0">
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>http://informo.munimadrid.es/informo/tmadrid/IMAGENES/ICO_CAM.gif</href>
+        </Icon>
+        <hotSpot x="0.2" y="0.2" xunits="fraction" yunits="fraction" />
+        <ListStyle />
+      </IconStyle>
+    </Style>
+    <Style id="s_ylw-pushpin">
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>http://informo.munimadrid.es/informo/TMADRID/IMAGENES/ICO_CAM.gif</href>
+        </Icon>
+        <hotSpot x="0.2" y="0.2" xunits="fraction" yunits="fraction" />
+        <ListStyle />
+      </IconStyle>
+    </Style>
+    <StyleMap id="m_ylw-pushpin">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#s_ylw-pushpin1</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#s_ylw-pushpin0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="m_ylw-pushpin0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#s_ylw-pushpin1</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#s_ylw-pushpin0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00001_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE CASTILLA (NORTE)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00001</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE CASTILLA (NORTE)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68895527506791,40.4660589682942,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00002_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE CASTILLA (SUR)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00002</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE CASTILLA (SUR)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.689645573091,40.4657712906425,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00003_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE CUZCO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00003</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE CUZCO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69025263209296,40.4590594112264,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00004_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE LIMA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00004</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE LIMA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69050180389329,40.4520233559885,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00005_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;CUATRO CAMINOS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00005</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CUATRO CAMINOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7040828265462,40.4469863813763,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00006_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PRINCESA - MORET&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00006</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PRINCESA - MORET</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71915944926444,40.4348874041992,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00007_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA CRISTO REY&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00007</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA CRISTO REY</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71765978162896,40.4391953594807,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00008_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;GTA DE SAN VICENTE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00008</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GTA DE SAN VICENTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71993833564365,40.4202682372078,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00009_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE ESPAÑA - BAILEN&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00009</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE ESPAÑA - BAILEN</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71296428943467,40.4219957132495,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00010_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE ESPAÑA - GRAN VIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00010</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE ESPAÑA - GRAN VIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7108200085566,40.4232073563779,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00011_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;CALLAO - GRAN VIA
+&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00011</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CALLAO - GRAN VIA
+</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70544359048593,40.4201637960168,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00012_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M30 - PK31+500 C (NUDO NORTE)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00012</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK31+500 C (NUDO NORTE)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68524166545552,40.4820942803259,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00013_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;GREGORIO MARAÑON&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00013</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GREGORIO MARAÑON</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6904312593265,40.4379822711863,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00016_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;REPUBLICA ARGENTINA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00016</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>REPUBLICA ARGENTINA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68580097527198,40.4454563038875,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00014_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;REPUBLICA DOMINICANA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00014</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>REPUBLICA DOMINICANA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67668309681119,40.4585908900455,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00015_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;CONCHA ESPINA - PPE DE VERGARA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00015</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CONCHA ESPINA - PPE DE VERGARA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67747587385878,40.4515411479024,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00017_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;AV AMERICA - FRANCISCO SILVELA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00017</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV AMERICA - FRANCISCO SILVELA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67736681424109,40.4373257397254,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00018_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;BILBAO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00018</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>BILBAO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70225542006541,40.4288850220661,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00019_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;COLON&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00019</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>COLON</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6905299608674,40.4256609326723,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00020_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ALCALA - VENTAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00020</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALCALA - VENTAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66246114188524,40.4311241395454,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00022_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;MANUEL BECERRA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00022</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MANUEL BECERRA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67588476249881,40.4248930136469,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00021_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ALCALA - GOYA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00021</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALCALA - GOYA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66904716546866,40.4279549864534,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00023_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;CONDE DE CASAL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00023</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CONDE DE CASAL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67025032399985,40.4066509366939,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00024_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;LEGAZPI&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00024</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>LEGAZPI</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69494064324265,40.3911803501047,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00025_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;EMBAJADORES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00025</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>EMBAJADORES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70258091915094,40.4050251515043,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00026_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ATOCHA - SUR&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00026</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ATOCHA - SUR</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69313519731456,40.4076544006346,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00027_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ATOCHA - NORTE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00027</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ATOCHA - NORTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69217175176038,40.409184832821,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00028_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;CIBELES 1&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00028</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CIBELES 1</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69312671587413,40.4189712577593,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00029_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;GRAN VIA - ALCALA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00029</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GRAN VIA - ALCALA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69668995350967,40.4188350521976,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00030_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PLAZA CANALEJAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00030</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA CANALEJAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70025761032618,40.4166484713672,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00031_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;QUEVEDO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00031</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>QUEVEDO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70442713713427,40.4336051610742,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00032_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ALONSO MARTINEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00032</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALONSO MARTINEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69555616946535,40.4275846236819,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00033_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;SERRANO - JUAN BRAVO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00033</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SERRANO - JUAN BRAVO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68683484664456,40.433106478924,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00034_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;SAN JUAN DE LA CRUZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00034</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SAN JUAN DE LA CRUZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69210022198954,40.4414959364053,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00035_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;SANTA ENGRACIA - JOSE ABASCAL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00035</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SANTA ENGRACIA - JOSE ABASCAL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7001795455445,40.4385409801205,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00036_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;JUAN ZORRILLA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00036</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>JUAN ZORRILLA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70400814995642,40.442193062579,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00037_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ALCALA - VELAZQUEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00037</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALCALA - VELAZQUEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68443014790084,40.4208868690894,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00038_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;NEPTUNO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00038</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>NEPTUNO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69386106874823,40.4151807189634,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00039_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PUENTE DE SEGOVIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00039</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PUENTE DE SEGOVIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7241397704316,40.4141726010524,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00040_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;MARQUES DE VADILLO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00040</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MARQUES DE VADILLO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71591843704894,40.3978100814755,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00041_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;TORRE ESPAÑA - M30&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00041</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>TORRE ESPAÑA - M30</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6641829708975,40.4202278398562,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00042_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;TORRE ESPAÑA - DOCTOR ESQUERDO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00042</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>TORRE ESPAÑA - DOCTOR ESQUERDO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66419161434742,40.4202122526377,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00147_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M30 - PK16+000 C (CALDERON)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00147</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK16+000 C (CALDERON)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72209498671955,40.4029291300405,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00155_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ANTORCHA NORTE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00155</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ANTORCHA NORTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6662820976784,40.4059719068221,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00156_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;ANTORCHA SUR&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00156</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ANTORCHA SUR</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66631519188592,40.4059222160513,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00141_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;CAMPEZO - SAMANIEGO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00141</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CAMPEZO - SAMANIEGO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.58290198458148,40.444584674132,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00143_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;TUNEL BAILEN&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00143</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>TUNEL BAILEN</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7129989400785,40.4193313221848,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00144_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;TUNEL BAILEN III&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00144</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>TUNEL BAILEN III</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7130961515537,40.4193573788542,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00145_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;TUNEL BAILEN I&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00145</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>TUNEL BAILEN I</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71307887650238,40.4176754808786,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00146_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;TUNEL BAILEN II&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00146</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>TUNEL BAILEN II</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71327076866466,40.4175518224874,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00149_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M30 - PK27+800 C (SALVADOR MAELLA)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00149</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK27+800 C (SALVADOR MAELLA)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72068454557629,40.4764288566643,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00150_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M30 - PK10+900 C (MENDEZ ALVARO)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00150</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK10+900 C (MENDEZ ALVARO)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67673968968667,40.3924222278049,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00152_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M30 - PK19+700 D (MARQUES DE MONISTROL)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00152</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK19+700 D (MARQUES DE MONISTROL)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.73406599496136,40.4264840879416,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00153_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M30 - PK20+700 D (PUENTE DE LOS FRANCESES)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00153</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK20+700 D (PUENTE DE LOS FRANCESES)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.73892049981208,40.4346440226305,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00154_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PESETA - CARABANCHEL ALTO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00154</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PESETA - CARABANCHEL ALTO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.75389602764325,40.3620718852974,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00157_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M-11 - CONDE DE MAYALDE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00157</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M-11 - CONDE DE MAYALDE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66423064613065,40.4838639878955,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00158_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;M-11 - ARTURO SORIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00158</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M-11 - ARTURO SORIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66374521145775,40.4832947955091,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00159_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;VENTISQUERO DE LA CONDESA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00159</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>VENTISQUERO DE LA CONDESA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7167574723721,40.4857684878194,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00160_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;AV ANDALUCIA - ALCOCER&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00160</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV ANDALUCIA - ALCOCER</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69290366266285,40.3516123676855,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00161_mdf.jpg?v=687  width=300 height=220/&gt;&lt;br/&gt;PALAS DEL REY - VALCARLOS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00161</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PALAS DEL REY - VALCARLOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66489006600392,40.5047657034355,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00162_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;PI MARGAL - PRINCIPE CARLOS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00162</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PI MARGAL - PRINCIPE CARLOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65129917560043,40.4870692138067,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00163_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;AV AVIACION -JOAQUIN TURINA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00163</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV AVIACION -JOAQUIN TURINA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.76557968245255,40.37305156774,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00164_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK09+800 D (A3)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00164</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK09+800 D (A3)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66561989356844,40.4041581465348,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00165_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;VINATEROS - MEDIA LEGUA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00165</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>VINATEROS - MEDIA LEGUA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65517240772975,40.4107011986805,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00167_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ENSANCHE VALLECAS - PEÑARANDA DE BRACAMONTE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00167</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ENSANCHE VALLECAS - PEÑARANDA DE BRACAMONTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.60969215314173,40.3685696610178,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00169_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MONFORTE DE LEMOS - PEDRO RICO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00169</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MONFORTE DE LEMOS - PEDRO RICO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69113211115568,40.478905962766,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00168_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MONFORTE DE LEMOS - SINESIO DELGADO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00168</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MONFORTE DE LEMOS - SINESIO DELGADO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68917796581706,40.4748586512466,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00043_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ARTURO SORIA - ALCALA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00043</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ARTURO SORIA - ALCALA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.63812197576637,40.4379600527709,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00044_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;BAILEN - SAN FRANCISCO EL GRANDE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00044</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>BAILEN - SAN FRANCISCO EL GRANDE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71404515730246,40.4102291087855,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00045_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ALFONSO XII - CIUDAD DE BARCELONA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00045</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALFONSO XII - CIUDAD DE BARCELONA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68850593824765,40.4066672058866,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00046_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;FERNANDEZ LADREDA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00046</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FERNANDEZ LADREDA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71762196663921,40.385082519989,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00047_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK10+000 C (CIUDAD DE BARCELONA)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00047</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK10+000 C (CIUDAD DE BARCELONA)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66977158693296,40.3984255931401,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00048_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;PRINCESA - MARQUES DE URQUIJO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00048</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PRINCESA - MARQUES DE URQUIJO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71646362604296,40.4306841600089,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00139_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;PABLO NERUDA - FUENTE CARRANTONA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00139</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PABLO NERUDA - FUENTE CARRANTONA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.64014762644051,40.394389011562,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00140_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ALBUFERA - DEMOCRACIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00140</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALBUFERA - DEMOCRACIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62533558283267,40.3833874233311,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00137_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;GOYA - DOCTOR ESQUERDO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00137</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GOYA - DOCTOR ESQUERDO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66872447063549,40.4245185793195,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00135_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;PIRAMIDES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00135</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PIRAMIDES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71448994327912,40.4006185039506,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00136_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MELANCOLICOS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00136</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MELANCOLICOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72060892254874,40.4041167093368,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00134_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;VIRGEN DEL PUERTO -PUENTE DE SEGOVIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00134</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>VIRGEN DEL PUERTO -PUENTE DE SEGOVIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72086755722094,40.4139614708863,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00133_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MARIA DE MOLINA - SERRANO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00133</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MARIA DE MOLINA - SERRANO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68623999373741,40.4379355961792,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00049_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ARTURO SORIA - GREGORIO BENITEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00049</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ARTURO SORIA - GREGORIO BENITEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65116338454318,40.4494161715359,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00050_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;VELAZQUEZ - MARIA DE MOLINA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00050</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>VELAZQUEZ - MARIA DE MOLINA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68296715732881,40.4377492895666,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00051_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;EDUARDO DATO - CASTELLANA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00051</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>EDUARDO DATO - CASTELLANA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68828036799927,40.4332048420481,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00052_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;SANTA MARIA DE LA CABEZA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00052</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SANTA MARIA DE LA CABEZA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69924487285748,40.4009344553703,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00053_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;FARO MONCLOA - PRINCESA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00053</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FARO MONCLOA - PRINCESA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72115176505645,40.4367970874863,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00054_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;FARO MONCLOA - A6&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00054</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FARO MONCLOA - A6</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72119372580907,40.4367964838055,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00055_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;PUERTA DEL ANGEL - PASEO EXTREMADURA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00055</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PUERTA DEL ANGEL - PASEO EXTREMADURA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72853569641832,40.4136149437237,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00056_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;GENERAL RICARDOS - OCA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00056</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GENERAL RICARDOS - OCA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.73179996207564,40.3884040430767,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00057_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;COSTA RICA - JOSE MARIA SOLER&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00057</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>COSTA RICA - JOSE MARIA SOLER</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66775064004606,40.4589184817663,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00058_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ALBUFERA - BUENOS AIRES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00058</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALBUFERA - BUENOS AIRES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65380015281332,40.3916362335626,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00059_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;HERRERA ORIA - ISLA DE AROSA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00059</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>HERRERA ORIA - ISLA DE AROSA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71749604475788,40.4825079749196,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00060_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;GINZO DE LIMIA - MONFORTE DE LEMOS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00060</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GINZO DE LIMIA - MONFORTE DE LEMOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70420631634833,40.4793960985093,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00061_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK28+500 C (BETANZOS)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00061</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK28+500 C (BETANZOS)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71304216760674,40.4802396992935,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00062_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;REINA VICTORIA - PABLO IGLESIAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00062</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>REINA VICTORIA - PABLO IGLESIAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70836069291975,40.4471096486771,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00063_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;BRAVO MURILLO - GENERAL YAGUE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00063</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>BRAVO MURILLO - GENERAL YAGUE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70168091365519,40.4574159111535,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00064_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;SINESIO DELGADO - GINZO DE LIMIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00064</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SINESIO DELGADO - GINZO DE LIMIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70222057860643,40.4738352697303,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00065_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ARTURO SORIA - JOSE SILVA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00065</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ARTURO SORIA - JOSE SILVA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65643162676938,40.4557541893808,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00066_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;RAMON Y CAJAL - ALFONSO XIII&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00066</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>RAMON Y CAJAL - ALFONSO XIII</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66757274957776,40.4522436617153,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00067_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MARQUES DE URQUIJO - PINTOR ROSALES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00067</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MARQUES DE URQUIJO - PINTOR ROSALES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72200635179049,40.428749512242,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00068_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MARIANO DE CAVIA - M. PELAYO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00068</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MARIANO DE CAVIA - M. PELAYO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67869380825248,40.4076856785997,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00070_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;GTA DE MALAGA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00070</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GTA DE MALAGA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69509063811462,40.375565709916,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00148_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK26+500 C (AV ILUSTRACION)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00148</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK26+500 C (AV ILUSTRACION)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.73604730028006,40.4730698489626,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00096_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;LAS TABLAS - A1&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00096</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>LAS TABLAS - A1</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66620462545417,40.4949276524828,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00120_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;HERRERA ORIA - M607&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00120</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>HERRERA ORIA - M607</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69859888763612,40.4900227314074,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00100_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;LOS ANDES - M40&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00100</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>LOS ANDES - M40</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61700444643649,40.4585744116735,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00102_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ALCALA - 25 DE SEPTIEMBRE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00102</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALCALA - 25 DE SEPTIEMBRE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62358361753273,40.4419465082786,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00101_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;RICARDO VELAZQUEZ BOSCO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00101</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>RICARDO VELAZQUEZ BOSCO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62628959931048,40.4476261330191,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00099_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;LUIS ROSALES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00099</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>LUIS ROSALES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65422357763578,40.4669053656666,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00098_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;FERNANDEZ ORDOÑEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00098</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FERNANDEZ ORDOÑEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.64661211907279,40.4684036396662,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00097_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MAR DE CRISTAL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00097</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MAR DE CRISTAL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.63850228585858,40.4699227514317,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00093_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK22+400 D (VETERINARIA)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00093</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK22+400 D (VETERINARIA)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.74162824574557,40.4490744654346,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00094_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK24+800 D (ARROYO DEL FRESNO)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00094</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK24+800 D (ARROYO DEL FRESNO)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.75043712226798,40.4689601377014,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00095_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK25+000 C (NUDO M-40)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00095</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK25+000 C (NUDO M-40)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.74831065436408,40.474479730475,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00092_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;CASTELLANA - SINESIO DELGADO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00092</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CASTELLANA - SINESIO DELGADO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68737773847268,40.4739820381837,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00091_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MARQUES DE SALAMANCA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00091</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MARQUES DE SALAMANCA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67981000258212,40.4295152582879,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00090_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;CASTELLANA - R. FDEZ VILLAVERDE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00090</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CASTELLANA - R. FDEZ VILLAVERDE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69124703704978,40.4464686113837,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00089_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;BEATA MARIA DE JESUS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00089</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>BEATA MARIA DE JESUS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69475737236098,40.3944566532069,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00088_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;MENDEZ ALVARO - PEDRO BOSCH&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00088</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MENDEZ ALVARO - PEDRO BOSCH</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6802483924941,40.3956201914451,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00087_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;FUENTE CARRANTONA - O'DONNELL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00087</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FUENTE CARRANTONA - O'DONNELL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6275749811854,40.4143707625744,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00072_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;FUENTE CARRANTONA - GARCIA TAPIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00072</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FUENTE CARRANTONA - GARCIA TAPIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.63128256535022,40.4076347271506,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00071_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;LOS ANDES - MACHUPICHU&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00071</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>LOS ANDES - MACHUPICHU</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62265070690428,40.4544550642157,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00073_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ALBUFERA - PABLO NERUDA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00073</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALBUFERA - PABLO NERUDA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6438975527183,40.3891381671281,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00074_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;AV POBLADOS - GENERAL FANJUL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00074</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV POBLADOS - GENERAL FANJUL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.76166244656072,40.3856830463017,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00075_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;DOCTOR ESQUERDO - NAZARET&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00075</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>DOCTOR ESQUERDO - NAZARET</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66980992670041,40.411572760338,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00076_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE CATALUÑA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00076</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE CATALUÑA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67768772032832,40.448773891342,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00077_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK30+500 C (M607)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00077</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK30+500 C (M607)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69423685113768,40.4859728163626,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00078_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;M30 - PK19+000 D (SAN POL DE MAR)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00078</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK19+000 D (SAN POL DE MAR)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72815809931344,40.4229398624966,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00079_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;PIEDRAFITA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00079</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PIEDRAFITA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7118188362124,40.4711027078482,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00080_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;ALSACIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00080</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALSACIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62380426173534,40.4182248417912,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00081_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;EMILIO CASTELAR&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00081</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>EMILIO CASTELAR</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6887491652346,40.4349312050008,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00083_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;GOYA - VELAZQUEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00083</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GOYA - VELAZQUEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68396430742432,40.4252212309911,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00082_mdf.jpg?v=46  width=300 height=220/&gt;&lt;br/&gt;VELAZQUEZ - GOYA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00082</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>VELAZQUEZ - GOYA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68420965820919,40.425044758587,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00085_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK06+000 D (ALCALA)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00085</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK06+000 D (ALCALA)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6602831942996,40.4317646321617,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00084_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;BRAVO MURILLO - SOR ANGELA DE LA CRUZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00084</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>BRAVO MURILLO - SOR ANGELA DE LA CRUZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6986377553792,40.4605549820871,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00086_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AQUITANIA - AJALVIR A VICALVARO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00086</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AQUITANIA - AJALVIR A VICALVARO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61108576734734,40.4211675820772,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00103_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE GRECIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00103</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE GRECIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.60657274205339,40.4354841626649,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00104_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ARCENTALES - CANILLEJAS A VICALVARO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00104</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ARCENTALES - CANILLEJAS A VICALVARO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61209414688918,40.4345603619556,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00105_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ARCENTALES - GARCIA NOBLEJAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00105</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ARCENTALES - GARCIA NOBLEJAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62833157996959,40.4244990226412,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00106_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ANCORA - DELICIAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00106</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ANCORA - DELICIAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6935839218986,40.403032846201,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00107_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;DELICIAS - ANCORA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00107</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>DELICIAS - ANCORA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69366415690917,40.4028998358646,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00108_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GTA DE CADIZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00108</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GTA DE CADIZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69918935739613,40.3878406634304,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00110_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;SANTA MARIA DE LA CABEZA - ANTONIO LOPEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00110</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SANTA MARIA DE LA CABEZA - ANTONIO LOPEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70612089918774,40.3931482051123,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00109_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ANTONIO LOPEZ - VADO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00109</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ANTONIO LOPEZ - VADO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69597647480421,40.385356242308,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00111_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;A42 - PK5+000 (AV POBLADOS)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00111</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>A42 - PK5+000 (AV POBLADOS)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72008578969859,40.369652828511,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00112_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV POBLADOS - A42&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00112</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV POBLADOS - A42</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71951892690243,40.3738978506656,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00113_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV POBLADOS - RAFAELA YBARRA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00113</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV POBLADOS - RAFAELA YBARRA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7123343320728,40.3734184758077,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00114_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV ANDALUCIA - AV POBLADOS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00114</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV ANDALUCIA - AV POBLADOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69437783195764,40.3708175491975,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00115_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;A42 - PK2+000 (ANTONIO LOPEZ)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00115</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>A42 - PK2+000 (ANTONIO LOPEZ)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71004498186389,40.3906796958222,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00116_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV ANDALUCIA - M40&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00116</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV ANDALUCIA - M40</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69397263852099,40.3642092887947,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00118_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ALCALA - SEVILLA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00118</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALCALA - SEVILLA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69947180177574,40.4179238159111,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00119_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GRAN VIA - CLAVEL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00119</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GRAN VIA - CLAVEL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69975595290846,40.4197233183201,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00121_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV LOGROÑO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00121</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV LOGROÑO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.58144423149981,40.4691570990943,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00122_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PIO XII - CAIDOS DIVISION AZUL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00122</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PIO XII - CAIDOS DIVISION AZUL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67435719568053,40.467174814335,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00123_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV POBLADOS - EUGENIA DE MONTIJO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00123</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV POBLADOS - EUGENIA DE MONTIJO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.74991296852026,40.3764965718658,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00125_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK01+500 C (PIO XII)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00125</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK01+500 C (PIO XII)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6721259274469,40.4710395638136,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00126_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK02+900 X (COSTA RICA)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00126</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK02+900 X (COSTA RICA)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66491496014063,40.4602394292607,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00127_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK09+100 C (DAI AV MEDITERRANEO)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00127</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK09+100 C (DAI AV MEDITERRANEO)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66567628693249,40.406201245943,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00128_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK07+600 D (O'DONNELL)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00128</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK07+600 D (O'DONNELL)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6587161225974,40.4186444813521,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00129_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK04+700 D (AV AMERICA)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00129</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK04+700 D (AV AMERICA)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65968351013473,40.4447027264737,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00130_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK29+800 C (REALES ACADEMIAS)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00130</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK29+800 C (REALES ACADEMIAS)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70452933469327,40.481943856653,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00131_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK27+100 C (ISAAC RABIN)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00131</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK27+100 C (ISAAC RABIN)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72760357551409,40.4728257188141,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00132_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV POBLADOS - VIA LUSITANA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00132</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV POBLADOS - VIA LUSITANA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.73386078949335,40.3737958201326,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00170_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;HOSPITAL DE VALLECAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00170</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>HOSPITAL DE VALLECAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61493255145702,40.3867771732509,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00124_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK00+000 C (MANOTERAS)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00124</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK00+000 C (MANOTERAS)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67373994095935,40.4842334352218,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00171_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PASEO DEL PRADO - HUERTAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00171</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PASEO DEL PRADO - HUERTAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69341648783133,40.4129005629467,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00172_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;RECOLETOS - ALMIRANTE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00172</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>RECOLETOS - ALMIRANTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6915827098451,40.4221810907219,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00173_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;FRANCISCO SILVELA - AV DE LOS TOREROS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00173</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FRANCISCO SILVELA - AV DE LOS TOREROS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67162302326918,40.4317995531335,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00142_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK06+000 D (ALCALA)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00142</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK06+000 D (ALCALA)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.60859548851557,40.4492163016383,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00194_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;T. ATOCHA -  CIUDAD DE BARCELONA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00194</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>T. ATOCHA -  CIUDAD DE BARCELONA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69108408843266,40.4083767435039,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00195_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;T. ATOCHA - RONDA VALENCIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00195</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>T. ATOCHA - RONDA VALENCIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69392069181659,40.4074727661172,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00192_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PTA DE TOLEDO - SAN FRANCISCO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00192</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PTA DE TOLEDO - SAN FRANCISCO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71184654965341,40.4070269343965,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00191_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PTA TOLEDO - CALLE TOLEDO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00191</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PTA TOLEDO - CALLE TOLEDO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71142464953762,40.4072779998904,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00117_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;FUENTE CARRANTONA - PAVONES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00117</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>FUENTE CARRANTONA - PAVONES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.63607844675591,40.4008782362664,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00190_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV FILIPINAS - CEA BERMUDEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00190</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV FILIPINAS - CEA BERMUDEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71290528724238,40.4390454400228,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00185_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ERMITA DEL SANTO - SAN CONRADO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00185</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ERMITA DEL SANTO - SAN CONRADO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72468889042946,40.4053466814334,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00184_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ARROYO POZUELO - CRTA HUMERA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00184</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ARROYO POZUELO - CRTA HUMERA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.77946102513442,40.452508686933,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00188_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;MERCAMADRID TECNOLOGICO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00188</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MERCAMADRID TECNOLOGICO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66372530244372,40.367774052328,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00174_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;CIBELES 2&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00174</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CIBELES 2</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69312694988048,40.4189581204534,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00175_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;N. SRA. VALVANERA - VIA CARPETANA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00175</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>N. SRA. VALVANERA - VIA CARPETANA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.74094769184079,40.3929068314156,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00177_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;SANTA MARIA DE LA CABEZA - ESPERANZA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00177</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SANTA MARIA DE LA CABEZA - ESPERANZA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70228780860844,40.3977608587857,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00069_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ENSANCHE VALLECAS - GAVIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00069</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ENSANCHE VALLECAS - GAVIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61379852030292,40.3705976338519,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00179_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GUADALAJARA - TOSCANA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00179</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GUADALAJARA - TOSCANA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61321284680296,40.4222028526298,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00183_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ALSACIA - AQUITANIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00183</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALSACIA - AQUITANIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62335230910504,40.4169056035566,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00181_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK31+700 C&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00181</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK31+700 C</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68076281592327,40.4832048882282,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00196_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK31+700 C (DAI VIAS CHAMARTIN)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00196</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK31+700 C (DAI VIAS CHAMARTIN)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68077501984056,40.4832207612792,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00178_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ENSANCHE VALLECAS - GRAN VIA SURESTE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00178</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ENSANCHE VALLECAS - GRAN VIA SURESTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.59160752810267,40.3598980925913,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00180_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK00+900 C&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00180</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK00+900 C</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67477358221889,40.4772447797114,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00187_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV LOGROÑO - BAHIA DE CADIZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00187</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV LOGROÑO - BAHIA DE CADIZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.5930823236056,40.4605319386976,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00189_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV ANDALUCIA - SAN CRISTOBAL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00189</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV ANDALUCIA - SAN CRISTOBAL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69281362582036,40.3414599483894,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00186_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GINEBRA - SUECIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00186</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GINEBRA - SUECIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.60397755854387,40.4240167687997,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00176_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV POBLADOS - VILLAVICIOSA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00176</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV POBLADOS - VILLAVICIOSA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7742170550289,40.3967268769044,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00138_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;DAROCA - LARGO CABALLERO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00138</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>DAROCA - LARGO CABALLERO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.63942749847569,40.4232296591001,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00197_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;HERRERA ORIA - N. SRA. VALVERDE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00197</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>HERRERA ORIA - N. SRA. VALVERDE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68617810527533,40.4910276587739,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00198_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK09+600 D (DAI PUENTE VALLECAS)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00198</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK09+600 D (DAI PUENTE VALLECAS)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66697104605712,40.401681340114,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00205_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK12+500 C (NUDO SUR - A4)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00205</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK12+500 C (NUDO SUR - A4)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68628679355641,40.3806484052872,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00182_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;MANOTERAS - CONDE DE MAYALDE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00182</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MANOTERAS - CONDE DE MAYALDE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6589944761629,40.4869417623301,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00199_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK08+000 D (DAI MORATALAZ)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00199</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK08+000 D (DAI MORATALAZ)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65964999471535,40.4155608924235,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00166_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;LAS SUERTES - LA GAVIA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00166</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>LAS SUERTES - LA GAVIA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.60169429466125,40.3681391496869,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00206_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV AMERICA - CARTAGENA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00206</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV AMERICA - CARTAGENA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67342982348935,40.439042819436,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00207_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV ARROYO DEL FRESNO - SENDA DEL INFANTE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00207</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV ARROYO DEL FRESNO - SENDA DEL INFANTE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72398560982221,40.4918183139588,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00208_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;CARDENAL CISNEROS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00208</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CARDENAL CISNEROS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.72653138221021,40.4399910475151,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00209_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;MONTECARMELO - MONASTERIO SUSO YUSO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00209</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MONTECARMELO - MONASTERIO SUSO YUSO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69768128123045,40.5025660971004,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00211_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ALCALA - LAGO CONSTANZA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00211</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALCALA - LAGO CONSTANZA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.64812391668103,40.4331737395832,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00210_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;SILVANO - MACHUPICHU&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00210</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>SILVANO - MACHUPICHU</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.63538916769428,40.4626636092181,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00212_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;MARQUES DE CORBERA - RICARDO ORTIZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00212</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MARQUES DE CORBERA - RICARDO ORTIZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65626763914397,40.4225458218341,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00213_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GTA RUIZ JIMENEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00213</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GTA RUIZ JIMENEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70583124823297,40.4295914447848,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00214_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PLAZA JOSE BANUS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00214</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA JOSE BANUS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6559294541164,40.4346086676967,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00215_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PTE DE LOS FRANCESES - AV VALLADOLID&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00215</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PTE DE LOS FRANCESES - AV VALLADOLID</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.73477691064981,40.4341153590336,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00217_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GLORIETA DEL EJERCITO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00217</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GLORIETA DEL EJERCITO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.74471311091,40.3879285629288,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00218_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;MENENDEZ PELAYO - O'DONNELL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00218</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MENENDEZ PELAYO - O'DONNELL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68013111595236,40.4218559735228,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00193_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE LA VICALVARADA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00193</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE LA VICALVARADA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6098093039286,40.409810401491,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00219_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;O´DONNELL - NARVAEZ&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00219</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>O´DONNELL - NARVAEZ</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67617108402104,40.4215173017936,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00220_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;CTRA BOADILLA DEL MONTE - CARABIAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00220</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CTRA BOADILLA DEL MONTE - CARABIAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.76703849325199,40.399004446477,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00221_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GRAL. RICARDOS - MUÑOZ GRANDES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00221</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GRAL. RICARDOS - MUÑOZ GRANDES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7395532024157,40.3845676350931,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00222_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;JOSE PRAT - CORDEL PAVONES 1&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00222</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>JOSE PRAT - CORDEL PAVONES 1</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61955198008488,40.3972030422082,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00224_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;VIA LUSITANA - AV DE LA PESETA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00224</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>VIA LUSITANA - AV DE LA PESETA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.74372566214723,40.3637399049974,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00223_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ALCOCER - AV REAL PINTO - VILLALONSO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00223</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ALCOCER - AV REAL PINTO - VILLALONSO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.70585109150615,40.3498008790786,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00225_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV DAROCA - STA PRISCA - CEMENTERIO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00225</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV DAROCA - STA PRISCA - CEMENTERIO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.64687911985178,40.4272482311486,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00226_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV ENTREVIAS - LA MANCHA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00226</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV ENTREVIAS - LA MANCHA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66888451261383,40.3816770801409,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00227_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV BADAJOZ - SALVADOR MADARIAGA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00227</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV BADAJOZ - SALVADOR MADARIAGA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65706286658094,40.4408094864438,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00228_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;ACCESO ESTACION HORTALEZA - AV SAN LUIS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00228</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>ACCESO ESTACION HORTALEZA - AV SAN LUIS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65792383817629,40.4710034985931,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00229_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;GTA ROCIO DURCAL&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00229</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>GTA ROCIO DURCAL</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71144606392654,40.4574701514878,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00230_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV BRASILIA - AV BONN&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00230</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV BRASILIA - AV BONN</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66109796256772,40.440707586235,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00231_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;CORAZON MARIA - CANILLAS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00231</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CORAZON MARIA - CANILLAS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66736368650491,40.4434874155956,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00232_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M30 - PK30+000 (ARZOBISPO MORCILLO)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00232</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M30 - PK30+000 (ARZOBISPO MORCILLO)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.69957985725119,40.4838518068281,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00233_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;AV AVIACION - ALDEANUEVA DE LA VERA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00233</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV AVIACION - ALDEANUEVA DE LA VERA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7764891692728,40.3748481453824,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00234_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;MARCELO USERA - RAFAELA YBARRA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00234</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>MARCELO USERA - RAFAELA YBARRA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71212517244448,40.3851229554107,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00235_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;BAILEN-MAYOR&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00235</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>BAILEN-MAYOR</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.71346296014812,40.4149435113307,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00236_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;PIO XII - AV BURGOS&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00236</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PIO XII - AV BURGOS</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67657138724184,40.4728628490265,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00237_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;JOSE PRAT - CORDEL PAVONES 2&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00237</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>JOSE PRAT - CORDEL PAVONES 2</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.62033197109511,40.3967398867445,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00151_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;M-30 NUDO SUR P.K. 12,5&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00151</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M-30 NUDO SUR P.K. 12,5</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68833688200633,40.3824416227444,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00238_mdf.jpg?v=882  width=300 height=220/&gt;&lt;br/&gt;NTRA. SRA. VALVERDE - M. ARLANZA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00238</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>NTRA. SRA. VALVERDE - M. ARLANZA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6853447146738,40.5073268567894,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00240_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;AV ALBUFERA - MONTE IGUELDO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00240</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV ALBUFERA - MONTE IGUELDO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.66740456741378,40.3974126026861,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00239_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;CDAD BARCELONA - M. PELAYO&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00239</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>CDAD BARCELONA - M. PELAYO</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68069236665368,40.4042727806522,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00246_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;A3 - PK 05+155 E&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00246</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>A3 - PK 05+155 E</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.64715300225985,40.3989422637698,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00245_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;A1 - PK 12+026 E&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00245</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>A1 - PK 12+026 E</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.65876632481037,40.5042309258258,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00251_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;VIA LUSITANA - AGUACATE&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00251</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>VIA LUSITANA - AGUACATE</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.74104499864478,40.367823230021,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00250_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;M607 - PK12+970 E&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00250</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>M607 - PK12+970 E</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.68637225109825,40.5172542996448,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00249_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;A6 - PK 09+800 E&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00249</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>A6 - PK 09+800 E</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7792157590216,40.4628904175957,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00248_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;A5 - PK 6+600 E (AV POBLADOS)&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00248</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>A5 - PK 6+600 E (AV POBLADOS)</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.77141857699541,40.3938200079753,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00247_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;A4 - PK 05+400 E&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00247</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>A4 - PK 05+400 E</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.67968247896351,40.3717514333367,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00252_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;PLAZA DE PAJARONES&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00252</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>PLAZA DE PAJARONES</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.58247824111646,40.475805231868,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00254_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;AREQUIPA&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00254</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AREQUIPA</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.63432300307587,40.468532987267,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00255_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;AV CAPITAL DE ESPAÑA, MADRID&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00255</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV CAPITAL DE ESPAÑA, MADRID</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61603109312582,40.4634694796782,10 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>&lt;div align=center&gt;&lt;img src=http://informo.munimadrid.es/informo/Camaras/Camara00256_mdf.jpg?v=241  width=300 height=220/&gt;&lt;br/&gt;AV PARTENON&lt;/div&gt;</description>
+      <styleUrl>#m_ylw-pushpin</styleUrl>
+      <ExtendedData>
+        <Data name="Numero">
+          <Value>00256</Value>
+        </Data>
+        <Data name="Nombre">
+          <Value>AV PARTENON</Value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.61698996497702,40.46344589785,10 </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
