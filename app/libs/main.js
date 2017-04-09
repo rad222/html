@@ -152,6 +152,25 @@ function getColor(radon_mean) {
 	}
 };
 
+// point circle layer
+var pointCircleLayer = L.geoJson(null);
+var pointCircleLayerCoords = {
+	lat: 0,
+	lon: 0
+};
+var circleOptions = {
+	color: '#005054',
+	weight: 4,
+	fillColor: '#03f',
+	fillOpacity: 0.1
+};
+
+$(".switch-field.pointCircle").change(function (e) {
+	if ($("#optradio_falseCircle").prop('checked')) {
+		pointCircleLayer.clearLayers();
+	};
+});
+
 // highlight layer for point & polygon overlay layer
 var highlight = L.geoJson(null);
 var highlightStylePoint = {
@@ -184,7 +203,15 @@ function showPopupClickPoint(e) {
 			'notShownProperties': notShownProperties
 		});
 
+		// add highlight circle layer
 		highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStylePoint));
+
+		if ($("#optradio_trueCircle").prop('checked')) {
+			// add circle radius layer
+			pointCircleLayerCoords['lat'] = feature.geometry.coordinates[1];
+			pointCircleLayerCoords['lon'] = feature.geometry.coordinates[0];
+			pointCircleLayer.clearLayers().addLayer(L.circle([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], circleRadius, circleOptions));
+		};
 
 		info.update(html);
 		initTranslate();
@@ -324,7 +351,7 @@ var map = new L.map('map', {
 	minZoom: 3,
 	maxZoom: 18,
 	zoom: 6,
-	layers: [OpenStreetMap_Mapnik, highlight],
+	layers: [OpenStreetMap_Mapnik, highlight, pointCircleLayer],
 	loadingControl: true
 });
 
@@ -751,18 +778,21 @@ map.on("overlayadd overlayremove", function (event) {
 
 // ----------------------------------------------------------------------------------------------
 
+
 // circle radius control
+var circleRadius = 50000;
 $('#rangeSliderCircle').slider({});
 $('#rangeSliderCircle').on("slide", function (e) {
 	$("#rangeSliderCircleVal").text(e.value);
 });
 
-// update polygonal layer opacity
+// update radius for point circle layer
 function updateCircleRadius(value) {
-	console.log(value);
+	circleRadius = parseInt(value) * 1000;
+	if ($("#optradio_trueCircle").prop('checked')) {
+		pointCircleLayer.clearLayers().addLayer(L.circle([pointCircleLayerCoords['lat'], pointCircleLayerCoords['lon']], circleRadius, circleOptions));
+	};
 };
-
-
 
 // overlay layer opacity control
 $('#rangeSliderForOverlayLayers').slider({});
@@ -830,6 +860,7 @@ function hideInfo() {
 
 map.on("click", function (e) {
 	highlight.clearLayers();
+	pointCircleLayer.clearLayers();
 
 	// remove geocoder marker
 	if (map.hasLayer(geocoder._geocodeMarker)) {
@@ -1013,7 +1044,6 @@ var nPowerStationsLayer = L.geoJson(null, {
 });
 // delete
 // .on('click', function (e) {
-// 	showPopupClickPoint;
 // 	var layer = e.layer;
 // 	var feature = layer.feature.properties;
 // 	var country = capitalizeEachWord(feature['Country']);
@@ -1083,9 +1113,6 @@ $(document).ready(function () {
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
 
 });
-
-
-
 
 
 // add layers to 'Layers' group
