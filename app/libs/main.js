@@ -321,6 +321,8 @@ var BingAerial = new BingLayer('https://t{s}.tiles.virtualearth.net/tiles/a{q}.j
 // map initialization
 var map = new L.map('map', {
 	center: [40.416775, -3.703790],
+	minZoom: 3,
+	maxZoom: 18,
 	zoom: 6,
 	layers: [OpenStreetMap_Mapnik, highlight],
 	loadingControl: true
@@ -1018,6 +1020,26 @@ function initNuclearPowerStations() {
 	});
 };
 
+// Earthquakes heat map layer
+// https: //github.com/Leaflet/Leaflet.heat
+earthquakesPoints = earthquakesPoints.map(function (p) {
+	return [p[0], p[1]];
+});
+var earthquakesPointsHeat = L.heatLayer(earthquakesPoints, {
+	minOpacity: 0,
+	maxZoom: 17,
+	max: 1,
+	radius: 25,
+	blur: 15,
+	gradient: {
+		.4: "blue",
+		.6: "cyan",
+		.7: "lime",
+		.8: "yellow",
+		1: "red"
+	}
+});
+
 
 // document ready event
 $(document).ready(function () {
@@ -1039,6 +1061,10 @@ $(document).ready(function () {
 
 });
 
+
+
+
+
 // add layers to 'Layers' group
 var webcamsLegendHTML = 'Webcams<br>' +
 	'<div id="webcam-legend" class="legend-subtext collapse">' +
@@ -1048,6 +1074,7 @@ var webcamsLegendHTML = 'Webcams<br>' +
 	'<div class="webcam4"><i class="fa fa-camera" style="color: #e500e5;"></i></div><small>munimadrid</small></div>';
 layerControl.addOverlay(webCamsCluster, webcamsLegendHTML, "Layers");
 layerControl.addOverlay(nPowerStationsLayer, "Nuclear Power Stations", "Layers");
+layerControl.addOverlay(earthquakesPointsHeat, "Earthquakes", "Layers");
 layerControl.addOverlay(geojsonCCAA, "CCAA", "Layers");
 layerControl.addOverlay(geojsonProvincias, "Provincias", "Layers");
 layerControl.addOverlay(geojsonZonas, "Zonas", "Layers");
