@@ -47,17 +47,17 @@
                 <div id="overlay-layers-opacity-control">
                     <p tkey="change-overlay">Change overlay layer opacity:</p>
                     <input type="text" class="span2" value="50" id="rangeSliderForOverlayLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1"
-                        data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">                    &nbsp;&nbsp;&nbsp;
+                        data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
                     <span id="overlayOpacityVal">50</span>
                 </div>
                 <br>
                 <div id="base-layers-opacity-control">
                     <p tkey="change-base">Change base layer opacity:</p>
                     <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
-                        data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)" data-slider-tooltip="hide">                    &nbsp;&nbsp;&nbsp;
+                        data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
                     <span id="baseOpacityVal">100</span>
                 </div>
-                <br>
+                <hr>
                 <div id="overlay-layer-popup-display">
                     <p tkey="overlay-layer">Overlay layer popup display options:</p>
                     <form class="form">
@@ -81,6 +81,7 @@
                         </div>
                     </form>
                 </div>
+                <hr>
                 <div id="legend-color-ranges">
                     <p tkey="legend-color-selector">Legend color selector:</p>
                     <div class="switch-field color-selector">
@@ -92,6 +93,7 @@
                         <label for="optradio_color_range3">Scale 3</label>
                     </div>
                 </div>
+                <hr>
                 <div id="stations-cluster">
                     <p tkey="stations-selector-cluster">Stations cluster mode (value):</p>
                     <div class="switch-field cluster">
@@ -101,6 +103,21 @@
                         <label for="optradio_clusterMax">Maximum</label>
                     </div>
                 </div>
+                <hr>
+                <div id="draw-circle-tool">
+                    <p>Circle around selected point (station or power station):</p>
+                    <div class="switch-field pointCircle">
+                        <input type="radio" id="optradio_trueCircle" name="optradio_circle" value="modeTrueCircle" />
+                        <label for="optradio_trueCircle">Yes</label>
+                        <input type="radio" id="optradio_falseCircle" name="optradio_circle" value="modeFalseCircle" checked/>
+                        <label for="optradio_falseCircle">No</label>
+                    </div>
+                    <p tkey="change-overlay">Radius:</p>
+                    <input type="text" class="span2" value="50" id="rangeSliderCircle" data-slider-min="10" data-slider-max="100" data-slider-step="1"
+                        data-slider-value="50" onchange="updateCircleRadius(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
+                    <span id="rangeSliderCircleVal">50</span>
+                </div>
+                <hr>
                 <div id="stations-mode-ranges" style="display: none">
                     <p tkey="stations-mode-selector">Stations mode:</p>
                     <div class="switch-field mode-selector">

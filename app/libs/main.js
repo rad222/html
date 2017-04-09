@@ -751,6 +751,19 @@ map.on("overlayadd overlayremove", function (event) {
 
 // ----------------------------------------------------------------------------------------------
 
+// circle radius control
+$('#rangeSliderCircle').slider({});
+$('#rangeSliderCircle').on("slide", function (e) {
+	$("#rangeSliderCircleVal").text(e.value);
+});
+
+// update polygonal layer opacity
+function updateCircleRadius(value) {
+	console.log(value);
+};
+
+
+
 // overlay layer opacity control
 $('#rangeSliderForOverlayLayers').slider({});
 $('#rangeSliderForOverlayLayers').on("slide", function (e) {
