@@ -995,6 +995,8 @@ var nPowerStationsLayer = L.geoJson(null, {
 		return L.marker(latlng, {
 			icon: L.BeautifyIcon.icon({
 				icon: 'ionicons ion-nuclear',
+				iconSize: [24, 24],
+				iconAnchor: [12, 12],
 				borderColor: '#000000',
 				textColor: '#000000',
 				backgroundColor: '#E5E500'
@@ -1002,20 +1004,28 @@ var nPowerStationsLayer = L.geoJson(null, {
 			draggable: false,
 			title: capitalizeEachWord(feature.properties.Name),
 		})
+	},
+	onEachFeature: function (feature, layer) {
+		layer.on({
+			click: showPopupClickPoint
+		});
 	}
-}).on('click', function (e) {
-	var layer = e.layer;
-	var feature = layer.feature.properties;
-	var country = capitalizeEachWord(feature['Country']);
-	var name = capitalizeEachWord(feature['Name']);
-	var tr_count = feature['Total number of reactors'];
-	var ar_count = feature['Active Reactors'] != 0 ? 'Active reactors: ' + feature['Active Reactors'] + '<br>' : '';
-	var rc_count = feature['Reactors Under Construction'] != 0 ? 'Reactors under construction: ' + feature['Reactors Under Construction'] + '<br>' : '';
-	var sr_count = feature['Shut Down Reactors'] != 0 ? 'Shutdown reactors: ' + feature['Shut Down Reactors'] : '';
-
-	var popupContent = 'Country: ' + country + '<br>' + 'Name: ' + name + '<br>' + 'Total number of reactors: ' + tr_count + '<br>' + ar_count + rc_count + sr_count;
-	layer.bindPopup(popupContent).openPopup();
 });
+// delete
+// .on('click', function (e) {
+// 	showPopupClickPoint;
+// 	var layer = e.layer;
+// 	var feature = layer.feature.properties;
+// 	var country = capitalizeEachWord(feature['Country']);
+// 	var name = capitalizeEachWord(feature['Name']);
+// 	var tr_count = feature['Total number of reactors'];
+// 	var ar_count = feature['Active Reactors'] != 0 ? 'Active reactors: ' + feature['Active Reactors'] + '<br>' : '';
+// 	var rc_count = feature['Reactors Under Construction'] != 0 ? 'Reactors under construction: ' + feature['Reactors Under Construction'] + '<br>' : '';
+// 	var sr_count = feature['Shut Down Reactors'] != 0 ? 'Shutdown reactors: ' + feature['Shut Down Reactors'] : '';
+
+// 	var popupContent = 'Country: ' + country + '<br>' + 'Name: ' + name + '<br>' + 'Total number of reactors: ' + tr_count + '<br>' + ar_count + rc_count + sr_count;
+// 	layer.bindPopup(popupContent).openPopup();
+// });
 
 function initNuclearPowerStations() {
 	$.ajax({
@@ -1057,7 +1067,7 @@ var earthquakesPointsHeat = L.heatLayer(earthquakesPoints, {
 // document ready event
 $(document).ready(function () {
 
-	initStations(); // init 'stations' layers
+	//initStations(); // init 'stations' layers
 	initWebCams(); // init 'webcams' layer
 	initNuclearPowerStations(); // init 'Nuclear Power Stations' layer
 
