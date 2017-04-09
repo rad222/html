@@ -11,8 +11,8 @@ import os
 from datetime import datetime, timedelta
 
 date_today = 'YYYYMMDD.csv' #current day (UTC)
-self.day_data = os.path.join(date_today)  # file with last 24h of data
-
+day_data = os.path.join(date_today)  # file with last 24h of data
+print day_data
 #STEPS:
 # Read the data of csv $OUTPUT_STATIONS as a dataframe
 # Split the previous dataframe by day (remove repeated rows in each day file (repeated row is those with the same id and date)
@@ -76,3 +76,7 @@ def save_day_data(self, df):
 
     # save
     self._save(self.day_data, df_day)
+
+	
+	
+save_day_data("201704040006f.csv", "/home/radon/html/scripts/stations/outputs/201704040006.csv")
