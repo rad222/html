@@ -19,7 +19,11 @@
     "legend-color-selector": "Legend color selector:",
     "stations-selector-cluster": "Stations cluster mode (value):",
     "stations-circle": "Circle around selected point (station or power station):",
-    "__window__":"comment",
+    "average": "Average",
+    "maximum": "Maximum"
+    "yes": "Yes",
+    "no": "No",
+    "__window__":"comment",    
     "information":"Information",
     "date":"date",
     "id_station": "station",
