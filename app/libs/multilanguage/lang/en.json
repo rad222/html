@@ -20,7 +20,7 @@
     "stations-selector-cluster": "Stations cluster mode (value):",
     "stations-circle": "Circle around selected point (station or power station):",
     "average": "Average",
-    "maximum": "Maximum"
+    "maximum": "Maximum",
     "yes": "Yes",
     "no": "No",
     "__window__":"comment",    
