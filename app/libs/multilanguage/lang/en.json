@@ -17,6 +17,8 @@
     "polygon-layer": "Polygon layer:",
     "__legend__":"comment",
     "legend-color-selector": "Legend color selector:",
+    "stations-selector-cluster": "Stations cluster mode (value):",
+    "stations-circle": "Circle around selected point (station or power station):",
     "__window__":"comment",
     "information":"Information",
     "date":"date",
