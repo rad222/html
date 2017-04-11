@@ -17,6 +17,8 @@
     "polygon-layer": "Capa de polígonos:",
     "__legend__":"comment",
     "legend-color-selector": "Tipo de leyenda:",
+    "stations-selector-cluster": "Modo de agrupación (valor):",
+    "stations-circle": "Círculo alrededor del punto (estación o central nuclear):",   
     "__window__":"comment",
     "information":"Información",
     "date":"fecha",
