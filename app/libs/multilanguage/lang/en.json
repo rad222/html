@@ -10,6 +10,7 @@
     "baselayers": "Base Layers",
     "legend": "Legend",
     "change-overlay": "Change overlay layer opacity:",
+    "change-radius": "Radius:",
     "change-base": "Change base layer opacity:",
     "overlay-layer": "Overlay layer popup display options:",
     "point-layer": "Point layer:",
@@ -25,6 +26,7 @@
     "altitude":"altitude (m)"
     "area_adm_1":"NUTS-2",
     "area_adm_2":"NUTS-3",
+    "area_adm_3":"Locality", 
     "name":"name",
     "value":"value",
     "radon_mean":"value",
