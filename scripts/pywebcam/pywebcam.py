@@ -206,7 +206,7 @@ def munimadrid(network):
 			if ans2 is not None and lon is not None and lat is not None: 
 				id = 'munimadrid_' + str(enum)
 				logger.info('Get data from webcam %s' % id)
-				img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ans2)[0].replace('_mdf','').replace('?v=625','')
+				img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ans2)[0].replace('_mdf','').split('?v=')[0]
 				fp.write("%s|%s|%s|%s\n" % (id, lon, lat, str(img)))
     return
 
