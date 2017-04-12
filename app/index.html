@@ -98,21 +98,21 @@
                     <p tkey="stations-selector-cluster">Stations cluster mode (value):</p>
                     <div class="switch-field cluster">
                         <input type="radio" id="optradio_clusterAverage" name="optradio_cluster" value="modeAverage" checked/>
-                        <label for="optradio_clusterAverage">Average</label>
+                        <label tkey="average" for="optradio_clusterAverage">Average</label>
                         <input type="radio" id="optradio_clusterMax" name="optradio_cluster" value="modeMax" />
-                        <label for="optradio_clusterMax">Maximum</label>
+                        <label tkey="maximum" for="optradio_clusterMax">Maximum</label>
                     </div>
                 </div>
                 <hr>
                 <div id="draw-circle-tool">
-                    <p>Circle around selected point (station or power station):</p>
+                    <p tkey="stations-circle">Circle around selected point (station or power station):</p>
                     <div class="switch-field pointCircle">
                         <input type="radio" id="optradio_trueCircle" name="optradio_circle" value="modeTrueCircle" />
-                        <label for="optradio_trueCircle">Yes</label>
+                        <label tkey="yes" for="optradio_trueCircle">Yes</label>
                         <input type="radio" id="optradio_falseCircle" name="optradio_circle" value="modeFalseCircle" checked/>
-                        <label for="optradio_falseCircle">No</label>
+                        <label tkey="no" for="optradio_falseCircle">No</label>
                     </div>
-                    <p tkey="change-overlay">Radius:</p>
+                    <p tkey="change-radius">Radius:</p>
                     <input type="text" class="span2" value="50" id="rangeSliderCircle" data-slider-min="10" data-slider-max="100" data-slider-step="1"
                         data-slider-value="50" onchange="updateCircleRadius(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
                     <span id="rangeSliderCircleVal">50</span>&nbsp;km

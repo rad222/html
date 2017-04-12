@@ -73,7 +73,7 @@ def tiempovistazo(network):
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
     try:
         infile = urllib2.urlopen(url)
-        logger.info('#### START PYWEBCAM ####')
+        logger.info('#### START PYWEBCAM FROM #### %s' % network)
     except:
         logger.error('Not available %s' % url)
         return
@@ -146,6 +146,7 @@ def tiempovistazo(network):
     return
 
 def metcli(network):
+    logger.info('#### START PYWEBCAM FROM #### %s' % network)
     meta_csv = os.path.join(home, 'meta/meta.csv')
     webcam_url = 'http://www.meteoclimatic.net/webcams'
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
@@ -183,12 +184,12 @@ def metcli(network):
     return
 
 def munimadrid(network):
-
+	
     file_name = os.path.join(home, 'webcams_' + network + '.csv') 
     url = 'http://informo.munimadrid.es/informo/tmadrid/cctv.kml'
     try:
         infile = urllib2.urlopen(url).readlines()
-        logger.info('#### START PYWEBCAM ####')
+        logger.info('#### START PYWEBCAM FROM #### %s' % network)
     except:
         logger.error('Not available %s' % url)
         return
@@ -206,7 +207,7 @@ def munimadrid(network):
 			if ans2 is not None and lon is not None and lat is not None: 
 				id = 'munimadrid_' + str(enum)
 				logger.info('Get data from webcam %s' % id)
-				img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ans2)[0].replace('_mdf','').replace('?v=625','')
+				img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ans2)[0].replace('_mdf','').split('?v=')[0]
 				fp.write("%s|%s|%s|%s\n" % (id, lon, lat, str(img)))
     return
 
@@ -216,7 +217,7 @@ def DGT(network):
     url = 'http://infocar.dgt.es/datex2/dgt/CCTVSiteTablePublication/all/content.xml' 
     try:
         infile = urllib2.urlopen(url)
-        logger.info('#### START PYWEBCAM ####')
+        logger.info('#### START PYWEBCAM FROM #### %s' % network)
     except:
         logger.error('Not available %s' % url)
         return
