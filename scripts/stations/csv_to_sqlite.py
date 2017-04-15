@@ -58,14 +58,20 @@ def importStationsDataToDatabase():
 	# import data from csv file to database
 	with open(os.path.join(base_dir, "outputs/" + csv_file + ".csv"), 'rb') as csvfile:
 		dr = csv.DictReader(csvfile, delimiter=';')
-		to_db = [(i['date'][:8], i['id_station'], i['id_network'], i['type'], i['latitude'], i['longitude'], i['altitude'], i['country'], i['area_adm_1'], i['area_adm_2'], i['area_adm_3'], i['name'], i['value'], i['value_max']) for i in dr]
+		to_db = [('20' + i['date'][6:-6] + '-' + i['date'][3:-9] + '-' + i['date'][:2], i['id_station'], i['id_network'], i['type'], i['latitude'], i['longitude'], i['altitude'], i['country'], i['area_adm_1'], i['area_adm_2'], i['area_adm_3'], i['name'], i['value'], i['value_max']) for i in dr]
 	cur.executemany("INSERT INTO stable (id, date, id_station, id_network, type, latitude, longitude, altitude, country, area_adm_1, area_adm_2, area_adm_3, name, value, value_max) VALUES (NULL, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);", to_db)
 	con.commit()
 
 	# delete duplicates
 	cur.execute('DELETE FROM stable WHERE id NOT IN ( SELECT MAX(id) FROM stable GROUP BY date, id_station);')
 	con.commit()
-	
+
+	# create 'stable_date' table
+	cur.execute('DROP TABLE IF EXISTS stable_date;')
+	con.commit()
+	cur.execute('CREATE TABLE stable_date AS SELECT date AS sdate, count(*) AS scount FROM stable GROUP BY date ORDER BY date;')
+	con.commit()
+
 	con.close()
 	
 	
@@ -76,6 +82,7 @@ importStationsDataToDatabase()
 '''
 # test import commands
 python ~/html/scripts/stations/csv_to_sqlite.py 201704040006
+
 python ~/html/scripts/stations/csv_to_sqlite.py 201704041205
 python ~/html/scripts/stations/csv_to_sqlite.py 201704042359
 python ~/html/scripts/stations/csv_to_sqlite.py 201704051205
