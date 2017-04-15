@@ -64,6 +64,10 @@ def importStationsDataToDatabase():
 
 	# delete duplicates
 	cur.execute('DELETE FROM stable WHERE id NOT IN ( SELECT MAX(id) FROM stable GROUP BY date, id_station);')
+	con.commit()	
+	
+	# change empty altitude values to 0
+	cur.execute('UPDATE stable SET altitude = 0 WHERE altitude = "";')
 	con.commit()
 
 	# create 'stable_date' table
@@ -104,4 +108,5 @@ python ~/html/scripts/stations/csv_to_sqlite.py 201704131237
 python ~/html/scripts/stations/csv_to_sqlite.py 201704140038
 python ~/html/scripts/stations/csv_to_sqlite.py 201704141235
 python ~/html/scripts/stations/csv_to_sqlite.py 201704151235
+python ~/html/scripts/stations/csv_to_sqlite.py 201704152306
 '''
