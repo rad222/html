@@ -6,7 +6,7 @@
 PROJECT_PATH=/home/radon/html
 
 # pywebcam path
-STATIONS_PATH=/home/radon/html/scripts/stations
+STATIONS_PATH=$PROJECT_PATH/scripts/stations
 
 # run python scarping script
 cd ${STATIONS_PATH}
@@ -34,9 +34,11 @@ for filename in ${STATIONS_PATH}/inputs/*.csv; do
  fi
 done
 
+# import csv data to 'stations.db' database
+python ${STATIONS_PATH}/csv_to_sqlite.py ${STATIONS_DATE}
 
-# copy 'YYYYMMDDHHMM.csv' to 'html/app/data/web' folder
-cp -R $OUTPUT_STATIONS /home/radon/html/app/data/web
+# copy 'stations.db' to 'html/app/data' folder
+cp -R ${STATIONS_PATH}/outputs/stations.db $PROJECT_PATH/app/data/web
 
 # push changes
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH add .
