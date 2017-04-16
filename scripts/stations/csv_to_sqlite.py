@@ -2,6 +2,12 @@
 
 # python ~/html/scripts/stations/csv_to_sqlite.py 201704040006
 
+# install Apache/PHP
+# sudo apt-get -y install apache2 && sudo service apache2 restart
+# sudo apt-get -y install php5 && sudo service apache2 restart
+# sudo apt-get install php5-sqlite && sudo service apache2 restart
+
+# install sqlite
 # sudo apt-get install sqlite
 
 import os
