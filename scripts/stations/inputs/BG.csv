@@ -1,29 +1,29 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-20/04/17 03:00;BG0001;Eurdep;air;44.0;22.85;0.0;Bulgaria;0;0;0;Vidin;11.0;12.0
-20/04/17 03:00;BG0002;Eurdep;air;43.7;23.45;71.8;Bulgaria;Provincia de Montana;Valchedram;Valchedram;Valtchedrum;8.5;9.0
-20/04/17 03:00;BG0003;Eurdep;air;43.6;23.66;54.7;Bulgaria;Vratsa;Hayredin;Hayredin;Hayredin;10.0;12.0
-20/04/17 03:00;BG0004;Eurdep;air;43.39;23.22;208.1;Bulgaria;Provincia de Montana;Montana;;Montana;11.2;11.0
-20/04/17 03:00;BG0006;Eurdep;air;43.48;24.07;126.0;Bulgaria;Provincia de Pleven;Knezha;Knezha;Kneja;10.7;12.0
-20/04/17 03:00;BG0007;Eurdep;air;43.23;23.73;563.8;Bulgaria;Vratsa;Mezdra;;Vraza;12.6;14.0
-20/04/17 03:00;BG0008;Eurdep;air;43.08;25.63;193.6;Bulgaria;Provincia de Veliko Tarnovo;Veliko Tarnovo;Veliko Tarnovo;Veliko Tarnovo;9.7;11.0
-20/04/17 03:00;BG0009;Eurdep;air;43.12;23.13;1433.8;Bulgaria;Provincia de Montana;Berkovitza;;Petrohkan Peek;11.4;12.0
-20/04/17 03:00;BG0010;Eurdep;air;43.41;24.61;140.8;Bulgaria;Provincia de Pleven;Pleven;Pleven;Pleven;9.4;10.0
-20/04/17 03:00;BG0011;Eurdep;air;44.0;27.27;0.0;Bulgaria;0;0;0;Silistra;8.8;10.0
-20/04/17 03:00;BG0012;Eurdep;air;43.85;25.95;38.7;Bulgaria;Provincia de Ruse;Ruse;Ruse;Ruse;10.3;11.0
-20/04/17 03:00;BG0013;Eurdep;air;43.74;27.4;213.6;Bulgaria;Provincia de Dobrich;Tervel;Tervel;Tervel;8.4;9.5
-20/04/17 03:00;BG0014;Eurdep;air;43.28;26.95;212.5;Bulgaria;Provincia de Shumen;Shumen;Shumen;Samuil;9.7;11.0
-20/04/17 03:00;BG0015;Eurdep;air;43.36;28.49;-13.6;Bulgaria;;;;Kaliakra;8.3;8.6
-20/04/17 03:00;BG0016;Eurdep;air;42.7;27.9;1.8;Bulgaria;;;;Cape Emine;10.3;10.0
-20/04/17 03:00;BG0017;Eurdep;air;43.58;25.24;83.0;Bulgaria;Provincia de Veliko Tarnovo;Svishtov;Oresh;Oresh;11.3;13.0
-20/04/17 03:00;BG0018;Eurdep;air;42.1;27.94;20.5;Bulgaria;Provincia de Burgas;Tzarevo;Ahtopol;Achtopol;10.7;11.0
-20/04/17 03:00;BG0019;Eurdep;air;43.22;27.93;73.1;Bulgaria;Provincia de Varna;Varna Municipality;Varna;Varna;10.0;10.0
-20/04/17 03:00;BG0020;Eurdep;air;42.17;26.58;116.6;Bulgaria;Yambol;Elhovo;;Elhovo;11.3;12.0
-20/04/17 03:00;BG0021;Eurdep;air;41.69;24.74;1681.4;Bulgaria;Smolián;Smolyan;;Rojen Peak;14.9;15.0
-20/04/17 03:00;BG0022;Eurdep;air;42.14;24.72;169.0;Bulgaria;Provincia de Plovdiv;Plovdiv;Plovdiv;Plovdiv;14.0;14.0
-20/04/17 03:00;BG0023;Eurdep;air;42.22;22.79;524.4;Bulgaria;Provincia de Kyustendil;Nevestino;;Viden Peak;12.8;14.0
-20/04/17 03:00;BG0024;Eurdep;air;41.52;23.55;735.5;Bulgaria;Provincia de Blagoevgrad;Sandanski;;Oreliak Peak;17.4;17.0
-20/04/17 03:00;BG0025;Eurdep;air;42.72;24.92;2341.8;Bulgaria;Provincia de Plovdiv;Karlovo;;Botev Peak;15.5;16.0
-20/04/17 03:00;BG0026;Eurdep;air;42.66;23.39;561.9;Bulgaria;Sofia City Province;Sofia;Sofía;Sofia;14.0;16.0
-20/04/17 03:00;BG0027;Eurdep;air;42.61;23.6;609.1;Bulgaria;Provincia de Sofía;Elin Pelin Municipality;Novi khan;Novi Han;11.4;13.0
-20/04/17 03:00;BG0101;Eurdep;air;42.18;23.59;2842.1;Bulgaria;Provincia de Sofía;Samokov;;MOUSSALA1;13.6;14.0
-20/04/17 03:00;BG0005;Eurdep;air;43.67;24.0;0.0;Bulgaria;0;0;0;Selanovci;8.8;10.0
+20/04/17 12:00;BG0001;Eurdep;air;44.0;22.85;0.0;Bulgaria;0;0;0;Vidin;10.4;12.0
+20/04/17 12:00;BG0002;Eurdep;air;43.7;23.45;71.8;Bulgaria;Provincia de Montana;Valchedram;Valchedram;Valtchedrum;8.0;9.0
+20/04/17 12:00;BG0003;Eurdep;air;43.6;23.66;54.7;Bulgaria;Vratsa;Hayredin;Hayredin;Hayredin;10.5;11.0
+20/04/17 12:00;BG0004;Eurdep;air;43.39;23.22;208.1;Bulgaria;Provincia de Montana;Montana;;Montana;11.0;11.0
+20/04/17 12:00;BG0006;Eurdep;air;43.48;24.07;126.0;Bulgaria;Provincia de Pleven;Knezha;Knezha;Kneja;10.5;12.0
+20/04/17 12:00;BG0007;Eurdep;air;43.23;23.73;563.8;Bulgaria;Vratsa;Mezdra;;Vraza;12.2;14.0
+20/04/17 12:00;BG0008;Eurdep;air;43.08;25.63;193.6;Bulgaria;Provincia de Veliko Tarnovo;Veliko Tarnovo;Veliko Tarnovo;Veliko Tarnovo;9.7;11.0
+20/04/17 12:00;BG0009;Eurdep;air;43.12;23.13;1433.8;Bulgaria;Provincia de Montana;Berkovitza;;Petrohkan Peek;11.0;11.0
+20/04/17 12:00;BG0010;Eurdep;air;43.41;24.61;140.8;Bulgaria;Provincia de Pleven;Pleven;Pleven;Pleven;9.3;10.0
+20/04/17 12:00;BG0011;Eurdep;air;44.0;27.27;0.0;Bulgaria;0;0;0;Silistra;9.3;10.0
+20/04/17 12:00;BG0012;Eurdep;air;43.85;25.95;38.7;Bulgaria;Provincia de Ruse;Ruse;Ruse;Ruse;10.4;11.0
+20/04/17 12:00;BG0013;Eurdep;air;43.74;27.4;213.6;Bulgaria;Provincia de Dobrich;Tervel;Tervel;Tervel;8.8;9.8
+20/04/17 12:00;BG0014;Eurdep;air;43.28;26.95;212.5;Bulgaria;Provincia de Shumen;Shumen;Shumen;Samuil;10.1;11.0
+20/04/17 12:00;BG0015;Eurdep;air;43.36;28.49;-13.6;Bulgaria;;;;Kaliakra;8.5;9.0
+20/04/17 12:00;BG0016;Eurdep;air;42.7;27.9;1.8;Bulgaria;;;;Cape Emine;10.8;12.0
+20/04/17 12:00;BG0017;Eurdep;air;43.58;25.24;83.0;Bulgaria;Provincia de Veliko Tarnovo;Svishtov;Oresh;Oresh;11.2;13.0
+20/04/17 12:00;BG0018;Eurdep;air;42.1;27.94;20.5;Bulgaria;Provincia de Burgas;Tzarevo;Ahtopol;Achtopol;11.2;13.0
+20/04/17 12:00;BG0019;Eurdep;air;43.22;27.93;73.1;Bulgaria;Provincia de Varna;Varna Municipality;Varna;Varna;10.3;11.0
+20/04/17 12:00;BG0020;Eurdep;air;42.17;26.58;116.6;Bulgaria;Yambol;Elhovo;;Elhovo;11.9;13.0
+20/04/17 12:00;BG0021;Eurdep;air;41.69;24.74;1681.4;Bulgaria;Smolián;Smolyan;;Rojen Peak;14.9;15.0
+20/04/17 12:00;BG0022;Eurdep;air;42.14;24.72;169.0;Bulgaria;Provincia de Plovdiv;Plovdiv;Plovdiv;Plovdiv;14.2;14.0
+20/04/17 12:00;BG0023;Eurdep;air;42.22;22.79;524.4;Bulgaria;Provincia de Kyustendil;Nevestino;;Viden Peak;12.5;13.0
+20/04/17 12:00;BG0024;Eurdep;air;41.52;23.55;735.5;Bulgaria;Provincia de Blagoevgrad;Sandanski;;Oreliak Peak;17.4;17.0
+20/04/17 12:00;BG0025;Eurdep;air;42.72;24.92;2341.8;Bulgaria;Provincia de Plovdiv;Karlovo;;Botev Peak;15.2;16.0
+20/04/17 12:00;BG0026;Eurdep;air;42.66;23.39;561.9;Bulgaria;Sofia City Province;Sofia;Sofía;Sofia;13.7;15.0
+20/04/17 12:00;BG0027;Eurdep;air;42.61;23.6;609.1;Bulgaria;Provincia de Sofía;Elin Pelin Municipality;Novi khan;Novi Han;11.3;13.0
+20/04/17 12:00;BG0101;Eurdep;air;42.18;23.59;2842.1;Bulgaria;Provincia de Sofía;Samokov;;MOUSSALA1;13.5;13.0
+20/04/17 12:00;BG0005;Eurdep;air;43.67;24.0;0.0;Bulgaria;0;0;0;Selanovci;8.7;10.0
