@@ -73,7 +73,7 @@ def importStationsDataToDatabase():
 	con.commit()	
 	
 	# change empty altitude values to 0
-	cur.execute('UPDATE stable SET altitude = 0 WHERE altitude = "";')
+	cur.execute('UPDATE stable SET altitude = -9999 WHERE altitude = "";')
 	con.commit()
 
 	# create 'stable_date' table
