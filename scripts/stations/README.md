@@ -18,7 +18,7 @@ $ cd ~/html
 $ git status
 $ git add .
 $ git commit -a -m 'update data'
-$ git push
+$ git push origin master
 ```
 ### Running
 ```sh
