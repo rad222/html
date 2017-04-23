@@ -80,11 +80,11 @@ def tiempovistazo(network):
     contents = infile.read()
     soup = BeautifulSoup(contents, 'xml')
     with open(file_name, 'w') as fp:
-        fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
+        fp.write("%s#%s#%s#%s\n" % ('id', 'lon', 'lat', 'img'))
         # Stations manual #
-        fp.write("%s|%s|%s|%s\n" % ('gencat_tavascan','1.256915', '42.644804','http://www.tavascan.net/wp-content/uploads/coses-webcam/webcam.jpg'))
-        fp.write("%s|%s|%s|%s\n" % ('gencat_esterri_aneu','1.122711','42.626923','http://www.cannirus.net/rb/foto.jpg'))
-        fp.write("%s|%s|%s|%s\n" % ('gencat_saint_joan_lerm','1.286978','42.417716','http://www.santjoandelerm.com/camara/SantJoan.jpg'))
+        fp.write("%s#%s#%s#%s\n" % ('gencat_tavascan','1.256915', '42.644804','http://www.tavascan.net/wp-content/uploads/coses-webcam/webcam.jpg'))
+        fp.write("%s#%s#%s#%s\n" % ('gencat_esterri_aneu','1.122711','42.626923','http://www.cannirus.net/rb/foto.jpg'))
+        fp.write("%s#%s#%s#%s\n" % ('gencat_saint_joan_lerm','1.286978','42.417716','http://www.santjoandelerm.com/camara/SantJoan.jpg'))
         logger.info('Get data from webcam %s' % 'manual stations')
         # end
         for message in soup.find_all('marker'):
@@ -141,7 +141,7 @@ def tiempovistazo(network):
                         logger.error('Analysis head: Url not found %s' % img)
                         continue
                     logger.info('Get data from webcam %s' % id)
-                    fp.write("%s|%s|%s|%s\n" % (id, lon, lat, img))
+                    fp.write("%s#%s#%s#%s\n" % (id, lon, lat, img))
     return
 
 def metcli(network):
@@ -153,14 +153,14 @@ def metcli(network):
     with open(meta_csv, 'rb') as csvfile:
         table = csv.reader(csvfile)
         with open(file_name, 'w') as fp:
-            fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
+            fp.write("%s#%s#%s#%s\n" % ('id', 'lon', 'lat', 'img'))
             for enum, row in enumerate(table):
                 if enum > 0:
                     img = os.path.join(webcam_url, 'g_' + row[0])
                     try:
                         if isinstance(urllib2.urlopen(img).read(), basestring) is True:
                             logger.info('Get data from webcam %s' % row[0])
-                            fp.write("%s|%s|%s|%s\n" % (row[0], row[2], row[1], img))
+                            fp.write("%s#%s#%s#%s\n" % (row[0], row[2], row[1], img))
                             
                     except urllib2.HTTPError, e:
                         #url of the image does not work
@@ -193,7 +193,7 @@ def munimadrid(network):
         logger.error('Not available %s' % url)
         return
     with open (file_name, 'w') as fp:
-		fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
+		fp.write("%s#%s#%s#%s\n" % ('id', 'lon', 'lat', 'img'))
 		lon = None
 		lat = None
 		for enum, i in enumerate(infile):
@@ -207,7 +207,7 @@ def munimadrid(network):
 				id = 'munimadrid_' + str(enum)
 				logger.info('Get data from webcam %s' % id)
 				img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', ans2)[0].replace('_mdf','').split('?v=')[0]
-				fp.write("%s|%s|%s|%s\n" % (id, lon, lat, str(img)))
+				fp.write("%s#%s#%s#%s\n" % (id, lon, lat, str(img)))
     return
 
 def DGT(network):
@@ -224,7 +224,7 @@ def DGT(network):
     soup = BeautifulSoup(contents)
 
     with open (file_name, 'w') as fp:
-        fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
+        fp.write("%s#%s#%s#%s\n" % ('id', 'lon', 'lat', 'img'))
         net = 'DGT'
         for message in soup.find_all('cctvcamerametadatarecord'):
             #each message is a block of data from one webcam
@@ -274,7 +274,7 @@ def DGT(network):
             if (resp.status_code != 200) or (float(my_length)<7000): #images error
                 logger.error('Url not found %s' % (id))
                 continue 
-            fp.write("%s|%s|%s|%s\n" % (id, float(lon), float(lat), str(img)))
+            fp.write("%s#%s#%s#%s\n" % (id, float(lon), float(lat), str(img)))
 
     return
 

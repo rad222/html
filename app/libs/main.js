@@ -986,7 +986,7 @@ function initWebCams() {
 			csv2geojson.csv2geojson(csv, {
 				latfield: 'lat',
 				lonfield: 'lon',
-				delimiter: '|'
+				delimiter: '#'
 			}, function (err, data) {
 				webCamsData = data;
 			});
