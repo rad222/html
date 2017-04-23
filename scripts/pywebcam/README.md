@@ -4,6 +4,8 @@
 ```sh
 $ cd ~/html/scripts/pywebcam
 $ sudo pip install -r requirements.txt
+$ sudo apt-get install libxml2-dev libxslt1-dev python-dev
+$ sudo apt-get install python-lxml
 ```
 ### Update from repository
 ```sh

@@ -35,7 +35,7 @@ for filename in ${STATIONS_PATH}/inputs/*.csv; do
 done
 
 # import csv data to 'stations.db' database
-python ${STATIONS_PATH}/csv_to_sqlite.py ${STATIONS_DATE}
+python ${STATIONS_PATH}/csv_to_sqlite.py -i ${STATIONS_DATE}
 
 # copy 'stations.db' to 'html/app/data' folder
 cp -R ${STATIONS_PATH}/outputs/stations.db $PROJECT_PATH/app/data

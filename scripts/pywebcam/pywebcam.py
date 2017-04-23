@@ -78,15 +78,31 @@ def tiempovistazo(network):
         logger.error('Not available %s' % url)
         return
     contents = infile.read()
-    soup = BeautifulSoup(contents)
+    soup = BeautifulSoup(contents, 'xml')
     with open(file_name, 'w') as fp:
-        fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
+        #fp.write("%s|%s|%s|%s\n" % ('id', 'lon', 'lat', 'img'))
         # Stations manual #
-        fp.write("%s|%s|%s|%s\n" % ('gencat_tavascan','1.256915', '42.644804','http://www.tavascan.net/wp-content/uploads/coses-webcam/webcam.jpg'))
-        fp.write("%s|%s|%s|%s\n" % ('gencat_esterri_aneu','1.122711','42.626923','http://www.cannirus.net/rb/foto.jpg'))
-        fp.write("%s|%s|%s|%s\n" % ('gencat_saint_joan_lerm','1.286978','42.417716','http://www.santjoandelerm.com/camara/SantJoan.jpg'))
+        #fp.write("%s|%s|%s|%s\n" % ('gencat_tavascan','1.256915', '42.644804','http://www.tavascan.net/wp-content/uploads/coses-webcam/webcam.jpg'))
+        #fp.write("%s|%s|%s|%s\n" % ('gencat_esterri_aneu','1.122711','42.626923','http://www.cannirus.net/rb/foto.jpg'))
+        #fp.write("%s|%s|%s|%s\n" % ('gencat_saint_joan_lerm','1.286978','42.417716','http://www.santjoandelerm.com/camara/SantJoan.jpg'))
         logger.info('Get data from webcam %s' % 'manual stations')
         # end
+        
+        count = 0
+        for message in soup.find_all('marker'):
+            if 'wunderground' in str(message) or 'Proximamente.jpg' in str(message) or 'metcli' in str(message) or 'infocar.dgt.es' in str(message) or 'ftp' in str(message) or 'Fueraservicio.jpg'in str(message):
+                continue
+            else:
+                count = count + 1
+                fp.write(str(message))
+                lat = find_between(str(message), 'lat="', 'lng=').replace('"', '').strip()
+                #print count
+                lon = find_between(str(message), 'lng="', '"/>').replace('"', '').strip()
+                print lat, " ", lon
+
+	
+        
+        '''
         for message in soup.find_all('marker'):
             if 'wunderground' in str(message) or 'Proximamente.jpg' in str(message) or 'metcli' in str(message) or 'infocar.dgt.es' in str(message) or 'ftp' in str(message) or 'Fueraservicio.jpg'in str(message):
                 continue
@@ -106,7 +122,7 @@ def tiempovistazo(network):
                     # Analysis url (404)
                     try:
                         req = urllib2.Request(img)
-                        handle = urllib2.urlopen(req, timeout=5)
+                        #handle = urllib2.urlopen(req, timeout=5)
                     except (socket.timeout, socket.gaierror) as error:
                         #error timeout
                         logger.error('%s Url %s' % (error, id))
@@ -142,7 +158,8 @@ def tiempovistazo(network):
                         continue
                     logger.info('Get data from webcam %s' % id)
                     fp.write("%s|%s|%s|%s\n" % (id, lon, lat, img))
-
+        '''
+					
     return
 
 def metcli(network):
