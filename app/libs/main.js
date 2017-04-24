@@ -834,38 +834,37 @@ function updateCircleRadius(value) {
 	};
 };
 
-// Stations Altitude control
-$('#rangeSliderAltitude').slider({
-	min: -81,
-	max: 3512,
-	value: [-81, 3512]
-});
-$('#rangeSliderAltitude').on("slide", function (e) {
-	//$("#rangeSliderAltitudeVal").text(e.value);
-});
 
-// update Stations Altitude control
-function updateAltitude(value) {
-	var stationsAltitude = parseInt(value);
-	console.log(stationsAltitude);
-};
+
+
+// Stations Altitude control
+var station_altitide = [-81, 3512];
+
+$('#station_slider_altitude').slider({
+	min: station_altitide[0],
+	max: station_altitide[1],
+	value: station_altitide
+});
+$('#station_slider_altitude').on("slide", function (e) {
+	station_altitide = e.value;
+});
+$("#station_altitude_min").text(station_altitide[0]);
+$("#station_altitude_max").text(station_altitide[1]);
+
 
 // Stations Value control
-$('#rangeSliderValue').slider({
-	min: 0,
-	max: 53,
-	value: [0, 53]
+var station_value = [0, 53];
+$('#station_slider_value').slider({
+	min: station_value[0],
+	max: station_value[1],
+	value: station_value
 });
-$('#rangeSliderValue').on("slide", function (e) {
-	//$("#rangeSliderValueVal").text(e.value);
+$('#station_slider_value').on("slide", function (e) {
+	station_value = e.value;
 });
 
-// update Stations Value control
-function updateValue(value) {
-	var stationsValue = parseInt(value);
-	console.log(stationsValue);
-};
-
+$("#station_value_min").text(station_value[0]);
+$("#station_value_max").text(station_value[1]);
 
 
 // layer (stations and zones) info control
