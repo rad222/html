@@ -837,6 +837,15 @@ function updateCircleRadius(value) {
 
 
 
+
+$('.station_datepicker').datepicker({
+    format: 'mm/dd/yyyy',
+	todayHighlight: true,
+	autoclose: true
+});
+
+
+
 // Stations Altitude control
 var station_altitide = [-81, 3512];
 

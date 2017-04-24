@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="libs/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="libs/bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="libs/bootstrap-slider-9.5.4/css/bootstrap-slider.min.css">
+    <link rel="stylesheet" href="libs/bootstrap-datepicker-1.6.4/css/bootstrap-datepicker.min.css">
+    <link rel="stylesheet" href="libs/bootstrap-select-1.12.2/css/bootstrap-select.min.css">
     <link rel="stylesheet" href="libs/ionicons-2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="libs/leaflet.vector-markers-0.0.6/leaflet-vector-markers.css">
     <link rel="stylesheet" href="libs/leaflet-beautify-marker-icon/leaflet-beautify-marker-icon.css">
@@ -134,6 +136,31 @@
                 <div id="stations-filter">
                     <p tkey="stations-filter-selector">Stations filter:</p>
 
+                    <p tkey="change-date">Country:</p>
+                    <select class="selectpicker show-menu-arrow" data-live-search="true" data-size="7">
+                        <option>All countries</option>
+                        <option>Austria</option>
+                        <option>Belgium</option>
+                        <option>Bulgaria</option>
+                        <option>Switzerland</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                        <option>Cyprus</option>
+                    </select>
+
+                    <p tkey="change-date">Date:</p>
+                    <input class="station_datepicker">
+
                     <p tkey="change-altitude">Altitude:</p>
                     <span id="station_altitude_min">0</span>&nbsp;&nbsp;
                     <input type="text" class="span2" value="" id="station_slider_altitude" data-slider-step="1">&nbsp;&nbsp;
@@ -198,6 +225,8 @@
     <script src="libs/handlebars-4.0.6.js"></script>
     <script src="libs/bootstrap-3.3.7/js/bootstrap.min.js"></script>
     <script src="libs/bootstrap-slider-9.5.4/bootstrap-slider.min.js"></script>
+    <script src="libs/bootstrap-datepicker-1.6.4/js/bootstrap-datepicker.min.js"></script>
+    <script src="libs/bootstrap-select-1.12.2/js/bootstrap-select.min.js"></script>
     <script src="libs/leaflet-0.7.7/leaflet.js"></script>
     <script src="libs/leaflet.loading-0.1.23/Control.Loading.js"></script>
     <script src="libs/leaflet-ajax-2.1.0/leaflet.ajax.min.js"></script>
