@@ -118,7 +118,8 @@
                     <span id="rangeSliderCircleVal">50</span>&nbsp;km
                 </div>
                 <hr>
-                <div id="stations-mode-ranges" style="display: none">
+
+                <div id="stations-mode-ranges">
                     <p tkey="stations-mode-selector">Stations mode:</p>
                     <div class="switch-field mode-selector">
                         <input type="radio" id="optradio_modeStatic" name="optradio_mode" value="modeStatic" checked/>
@@ -127,6 +128,27 @@
                         <label for="optradio_modeDynamic">Dynamic</label>
                     </div>
                 </div>
+
+                <hr>
+
+                <div id="stations-filter" style="display: none">
+                    <p tkey="stations-filter-selector">Stations filter:</p>
+
+
+
+                    <p tkey="change-altitude">Altitude:</p>
+                    <span id="rangeSliderAltitudeVal">0</span>&nbsp;&nbsp;
+                    <input type="text" class="span2" value="" id="rangeSliderAltitude" data-slider-step="1" onchange="updateAltitude(this.value)">&nbsp;&nbsp;
+                    <span id="rangeSliderAltitudeVal">0</span>
+
+                    <p tkey="change-value">Value:</p>
+                    <span id="rangeSliderValueVal">0</span>&nbsp;&nbsp;
+                    <input type="text" class="span2" value="" id="rangeSliderValue" data-slider-step="1" onchange="updateValue(this.value)">&nbsp;&nbsp;
+                    <span id="rangeSliderValueVal">0</span>
+
+                </div>
+
+
             </div>
             <div class="sidebar-pane" id="messages">
                 <h1 class="sidebar-header">

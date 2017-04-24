@@ -778,22 +778,6 @@ map.on("overlayadd overlayremove", function (event) {
 
 // ----------------------------------------------------------------------------------------------
 
-
-// circle radius control
-var circleRadius = 50000;
-$('#rangeSliderCircle').slider({});
-$('#rangeSliderCircle').on("slide", function (e) {
-	$("#rangeSliderCircleVal").text(e.value);
-});
-
-// update radius for point circle layer
-function updateCircleRadius(value) {
-	circleRadius = parseInt(value) * 1000;
-	if ($("#optradio_trueCircle").prop('checked')) {
-		pointCircleLayer.clearLayers().addLayer(L.circle([pointCircleLayerCoords['lat'], pointCircleLayerCoords['lon']], circleRadius, circleOptions));
-	};
-};
-
 // overlay layer opacity control
 $('#rangeSliderForOverlayLayers').slider({});
 $('#rangeSliderForOverlayLayers').on("slide", function (e) {
@@ -834,6 +818,55 @@ function updateBaseLayersOpacity(value) {
 		BingAerial.setOpacity(value / 100);
 	};
 };
+
+// circle radius control
+var circleRadius = 50000;
+$('#rangeSliderCircle').slider({});
+$('#rangeSliderCircle').on("slide", function (e) {
+	$("#rangeSliderCircleVal").text(e.value);
+});
+
+// update radius for point circle layer
+function updateCircleRadius(value) {
+	circleRadius = parseInt(value) * 1000;
+	if ($("#optradio_trueCircle").prop('checked')) {
+		pointCircleLayer.clearLayers().addLayer(L.circle([pointCircleLayerCoords['lat'], pointCircleLayerCoords['lon']], circleRadius, circleOptions));
+	};
+};
+
+// Stations Altitude control
+$('#rangeSliderAltitude').slider({
+	min: -81,
+	max: 3512,
+	value: [-81, 3512]
+});
+$('#rangeSliderAltitude').on("slide", function (e) {
+	//$("#rangeSliderAltitudeVal").text(e.value);
+});
+
+// update Stations Altitude control
+function updateAltitude(value) {
+	var stationsAltitude = parseInt(value);
+	console.log(stationsAltitude);
+};
+
+// Stations Value control
+$('#rangeSliderValue').slider({
+	min: 0,
+	max: 53,
+	value: [0, 53]
+});
+$('#rangeSliderValue').on("slide", function (e) {
+	//$("#rangeSliderValueVal").text(e.value);
+});
+
+// update Stations Value control
+function updateValue(value) {
+	var stationsValue = parseInt(value);
+	console.log(stationsValue);
+};
+
+
 
 // layer (stations and zones) info control
 var info = L.control({
@@ -986,7 +1019,7 @@ function initWebCams() {
 			csv2geojson.csv2geojson(csv, {
 				latfield: 'lat',
 				lonfield: 'lon',
-				delimiter: '#'
+				delimiter: '|'
 			}, function (err, data) {
 				webCamsData = data;
 			});
@@ -1097,7 +1130,7 @@ var earthquakesPointsHeat = L.heatLayer(earthquakesPoints, {
 // document ready event
 $(document).ready(function () {
 
-	initStations(); // init 'stations' layers
+	//initStations(); // init 'stations' layers
 	initWebCams(); // init 'webcams' layer
 	initNuclearPowerStations(); // init 'Nuclear Power Stations' layer
 
