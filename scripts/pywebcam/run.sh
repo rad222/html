@@ -36,10 +36,10 @@ cat ${PYWEBCAM_PATH}/webcams_DGT.csv ${PYWEBCAM_PATH}/webcams_metcli.csv ${PYWEB
 
 sed -i 1i'id^lon^lat^img^type' ${PYWEBCAM_PATH}/webcams.csv
 
-#rm ${PYWEBCAM_PATH}/webcams_DGT.csv
-#rm ${PYWEBCAM_PATH}/webcams_metcli.csv
-#rm ${PYWEBCAM_PATH}/webcams_tiempovistazo.csv
-#rm ${PYWEBCAM_PATH}/webcams_munimadrid.csv
+rm ${PYWEBCAM_PATH}/webcams_DGT.csv
+rm ${PYWEBCAM_PATH}/webcams_metcli.csv
+rm ${PYWEBCAM_PATH}/webcams_tiempovistazo.csv
+rm ${PYWEBCAM_PATH}/webcams_munimadrid.csv
 
 #chmod -R 777 ${PYWEBCAM_PATH}
 #chown -R radon:radon ${PYWEBCAM_PATH}
@@ -51,6 +51,6 @@ sed -i 1i'id^lon^lat^img^type' ${PYWEBCAM_PATH}/webcams.csv
 cp -R ${PYWEBCAM_PATH}/webcams.csv /home/radon/html/app/data
 
 # push changes
-#git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH add .
-#git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update webcams data (`date +%d/%m/%Y' '%H:%M`)"
-#git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master
+git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH add .
+git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update webcams data (`date +%d/%m/%Y' '%H:%M`)"
+git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master
