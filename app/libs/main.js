@@ -1130,7 +1130,7 @@ var earthquakesPointsHeat = L.heatLayer(earthquakesPoints, {
 // document ready event
 $(document).ready(function () {
 
-	//initStations(); // init 'stations' layers
+	initStations(); // init 'stations' layers
 	initWebCams(); // init 'webcams' layer
 	initNuclearPowerStations(); // init 'Nuclear Power Stations' layer
 
