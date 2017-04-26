@@ -1,14 +1,14 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-26/04/17 00:00;PT0101;Eurdep;air;38.76;-9.13;73.0;Portugal;Distrito de Lisboa;Lisboa;Lisboa;Lisboa;10.4;10.7
-26/04/17 00:00;PT0102;Eurdep;air;37.95;-8.84;88.3;Portugal;Distrito de Setúbal;Sines;Sines;SINES;8.8;9.1
-26/04/17 00:00;PT0103;Eurdep;air;37.04;-7.95;10.1;Portugal;Distrito de Faro;Faro;Faro;FARO;8.0;8.2
-26/04/17 00:00;PT0104;Eurdep;air;38.02;-7.87;254.3;Portugal;Distrito de Beja;Beja;Beja;BEJA;5.7;5.9
-26/04/17 00:00;PT0105;Eurdep;air;39.29;-7.42;537.7;Portugal;Distrito de Portalegre;Portalegre;Portalegre;PORTALEGRE;15.9;16.4
-26/04/17 00:00;PT0106;Eurdep;air;39.84;-7.48;377.0;Portugal;Distrito de Castelo Branco;Castelo Branco;Castelo Branco;CASTELO BRANCO;17.5;17.0
-26/04/17 00:00;PT0107;Eurdep;air;40.41;-7.56;0.0;Portugal;0;0;0;PENHAS DOURADAS;21.7;21.9
-26/04/17 00:00;PT0108;Eurdep;air;41.8;-6.74;604.8;Portugal;Distrito de Braganza;Braganza;Bragança;BRAGANCA;8.4;8.9
+26/04/17 08:00;PT0101;Eurdep;air;38.76;-9.13;73.0;Portugal;Distrito de Lisboa;Lisboa;Lisboa;Lisboa;10.3;10.0
+26/04/17 08:00;PT0102;Eurdep;air;37.95;-8.84;88.3;Portugal;Distrito de Setúbal;Sines;Sines;SINES;8.7;9.0
+26/04/17 08:00;PT0103;Eurdep;air;37.04;-7.95;10.1;Portugal;Distrito de Faro;Faro;Faro;FARO;7.8;8.2
+26/04/17 08:00;PT0104;Eurdep;air;38.02;-7.87;254.3;Portugal;Distrito de Beja;Beja;Beja;BEJA;5.7;5.9
+26/04/17 08:00;PT0105;Eurdep;air;39.29;-7.42;537.7;Portugal;Distrito de Portalegre;Portalegre;Portalegre;PORTALEGRE;15.9;16.1
+26/04/17 08:00;PT0106;Eurdep;air;39.84;-7.48;377.0;Portugal;Distrito de Castelo Branco;Castelo Branco;Castelo Branco;CASTELO BRANCO;17.5;18.0
+26/04/17 08:00;PT0107;Eurdep;air;40.41;-7.56;0.0;Portugal;0;0;0;PENHAS DOURADAS;21.8;22.2
+26/04/17 08:00;PT0108;Eurdep;air;41.8;-6.74;604.8;Portugal;Distrito de Braganza;Braganza;Bragança;BRAGANCA;8.3;8.6
 23/04/17 22:00;PT0109;Eurdep;air;41.14;-8.6;29.0;Portugal;Distrito de Oporto;Vila Nova de Gaia;Vila Nova de Gaia;PORTO;0.0;0.0
-26/04/17 00:00;PT0110;Eurdep;air;40.21;-8.41;127.9;Portugal;Distrito de Coímbra;Coímbra;Coímbra;COIMBRA;12.3;12.5
-26/04/17 00:00;PT0111;Eurdep;air;37.74;-25.66;2.8;Portugal;;;;PONTA DELGADA;13.1;13.3
-26/04/17 00:00;PT0112;Eurdep;air;32.64;-16.89;0.0;Portugal;;;;Funchal;7.1;7.2
-26/04/17 00:00;PT0113;Eurdep;air;38.89;-7.15;257.1;Portugal;Distrito de Portalegre;Elvas;Elvas;ELVAS;15.0;15.5
+26/04/17 08:00;PT0110;Eurdep;air;40.21;-8.41;127.9;Portugal;Distrito de Coímbra;Coímbra;Coímbra;COIMBRA;12.4;12.8
+26/04/17 08:00;PT0111;Eurdep;air;37.74;-25.66;2.8;Portugal;;;;PONTA DELGADA;13.1;13.5
+26/04/17 08:00;PT0112;Eurdep;air;32.64;-16.89;0.0;Portugal;;;;Funchal;7.1;7.3
+26/04/17 08:00;PT0113;Eurdep;air;38.89;-7.15;257.1;Portugal;Distrito de Portalegre;Elvas;Elvas;ELVAS;14.9;15.5
