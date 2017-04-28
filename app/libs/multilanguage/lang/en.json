@@ -35,10 +35,11 @@
     "id_station": "station",
     "id_network": "network",
     "type":"type of network",
-    "altitude":"altitude (m)"
+    "altitude":"altitude (m)",
+    "country":"country",
     "area_adm_1":"NUTS-2",
     "area_adm_2":"NUTS-3",
-    "area_adm_3":"Locality", 
+    "area_adm_3":"locality", 
     "name":"name",
     "value":"value",
     "radon_mean":"value",
