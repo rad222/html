@@ -1,129 +1,129 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-28/04/17 10:00;CH500000;Eurdep;air;46.49;7.56;0.0;Switzerland;0;0;0;Adelboden SMN;11.8;12.0
-28/04/17 10:00;CH500050;Eurdep;air;46.33;6.92;383.3;Switzerland;Cantón del Valais;Distrito de Monthey;Vouvry;Aigle SMN;12.1;12.0
-28/04/17 10:00;CH500100;Eurdep;air;46.89;8.62;438.4;Switzerland;Uri;Uri;Altdorf;Altdorf SMN;13.5;14.0
-28/04/17 10:00;CH500150;Eurdep;air;47.54;7.58;318.5;Switzerland;Basilea-Campiña;Distrito de Arlesheim;Binningen;Basel / Binningen SMN;11.6;12.0
-28/04/17 10:00;CH500200;Eurdep;air;46.99;7.46;553.0;Switzerland;Cantón de Berna;Berna;Zollikofen;Bern / Zollikofen SMN;11.6;12.0
-28/04/17 10:00;CH500250;Eurdep;air;47.56;8.23;349.5;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Beznau SMN;10.4;11.0
-28/04/17 10:00;CH500300;Eurdep;air;47.38;8.08;391.8;Switzerland;Argovia;Distrito de Aarau;Suhr;Buchs / Aarau SMN;10.2;11.0
-28/04/17 10:00;CH500350;Eurdep;air;47.08;6.79;1013.6;Switzerland;Cantón de Neuchâtel;Distrito de La Chaux-de-Fonds;La Chaux-de-Fonds;La Chaux-de-Fonds SMN;12.8;13.0
-28/04/17 10:00;CH500400;Eurdep;air;46.4;6.23;444.0;Switzerland;Cantón de Vaud;Distrito de Nyon;Duillier;Nyon / Changins SMN;11.8;12.0
-28/04/17 10:00;CH500450;Eurdep;air;47.13;7.05;1577.9;Switzerland;Cantón de Berna;Distrito de La Neuveville;Nods;Chasseral SMN;11.0;12.0
-28/04/17 10:00;CH500500;Eurdep;air;46.87;9.53;551.2;Switzerland;Grisones;Distrito de Plessur;Cuera;Chur SMN;12.7;16.0
-28/04/17 10:00;CH500550;Eurdep;air;46.81;9.84;1576.9;Switzerland;Grisones;Distrito de Prettigovia/Davos;Davos;Davos SMN;16.4;18.0
-28/04/17 10:00;CH500600;Eurdep;air;46.71;8.85;1439.9;Switzerland;Grisones;Distrito de Surselva;Disentis/Mustér;Disentis / Sedrun SMN;12.5;15.0
-28/04/17 10:00;CH500650;Eurdep;air;46.42;6.1;1547.6;Switzerland;Cantón de Vaud;Distrito de Nyon;La Rippe;La Dôle SMN;12.1;12.0
-28/04/17 10:00;CH500700;Eurdep;air;46.82;8.41;1016.4;Switzerland;Cantón de Obwalden;Obwalden;Engelberg;Engelberg SMN;9.9;11.0
-28/04/17 10:00;CH500750;Eurdep;air;47.42;6.94;603.9;Switzerland;Bourgogne-Franche-Comté;Doubs;Abbévillers;Fahy / Boncourt SMN;12.6;14.0
-28/04/17 10:00;CH500800;Eurdep;air;46.84;6.58;1182.7;Switzerland;Cantón de Vaud;Distrito de Jura-Nord vaudois;Bullet;Bullet / La Frétaz SMN;13.0;13.0
-28/04/17 10:00;CH500850;Eurdep;air;47.03;9.07;531.0;Switzerland;Glaris;Glarus;Glaris;Glarus SMN;10.9;11.0
-28/04/17 10:00;CH500900;Eurdep;air;47.36;7.97;381.5;Switzerland;Soleura;Distrito de Olten;Däniken;Gösgen SMN;10.8;11.0
-28/04/17 10:00;CH500950;Eurdep;air;45.87;7.17;2511.3;Switzerland;Cantón del Valais;Distrito de Entremont;Bourg-Saint-Pierre;Col du Grand St-Bernard SMN;13.4;14.0
-28/04/17 10:00;CH501000;Eurdep;air;46.65;8.61;2133.0;Switzerland;Uri;Uri;Andermatt;Gütsch ob Andermatt SMN;12.6;13.0
-28/04/17 10:00;CH501050;Eurdep;air;47.6;9.28;450.9;Switzerland;Cantón de Turgovia;Distrito de Kreuzlingen;Güttingen;Güttingen SMN;12.1;14.0
-28/04/17 10:00;CH501100;Eurdep;air;46.25;6.13;408.8;Switzerland;Ginebra;Genève;Bellevue;Genève-Cointrin SMN;11.0;14.0
-28/04/17 10:00;CH501200;Eurdep;air;47.37;8.94;1065.8;Switzerland;Zúrich;Distrito de Hinwil;Fischenthal;Hörnli SMN;10.2;10.0
-28/04/17 10:00;CH501250;Eurdep;air;46.55;7.99;3511.1;Switzerland;Cantón del Valais;Distrito de Goms;Fieschertal;Jungfraujoch SMN;19.9;20.0
-28/04/17 10:00;CH501300;Eurdep;air;47.48;8.54;422.5;Switzerland;Zúrich;Distrito de Dielsdorf;Oberglatt;Zürich-Kloten SMN;11.6;12.0
-28/04/17 10:00;CH501350;Eurdep;air;47.6;8.19;342.7;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt SMN;10.1;11.0
-28/04/17 10:00;CH501400;Eurdep;air;46.0;8.96;0.0;Switzerland;0;0;0;Lugano SMN;14.7;18.0
-28/04/17 10:00;CH501450;Eurdep;air;47.04;8.3;457.8;Switzerland;Lucerna;Luzern;Lucerna;Luzern SMN;11.8;13.0
-28/04/17 10:00;CH501500;Eurdep;air;46.16;8.93;205.6;Switzerland;Cantón del Tesino;Distrito de Bellinzona;Cadenazzo;Magadino / Cadenazzo SMN;16.6;20.0
-28/04/17 10:00;CH501550;Eurdep;air;46.55;7.02;1774.9;Switzerland;Friburgo;La Gruyère;Gruyères;Le Moléson SMN;11.0;12.0
-28/04/17 10:00;CH501600;Eurdep;air;46.97;7.28;513.9;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg SMN;11.6;12.0
-28/04/17 10:00;CH501650;Eurdep;air;47.0;7.94;0.0;Switzerland;0;0;0;Napf SMN;10.3;11.0
-28/04/17 10:00;CH501700;Eurdep;air;47.0;6.95;0.0;Switzerland;0;0;0;Neuchâtel SMN;10.1;11.0
-28/04/17 10:00;CH501750;Eurdep;air;46.17;8.79;217.5;Switzerland;Cantón del Tesino;Distrito de Locarno;Locarno;Locarno / Monti SMN;17.8;21.0
-28/04/17 10:00;CH501800;Eurdep;air;46.81;6.94;491.3;Switzerland;Cantón de Vaud;Distrito de Broye-Vully;Payerne;Payerne SMN;10.4;10.0
-28/04/17 10:00;CH501850;Eurdep;air;46.51;8.69;990.5;Switzerland;Cantón del Tesino;Distrito de Leventina;Quinto;Piotta SMN;15.6;18.0
-28/04/17 10:00;CH501900;Eurdep;air;46.75;7.27;994.2;Switzerland;Friburgo;Distrito de Sense;Brünisried;Plaffeien SMN;11.6;12.0
-28/04/17 10:00;CH501950;Eurdep;air;46.51;6.67;412.5;Switzerland;Cantón de Vaud;Distrito de Lavaux-Oron;Pully;Pully SMN;12.2;13.0
-28/04/17 10:00;CH502000;Eurdep;air;47.43;8.52;441.3;Switzerland;Zúrich;Distrito de Zúrich;Zúrich;Zürich / Affoltern SMN;11.5;13.0
-28/04/17 10:00;CH502050;Eurdep;air;46.35;10.06;1232.2;Switzerland;Grisones;Distrito de Bernina;Poschiavo;Poschiavo / Robbia SMN;19.2;23.0
-28/04/17 10:00;CH502100;Eurdep;air;47.43;7.88;574.1;Switzerland;Basilea-Campiña;Sissach;Rünenberg;Rünenberg SMN;10.6;11.0
-28/04/17 10:00;CH502150;Eurdep;air;47.25;9.34;2288.8;Switzerland;Appenzell Rodas Exteriores;Hinterland;Hundwil;Säntis SMN;12.8;13.0
-28/04/17 10:00;CH502200;Eurdep;air;46.53;9.88;1705.7;Switzerland;Grisones;Distrito de Maloja;Samedan;Samedan SMN;17.3;19.0
-28/04/17 10:00;CH502250;Eurdep;air;46.46;9.18;1739.0;Switzerland;Grisones;Distrito de Moesa;Mesocco;San Bernardino SMN;14.8;16.0
-28/04/17 10:00;CH502300;Eurdep;air;45.84;8.93;353.8;Switzerland;Cantón del Tesino;Distrito de Mendrisio;Stabio;Stabio SMN;15.8;18.0
-28/04/17 10:00;CH502350;Eurdep;air;46.79;10.28;1235.6;Switzerland;Grisones;Distrito del Eno;Scuol;Scuol SMN;14.1;15.0
-28/04/17 10:00;CH502400;Eurdep;air;47.69;8.62;440.9;Switzerland;Cantón de Schaffhausen;Schaffhausen;Neuhausen am Rheinfall;Schaffhausen SMN;9.8;10.0
-28/04/17 10:00;CH502450;Eurdep;air;46.22;7.33;481.9;Switzerland;Cantón del Valais;Distrito de Sion;Sion;Sion SMN;12.0;14.0
-28/04/17 10:00;CH502500;Eurdep;air;47.38;8.57;599.6;Switzerland;Zúrich;Distrito de Zúrich;Zúrich;Zürich / Fluntern SMN;12.2;13.0
-28/04/17 10:00;CH502550;Eurdep;air;47.43;9.4;695.9;Switzerland;Sankt Gallen;Distrito de San Galo;San Galo;St. Gallen SMN;11.4;12.0
-28/04/17 10:00;CH502600;Eurdep;air;47.48;8.9;546.9;Switzerland;Cantón de Turgovia;Distrito de Frauenfeld;Aadorf;Aadorf / Tänikon SMN;10.2;11.0
-28/04/17 10:00;CH502650;Eurdep;air;46.5;8.31;1458.1;Switzerland;Cantón del Valais;Distrito de Goms;Obergoms;Ulrichen SMN;17.3;18.0
-28/04/17 10:00;CH502700;Eurdep;air;47.13;9.52;455.1;Switzerland;Vaduz;;Vaduz;Vaduz SMN;12.3;13.0
-28/04/17 10:00;CH502750;Eurdep;air;46.3;7.84;639.3;Switzerland;Cantón del Valais;Distrito de Visp;Visp;Visp SMN;14.7;16.0
-28/04/17 10:00;CH502800;Eurdep;air;47.22;8.68;496.4;Switzerland;Zúrich;Distrito de Horgen;Wädenswil;Wädenswil SMN;12.6;13.0
-28/04/17 10:00;CH502850;Eurdep;air;47.26;7.79;414.9;Switzerland;Soleura;Distrito de Gäu;Wolfwil;Wynau SMN;10.1;10.0
-28/04/17 10:00;CH502900;Eurdep;air;46.03;7.75;1770.0;Switzerland;Cantón del Valais;Distrito de Visp;Zermatt;Zermatt SMN;15.0;18.0
-28/04/17 10:00;CH502950;Eurdep;air;47.54;8.23;334.2;Switzerland;Argovia;Distrito de Baden;;PSI SMN;10.4;11.0
-28/04/17 10:00;CH503100;Eurdep;air;47.57;8.24;321.1;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-01;10.0;10.0
-28/04/17 10:00;CH503150;Eurdep;air;47.58;8.24;316.0;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Klingnau B-02;9.7;10.0
-28/04/17 10:00;CH503200;Eurdep;air;47.56;8.23;349.5;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Döttingen B-03;9.0;10.0
-28/04/17 10:00;CH503250;Eurdep;air;47.57;8.26;349.7;Switzerland;Argovia;Distrito de Zurzach;Döttingen;Döttingen B-04;9.6;10.0
-28/04/17 10:00;CH503300;Eurdep;air;47.56;8.24;329.8;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Döttingen B-05;9.6;10.0
-28/04/17 10:00;CH503350;Eurdep;air;47.55;8.24;366.8;Switzerland;Argovia;Distrito de Zurzach;Döttingen;Döttingen B-06;8.8;9.5
-28/04/17 10:00;CH503400;Eurdep;air;47.54;8.25;358.3;Switzerland;Argovia;Distrito de Baden;Würenlingen;Würenlingen B-07;9.7;10.0
-28/04/17 10:00;CH503450;Eurdep;air;47.53;8.26;377.4;Switzerland;Argovia;Distrito de Baden;Würenlingen;Würenlingen B-08;9.4;10.0
-28/04/17 10:00;CH503500;Eurdep;air;47.54;8.23;334.2;Switzerland;Argovia;Distrito de Baden;;Würenlingen B-09;9.9;10.0
-28/04/17 10:00;CH503550;Eurdep;air;47.52;8.23;330.9;Switzerland;Argovia;Distrito de Brugg;Stilli;Stilli B-10;9.7;10.0
-28/04/17 10:00;CH503600;Eurdep;air;47.54;8.23;334.2;Switzerland;Argovia;Distrito de Baden;;Würenlingen B-11;9.6;10.0
-28/04/17 10:00;CH503650;Eurdep;air;47.54;8.22;393.3;Switzerland;Argovia;Distrito de Brugg;Villigen;Villigen B-12;10.3;11.0
-28/04/17 10:00;CH503700;Eurdep;air;47.52;8.22;362.1;Switzerland;Argovia;Distrito de Brugg;Stilli;Villigen B-13;10.0;10.0
-28/04/17 10:00;CH503750;Eurdep;air;47.55;8.22;424.2;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-14;10.4;10.0
-28/04/17 10:00;CH503800;Eurdep;air;47.55;8.19;525.6;Switzerland;Argovia;Distrito de Brugg;Mandach;Mandach B-15;10.4;10.0
-28/04/17 10:00;CH503850;Eurdep;air;47.55;8.22;424.2;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-16;10.8;11.0
-28/04/17 10:00;CH503900;Eurdep;air;47.56;8.22;448.6;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-17;10.1;10.0
-28/04/17 10:00;CH503950;Eurdep;air;47.39;7.97;461.7;Switzerland;Soleura;Distrito de Gösgen;Stüsslingen;Stüsslingen G-01;10.9;11.0
-28/04/17 10:00;CH504000;Eurdep;air;47.37;7.98;384.1;Switzerland;Soleura;Distrito de Gösgen;Niedergösgen;Niedergösgen G-02;11.0;11.0
-28/04/17 10:00;CH504050;Eurdep;air;47.4;8.01;409.0;Switzerland;Soleura;Distrito de Gösgen;Erlinsbach;Erlinsbach G-03;10.6;11.0
-28/04/17 10:00;CH504100;Eurdep;air;47.37;7.99;377.4;Switzerland;;;;Niedergösgen G-04;9.8;10.0
-28/04/17 10:00;CH504150;Eurdep;air;47.39;8.04;369.7;Switzerland;Argovia;Distrito de Aarau;Aarau;Aarau G-05;9.6;10.0
-28/04/17 10:00;CH504200;Eurdep;air;47.37;8.0;0.0;Switzerland;0;0;0;Schönenwerd G-06;10.5;11.0
-28/04/17 10:00;CH504250;Eurdep;air;47.36;7.97;381.5;Switzerland;Soleura;Distrito de Olten;Däniken;Niedergösgen G-07;10.0;10.0
-28/04/17 10:00;CH504300;Eurdep;air;47.36;7.99;378.7;Switzerland;Soleura;Distrito de Olten;Gretzenbach;Gretzenbach G-08;9.7;10.0
-28/04/17 10:00;CH504350;Eurdep;air;47.35;7.98;399.3;Switzerland;Soleura;Distrito de Olten;Däniken;Däniken G-09;10.7;11.0
-28/04/17 10:00;CH504400;Eurdep;air;47.36;7.96;380.9;Switzerland;Soleura;Distrito de Gösgen;Obergösgen;Obergösgen G-10;9.3;9.8
-28/04/17 10:00;CH504450;Eurdep;air;47.35;7.94;417.8;Switzerland;Soleura;Distrito de Olten;Dulliken;Dulliken G-11;10.4;10.0
-28/04/17 10:00;CH504500;Eurdep;air;47.35;7.9;405.5;Switzerland;Soleura;Distrito de Olten;Olten;Olten G-12;8.2;8.6
-28/04/17 10:00;CH504550;Eurdep;air;47.36;7.95;385.1;Switzerland;Soleura;Distrito de Gösgen;Obergösgen;Obergösgen G-13;9.6;10.0
-28/04/17 10:00;CH504600;Eurdep;air;47.37;7.93;430.2;Switzerland;Soleura;Distrito de Gösgen;Winznau;Winznau G-14;11.0;11.0
-28/04/17 10:00;CH504650;Eurdep;air;47.37;7.96;420.6;Switzerland;Soleura;Distrito de Gösgen;Obergösgen;Obergösgen G-15;10.3;10.0
-28/04/17 10:00;CH504700;Eurdep;air;47.38;7.95;429.4;Switzerland;Soleura;Distrito de Gösgen;Lostorf;Lostorf G-16;11.2;11.0
-28/04/17 10:00;CH504750;Eurdep;air;47.61;8.2;340.1;Switzerland;Argovia;Distrito de Zurzach;Full-Reuenthal;Full L-01;11.2;11.0
-28/04/17 10:00;CH504800;Eurdep;air;47.6;8.19;342.7;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Full L-02;11.0;11.0
-28/04/17 10:00;CH504850;Eurdep;air;47.61;8.24;316.4;Switzerland;Argovia;Distrito de Zurzach;Koblenz;Koblenz L-03;9.6;10.0
-28/04/17 10:00;CH504900;Eurdep;air;47.6;8.2;389.9;Switzerland;Argovia;Distrito de Zurzach;Full-Reuenthal;Reuenthal L-04;11.0;11.0
-28/04/17 10:00;CH504950;Eurdep;air;47.59;8.22;317.4;Switzerland;Argovia;Distrito de Zurzach;Leuggern;Gippingen L-05;10.0;10.0
-28/04/17 10:00;CH505000;Eurdep;air;47.6;8.19;342.7;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt L-06;9.8;10.0
-28/04/17 10:00;CH505050;Eurdep;air;47.58;8.22;322.2;Switzerland;Argovia;Distrito de Zurzach;Leuggern;Leuggern L-07;9.1;9.6
-28/04/17 10:00;CH505100;Eurdep;air;47.58;8.2;397.4;Switzerland;Argovia;Distrito de Zurzach;Leuggern;Hettenschwil L-08;10.1;10.0
-28/04/17 10:00;CH505150;Eurdep;air;47.59;8.17;332.0;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt L-09;10.3;10.0
-28/04/17 10:00;CH505200;Eurdep;air;47.56;8.14;379.5;Switzerland;Argovia;Distrito de Laufenburg;Wil;Wil L-10;11.6;12.0
-28/04/17 10:00;CH505250;Eurdep;air;47.59;8.14;309.2;Switzerland;Argovia;Distrito de Laufenburg;Schwaderloch;Schwaderloch L-11;11.3;11.0
-28/04/17 10:00;CH505300;Eurdep;air;47.6;8.18;321.6;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt L-12;9.3;9.8
-28/04/17 10:00;CH506050;Eurdep;air;47.0;7.27;0.0;Switzerland;0;0;0;Detligen M-01;11.2;11.0
-28/04/17 10:00;CH506100;Eurdep;air;46.98;7.29;564.9;Switzerland;Cantón de Berna;Berna;Wohlen bei Bern;Wohlen M-02;10.5;10.0
-28/04/17 10:00;CH506150;Eurdep;air;46.97;7.28;513.9;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-03;10.7;11.0
-28/04/17 10:00;CH506200;Eurdep;air;46.97;7.36;537.8;Switzerland;Cantón de Berna;Berna;Wohlen bei Bern;Wohlen M-04;10.2;11.0
-28/04/17 10:00;CH506250;Eurdep;air;46.97;7.28;513.9;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-05;11.8;12.0
-28/04/17 10:00;CH506300;Eurdep;air;46.96;7.27;535.1;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-06;11.2;11.0
-28/04/17 10:00;CH506350;Eurdep;air;46.95;7.26;616.8;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-07;10.4;10.0
-28/04/17 10:00;CH506400;Eurdep;air;46.96;7.25;471.8;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-08;11.8;12.0
-28/04/17 10:00;CH506450;Eurdep;air;46.97;7.26;566.8;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-09;11.4;11.0
-28/04/17 10:00;CH506500;Eurdep;air;46.97;7.24;515.3;Switzerland;Cantón de Berna;Distrito de Laupen;Wileroltigen;Wileroltigen M-10;12.2;12.0
-28/04/17 10:00;CH506550;Eurdep;air;46.98;7.25;531.8;Switzerland;Cantón de Berna;Distrito de Laupen;Wileroltigen;Golaten M-11;9.6;10.0
-28/04/17 10:00;CH506600;Eurdep;air;46.98;7.27;579.4;Switzerland;Cantón de Berna;Aarberg;Radelfingen;Detligen M-12;11.5;12.0
-28/04/17 10:00;CH544000;Eurdep;air;47.57;7.88;348.0;Switzerland;Argovia;Distrito de Rheinfelden;Wallbach;Möhlin SMN;11.7;12.0
-28/04/17 10:00;CH545000;Eurdep;air;47.18;8.0;0.0;Switzerland;0;0;0;Egolzwil SMN;10.7;11.0
-28/04/17 10:00;CH548000;Eurdep;air;47.18;7.42;427.7;Switzerland;Soleura;Distrito de Lebern;Grenchen;Grenchen SMN;9.2;10.0
-28/04/17 10:00;CH556000;Eurdep;air;46.73;8.17;591.7;Switzerland;Cantón de Berna;Distrito de Oberhasli;Meiringen;Meiringen SMN;14.4;15.0
-28/04/17 10:00;CH557000;Eurdep;air;46.6;10.43;1448.4;Switzerland;Grisones;Distrito del Eno;Santa Maria Val Müstair;Santa Maria SMN;17.8;22.0
-28/04/17 10:00;CH558000;Eurdep;air;46.57;6.86;784.6;Switzerland;Cantón de Vaud;Distrito de Lavaux-Oron;Bussigny-sur-Oron;Oron SMN;11.3;12.0
-28/04/17 10:00;CH560000;Eurdep;air;46.35;9.63;1095.5;Switzerland;Grisones;Distrito de Maloja;Bregaglia;Vicosoprano SMN;21.1;25.0
-28/04/17 10:00;CH658350;Eurdep;air;47.05;7.06;0.0;Switzerland;0;0;0;Cressier SMN;8.7;9.4
-28/04/17 10:00;CH658400;Eurdep;air;47.35;7.35;0.0;Switzerland;0;0;0;Delémont SMN;11.4;11.0
-28/04/17 10:00;CH660350;Eurdep;air;47.12;7.61;0.0;Switzerland;0;0;0;Koppigen SMN;11.3;11.0
-28/04/17 10:00;CH660400;Eurdep;air;46.77;7.11;0.0;Switzerland;0;0;0;Fribourg / Posieux SMN;11.2;12.0
-28/04/17 10:00;CH660450;Eurdep;air;46.52;6.34;0.0;Switzerland;0;0;0;Bière SMN;10.0;11.0
+29/04/17 01:00;CH500000;Eurdep;air;46.49;7.56;0.0;Switzerland;0;0;0;Adelboden SMN;10.7;11.0
+29/04/17 01:00;CH500050;Eurdep;air;46.33;6.92;383.3;Switzerland;Cantón del Valais;Distrito de Monthey;Vouvry;Aigle SMN;11.7;12.0
+29/04/17 01:00;CH500100;Eurdep;air;46.89;8.62;438.4;Switzerland;Uri;Uri;Altdorf;Altdorf SMN;12.4;13.0
+29/04/17 01:00;CH500150;Eurdep;air;47.54;7.58;318.5;Switzerland;Basilea-Campiña;Distrito de Arlesheim;Binningen;Basel / Binningen SMN;11.3;12.0
+29/04/17 01:00;CH500200;Eurdep;air;46.99;7.46;553.0;Switzerland;Cantón de Berna;Berna;Zollikofen;Bern / Zollikofen SMN;11.2;13.0
+29/04/17 01:00;CH500250;Eurdep;air;47.56;8.23;349.5;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Beznau SMN;10.0;10.0
+29/04/17 01:00;CH500300;Eurdep;air;47.38;8.08;391.8;Switzerland;Argovia;Distrito de Aarau;Suhr;Buchs / Aarau SMN;9.7;10.0
+29/04/17 01:00;CH500350;Eurdep;air;47.08;6.79;1013.6;Switzerland;Cantón de Neuchâtel;Distrito de La Chaux-de-Fonds;La Chaux-de-Fonds;La Chaux-de-Fonds SMN;12.5;12.0
+29/04/17 01:00;CH500400;Eurdep;air;46.4;6.23;444.0;Switzerland;Cantón de Vaud;Distrito de Nyon;Duillier;Nyon / Changins SMN;11.6;11.0
+29/04/17 01:00;CH500450;Eurdep;air;47.13;7.05;1577.9;Switzerland;Cantón de Berna;Distrito de La Neuveville;Nods;Chasseral SMN;10.8;11.0
+29/04/17 01:00;CH500500;Eurdep;air;46.87;9.53;551.2;Switzerland;Grisones;Distrito de Plessur;Cuera;Chur SMN;11.3;12.0
+29/04/17 01:00;CH500550;Eurdep;air;46.81;9.84;1576.9;Switzerland;Grisones;Distrito de Prettigovia/Davos;Davos;Davos SMN;15.1;17.0
+29/04/17 01:00;CH500600;Eurdep;air;46.71;8.85;1439.9;Switzerland;Grisones;Distrito de Surselva;Disentis/Mustér;Disentis / Sedrun SMN;10.0;11.0
+29/04/17 01:00;CH500650;Eurdep;air;46.42;6.1;1547.6;Switzerland;Cantón de Vaud;Distrito de Nyon;La Rippe;La Dôle SMN;11.5;12.0
+29/04/17 01:00;CH500700;Eurdep;air;46.82;8.41;1016.4;Switzerland;Cantón de Obwalden;Obwalden;Engelberg;Engelberg SMN;8.1;9.4
+29/04/17 01:00;CH500750;Eurdep;air;47.42;6.94;603.9;Switzerland;Bourgogne-Franche-Comté;Doubs;Abbévillers;Fahy / Boncourt SMN;12.3;12.0
+29/04/17 01:00;CH500800;Eurdep;air;46.84;6.58;1182.7;Switzerland;Cantón de Vaud;Distrito de Jura-Nord vaudois;Bullet;Bullet / La Frétaz SMN;12.7;12.0
+29/04/17 01:00;CH500850;Eurdep;air;47.03;9.07;531.0;Switzerland;Glaris;Glarus;Glaris;Glarus SMN;9.9;11.0
+29/04/17 01:00;CH500900;Eurdep;air;47.36;7.97;381.5;Switzerland;Soleura;Distrito de Olten;Däniken;Gösgen SMN;10.3;10.0
+29/04/17 01:00;CH500950;Eurdep;air;45.87;7.17;2511.3;Switzerland;Cantón del Valais;Distrito de Entremont;Bourg-Saint-Pierre;Col du Grand St-Bernard SMN;13.0;13.0
+29/04/17 01:00;CH501000;Eurdep;air;46.65;8.61;2133.0;Switzerland;Uri;Uri;Andermatt;Gütsch ob Andermatt SMN;11.1;12.0
+29/04/17 01:00;CH501050;Eurdep;air;47.6;9.28;450.9;Switzerland;Cantón de Turgovia;Distrito de Kreuzlingen;Güttingen;Güttingen SMN;10.9;12.0
+29/04/17 01:00;CH501100;Eurdep;air;46.25;6.13;408.8;Switzerland;Ginebra;Genève;Bellevue;Genève-Cointrin SMN;10.7;11.0
+29/04/17 01:00;CH501200;Eurdep;air;47.37;8.94;1065.8;Switzerland;Zúrich;Distrito de Hinwil;Fischenthal;Hörnli SMN;9.2;10.0
+29/04/17 01:00;CH501250;Eurdep;air;46.55;7.99;3511.1;Switzerland;Cantón del Valais;Distrito de Goms;Fieschertal;Jungfraujoch SMN;19.3;20.0
+29/04/17 01:00;CH501300;Eurdep;air;47.48;8.54;422.5;Switzerland;Zúrich;Distrito de Dielsdorf;Oberglatt;Zürich-Kloten SMN;10.9;11.0
+29/04/17 01:00;CH501350;Eurdep;air;47.6;8.19;342.7;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt SMN;9.7;10.0
+29/04/17 01:00;CH501400;Eurdep;air;46.0;8.96;0.0;Switzerland;0;0;0;Lugano SMN;12.8;18.0
+29/04/17 01:00;CH501450;Eurdep;air;47.04;8.3;457.8;Switzerland;Lucerna;Luzern;Lucerna;Luzern SMN;10.7;12.0
+29/04/17 01:00;CH501500;Eurdep;air;46.16;8.93;205.6;Switzerland;Cantón del Tesino;Distrito de Bellinzona;Cadenazzo;Magadino / Cadenazzo SMN;13.0;18.0
+29/04/17 01:00;CH501550;Eurdep;air;46.55;7.02;1774.9;Switzerland;Friburgo;La Gruyère;Gruyères;Le Moléson SMN;10.8;12.0
+29/04/17 01:00;CH501600;Eurdep;air;46.97;7.28;513.9;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg SMN;11.3;11.0
+29/04/17 01:00;CH501650;Eurdep;air;47.0;7.94;0.0;Switzerland;0;0;0;Napf SMN;8.7;11.0
+29/04/17 01:00;CH501700;Eurdep;air;47.0;6.95;0.0;Switzerland;0;0;0;Neuchâtel SMN;9.8;10.0
+29/04/17 01:00;CH501750;Eurdep;air;46.17;8.79;217.5;Switzerland;Cantón del Tesino;Distrito de Locarno;Locarno;Locarno / Monti SMN;14.9;20.0
+29/04/17 01:00;CH501800;Eurdep;air;46.81;6.94;491.3;Switzerland;Cantón de Vaud;Distrito de Broye-Vully;Payerne;Payerne SMN;10.0;10.0
+29/04/17 01:00;CH501850;Eurdep;air;46.51;8.69;990.5;Switzerland;Cantón del Tesino;Distrito de Leventina;Quinto;Piotta SMN;14.0;14.0
+29/04/17 01:00;CH501900;Eurdep;air;46.75;7.27;994.2;Switzerland;Friburgo;Distrito de Sense;Brünisried;Plaffeien SMN;10.2;12.0
+29/04/17 01:00;CH501950;Eurdep;air;46.51;6.67;412.5;Switzerland;Cantón de Vaud;Distrito de Lavaux-Oron;Pully;Pully SMN;12.0;13.0
+29/04/17 01:00;CH502000;Eurdep;air;47.43;8.52;441.3;Switzerland;Zúrich;Distrito de Zúrich;Zúrich;Zürich / Affoltern SMN;10.6;11.0
+29/04/17 01:00;CH502050;Eurdep;air;46.35;10.06;1232.2;Switzerland;Grisones;Distrito de Bernina;Poschiavo;Poschiavo / Robbia SMN;16.2;18.0
+29/04/17 01:00;CH502100;Eurdep;air;47.43;7.88;574.1;Switzerland;Basilea-Campiña;Sissach;Rünenberg;Rünenberg SMN;9.8;10.0
+29/04/17 01:00;CH502150;Eurdep;air;47.25;9.34;2288.8;Switzerland;Appenzell Rodas Exteriores;Hinterland;Hundwil;Säntis SMN;12.3;12.0
+29/04/17 01:00;CH502200;Eurdep;air;46.53;9.88;1705.7;Switzerland;Grisones;Distrito de Maloja;Samedan;Samedan SMN;15.4;19.0
+29/04/17 01:00;CH502250;Eurdep;air;46.46;9.18;1739.0;Switzerland;Grisones;Distrito de Moesa;Mesocco;San Bernardino SMN;12.9;14.0
+29/04/17 01:00;CH502300;Eurdep;air;45.84;8.93;353.8;Switzerland;Cantón del Tesino;Distrito de Mendrisio;Stabio;Stabio SMN;14.1;18.0
+29/04/17 01:00;CH502350;Eurdep;air;46.79;10.28;1235.6;Switzerland;Grisones;Distrito del Eno;Scuol;Scuol SMN;12.7;15.0
+29/04/17 01:00;CH502400;Eurdep;air;47.69;8.62;440.9;Switzerland;Cantón de Schaffhausen;Schaffhausen;Neuhausen am Rheinfall;Schaffhausen SMN;9.5;10.0
+29/04/17 01:00;CH502450;Eurdep;air;46.22;7.33;481.9;Switzerland;Cantón del Valais;Distrito de Sion;Sion;Sion SMN;12.1;12.0
+29/04/17 01:00;CH502500;Eurdep;air;47.38;8.57;599.6;Switzerland;Zúrich;Distrito de Zúrich;Zúrich;Zürich / Fluntern SMN;11.1;12.0
+29/04/17 01:00;CH502550;Eurdep;air;47.43;9.4;695.9;Switzerland;Sankt Gallen;Distrito de San Galo;San Galo;St. Gallen SMN;9.3;11.0
+29/04/17 01:00;CH502600;Eurdep;air;47.48;8.9;546.9;Switzerland;Cantón de Turgovia;Distrito de Frauenfeld;Aadorf;Aadorf / Tänikon SMN;9.4;10.0
+29/04/17 01:00;CH502650;Eurdep;air;46.5;8.31;1458.1;Switzerland;Cantón del Valais;Distrito de Goms;Obergoms;Ulrichen SMN;16.3;16.0
+29/04/17 01:00;CH502700;Eurdep;air;47.13;9.52;455.1;Switzerland;Vaduz;;Vaduz;Vaduz SMN;10.3;12.0
+29/04/17 01:00;CH502750;Eurdep;air;46.3;7.84;639.3;Switzerland;Cantón del Valais;Distrito de Visp;Visp;Visp SMN;13.9;14.0
+29/04/17 01:00;CH502800;Eurdep;air;47.22;8.68;496.4;Switzerland;Zúrich;Distrito de Horgen;Wädenswil;Wädenswil SMN;11.1;12.0
+29/04/17 01:00;CH502850;Eurdep;air;47.26;7.79;414.9;Switzerland;Soleura;Distrito de Gäu;Wolfwil;Wynau SMN;9.8;10.0
+29/04/17 01:00;CH502900;Eurdep;air;46.03;7.75;1770.0;Switzerland;Cantón del Valais;Distrito de Visp;Zermatt;Zermatt SMN;12.9;14.0
+29/04/17 01:00;CH502950;Eurdep;air;47.54;8.23;334.2;Switzerland;Argovia;Distrito de Baden;;PSI SMN;9.9;10.0
+29/04/17 01:00;CH503100;Eurdep;air;47.57;8.24;321.1;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-01;9.6;10.0
+29/04/17 01:00;CH503150;Eurdep;air;47.58;8.24;316.0;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Klingnau B-02;9.5;10.0
+29/04/17 01:00;CH503200;Eurdep;air;47.56;8.23;349.5;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Döttingen B-03;8.9;9.4
+29/04/17 01:00;CH503250;Eurdep;air;47.57;8.26;349.7;Switzerland;Argovia;Distrito de Zurzach;Döttingen;Döttingen B-04;9.3;9.0
+29/04/17 01:00;CH503300;Eurdep;air;47.56;8.24;329.8;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Döttingen B-05;9.1;9.7
+29/04/17 01:00;CH503350;Eurdep;air;47.55;8.24;366.8;Switzerland;Argovia;Distrito de Zurzach;Döttingen;Döttingen B-06;8.5;8.9
+29/04/17 01:00;CH503400;Eurdep;air;47.54;8.25;358.3;Switzerland;Argovia;Distrito de Baden;Würenlingen;Würenlingen B-07;9.3;9.9
+29/04/17 01:00;CH503450;Eurdep;air;47.53;8.26;377.4;Switzerland;Argovia;Distrito de Baden;Würenlingen;Würenlingen B-08;9.1;9.4
+29/04/17 01:00;CH503500;Eurdep;air;47.54;8.23;334.2;Switzerland;Argovia;Distrito de Baden;;Würenlingen B-09;9.6;10.0
+29/04/17 01:00;CH503550;Eurdep;air;47.52;8.23;330.9;Switzerland;Argovia;Distrito de Brugg;Stilli;Stilli B-10;9.4;9.6
+29/04/17 01:00;CH503600;Eurdep;air;47.54;8.23;334.2;Switzerland;Argovia;Distrito de Baden;;Würenlingen B-11;9.2;10.0
+29/04/17 01:00;CH503650;Eurdep;air;47.54;8.22;393.3;Switzerland;Argovia;Distrito de Brugg;Villigen;Villigen B-12;10.1;10.0
+29/04/17 01:00;CH503700;Eurdep;air;47.52;8.22;362.1;Switzerland;Argovia;Distrito de Brugg;Stilli;Villigen B-13;9.6;9.8
+29/04/17 01:00;CH503750;Eurdep;air;47.55;8.22;424.2;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-14;10.0;10.0
+29/04/17 01:00;CH503800;Eurdep;air;47.55;8.19;525.6;Switzerland;Argovia;Distrito de Brugg;Mandach;Mandach B-15;10.1;10.0
+29/04/17 01:00;CH503850;Eurdep;air;47.55;8.22;424.2;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-16;10.5;10.0
+29/04/17 01:00;CH503900;Eurdep;air;47.56;8.22;448.6;Switzerland;Argovia;Distrito de Zurzach;Böttstein;Böttstein B-17;9.7;9.9
+29/04/17 01:00;CH503950;Eurdep;air;47.39;7.97;461.7;Switzerland;Soleura;Distrito de Gösgen;Stüsslingen;Stüsslingen G-01;10.5;11.0
+29/04/17 01:00;CH504000;Eurdep;air;47.37;7.98;384.1;Switzerland;Soleura;Distrito de Gösgen;Niedergösgen;Niedergösgen G-02;10.7;11.0
+29/04/17 01:00;CH504050;Eurdep;air;47.4;8.01;409.0;Switzerland;Soleura;Distrito de Gösgen;Erlinsbach;Erlinsbach G-03;10.2;10.0
+29/04/17 01:00;CH504100;Eurdep;air;47.37;7.99;377.4;Switzerland;;;;Niedergösgen G-04;9.4;10.0
+29/04/17 01:00;CH504150;Eurdep;air;47.39;8.04;369.7;Switzerland;Argovia;Distrito de Aarau;Aarau;Aarau G-05;9.4;9.7
+29/04/17 01:00;CH504200;Eurdep;air;47.37;8.0;0.0;Switzerland;0;0;0;Schönenwerd G-06;10.1;10.0
+29/04/17 01:00;CH504250;Eurdep;air;47.36;7.97;381.5;Switzerland;Soleura;Distrito de Olten;Däniken;Niedergösgen G-07;9.5;10.0
+29/04/17 01:00;CH504300;Eurdep;air;47.36;7.99;378.7;Switzerland;Soleura;Distrito de Olten;Gretzenbach;Gretzenbach G-08;9.3;9.6
+29/04/17 01:00;CH504350;Eurdep;air;47.35;7.98;399.3;Switzerland;Soleura;Distrito de Olten;Däniken;Däniken G-09;10.3;10.0
+29/04/17 01:00;CH504400;Eurdep;air;47.36;7.96;380.9;Switzerland;Soleura;Distrito de Gösgen;Obergösgen;Obergösgen G-10;9.0;9.4
+29/04/17 01:00;CH504450;Eurdep;air;47.35;7.94;417.8;Switzerland;Soleura;Distrito de Olten;Dulliken;Dulliken G-11;10.2;10.0
+29/04/17 01:00;CH504500;Eurdep;air;47.35;7.9;405.5;Switzerland;Soleura;Distrito de Olten;Olten;Olten G-12;8.0;8.6
+29/04/17 01:00;CH504550;Eurdep;air;47.36;7.95;385.1;Switzerland;Soleura;Distrito de Gösgen;Obergösgen;Obergösgen G-13;9.2;9.0
+29/04/17 01:00;CH504600;Eurdep;air;47.37;7.93;430.2;Switzerland;Soleura;Distrito de Gösgen;Winznau;Winznau G-14;10.7;11.0
+29/04/17 01:00;CH504650;Eurdep;air;47.37;7.96;420.6;Switzerland;Soleura;Distrito de Gösgen;Obergösgen;Obergösgen G-15;9.9;10.0
+29/04/17 01:00;CH504700;Eurdep;air;47.38;7.95;429.4;Switzerland;Soleura;Distrito de Gösgen;Lostorf;Lostorf G-16;10.8;11.0
+29/04/17 01:00;CH504750;Eurdep;air;47.61;8.2;340.1;Switzerland;Argovia;Distrito de Zurzach;Full-Reuenthal;Full L-01;10.8;11.0
+29/04/17 01:00;CH504800;Eurdep;air;47.6;8.19;342.7;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Full L-02;10.6;11.0
+29/04/17 01:00;CH504850;Eurdep;air;47.61;8.24;316.4;Switzerland;Argovia;Distrito de Zurzach;Koblenz;Koblenz L-03;9.3;9.6
+29/04/17 01:00;CH504900;Eurdep;air;47.6;8.2;389.9;Switzerland;Argovia;Distrito de Zurzach;Full-Reuenthal;Reuenthal L-04;10.7;11.0
+29/04/17 01:00;CH504950;Eurdep;air;47.59;8.22;317.4;Switzerland;Argovia;Distrito de Zurzach;Leuggern;Gippingen L-05;9.8;10.0
+29/04/17 01:00;CH505000;Eurdep;air;47.6;8.19;342.7;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt L-06;9.4;9.7
+29/04/17 01:00;CH505050;Eurdep;air;47.58;8.22;322.2;Switzerland;Argovia;Distrito de Zurzach;Leuggern;Leuggern L-07;8.8;9.1
+29/04/17 01:00;CH505100;Eurdep;air;47.58;8.2;397.4;Switzerland;Argovia;Distrito de Zurzach;Leuggern;Hettenschwil L-08;9.7;10.0
+29/04/17 01:00;CH505150;Eurdep;air;47.59;8.17;332.0;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt L-09;10.0;10.0
+29/04/17 01:00;CH505200;Eurdep;air;47.56;8.14;379.5;Switzerland;Argovia;Distrito de Laufenburg;Wil;Wil L-10;11.1;11.0
+29/04/17 01:00;CH505250;Eurdep;air;47.59;8.14;309.2;Switzerland;Argovia;Distrito de Laufenburg;Schwaderloch;Schwaderloch L-11;11.0;11.0
+29/04/17 01:00;CH505300;Eurdep;air;47.6;8.18;321.6;Switzerland;Argovia;Distrito de Zurzach;Leibstadt;Leibstadt L-12;9.0;9.3
+29/04/17 01:00;CH506050;Eurdep;air;47.0;7.27;0.0;Switzerland;0;0;0;Detligen M-01;10.8;11.0
+29/04/17 01:00;CH506100;Eurdep;air;46.98;7.29;564.9;Switzerland;Cantón de Berna;Berna;Wohlen bei Bern;Wohlen M-02;10.3;10.0
+29/04/17 01:00;CH506150;Eurdep;air;46.97;7.28;513.9;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-03;10.4;10.0
+29/04/17 01:00;CH506200;Eurdep;air;46.97;7.36;537.8;Switzerland;Cantón de Berna;Berna;Wohlen bei Bern;Wohlen M-04;9.7;10.0
+29/04/17 01:00;CH506250;Eurdep;air;46.97;7.28;513.9;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-05;11.5;11.0
+29/04/17 01:00;CH506300;Eurdep;air;46.96;7.27;535.1;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-06;11.0;11.0
+29/04/17 01:00;CH506350;Eurdep;air;46.95;7.26;616.8;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-07;10.1;10.0
+29/04/17 01:00;CH506400;Eurdep;air;46.96;7.25;471.8;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-08;11.5;11.0
+29/04/17 01:00;CH506450;Eurdep;air;46.97;7.26;566.8;Switzerland;Cantón de Berna;Distrito de Laupen;Mühleberg;Mühleberg M-09;11.1;11.0
+29/04/17 01:00;CH506500;Eurdep;air;46.97;7.24;515.3;Switzerland;Cantón de Berna;Distrito de Laupen;Wileroltigen;Wileroltigen M-10;11.9;12.0
+29/04/17 01:00;CH506550;Eurdep;air;46.98;7.25;531.8;Switzerland;Cantón de Berna;Distrito de Laupen;Wileroltigen;Golaten M-11;9.3;9.7
+29/04/17 01:00;CH506600;Eurdep;air;46.98;7.27;579.4;Switzerland;Cantón de Berna;Aarberg;Radelfingen;Detligen M-12;11.3;11.0
+29/04/17 01:00;CH544000;Eurdep;air;47.57;7.88;348.0;Switzerland;Argovia;Distrito de Rheinfelden;Wallbach;Möhlin SMN;11.5;12.0
+29/04/17 01:00;CH545000;Eurdep;air;47.18;8.0;0.0;Switzerland;0;0;0;Egolzwil SMN;10.1;10.0
+29/04/17 01:00;CH548000;Eurdep;air;47.18;7.42;427.7;Switzerland;Soleura;Distrito de Lebern;Grenchen;Grenchen SMN;8.9;9.2
+29/04/17 01:00;CH556000;Eurdep;air;46.73;8.17;591.7;Switzerland;Cantón de Berna;Distrito de Oberhasli;Meiringen;Meiringen SMN;13.4;14.0
+29/04/17 01:00;CH557000;Eurdep;air;46.6;10.43;1448.4;Switzerland;Grisones;Distrito del Eno;Santa Maria Val Müstair;Santa Maria SMN;15.3;22.0
+29/04/17 01:00;CH558000;Eurdep;air;46.57;6.86;784.6;Switzerland;Cantón de Vaud;Distrito de Lavaux-Oron;Bussigny-sur-Oron;Oron SMN;10.9;11.0
+29/04/17 01:00;CH560000;Eurdep;air;46.35;9.63;1095.5;Switzerland;Grisones;Distrito de Maloja;Bregaglia;Vicosoprano SMN;19.5;23.0
+29/04/17 01:00;CH658350;Eurdep;air;47.05;7.06;0.0;Switzerland;0;0;0;Cressier SMN;8.5;8.8
+29/04/17 01:00;CH658400;Eurdep;air;47.35;7.35;0.0;Switzerland;0;0;0;Delémont SMN;11.1;11.0
+29/04/17 01:00;CH660350;Eurdep;air;47.12;7.61;0.0;Switzerland;0;0;0;Koppigen SMN;10.8;11.0
+29/04/17 01:00;CH660400;Eurdep;air;46.77;7.11;0.0;Switzerland;0;0;0;Fribourg / Posieux SMN;10.7;11.0
+29/04/17 01:00;CH660450;Eurdep;air;46.52;6.34;0.0;Switzerland;0;0;0;Bière SMN;9.8;10.0
