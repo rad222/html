@@ -1,9 +1,9 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-29/04/17 01:00;RS0002;Eurdep;air;45.25;19.85;82.2;Serbia;Voivodina;Distrito de Bačka del Sur;Novi Sad;NOVI SAD;11.9;12
-29/04/17 02:00;RS0003;Eurdep;air;46.1;19.77;99.1;Serbia;Voivodina;Distrito de Bačka del Norte;Palić;PALIC;11.6;12
-29/04/17 01:00;RS0004;Eurdep;air;43.72;19.7;0.0;Serbia;0;0;0;ZLATIBOR;11.9;12
-29/04/17 01:00;RS0005;Eurdep;air;44.77;20.6;181.6;Serbia;;City of Belgrade;Vinča;VINCA;13.1;13
-29/04/17 01:00;RS0006;Eurdep;air;42.55;21.9;463.4;Serbia;;Distrito de Pčinja;Vranje;VRANJE;13.9;14
-29/04/17 02:00;RS0007;Eurdep;air;43.32;21.9;196.1;Serbia;;Distrito de Nišava;Niš;NIS;10.9;11
-29/04/17 02:00;RS0008;Eurdep;air;44.6;22.6;64.1;Serbia;;Bor District;Kladovo;KLADOVO;12.3;13
-29/04/17 02:00;RS0009;Eurdep;air;42.88;20.87;524.6;Serbia;;;;KOSOVSKA MITROVICA;12.0;13
+29/04/17 09:00;RS0002;Eurdep;air;45.25;19.85;82.2;Serbia;Voivodina;Distrito de Bačka del Sur;Novi Sad;NOVI SAD;11.8;12
+29/04/17 09:00;RS0003;Eurdep;air;46.1;19.77;99.1;Serbia;Voivodina;Distrito de Bačka del Norte;Palić;PALIC;11.5;12
+29/04/17 09:00;RS0004;Eurdep;air;43.72;19.7;0.0;Serbia;0;0;0;ZLATIBOR;12.1;13
+29/04/17 09:00;RS0005;Eurdep;air;44.77;20.6;181.6;Serbia;;City of Belgrade;Vinča;VINCA;13.1;13
+29/04/17 08:00;RS0006;Eurdep;air;42.55;21.9;463.4;Serbia;;Distrito de Pčinja;Vranje;VRANJE;13.0;14
+29/04/17 09:00;RS0007;Eurdep;air;43.32;21.9;196.1;Serbia;;Distrito de Nišava;Niš;NIS;10.0;11
+29/04/17 09:00;RS0008;Eurdep;air;44.6;22.6;64.1;Serbia;;Bor District;Kladovo;KLADOVO;12.6;13
+29/04/17 08:00;RS0009;Eurdep;air;42.88;20.87;524.6;Serbia;;;;KOSOVSKA MITROVICA;12.5;13
