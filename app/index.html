@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.css">
     <link rel="stylesheet" href="libs/sidebar-v2-0.3.1/leaflet-sidebar.min.css">
     <link rel="stylesheet" href="libs/leaflet-control-geocoder-1.5.4/Control.Geocoder.css">
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="libs/jquery-ui-1.12.1/jquery-ui.css">
     <link rel="stylesheet" href="libs/main.css">
 </head>
 
@@ -47,7 +47,6 @@
             <div class="sidebar-pane" id="sidebar-settings">
                 <h1 class="sidebar-header">
                     <i class="fa fa-gear fa-1x"></i>&nbsp;&nbsp;<span tkey="settings">Settings</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
-              
 
                 <div id="settings-accordion">
 
@@ -63,9 +62,9 @@
                                 <label for="optradio_modeDynamic">Dynamic</label>
                             </div>
                         </div>
-
+                        <hr>
                         <div id="stations-filter">
-                            <p tkey="change-country">Country:</p>
+                            <p tkey="change-country">Select country:</p>
                             <select class="selectpicker show-menu-arrow" data-live-search="true" data-size="7">
                                 <option>All countries</option>
                                 <option>Austria</option>
@@ -103,22 +102,21 @@
                                 <option>Ukraine</option>
                                 <option>United Kingdom</option>
                             </select>
-
-                            <p tkey="change-date">Date:</p>
+                            <hr>
+                            <p tkey="change-date">Select date:</p>
                             <input class="station_datepicker">
-
+                            <hr>
                             <p tkey="change-altitude">Altitude:</p>
                             <span id="station_altitude_min">0</span>&nbsp;&nbsp;
                             <input type="text" class="span2" value="" id="station_slider_altitude" data-slider-step="1">&nbsp;&nbsp;
                             <span id="station_altitude_max">0</span>
-
+                            <hr>
                             <p tkey="change-value">Value:</p>
                             <span id="station_value_min">0</span>&nbsp;&nbsp;
                             <input type="text" class="span2" value="" id="station_slider_value" data-slider-step="1">&nbsp;&nbsp;
                             <span id="station_value_max">0</span>
                         </div>
                     </div>
-
 
 
                     <h3>Layer opacity options</h3>
@@ -129,7 +127,7 @@
                                 data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
                             <span id="overlayOpacityVal">50</span>
                         </div>
-                        <br>
+                        <hr>
                         <div id="base-layers-opacity-control">
                             <p tkey="change-base">Change base layer opacity:</p>
                             <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
@@ -139,9 +137,7 @@
                     </div>
 
 
-
                     <h3><span tkey="overlay-layer">Overlay layer popup display options</span></h3>
-
                     <div id="overlay-layer-popup-display">
                         <form class="form">
                             <div class="switch-field point-event">
@@ -153,6 +149,7 @@
                                 <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
                                 <label for="optradio_point_mouseover">Mouseover</label>
                             </div>
+                            <hr>
                             <div class="switch-field polygon-event">
                                 <div class="switch-title">
                                     <p tkey="polygon-layer"><i>Polygon layer:</i></p>
@@ -164,9 +161,6 @@
                             </div>
                         </form>
                     </div>
-
-
-
 
 
                     <h3>Display options</h3>
@@ -208,12 +202,6 @@
                         </div>
                     </div>
                 </div>
-
-
-
-
-
-
 
 
             </div>
@@ -268,9 +256,8 @@
         </div>
     </script>
 
-    <script src="//code.jquery.com/jquery-1.12.4.js"></script>
-    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <!--<script src="libs/jquery-3.1.1.min.js"></script>-->
+    <script src="libs/jquery-1.12.4.js"></script>
+    <script src="libs/jquery-ui-1.12.1/jquery-ui.js"></script>
     <script src="libs/handlebars-4.0.6.js"></script>
     <script src="libs/bootstrap-3.3.7/js/bootstrap.min.js"></script>
     <script src="libs/bootstrap-slider-9.5.4/bootstrap-slider.min.js"></script>

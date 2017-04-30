@@ -1159,10 +1159,7 @@ $(document).ready(function () {
 		heightStyle: "content"
 	});
 
-
-
 });
-
 
 // add layers to 'Layers' group
 var webcamsLegendHTML = 'Webcams<br>' +
