@@ -779,7 +779,7 @@ map.on("overlayadd overlayremove", function (event) {
 // ----------------------------------------------------------------------------------------------
 
 // overlay layer opacity control
-$('#rangeSliderForOverlayLayers').slider({});
+$('#rangeSliderForOverlayLayers').bootstrapSlider();
 $('#rangeSliderForOverlayLayers').on("slide", function (e) {
 	$("#overlayOpacityVal").text(e.value);
 });
@@ -798,7 +798,7 @@ function updateOverlayLayersOpacity(value) {
 };
 
 // base layer opacity control
-$('#rangeSliderForBaseLayers').slider({});
+$('#rangeSliderForBaseLayers').bootstrapSlider();
 $('#rangeSliderForBaseLayers').on("slide", function (e) {
 	$("#baseOpacityVal").text(e.value);
 });
@@ -821,7 +821,7 @@ function updateBaseLayersOpacity(value) {
 
 // circle radius control
 var circleRadius = 50000;
-$('#rangeSliderCircle').slider({});
+$('#rangeSliderCircle').bootstrapSlider();
 $('#rangeSliderCircle').on("slide", function (e) {
 	$("#rangeSliderCircleVal").text(e.value);
 });
@@ -839,7 +839,7 @@ function updateCircleRadius(value) {
 
 
 $('.station_datepicker').datepicker({
-    format: 'mm/dd/yyyy',
+	format: 'mm/dd/yyyy',
 	todayHighlight: true,
 	autoclose: true
 });
@@ -849,7 +849,7 @@ $('.station_datepicker').datepicker({
 // Stations Altitude control
 var station_altitide = [-81, 3512];
 
-$('#station_slider_altitude').slider({
+$('#station_slider_altitude').bootstrapSlider({
 	min: station_altitide[0],
 	max: station_altitide[1],
 	value: station_altitide
@@ -863,7 +863,7 @@ $("#station_altitude_max").text(station_altitide[1]);
 
 // Stations Value control
 var station_value = [0, 53];
-$('#station_slider_value').slider({
+$('#station_slider_value').bootstrapSlider({
 	min: station_value[0],
 	max: station_value[1],
 	value: station_value
@@ -1152,6 +1152,14 @@ $(document).ready(function () {
 	//$('.leaflet-control-layers-overlays').prepend('<b tkey="layers">Layers:</b>');
 	$('.leaflet-control-layers-overlays').prependTo('.leaflet-control-layers-list');
 	$('.leaflet-control-layers-base').appendTo('.leaflet-control-layers-list');
+
+	// settings-accordion
+	$("#settings-accordion").accordion({
+		collapsible: true,
+		heightStyle: "content"
+	});
+
+
 
 });
 

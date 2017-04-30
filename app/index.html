@@ -8,6 +8,7 @@
     <meta name="description" content="RaViewer - on-line viewer of environmental radiological data">
     <meta name="keywords" content="RaViewer, radiological data">
     <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+
     <link rel="stylesheet" href="libs/leaflet-0.7.7/leaflet.css">
     <link rel="stylesheet" href="libs/leaflet.loading-0.1.23/Control.Loading.css">
     <link rel="stylesheet" href="libs/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -23,8 +24,7 @@
     <link rel="stylesheet" href="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.css">
     <link rel="stylesheet" href="libs/sidebar-v2-0.3.1/leaflet-sidebar.min.css">
     <link rel="stylesheet" href="libs/leaflet-control-geocoder-1.5.4/Control.Geocoder.css">
-    <link rel="stylesheet" href="libs/jquery-ui.css">
-    <link rel="stylesheet" href="libs/accordion.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="libs/main.css">
 </head>
 
@@ -36,198 +36,211 @@
                 <img src="img/logo-sidebar.png" alt="">
             </ul>
             <ul role="tablist">
-                <li><a href="#settings" title="Settings" role="tab"><i class="fa fa-gear"></i></a></li>
-                <li><a href="#messages" title="Messages" role="tab"><i class="fa fa-envelope"></i></a></li>
-                <li><a href="#documentation" title="Documentation" role="tab"><i class="fa fa-file-text-o"></i></a></li>
-                <li><a href="#whatisnew" title="Whatisnew" role="tab"><i class="fa fa-info-circle"></i></a></li>
+                <li><a href="#sidebar-settings" title="Settings" role="tab"><i class="fa fa-gear"></i></a></li>
+                <li><a href="#sidebar-messages" title="Messages" role="tab"><i class="fa fa-envelope"></i></a></li>
+                <li><a href="#sidebar-documentation" title="Documentation" role="tab"><i class="fa fa-file-text-o"></i></a></li>
+                <li><a href="#sidebar-whatisnew" title="Whatisnew" role="tab"><i class="fa fa-info-circle"></i></a></li>
             </ul>
         </div>
         <!-- Tab panes -->
         <div class="sidebar-content">
-            <div class="sidebar-pane" id="settings">                
+            <div class="sidebar-pane" id="sidebar-settings">
                 <h1 class="sidebar-header">
                     <i class="fa fa-gear fa-1x"></i>&nbsp;&nbsp;<span tkey="settings">Settings</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
-                <br>
-                <!-- Accordion -->
-                <!-- <div id="accordion">
-	                <h3>Filter</h3>
-	                <div>
-		            <p>bla bla</p>
-	                </div>
-	                <h3>Display options</h3>
-	                <div>
-		            <p>bla bla</p>
-                    </div>                
-                </div> -->  
-                 
-                    <div id="stations-filter">
-                    <p tkey="stations-filter-selector">Stations filter:</p>
-                    <p tkey="change-country">Country:</p>
-                    <select class="selectpicker show-menu-arrow" data-live-search="true" data-size="7">
-                        <option>All countries</option>
-                        <option>Austria</option>
-                        <option>Belgium</option>
-                        <option>Bulgaria</option>
-                        <option>Switzerland</option>
-                        <option>Czech Republic</option>
-                        <option>Denmark</option>
-                        <option>Estonia</option>
-                        <option>Finland</option>
-                        <option>France</option>
-                        <option>Germany</option>
-                        <option>Greece</option>
-                        <option>Greenland</option>
-                        <option>Hungary</option>
-                        <option>Ireland</option>
-                        <option>Italy</option>
-                        <option>Latvia</option>
-                        <option>Lithuania</option>
-                        <option>Luxembourg</option>
-                        <option>Macedonia</option>
-                        <option>Malta</option>
-                        <option>Netherlands</option>
-                        <option>Norway</option>
-                        <option>Poland</option>
-                        <option>Portugal</option>
-                        <option>Romania</option>
-                        <option>Russia</option>
-                        <option>Slovakia</option>
-                        <option>Slovenia</option>
-                        <option>Spain</option>
-                        <option>Sweden</option>
-                        <option>Switzerland</option>
-                        <option>Turkey</option>
-                        <option>Ukraine</option>
-                        <option>United Kingdom</option>
-                    </select>
+              
 
-                    <p tkey="change-date">Date:</p>
-                    <input class="station_datepicker">
+                <div id="settings-accordion">
 
-                    <p tkey="change-altitude">Altitude:</p>
-                    <span id="station_altitude_min">0</span>&nbsp;&nbsp;
-                    <input type="text" class="span2" value="" id="station_slider_altitude" data-slider-step="1">&nbsp;&nbsp;
-                    <span id="station_altitude_max">0</span>
 
-                    <p tkey="change-value">Value:</p>
-                    <span id="station_value_min">0</span>&nbsp;&nbsp;
-                    <input type="text" class="span2" value="" id="station_slider_value" data-slider-step="1">&nbsp;&nbsp;
-                    <span id="station_value_max">0</span>
-
-                </div>
-
-          
-                
-                <div id="overlay-layers-opacity-control">
-                    <p tkey="change-overlay">Change overlay layer opacity:</p>
-                    <input type="text" class="span2" value="50" id="rangeSliderForOverlayLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1"
-                        data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
-                    <span id="overlayOpacityVal">50</span>
-                </div>
-                <br>
-                <div id="base-layers-opacity-control">
-                    <p tkey="change-base">Change base layer opacity:</p>
-                    <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
-                        data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
-                    <span id="baseOpacityVal">100</span>
-                </div>
-                <hr>
-                <div id="overlay-layer-popup-display">
-                    <p tkey="overlay-layer">Overlay layer popup display options:</p>
-                    <form class="form">
-                        <div class="switch-field point-event">
-                            <div class="switch-title">
-                                <p tkey="point-layer"><i>Point layer:</i></p>
+                    <h3><span tkey="stations-filter-selector">Stations filter options</span></h3>
+                    <div>
+                        <div id="stations-mode-ranges">
+                            <p tkey="stations-mode-selector">Stations mode:</p>
+                            <div class="switch-field mode-selector">
+                                <input type="radio" id="optradio_modeStatic" name="optradio_mode" value="modeStatic" checked/>
+                                <label for="optradio_modeStatic">Static</label>
+                                <input type="radio" id="optradio_modeDynamic" name="optradio_mode" value="modeDynamic" />
+                                <label for="optradio_modeDynamic">Dynamic</label>
                             </div>
-                            <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
-                            <label for="optradio_point_click">Click</label>
-                            <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
-                            <label for="optradio_point_mouseover">Mouseover</label>
                         </div>
-                        <div class="switch-field polygon-event">
-                            <div class="switch-title">
-                                <p tkey="polygon-layer"><i>Polygon layer:</i></p>
+
+                        <div id="stations-filter">
+                            <p tkey="change-country">Country:</p>
+                            <select class="selectpicker show-menu-arrow" data-live-search="true" data-size="7">
+                                <option>All countries</option>
+                                <option>Austria</option>
+                                <option>Belgium</option>
+                                <option>Bulgaria</option>
+                                <option>Switzerland</option>
+                                <option>Czech Republic</option>
+                                <option>Denmark</option>
+                                <option>Estonia</option>
+                                <option>Finland</option>
+                                <option>France</option>
+                                <option>Germany</option>
+                                <option>Greece</option>
+                                <option>Greenland</option>
+                                <option>Hungary</option>
+                                <option>Ireland</option>
+                                <option>Italy</option>
+                                <option>Latvia</option>
+                                <option>Lithuania</option>
+                                <option>Luxembourg</option>
+                                <option>Macedonia</option>
+                                <option>Malta</option>
+                                <option>Netherlands</option>
+                                <option>Norway</option>
+                                <option>Poland</option>
+                                <option>Portugal</option>
+                                <option>Romania</option>
+                                <option>Russia</option>
+                                <option>Slovakia</option>
+                                <option>Slovenia</option>
+                                <option>Spain</option>
+                                <option>Sweden</option>
+                                <option>Switzerland</option>
+                                <option>Turkey</option>
+                                <option>Ukraine</option>
+                                <option>United Kingdom</option>
+                            </select>
+
+                            <p tkey="change-date">Date:</p>
+                            <input class="station_datepicker">
+
+                            <p tkey="change-altitude">Altitude:</p>
+                            <span id="station_altitude_min">0</span>&nbsp;&nbsp;
+                            <input type="text" class="span2" value="" id="station_slider_altitude" data-slider-step="1">&nbsp;&nbsp;
+                            <span id="station_altitude_max">0</span>
+
+                            <p tkey="change-value">Value:</p>
+                            <span id="station_value_min">0</span>&nbsp;&nbsp;
+                            <input type="text" class="span2" value="" id="station_slider_value" data-slider-step="1">&nbsp;&nbsp;
+                            <span id="station_value_max">0</span>
+                        </div>
+                    </div>
+
+
+
+                    <h3>Layer opacity options</h3>
+                    <div>
+                        <div id="overlay-layers-opacity-control">
+                            <p tkey="change-overlay">Change overlay layer opacity:</p>
+                            <input type="text" class="span2" value="50" id="rangeSliderForOverlayLayers" data-slider-min="10" data-slider-max="100" data-slider-step="1"
+                                data-slider-value="50" onchange="updateOverlayLayersOpacity(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
+                            <span id="overlayOpacityVal">50</span>
+                        </div>
+                        <br>
+                        <div id="base-layers-opacity-control">
+                            <p tkey="change-base">Change base layer opacity:</p>
+                            <input type="text" class="span2" value="100" id="rangeSliderForBaseLayers" data-slider-min="0" data-slider-max="100" data-slider-step="1"
+                                data-slider-value="100" onchange="updateBaseLayersOpacity(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
+                            <span id="baseOpacityVal">100</span>
+                        </div>
+                    </div>
+
+
+
+                    <h3><span tkey="overlay-layer">Overlay layer popup display options</span></h3>
+
+                    <div id="overlay-layer-popup-display">
+                        <form class="form">
+                            <div class="switch-field point-event">
+                                <div class="switch-title">
+                                    <p tkey="point-layer"><i>Point layer:</i></p>
+                                </div>
+                                <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
+                                <label for="optradio_point_click">Click</label>
+                                <input type="radio" id="optradio_point_mouseover" name="optradio_point" value="mouseover" />
+                                <label for="optradio_point_mouseover">Mouseover</label>
                             </div>
-                            <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
-                            <label for="optradio_polygon_click">Click</label>
-                            <input type="radio" id="optradio_polygon_mouseover" name="optradio_polygon" value="mouseover" />
-                            <label for="optradio_polygon_mouseover">Mouseover</label>
+                            <div class="switch-field polygon-event">
+                                <div class="switch-title">
+                                    <p tkey="polygon-layer"><i>Polygon layer:</i></p>
+                                </div>
+                                <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
+                                <label for="optradio_polygon_click">Click</label>
+                                <input type="radio" id="optradio_polygon_mouseover" name="optradio_polygon" value="mouseover" />
+                                <label for="optradio_polygon_mouseover">Mouseover</label>
+                            </div>
+                        </form>
+                    </div>
+
+
+
+
+
+                    <h3>Display options</h3>
+                    <div>
+                        <div id="legend-color-ranges">
+                            <p tkey="legend-color-selector">Legend color selector:</p>
+                            <div class="switch-field color-selector">
+                                <input type="radio" id="optradio_color_range1" name="optradio_color" value="colorRange1" checked/>
+                                <label for="optradio_color_range1">Scale 1</label>
+                                <input type="radio" id="optradio_color_range2" name="optradio_color" value="colorRange2" />
+                                <label for="optradio_color_range2">Scale 2</label>
+                                <input type="radio" id="optradio_color_range3" name="optradio_color" value="colorRange3" />
+                                <label for="optradio_color_range3">Scale 3</label>
+                            </div>
                         </div>
-                    </form>
-                </div>
-                <hr>
-                <div id="legend-color-ranges">
-                    <p tkey="legend-color-selector">Legend color selector:</p>
-                    <div class="switch-field color-selector">
-                        <input type="radio" id="optradio_color_range1" name="optradio_color" value="colorRange1" checked/>
-                        <label for="optradio_color_range1">Scale 1</label>
-                        <input type="radio" id="optradio_color_range2" name="optradio_color" value="colorRange2" />
-                        <label for="optradio_color_range2">Scale 2</label>
-                        <input type="radio" id="optradio_color_range3" name="optradio_color" value="colorRange3" />
-                        <label for="optradio_color_range3">Scale 3</label>
-                    </div>
-                </div>
-                <hr>
-                <div id="stations-cluster">
-                    <p tkey="stations-selector-cluster">Stations cluster mode (value):</p>
-                    <div class="switch-field cluster">
-                        <input type="radio" id="optradio_clusterAverage" name="optradio_cluster" value="modeAverage" checked/>
-                        <label tkey="average" for="optradio_clusterAverage">Average</label>
-                        <input type="radio" id="optradio_clusterMax" name="optradio_cluster" value="modeMax" />
-                        <label tkey="maximum" for="optradio_clusterMax">Maximum</label>
-                    </div>
-                </div>
-                <hr>
-                <div id="draw-circle-tool">
-                    <p tkey="stations-circle">Circle around selected point (station or power station):</p>
-                    <div class="switch-field pointCircle">
-                        <input type="radio" id="optradio_trueCircle" name="optradio_circle" value="modeTrueCircle" />
-                        <label tkey="yes" for="optradio_trueCircle">Yes</label>
-                        <input type="radio" id="optradio_falseCircle" name="optradio_circle" value="modeFalseCircle" checked/>
-                        <label tkey="no" for="optradio_falseCircle">No</label>
-                    </div>
-                    <p tkey="change-radius">Radius:</p>
-                    <input type="text" class="span2" value="50" id="rangeSliderCircle" data-slider-min="10" data-slider-max="100" data-slider-step="1"
-                        data-slider-value="50" onchange="updateCircleRadius(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
-                    <span id="rangeSliderCircleVal">50</span>&nbsp;km
-                </div>
-                <hr>
-
-                <div id="stations-mode-ranges">
-                    <p tkey="stations-mode-selector">Stations mode:</p>
-                    <div class="switch-field mode-selector">
-                        <input type="radio" id="optradio_modeStatic" name="optradio_mode" value="modeStatic" checked/>
-                        <label for="optradio_modeStatic">Static</label>
-                        <input type="radio" id="optradio_modeDynamic" name="optradio_mode" value="modeDynamic" />
-                        <label for="optradio_modeDynamic">Dynamic</label>
+                        <hr>
+                        <div id="stations-cluster">
+                            <p tkey="stations-selector-cluster">Stations cluster mode (value):</p>
+                            <div class="switch-field cluster">
+                                <input type="radio" id="optradio_clusterAverage" name="optradio_cluster" value="modeAverage" checked/>
+                                <label tkey="average" for="optradio_clusterAverage">Average</label>
+                                <input type="radio" id="optradio_clusterMax" name="optradio_cluster" value="modeMax" />
+                                <label tkey="maximum" for="optradio_clusterMax">Maximum</label>
+                            </div>
+                        </div>
+                        <hr>
+                        <div id="draw-circle-tool">
+                            <p tkey="stations-circle">Circle around selected point (station or power station):</p>
+                            <div class="switch-field pointCircle">
+                                <input type="radio" id="optradio_trueCircle" name="optradio_circle" value="modeTrueCircle" />
+                                <label tkey="yes" for="optradio_trueCircle">Yes</label>
+                                <input type="radio" id="optradio_falseCircle" name="optradio_circle" value="modeFalseCircle" checked/>
+                                <label tkey="no" for="optradio_falseCircle">No</label>
+                            </div>
+                            <p tkey="change-radius">Radius:</p>
+                            <input type="text" class="span2" value="50" id="rangeSliderCircle" data-slider-min="10" data-slider-max="100" data-slider-step="1"
+                                data-slider-value="50" onchange="updateCircleRadius(this.value)" data-slider-tooltip="hide">&nbsp;&nbsp;&nbsp;
+                            <span id="rangeSliderCircleVal">50</span>&nbsp;km
+                        </div>
                     </div>
                 </div>
 
-                <hr>
 
-    
+
+
+
+
+
+
             </div>
-            <div class="sidebar-pane" id="messages">
+            <div class="sidebar-pane" id="sidebar-messages">
                 <h1 class="sidebar-header">
                     <i class="fa fa-envelope fa-1x"></i>&nbsp;&nbsp;<span tkey="messages">Email</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
             </div>
-            <div class="sidebar-pane" id="documentation">
+            <div class="sidebar-pane" id="sidebar-documentation">
                 <h1 class="sidebar-header">
                     <i class="fa fa-file-text fa-1x"></i>&nbsp;&nbsp;<span tkey="documentation">Documentation</span>
                     <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
                 </h1>
             </div>
-            <div class="sidebar-pane" id="whatisnew">
+            <div class="sidebar-pane" id="sidebar-whatisnew">
                 <h1 class="sidebar-header">
                     <i class="fa fa-info-circle fa-1x"></i>&nbsp;&nbsp;<span tkey="whatisnew">What is new</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
             </div>
         </div>
     </div>
+
     <div id="map" class="sidebar-map"></div>
+
     <div id="logo-container">
         <h1>RaViewer</h1>
         <p tkey="description">on-line viewer of environmental radiological data</p>
     </div>
+
     <script id="legend-layers-template" type="text/x-handlebars-template">
         <div id="legend-layers">
             <h1 tkey="legend">Legend</h1>
@@ -241,6 +254,7 @@
             </div>
         </div>
     </script>
+
     <script id="popover-feature-content-template" type="text/x-handlebars-template">
         <div id="popover-feature-content">
             <table class="table table-striped">
@@ -253,7 +267,10 @@
             </table>
         </div>
     </script>
-    <script src="libs/jquery-3.1.1.min.js"></script>
+
+    <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!--<script src="libs/jquery-3.1.1.min.js"></script>-->
     <script src="libs/handlebars-4.0.6.js"></script>
     <script src="libs/bootstrap-3.3.7/js/bootstrap.min.js"></script>
     <script src="libs/bootstrap-slider-9.5.4/bootstrap-slider.min.js"></script>
@@ -275,18 +292,7 @@
     <script src="data/earthquakes.js"></script>
     <script src="libs/main.js"></script>
     <script src="libs/multilanguage/lang.js"></script>
-  <!-- Accordion -->
-                <!-- 
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script>
-    $( function() {
-    $( "#accordion" ).accordion({
-    collapsible: true
-    });
-    } );
-    </script>
--->
+
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
