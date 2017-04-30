@@ -3,7 +3,7 @@
 ### Installation on Ubuntu Server 14.04.5
 ```sh
 $ sudo apt-get install git build-essential python-pip python-dev python-numpy
-$ https://github.com/rad222/html.git
+$ git clone https://github.com/rad222/html.git
 $ cd ~/html/scripts/stations
 $ sudo pip install -r requirements.txt
 ```

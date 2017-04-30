@@ -3,10 +3,11 @@
 # ~/html/scripts/pywebcam/run.sh
 
 # project path
-PROJECT_PATH=/home/radon/html
+#PROJECT_PATH=/home/radon/html
+PROJECT_PATH=/var/www/html/dev/html
 
 # pywebcam path
-PYWEBCAM_PATH=/home/radon/html/scripts/pywebcam
+PYWEBCAM_PATH=${PROJECT_PATH}/scripts/pywebcam
 
 # parse webcam data 
 for ccode in DGT metcli tiempovistazo munimadrid
@@ -44,11 +45,8 @@ rm ${PYWEBCAM_PATH}/webcams_munimadrid.csv
 #chmod -R 777 ${PYWEBCAM_PATH}
 #chown -R radon:radon ${PYWEBCAM_PATH}
 
-# copy 'webcams.csv' to web app folder
-#cp -R ${PYWEBCAM_PATH}/webcams.csv /var/www/html
-
 # copy 'webcams.csv' to 'html/app/data' folder
-cp -R ${PYWEBCAM_PATH}/webcams.csv /home/radon/html/app/data
+cp -R ${PYWEBCAM_PATH}/webcams.csv ${PROJECT_PATH}/app/data
 
 # push changes
 git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH git pull origin master
