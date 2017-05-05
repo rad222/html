@@ -41,7 +41,7 @@ python ${STATIONS_PATH}/csv_to_sqlite.py -i ${STATIONS_DATE}
 cp -R ${STATIONS_PATH}/outputs/stations.db $PROJECT_PATH/app/data
 
 # push changes
-git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH git pull origin master
-git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH add .
-git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update stations data (`date +%d/%m/%Y' '%H:%M`)"
-git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master
+#git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH git pull origin master
+#git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH add .
+#git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH commit -a -m "update stations data (`date +%d/%m/%Y' '%H:%M`)"
+#git --git-dir=$PROJECT_PATH/.git --work-tree=$PROJECT_PATH push origin master
