@@ -3,7 +3,8 @@
 # ~/html/scripts/stations/run.sh
 
 # project path
-PROJECT_PATH=/home/radon/html
+#PROJECT_PATH=/home/radon/html
+PROJECT_PATH=/var/www/html/dev/html
 
 # pywebcam path
 STATIONS_PATH=$PROJECT_PATH/scripts/stations

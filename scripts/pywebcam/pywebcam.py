@@ -18,7 +18,8 @@ sys.setrecursionlimit(10000) #to avoid RuntimeError: maximum recursion depth exc
 #                                                                                           #
 #===========================================================================================#
 
-home = '/home/radon/html/scripts/pywebcam/'
+#home = '/home/radon/html/scripts/pywebcam/'
+home = '/var/www/html/dev/html/scripts/pywebcam/'
 
 logger = logging.getLogger("Rotating Log")
 format = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")

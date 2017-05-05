@@ -3,9 +3,10 @@
 ### Installation on Ubuntu Server 14.04.5
 ```sh
 $ cd ~/html/scripts/pywebcam
-$ sudo pip install -r requirements.txt
+$ sudo apt-get install python-pip
 $ sudo apt-get install libxml2-dev libxslt1-dev python-dev
 $ sudo apt-get install python-lxml
+$ sudo pip install -r requirements.txt
 ```
 ### Update from repository
 ```sh
