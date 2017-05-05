@@ -8,10 +8,10 @@
 	$sql_country = "SELECT country FROM stable GROUP BY country ORDER BY country;";
 	$result_country = $db->query($sql_country);	
 	
-	$sql_altitude = "SELECT MIN(altitude) AS min, MAX(altitude) AS max FROM stable;";
+	$sql_altitude = "SELECT MIN(altitude) AS min, MAX(altitude) AS max FROM stable WHERE altitude != -9999;";
 	$result_altitude = $db->query($sql_altitude);
 	
-	$sql_value = "SELECT MIN(value) AS min, MAX(value) AS max FROM stable;";
+	$sql_value = "SELECT MIN(value) AS min, MAX(value) AS max FROM stable WHERE value < 50;";
 	$result_value = $db->query($sql_value);
 	
 	if (!$result_sdates and !$result_country and !$result_altitude and !$result_value) {

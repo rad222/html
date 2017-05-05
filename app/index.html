@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="libs/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="libs/bootstrap-3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="libs/bootstrap-slider-9.5.4/css/bootstrap-slider.min.css">
-    <link rel="stylesheet" href="libs/bootstrap-datepicker-1.6.4/css/bootstrap-datepicker.min.css">
+    <link rel="stylesheet" href="libs/bootstrap-datepicker-1.6.4/css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="libs/bootstrap-select-1.12.2/css/bootstrap-select.min.css">
     <link rel="stylesheet" href="libs/ionicons-2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="libs/leaflet.vector-markers-0.0.6/leaflet-vector-markers.css">
@@ -65,46 +65,13 @@
                         <hr>
                         <div id="stations-filter">
                             <p tkey="change-country">Select country:</p>
-                            <select class="selectpicker show-menu-arrow" data-live-search="true" data-size="7">
+                            <select class="selectpicker show-menu-arrow" data-live-search="true" data-size="5">
                                 <option>All countries</option>
-                                <option>Austria</option>
-                                <option>Belgium</option>
-                                <option>Bulgaria</option>
-                                <option>Switzerland</option>
-                                <option>Czech Republic</option>
-                                <option>Denmark</option>
-                                <option>Estonia</option>
-                                <option>Finland</option>
-                                <option>France</option>
-                                <option>Germany</option>
-                                <option>Greece</option>
-                                <option>Greenland</option>
-                                <option>Hungary</option>
-                                <option>Ireland</option>
-                                <option>Italy</option>
-                                <option>Latvia</option>
-                                <option>Lithuania</option>
-                                <option>Luxembourg</option>
-                                <option>Macedonia</option>
-                                <option>Malta</option>
-                                <option>Netherlands</option>
-                                <option>Norway</option>
-                                <option>Poland</option>
-                                <option>Portugal</option>
-                                <option>Romania</option>
-                                <option>Russia</option>
-                                <option>Slovakia</option>
-                                <option>Slovenia</option>
-                                <option>Spain</option>
-                                <option>Sweden</option>
-                                <option>Switzerland</option>
-                                <option>Turkey</option>
-                                <option>Ukraine</option>
-                                <option>United Kingdom</option>
+                                <!-- loading values -->
                             </select>
                             <hr>
                             <p tkey="change-date">Select date:</p>
-                            <input class="station_datepicker">
+                            <input class="datepicker" id="station-date">
                             <hr>
                             <p tkey="change-altitude">Altitude:</p>
                             <span id="station_altitude_min">0</span>&nbsp;&nbsp;

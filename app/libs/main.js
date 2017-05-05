@@ -835,45 +835,121 @@ function updateCircleRadius(value) {
 };
 
 
+// ------------------------------------------------------------------------------------------------
 
-
-
-$('.station_datepicker').datepicker({
-	format: 'mm/dd/yyyy',
-	todayHighlight: true,
-	autoclose: true
+// Get selected country in stations filter
+$('#stations-filter .selectpicker').on('change', function () {
+	var selected_country = $('#stations-filter .selectpicker').selectpicker('val');
+	console.log(selected_country);
 });
 
 
 
-// Stations Altitude control
-var station_altitide = [-81, 3512];
-
-$('#station_slider_altitude').bootstrapSlider({
-	min: station_altitide[0],
-	max: station_altitide[1],
-	value: station_altitide
-});
-$('#station_slider_altitude').on("slide", function (e) {
-	station_altitide = e.value;
-});
-$("#station_altitude_min").text(station_altitide[0]);
-$("#station_altitude_max").text(station_altitide[1]);
 
 
-// Stations Value control
-var station_value = [0, 53];
-$('#station_slider_value').bootstrapSlider({
-	min: station_value[0],
-	max: station_value[1],
-	value: station_value
-});
-$('#station_slider_value').on("slide", function (e) {
-	station_value = e.value;
-});
+// $.getJSON("libs/get_stations_params.php", function (data) {
+// 	getStationsParameters(data);
+// });
 
-$("#station_value_min").text(station_value[0]);
-$("#station_value_max").text(station_value[1]);
+// Stations Country control
+getStationsParameters()
+function getStationsParameters() {
+
+	var data = {"sdate":["2017-03-03","2017-03-04","2017-03-06","2017-03-07","2017-03-08","2017-03-09","2017-03-11","2017-03-12","2017-03-13","2017-03-14","2017-03-15","2017-03-16","2017-03-17","2017-03-20","2017-03-21","2017-03-22","2017-03-23","2017-03-24","2017-03-26","2017-03-27","2017-03-28","2017-03-29","2017-03-30","2017-03-31","2017-04-01","2017-04-02","2017-04-03","2017-04-04","2017-04-05","2017-04-06","2017-04-07","2017-04-08","2017-04-09","2017-04-10","2017-04-11","2017-04-12","2017-04-13","2017-04-14","2017-04-15","2017-04-16","2017-04-17","2017-04-18","2017-04-19","2017-04-20","2017-04-21","2017-04-22","2017-04-23","2017-04-24","2017-04-25","2017-04-26","2017-04-27","2017-04-28","2017-04-29","2017-04-30","2017-05-01","2017-05-02"],"country":["Austria","Belgium","Bulgaria","Croatia","Cyprus","Czech Republic","Denmark","Estonia","Finland","France","Germany","Greece","Greenland","Hungary","Iceland","Ireland","Italy","Latvia","Lithuania","Luxembourg","Macedonia","Malta","Netherlands","Norway","Poland","Portugal","Romania","Russia","Serbia","Slovakia","Slovenia","Spain","Sweden","Switzerland","Turkey","Ukraine","United Kingdom"],"altitude":{"min":"-80.8","max":"3511.1"},"value":{"min":"0","max":"48"}};
+
+	// Stations Country control
+	var station_country = data['country'];
+
+	console.log(station_country)
+
+
+	station_country.forEach(function (item, i, arr) {
+		$('#stations-filter .selectpicker').append($('<option>', {
+			//value: item,
+			text: item
+		}));
+	});
+
+
+	// Stations Date control
+	var station_date_array = data['sdate'];
+	$('#station-date').datepicker({
+		format: 'yyyy-mm-dd',
+		todayHighlight: true,
+		autoclose: true,
+		beforeShowDay: function (date) { // disable dates if they not available in database
+			var datestring = date.getFullYear() + "-" + ("0" + (date.getMonth() + 1)).slice(-2) + "-" + ("0" + date.getDate()).slice(-2);
+			if ($.inArray(datestring, station_date_array) === -1) {
+				return {
+					enabled: false
+				}
+			};
+			return;
+		}
+	}).on('changeDate', function (e) {
+		var datestring = e.date.getFullYear() + "-" + ("0" + (e.date.getMonth() + 1)).slice(-2) + "-" + ("0" + e.date.getDate()).slice(-2);
+		console.log(datestring);
+	});
+	$("#station-date").datepicker("update", station_date_array.slice(-1)[0]); // set default date 
+
+
+
+	// Stations Altitude control
+	var station_altitide = data['altitude'];
+	var station_altitide_min = Math.ceil(station_altitide['min']);
+	var station_altitide_max = Math.ceil(station_altitide['max']);
+
+	$('#station_slider_altitude').bootstrapSlider({
+		min: station_altitide_min,
+		max: station_altitide_max,
+		value: [station_altitide_min, station_altitide_max]
+	});
+	$('#station_slider_altitude').on("slide", function (e) {
+		station_altitide = e.value;
+		station_altitide_min = station_altitide[0];
+		station_altitide_max = station_altitide[1];
+
+		console.log(station_altitide_min);
+		console.log(station_altitide_max);
+	});
+
+	$("#station_altitude_min").text(station_altitide_min);
+	$("#station_altitude_max").text(station_altitide_max);
+
+
+	// Stations Value control
+	var station_value = data['value'];
+
+	var station_value_min = Math.ceil(station_value['min']);
+	var station_value_max = Math.ceil(station_value['max']);
+
+	$('#station_slider_value').bootstrapSlider({
+		min: station_value_min,
+		max: station_value_max,
+		value: [station_value_min, station_value_max]
+	});
+	$('#station_slider_value').on("slide", function (e) {
+		station_value = e.value;
+		station_value_min = station_value[0];
+		station_value_max = station_value[1];
+
+		console.log(station_value_min);
+		console.log(station_value_max);
+	});
+
+	$("#station_value_min").text(station_value_min);
+	$("#station_value_max").text(station_value_max);
+};
+
+
+
+
+
+
+
+
+
+
 
 
 // layer (stations and zones) info control
@@ -1158,6 +1234,7 @@ $(document).ready(function () {
 		collapsible: true,
 		heightStyle: "content"
 	});
+
 
 });
 
