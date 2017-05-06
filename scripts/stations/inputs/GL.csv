@@ -1,10 +1,4 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-<<<<<<< HEAD
-04/05/17 15:00;GL0153;Eurdep;air;68.71;-52.86;1.0;Greenland;;;Aasiaat;Aasiaat SARA0153;6.3;6.4
-04/05/17 15:00;GL0159;Eurdep;air;64.18;-51.73;0.0;Greenland;0.0;0.0;0;Nuuk SARA0159;4.9;5.0
-04/05/17 15:00;GL0171;Eurdep;air;60.75;-46.04;281.2;Greenland;Kujalleq;;;Qaqortoq SARA0171;11.9;12.1
-=======
-30/04/17 11:00;GL0153;Eurdep;air;68.71;-52.86;1.0;Greenland;;;Aasiaat;Aasiaat SARA0153;6.3;6.4
-30/04/17 11:00;GL0159;Eurdep;air;64.18;-51.73;0.0;Greenland;0.0;0.0;0;Nuuk SARA0159;4.8;5.0
-30/04/17 11:00;GL0171;Eurdep;air;60.75;-46.04;281.2;Greenland;Kujalleq;;;Qaqortoq SARA0171;10.6;10.7
->>>>>>> 80fa5d7de33fe4e91d71ec31a51e2d846e65dd47
+06/05/17 17:00;GL0153;Eurdep;air;68.71;-52.86;1.0;Greenland;;;Aasiaat;Aasiaat SARA0153;6.4;6.5
+06/05/17 17:00;GL0159;Eurdep;air;64.18;-51.73;0.0;Greenland;0.0;0.0;0;Nuuk SARA0159;5.1;5.2
+06/05/17 17:00;GL0171;Eurdep;air;60.75;-46.04;281.2;Greenland;Kujalleq;;;Qaqortoq SARA0171;12.8;12.0
