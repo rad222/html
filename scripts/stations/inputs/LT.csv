@@ -1,12 +1,12 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-07/05/17 17:00;LT20365;Eurdep;air;54.69;25.28;94.1;Lithuania;Provincia de Vilna;Vilnius city municipality;Vilna;Vilnius_20365;4.3;4.6
-07/05/17 17:00;LT20412;Eurdep;air;55.49;25.62;113.5;Lithuania;Provincia de Utena;Utena District Municipality;Utena;Utena_20412;4.3;4.6
-07/05/17 17:00;LT0248;Eurdep;air;55.94;23.31;118.5;Lithuania;Provincia de Šiauliai;Šiaulių miesto savivaldybė;Šiauliai;Siauliai_0248;4.7;4.8
-07/05/17 17:00;LT20394;Eurdep;air;55.69;26.46;137.0;Lithuania;Provincia de Utena;Zarasai District Municipality;;Turmantas_20394;4.2;4.4
-07/05/17 17:00;LT20414;Eurdep;air;55.46;26.0;0.0;Lithuania;0;0;0;Rugsteliskis_20414;4.4;4.6
-07/05/17 17:00;LT0249;Eurdep;air;54.9;23.99;54.1;Lithuania;Provincia de Kaunas;Ciudad Municipio de Kaunas;Kaunas;Kaunas_0249;3.6;3.8
-07/05/17 17:00;LT20366;Eurdep;air;54.4;24.04;94.2;Lithuania;Provincia de Alytus;Alytaus miesto savivaldybė;Alytus;Alytus_20366;4.1;4.3
-07/05/17 17:00;LT20461;Eurdep;air;55.29;21.38;0.8;Lithuania;Óblast de Kaliningrado;Slavsky District;;Rusne_20461;3.9;4.0
-07/05/17 17:00;LT20465;Eurdep;air;54.84;25.74;119.2;Lithuania;Provincia de Vilna;Vilnius District Municipality;;Buivydziai_20465;4.3;4.5
-07/05/17 17:00;LT20466;Eurdep;air;55.07;22.59;5.0;Lithuania;Provincia de Tauragė;Jurbarkas District Municipality;Smalininkai;Smalininkai_20466;4.0;4.1
-07/05/17 17:00;LT20460;Eurdep;air;55.66;26.58;141.9;Lithuania;Provincia de Utena;Zarasai District Municipality;Tilžė;Raipole_20460;4.3;4.4
+08/05/17 04:00;LT20365;Eurdep;air;54.69;25.28;94.1;Lithuania;Provincia de Vilna;Vilnius city municipality;Vilna;Vilnius_20365;4.2;4.6
+08/05/17 04:00;LT20412;Eurdep;air;55.49;25.62;113.5;Lithuania;Provincia de Utena;Utena District Municipality;Utena;Utena_20412;4.2;4.5
+08/05/17 04:00;LT0248;Eurdep;air;55.94;23.31;118.5;Lithuania;Provincia de Šiauliai;Šiaulių miesto savivaldybė;Šiauliai;Siauliai_0248;4.7;4.8
+08/05/17 04:00;LT20394;Eurdep;air;55.69;26.46;137.0;Lithuania;Provincia de Utena;Zarasai District Municipality;;Turmantas_20394;4.1;4.3
+08/05/17 04:00;LT20414;Eurdep;air;55.46;26.0;0.0;Lithuania;0;0;0;Rugsteliskis_20414;4.4;4.6
+08/05/17 04:00;LT0249;Eurdep;air;54.9;23.99;54.1;Lithuania;Provincia de Kaunas;Ciudad Municipio de Kaunas;Kaunas;Kaunas_0249;3.5;3.8
+08/05/17 04:00;LT20366;Eurdep;air;54.4;24.04;94.2;Lithuania;Provincia de Alytus;Alytaus miesto savivaldybė;Alytus;Alytus_20366;4.0;4.3
+08/05/17 04:00;LT20461;Eurdep;air;55.29;21.38;0.8;Lithuania;Óblast de Kaliningrado;Slavsky District;;Rusne_20461;3.9;4.0
+08/05/17 04:00;LT20465;Eurdep;air;54.84;25.74;119.2;Lithuania;Provincia de Vilna;Vilnius District Municipality;;Buivydziai_20465;4.0;4.5
+08/05/17 04:00;LT20466;Eurdep;air;55.07;22.59;5.0;Lithuania;Provincia de Tauragė;Jurbarkas District Municipality;Smalininkai;Smalininkai_20466;4.0;4.1
+08/05/17 04:00;LT20460;Eurdep;air;55.66;26.58;141.9;Lithuania;Provincia de Utena;Zarasai District Municipality;Tilžė;Raipole_20460;4.3;4.3
