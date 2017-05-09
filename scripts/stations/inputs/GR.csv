@@ -1,23 +1,23 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-08/05/17 14:00;GR_Alex;Eurdep;air;40.86;25.95;0.0;Greece;0;0;0.0;ALEXANDROUPOLIS;7.2;7.5
+08/05/17 23:00;GR_Alex;Eurdep;air;40.86;25.95;0.0;Greece;0;0;0.0;ALEXANDROUPOLIS;7.2;7.5
 03/05/17 22:00;GR_Argos;Eurdep;air;37.63;22.76;0.0;Greece;0;0;0.0;ARGOS;0.0;0.0
-08/05/17 15:00;GR_Dromos;Eurdep;air;38.0;23.82;0.0;Greece;0;0;0;DEMOKRITOS;6.0;6.0
-08/05/17 15:00;GR_Hellini;Eurdep;air;37.88;23.73;0.0;Greece;0;0;0.0;HELLINIKON;5.3;5.4
-08/05/17 15:00;GR_Ioannin;Eurdep;air;39.62;20.85;479.0;Greece;Ipiros Ditiki Makedonia;Epiro;;IOANNINA;7.9;8.0
-08/05/17 15:00;GR_Kavala;Eurdep;air;40.92;24.62;4.0;Greece;Makedonia Thraki;Macedonia Oriental y Tracia;;KAVALA;9.9;10.0
-08/05/17 15:00;GR_Kefalon;Eurdep;air;38.12;20.5;14.0;Greece;Peloponnisos Dytiki Ellada ke Ionio;Islas Jónicas;;KEFALONIA;5.3;5.4
-08/05/17 14:00;GR_Kerkyra;Eurdep;air;39.61;19.91;3.4;Greece;Peloponnisos Dytiki Ellada ke Ionio;Islas Jónicas;;CORFU;7.5;7.6
-07/05/17 18:00;GR_Komotin;Eurdep;air;41.13;25.41;53.9;Greece;Makedonia Thraki;Macedonia Oriental y Tracia;;KOMOTINI;8.6;8.6
-08/05/17 15:00;GR_Lamia;Eurdep;air;38.87;22.47;3.1;Greece;Thessalia Sterea Ellada;Grecia Central;;LAMIA;5.6;7.1
-08/05/17 14:00;GR_Larissa;Eurdep;air;39.65;22.46;70.7;Greece;Thessalia Sterea Ellada;Tesalia;;LARISSA;7.0;7.4
-08/05/17 14:00;GR_Lesvos;Eurdep;air;39.05;26.6;22.7;Greece;Egeo;Northern Aegean;;LESVOS;7.1;7.4
-08/05/17 15:00;GR_Limnos;Eurdep;air;39.92;25.25;4.3;Greece;Egeo;Northern Aegean;;LIMNOS;9.3;9.4
+08/05/17 23:00;GR_Dromos;Eurdep;air;38.0;23.82;0.0;Greece;0;0;0;DEMOKRITOS;6.0;6.1
+08/05/17 23:00;GR_Hellini;Eurdep;air;37.88;23.73;0.0;Greece;0;0;0.0;HELLINIKON;5.3;5.0
+08/05/17 23:00;GR_Ioannin;Eurdep;air;39.62;20.85;479.0;Greece;Ipiros Ditiki Makedonia;Epiro;;IOANNINA;7.9;8.3
+08/05/17 23:00;GR_Kavala;Eurdep;air;40.92;24.62;4.0;Greece;Makedonia Thraki;Macedonia Oriental y Tracia;;KAVALA;9.8;10.0
+08/05/17 23:00;GR_Kefalon;Eurdep;air;38.12;20.5;14.0;Greece;Peloponnisos Dytiki Ellada ke Ionio;Islas Jónicas;;KEFALONIA;5.3;5.4
+08/05/17 23:00;GR_Kerkyra;Eurdep;air;39.61;19.91;3.4;Greece;Peloponnisos Dytiki Ellada ke Ionio;Islas Jónicas;;CORFU;7.5;7.6
+06/05/17 22:00;GR_Komotin;Eurdep;air;41.13;25.41;53.9;Greece;Makedonia Thraki;Macedonia Oriental y Tracia;;KOMOTINI;0.0;0.0
+08/05/17 23:00;GR_Lamia;Eurdep;air;38.87;22.47;3.1;Greece;Thessalia Sterea Ellada;Grecia Central;;LAMIA;5.7;7.2
+08/05/17 22:00;GR_Larissa;Eurdep;air;39.65;22.46;70.7;Greece;Thessalia Sterea Ellada;Tesalia;;LARISSA;7.2;7.3
+08/05/17 22:00;GR_Lesvos;Eurdep;air;39.05;26.6;22.7;Greece;Egeo;Northern Aegean;;LESVOS;7.1;7.3
+08/05/17 23:00;GR_Limnos;Eurdep;air;39.92;25.25;4.3;Greece;Egeo;Northern Aegean;;LIMNOS;9.3;9.4
 11/04/17 22:00;GR_Patrai;Eurdep;air;38.15;21.42;8.1;Greece;Peloponnisos Dytiki Ellada ke Ionio;Grecia Occidental;;PATRA;0.0;0.0
-08/05/17 15:00;GR_Ptolema;Eurdep;air;40.48;21.73;624.1;Greece;Ipiros Ditiki Makedonia;Macedonia Occidental;;PTOLEMAIS;9.6;9.9
-08/05/17 14:00;GR_Rodos;Eurdep;air;36.4;28.09;41.4;Greece;Egeo;Egeo Meridional;;RODOS;5.2;5.2
-08/05/17 14:00;GR_Salamis;Eurdep;air;37.99;23.54;0.0;Greece;0;0;0.0;SALAMIS;4.0;4.0
-08/05/17 14:00;GR_Salonik;Eurdep;air;40.63;22.96;40.0;Greece;Makedonia Thraki;Macedonia Central;Salónica;SALONICA;6.7;6.8
-08/05/17 15:00;GR_Samos;Eurdep;air;37.75;26.97;0.0;Greece;0;0;0.0;SAMOS;5.5;5.0
-08/05/17 14:00;GR_Serrai;Eurdep;air;41.08;23.53;39.3;Greece;Makedonia Thraki;Macedonia Central;Serres;SERRAI;11.0;12.0
-08/05/17 14:00;GR_Souda;Eurdep;air;35.5;24.14;0.0;Greece;0;0;0.0;SOUDA;4.7;4.8
-08/05/17 15:00;GR_Volos;Eurdep;air;39.38;22.82;123.3;Greece;Thessalia Sterea Ellada;Tesalia;;VOLOS;4.6;4.8
+08/05/17 23:00;GR_Ptolema;Eurdep;air;40.48;21.73;624.1;Greece;Ipiros Ditiki Makedonia;Macedonia Occidental;;PTOLEMAIS;9.6;9.8
+08/05/17 22:00;GR_Rodos;Eurdep;air;36.4;28.09;41.4;Greece;Egeo;Egeo Meridional;;RODOS;5.1;5.2
+08/05/17 18:00;GR_Salamis;Eurdep;air;37.99;23.54;0.0;Greece;0;0;0.0;SALAMIS;4.0;4.0
+08/05/17 22:00;GR_Salonik;Eurdep;air;40.63;22.96;40.0;Greece;Makedonia Thraki;Macedonia Central;Salónica;SALONICA;6.7;6.7
+08/05/17 23:00;GR_Samos;Eurdep;air;37.75;26.97;0.0;Greece;0;0;0.0;SAMOS;5.5;5.0
+08/05/17 22:00;GR_Serrai;Eurdep;air;41.08;23.53;39.3;Greece;Makedonia Thraki;Macedonia Central;Serres;SERRAI;11.4;11.0
+08/05/17 22:00;GR_Souda;Eurdep;air;35.5;24.14;0.0;Greece;0;0;0.0;SOUDA;4.0;4.8
+08/05/17 23:00;GR_Volos;Eurdep;air;39.38;22.82;123.3;Greece;Thessalia Sterea Ellada;Tesalia;;VOLOS;4.6;4.8
