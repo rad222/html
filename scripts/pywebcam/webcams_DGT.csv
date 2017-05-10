@@ -84,7 +84,6 @@ GUID_CAM_90^-0.37048^42.53477^http://infocar.dgt.es/etraffic/data/camaras/90.jpg
 GUID_CAM_91^0.13611^42.02139^http://infocar.dgt.es/etraffic/data/camaras/91.jpg
 GUID_CAM_92^-0.91272^41.62273^http://infocar.dgt.es/etraffic/data/camaras/92.jpg
 GUID_CAM_93^-0.93992^41.59595^http://infocar.dgt.es/etraffic/data/camaras/93.jpg
-GUID_CAM_96^-0.46426943^39.829266^http://infocar.dgt.es/etraffic/data/camaras/96.jpg
 GUID_CAM_97^-2.1557388^39.487755^http://infocar.dgt.es/etraffic/data/camaras/97.jpg
 GUID_CAM_98^-1.9012778^39.53493^http://infocar.dgt.es/etraffic/data/camaras/98.jpg
 GUID_CAM_99^-1.6740917^39.50993^http://infocar.dgt.es/etraffic/data/camaras/99.jpg
@@ -114,11 +113,11 @@ GUID_CAM_132^-0.6439389^38.94301^http://infocar.dgt.es/etraffic/data/camaras/132
 GUID_CAM_133^-0.6008889^38.97912^http://infocar.dgt.es/etraffic/data/camaras/133.jpg
 GUID_CAM_134^-0.58644724^38.988956^http://infocar.dgt.es/etraffic/data/camaras/134.jpg
 GUID_CAM_139^-0.45343888^39.53984^http://infocar.dgt.es/etraffic/data/camaras/139.jpg
-GUID_CAM_140^-0.47518888^39.521084^http://infocar.dgt.es/etraffic/data/camaras/140.jpg
 GUID_CAM_141^-0.5093222^39.50829^http://infocar.dgt.es/etraffic/data/camaras/141.jpg
 GUID_CAM_142^-0.54955554^39.472397^http://infocar.dgt.es/etraffic/data/camaras/142.jpg
 GUID_CAM_143^-0.53665^39.43598^http://infocar.dgt.es/etraffic/data/camaras/143.jpg
 GUID_CAM_145^-0.47769445^39.38685^http://infocar.dgt.es/etraffic/data/camaras/145.jpg
+GUID_CAM_146^-0.45416668^39.37122^http://infocar.dgt.es/etraffic/data/camaras/146.jpg
 GUID_CAM_148^-0.7242472^38.28465^http://infocar.dgt.es/etraffic/data/camaras/148.jpg
 GUID_CAM_149^-0.7628861^38.254494^http://infocar.dgt.es/etraffic/data/camaras/149.jpg
 GUID_CAM_150^-0.8185028^38.21669^http://infocar.dgt.es/etraffic/data/camaras/150.jpg
@@ -219,6 +218,7 @@ GUID_CAM_265^-4.39781^37.001^http://infocar.dgt.es/etraffic/data/camaras/265.jpg
 GUID_CAM_266^-4.27335^37.1402^http://infocar.dgt.es/etraffic/data/camaras/266.jpg
 GUID_CAM_267^-4.28035^37.1376^http://infocar.dgt.es/etraffic/data/camaras/267.jpg
 GUID_CAM_268^-4.59937^37.0703^http://infocar.dgt.es/etraffic/data/camaras/268.jpg
+GUID_CAM_269^-4.56536^37.0717^http://infocar.dgt.es/etraffic/data/camaras/269.jpg
 GUID_CAM_270^-4.45081^37.0833^http://infocar.dgt.es/etraffic/data/camaras/270.jpg
 GUID_CAM_271^-4.39191^37.1138^http://infocar.dgt.es/etraffic/data/camaras/271.jpg
 GUID_CAM_272^-4.36817^37.126^http://infocar.dgt.es/etraffic/data/camaras/272.jpg
@@ -228,6 +228,7 @@ GUID_CAM_277^-4.5983^36.5873^http://infocar.dgt.es/etraffic/data/camaras/277.jpg
 GUID_CAM_278^-4.59027^36.587^http://infocar.dgt.es/etraffic/data/camaras/278.jpg
 GUID_CAM_279^-4.46974^36.6808^http://infocar.dgt.es/etraffic/data/camaras/279.jpg
 GUID_CAM_280^-4.47874^36.6709^http://infocar.dgt.es/etraffic/data/camaras/280.jpg
+GUID_CAM_281^-4.48609^36.6575^http://infocar.dgt.es/etraffic/data/camaras/281.jpg
 GUID_CAM_282^-4.61381^36.5587^http://infocar.dgt.es/etraffic/data/camaras/282.jpg
 GUID_CAM_283^-4.33651^36.7146^http://infocar.dgt.es/etraffic/data/camaras/283.jpg
 GUID_CAM_327^-1.8183777^38.96896^http://infocar.dgt.es/etraffic/data/camaras/327.jpg
@@ -355,6 +356,7 @@ GUID_CAM_598^-3.651408^40.521564^http://infocar.dgt.es/etraffic/data/camaras/598
 GUID_CAM_600^-3.6568494^40.510098^http://infocar.dgt.es/etraffic/data/camaras/600.jpg
 GUID_CAM_601^-3.660181^40.509018^http://infocar.dgt.es/etraffic/data/camaras/601.jpg
 GUID_CAM_602^-3.607714^40.546375^http://infocar.dgt.es/etraffic/data/camaras/602.jpg
+GUID_CAM_603^-3.584875^40.621964^http://infocar.dgt.es/etraffic/data/camaras/603.jpg
 GUID_CAM_604^-3.641146^40.5323^http://infocar.dgt.es/etraffic/data/camaras/604.jpg
 GUID_CAM_605^-3.618008^40.532677^http://infocar.dgt.es/etraffic/data/camaras/605.jpg
 GUID_CAM_606^-3.583794^40.58199^http://infocar.dgt.es/etraffic/data/camaras/606.jpg
@@ -640,6 +642,7 @@ GUID_CAM_900^-3.875036^40.503853^http://infocar.dgt.es/etraffic/data/camaras/900
 GUID_CAM_901^-3.979142^40.612747^http://infocar.dgt.es/etraffic/data/camaras/901.jpg
 GUID_CAM_902^-4.563675^40.864677^http://infocar.dgt.es/etraffic/data/camaras/902.jpg
 GUID_CAM_905^-4.436318^40.786606^http://infocar.dgt.es/etraffic/data/camaras/905.jpg
+GUID_CAM_906^-4.574978^40.902878^http://infocar.dgt.es/etraffic/data/camaras/906.jpg
 GUID_CAM_907^-4.509966^40.821842^http://infocar.dgt.es/etraffic/data/camaras/907.jpg
 GUID_CAM_908^-4.593792^40.948956^http://infocar.dgt.es/etraffic/data/camaras/908.jpg
 GUID_CAM_910^-4.213003^40.737957^http://infocar.dgt.es/etraffic/data/camaras/910.jpg
@@ -804,6 +807,7 @@ GUID_CAM_1126^-5.0869^41.4532^http://infocar.dgt.es/etraffic/data/camaras/1126.j
 GUID_CAM_1137^-5.6276^40.9998^http://infocar.dgt.es/etraffic/data/camaras/1137.jpg
 GUID_CAM_1138^-3.954906^40.589123^http://infocar.dgt.es/etraffic/data/camaras/1138.jpg
 GUID_CAM_1139^-4.140521^40.709778^http://infocar.dgt.es/etraffic/data/camaras/1139.jpg
+GUID_CAM_1140^-4.421458^40.782375^http://infocar.dgt.es/etraffic/data/camaras/1140.jpg
 GUID_CAM_1141^-5.7986^43.4086^http://infocar.dgt.es/etraffic/data/camaras/1141.jpg
 GUID_CAM_1142^-5.7888^43.4814^http://infocar.dgt.es/etraffic/data/camaras/1142.jpg
 GUID_CAM_1143^-5.7835^43.4999^http://infocar.dgt.es/etraffic/data/camaras/1143.jpg
@@ -978,6 +982,7 @@ GUID_CAM_1400^2.71383^39.5415^http://infocar.dgt.es/etraffic/data/camaras/1400.j
 GUID_CAM_1401^2.73533^39.534^http://infocar.dgt.es/etraffic/data/camaras/1401.jpg
 GUID_CAM_1402^2.75467^39.52483^http://infocar.dgt.es/etraffic/data/camaras/1402.jpg
 GUID_CAM_1403^2.7635^39.516^http://infocar.dgt.es/etraffic/data/camaras/1403.jpg
+GUID_CAM_1404^-4.353358^36.732468^http://infocar.dgt.es/etraffic/data/camaras/1404.jpg
 GUID_CAM_1405^-4.309614^36.72431^http://infocar.dgt.es/etraffic/data/camaras/1405.jpg
 GUID_CAM_1406^-4.284744^36.72501^http://infocar.dgt.es/etraffic/data/camaras/1406.jpg
 GUID_CAM_1407^-4.275269^36.72505^http://infocar.dgt.es/etraffic/data/camaras/1407.jpg
@@ -1017,7 +1022,6 @@ GUID_CAM_1468^-0.3891361^39.7665^http://infocar.dgt.es/etraffic/data/camaras/146
 GUID_CAM_1470^-0.32966667^39.685677^http://infocar.dgt.es/etraffic/data/camaras/1470.jpg
 GUID_CAM_1471^-0.30873612^39.535408^http://infocar.dgt.es/etraffic/data/camaras/1471.jpg
 GUID_CAM_1472^-0.30032223^39.62945^http://infocar.dgt.es/etraffic/data/camaras/1472.jpg
-GUID_CAM_1473^-0.41580278^39.458275^http://infocar.dgt.es/etraffic/data/camaras/1473.jpg
 GUID_CAM_1475^-0.43031943^39.34974^http://infocar.dgt.es/etraffic/data/camaras/1475.jpg
 GUID_CAM_1476^-0.46203333^39.25819^http://infocar.dgt.es/etraffic/data/camaras/1476.jpg
 GUID_CAM_1477^-0.74478334^38.882988^http://infocar.dgt.es/etraffic/data/camaras/1477.jpg
