@@ -1,259 +1,259 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-14/05/17 03:00;FI0051;Eurdep;air;60.18;24.95;2.6;Finland;Uusimaa;Helsinki;Helsinki;Kallio;15.6;15.0
-14/05/17 03:00;FI0052;Eurdep;air;60.22;25.18;4.9;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Vuosaaren Satama;10.7;11.0
-14/05/17 03:00;FI0053;Eurdep;air;60.15;24.99;0.0;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Suomenlinna;13.7;14.0
-14/05/17 03:00;FI0054;Eurdep;air;60.21;24.74;27.2;Finland;Uusimaa;Helsinki;;ESPOO;11.2;11.0
-14/05/17 03:00;FI0055;Eurdep;air;59.97;24.39;0.0;Finland;Uusimaa;Helsinki;;PORKKALA;14.4;14.0
-14/05/17 03:00;FI0056;Eurdep;air;60.17;24.94;4.8;Finland;Uusimaa;Helsinki;Helsinki;HELSINKI TOEOELOE;12.2;12.0
-14/05/17 03:00;FI0057;Eurdep;air;60.13;24.51;8.9;Finland;Uusimaa;Helsinki;;KIRKKONUMMI;17.1;17.0
-14/05/17 03:00;FI0058;Eurdep;air;60.38;25.26;23.0;Finland;Uusimaa;Helsinki;;SIPOO;14.4;15.0
-14/05/17 03:00;FI0059;Eurdep;air;60.2;24.96;1.7;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Kumpula;13.3;13.0
-14/05/17 03:00;FI0060;Eurdep;air;60.31;24.96;47.8;Finland;Uusimaa;Helsinki;Vantaa;VANTAA;13.7;13.0
-14/05/17 03:00;FI0152;Eurdep;air;60.39;25.11;43.6;Finland;Uusimaa;Helsinki;;KERAVA;10.7;11.0
-14/05/17 03:00;FI0155;Eurdep;air;60.46;24.81;68.9;Finland;Uusimaa;Helsinki;Nurmijärvi;Nurmijaervi;12.5;12.0
-14/05/17 03:00;FI0652;Eurdep;air;60.46;26.22;10.6;Finland;Uusimaa;Loviisa;Loviisa;LOVIISA;21.4;22.0
-14/05/17 03:00;FI0654;Eurdep;air;60.52;26.47;18.0;Finland;Uusimaa;Loviisa;;RUOTSINPYHTAEAE;20.1;20.0
-14/05/17 03:00;FI0655;Eurdep;air;60.63;26.2;26.0;Finland;Uusimaa;Loviisa;;LAPINJAERVI;16.3;16.0
-14/05/17 03:00;FI0656;Eurdep;air;60.28;26.45;0.0;Finland;Uusimaa;Loviisa;;ORRENGRUND;12.3;12.0
-14/05/17 03:00;FI1052;Eurdep;air;61.2;26.04;101.0;Finland;Päijänne Tavastia;Lahti;Heinola;HEINOLA;12.2;12.0
-14/05/17 03:00;FI1054;Eurdep;air;61.51;25.69;85.3;Finland;Päijänne Tavastia;Lahti;;SYSMAE;11.5;11.0
-14/05/17 03:00;FI1152;Eurdep;air;59.98;23.47;6.9;Finland;Uusimaa;Raasepori;;TAMMISAARI;11.0;11.0
-14/05/17 03:00;FI1153;Eurdep;air;59.84;22.99;17.0;Finland;Uusimaa;Raasepori;Hanko;HANKO;13.0;13.0
-14/05/17 03:00;FI1154;Eurdep;air;60.08;23.7;37.1;Finland;Uusimaa;Raasepori;;KARJAA;12.6;12.0
-14/05/17 03:00;FI1156;Eurdep;air;60.05;24.0;0.0;Finland;0;0;0;INKOO;13.2;13.0
-14/05/17 03:00;FI1157;Eurdep;air;59.83;23.56;0.0;Finland;Uusimaa;Raasepori;;JUSSAROE;14.3;14.0
-14/05/17 03:00;FI1252;Eurdep;air;60.24;24.06;97.6;Finland;Uusimaa;Helsinki;Lohja;LOHJA;10.4;10.0
-14/05/17 03:00;FI1255;Eurdep;air;60.33;24.32;65.4;Finland;Uusimaa;Helsinki;;NUMMELA;14.4;14.0
-14/05/17 03:00;FI1256;Eurdep;air;60.15;24.67;15.8;Finland;Uusimaa;Helsinki;Espoo;ESPOONLAHTI;14.2;14.0
-14/05/17 03:00;FI1257;Eurdep;air;60.53;24.24;71.2;Finland;Uusimaa;Helsinki;;KARKKILA;12.9;13.0
-14/05/17 03:00;FI1452;Eurdep;air;60.73;24.77;91.9;Finland;Tavastia Propia;Riihimäki;Riihimäki;RIIHIMAEKI;10.2;10.0
-14/05/17 03:00;FI1552;Eurdep;air;60.39;25.61;23.7;Finland;Uusimaa;Porvoo;Porvoo;PORVOO;13.4;13.0
-14/05/17 03:00;FI1555;Eurdep;air;60.64;25.32;73.8;Finland;Uusimaa;Helsinki;;MAENTSAELAE;13.3;13.0
-14/05/17 03:00;FI1652;Eurdep;air;60.82;23.61;106.4;Finland;Tavastia Propia;Forssa;Forssa;FORSSA;11.9;12.0
-14/05/17 03:00;FI1751;Eurdep;air;61.0;24.49;0.0;Finland;0;0;0;Haemeenlinna;12.6;12.0
-14/05/17 03:00;FI1754;Eurdep;air;61.07;25.01;135.4;Finland;Tavastia Propia;Hämeenlinna;Hämeenlinna;LAMMI;11.5;11.0
-14/05/17 03:00;FI1755;Eurdep;air;61.17;24.57;96.0;Finland;Tavastia Propia;Hämeenlinna;Hämeenlinna;HAUHO;13.6;13.0
-14/05/17 03:00;FI1756;Eurdep;air;60.89;24.3;106.9;Finland;Tavastia Propia;Hämeenlinna;Hämeenlinna;RENKO;12.0;12.0
-14/05/17 03:00;FI1854;Eurdep;air;60.87;25.27;93.7;Finland;Päijänne Tavastia;Lahti;;KAERKOELAE;15.1;15.0
-14/05/17 03:00;FI1855;Eurdep;air;60.8;25.72;102.6;Finland;Päijänne Tavastia;Lahti;;ORIMATTILA;13.1;13.0
-14/05/17 03:00;FI1856;Eurdep;air;60.75;26.05;77.7;Finland;Päijänne Tavastia;Lahti;;ARTJAERVI;14.0;14.0
-14/05/17 03:00;FI1857;Eurdep;air;61.35;25.27;85.5;Finland;Päijänne Tavastia;Lahti;;PADASJOKI;14.8;15.0
-14/05/17 03:00;FI1858;Eurdep;air;60.93;25.97;121.9;Finland;Päijänne Tavastia;Lahti;Lahti;NASTOLA;16.0;16.0
-14/05/17 03:00;FI2151;Eurdep;air;60.45;22.25;10.0;Finland;Finlandia del Sudoeste;Turku;Turku;Turku;15.9;16.0
-14/05/17 03:00;FI2154;Eurdep;air;60.44;22.26;18.8;Finland;Finlandia del Sudoeste;Turku;Turku;Turku Vaehaeheikkilae;10.1;10.0
-14/05/17 03:00;FI2158;Eurdep;air;60.59;22.9;69.2;Finland;Finlandia del Sudoeste;Loimaa;;MARTTILA;14.8;15.0
-14/05/17 03:00;FI2160;Eurdep;air;60.87;22.41;51.7;Finland;Finlandia del Sudoeste;Loimaa;;YLAENE;10.5;10.0
-14/05/17 03:00;FI2252;Eurdep;air;60.8;21.41;5.6;Finland;Finlandia del Sudoeste;Vakka-Suomi;Uusikaupunki;UUSIKAUPUNKI;13.1;13.0
-14/05/17 03:00;FI2253;Eurdep;air;60.88;21.7;27.5;Finland;Finlandia del Sudoeste;Vakka-Suomi;;LAITILA;12.0;12.0
-14/05/17 03:00;FI2255;Eurdep;air;60.55;21.36;11.5;Finland;Finlandia del Sudoeste;Vakka-Suomi;;KUSTAVI;18.3;18.0
-14/05/17 03:00;FI2352;Eurdep;air;60.85;23.06;86.2;Finland;Finlandia del Sudoeste;Loimaa;Loimaa;LOIMAA;15.3;16.0
-14/05/17 03:00;FI2452;Eurdep;air;60.39;23.13;3.3;Finland;Finlandia del Sudoeste;Salo;Salo;SALO;11.5;11.0
-14/05/17 03:00;FI2652;Eurdep;air;60.3;22.31;3.1;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;PARAINEN;11.1;11.0
-14/05/17 03:00;FI2653;Eurdep;air;60.19;21.9;33.9;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;NAUVO;13.8;14.0
-14/05/17 03:00;FI2654;Eurdep;air;60.23;21.38;6.2;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;HOUTSKARI;14.7;14.0
-14/05/17 03:00;FI2655;Eurdep;air;60.07;22.49;14.9;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;DRAGSFJAERD;13.6;13.0
-14/05/17 03:00;FI2657;Eurdep;air;60.16;21.56;9.8;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;KORPPOO;14.1;14.0
-14/05/17 03:00;FI2851;Eurdep;air;60.1;19.94;11.3;Finland;Mariehamns stad;Mariehamn;Mariehamn;MAARIANHAMINA;17.0;17.0
-14/05/17 03:00;FI2852;Eurdep;air;60.25;20.38;17.4;Finland;Archipelago;Vårdö;;Vårdoe;20.6;20.0
-14/05/17 03:00;FI2853;Eurdep;air;60.21;19.62;12.1;Finland;Countryside;Eckerö;;ECKEROE;12.4;12.0
-14/05/17 03:00;FI3152;Eurdep;air;61.51;23.79;128.8;Finland;Pirkanmaa;Tampere;Tampere;Tampere;15.6;15.0
-14/05/17 03:00;FI3154;Eurdep;air;61.41;24.72;104.0;Finland;Pirkanmaa;Tampere;;RAUTAJAERVI;13.0;13.0
-14/05/17 03:00;FI3156;Eurdep;air;61.68;24.36;114.5;Finland;Pirkanmaa;Tampere;;ORIVESI;12.5;12.0
-14/05/17 03:00;FI3160;Eurdep;air;61.77;23.04;83.0;Finland;Pirkanmaa;Luoteis-Pirkanmaa;;IKAALINEN;12.8;13.0
-14/05/17 03:00;FI3161;Eurdep;air;62.01;23.02;116.9;Finland;Pirkanmaa;Luoteis-Pirkanmaa;;PARKANO;12.6;12.0
-14/05/17 03:00;FI3166;Eurdep;air;61.51;23.04;114.4;Finland;Pirkanmaa;Lounais-Pirkanmaa;;MOUHIJAERVI;11.2;11.0
-14/05/17 03:00;FI3252;Eurdep;air;61.33;22.92;59.1;Finland;Pirkanmaa;Lounais-Pirkanmaa;Sastamala;VAMMALA;13.2;13.0
-14/05/17 03:00;FI3452;Eurdep;air;61.98;24.07;131.8;Finland;Pirkanmaa;Ylä-Pirkanmaa;;RUOVESI;9.7;10.0
-14/05/17 03:00;FI3453;Eurdep;air;61.88;23.73;107.5;Finland;Pirkanmaa;Tampere;;KURU;12.3;12.0
-14/05/17 03:00;FI3454;Eurdep;air;62.23;23.77;159.6;Finland;Pirkanmaa;Ylä-Pirkanmaa;;VIRRAT;10.9;11.0
-14/05/17 03:00;FI3752;Eurdep;air;61.27;24.04;85.0;Finland;Pirkanmaa;Etelä-Pirkanmaa;Valkeakoski;VALKEAKOSKI;12.7;13.0
-14/05/17 03:00;FI3754;Eurdep;air;61.08;23.56;118.6;Finland;Pirkanmaa;Etelä-Pirkanmaa;;URJALA;12.1;12.0
-14/05/17 03:00;FI3852;Eurdep;air;61.12;21.5;14.6;Finland;Satakunta;Rauma;Rauma;RAUMA;12.0;12.0
-14/05/17 03:00;FI3853;Eurdep;air;61.2;21.74;18.1;Finland;Satakunta;Rauma;;EURAJOKI;16.0;16.0
-14/05/17 03:00;FI3854;Eurdep;air;61.1;21.84;30.2;Finland;Satakunta;Rauma;Rauma;LAPPI TL;14.2;14.0
-14/05/17 03:00;FI3855;Eurdep;air;61.28;21.58;1.9;Finland;Satakunta;Rauma;;KUIVALAHTI;15.0;15.0
-14/05/17 03:00;FI3952;Eurdep;air;61.48;21.78;8.1;Finland;Satakunta;Pori;Pori;PORI;9.6;9.8
-14/05/17 03:00;FI3954;Eurdep;air;61.36;21.62;3.6;Finland;Satakunta;Pori;;LUVIA;13.3;13.0
-14/05/17 03:00;FI3955;Eurdep;air;61.31;22.14;38.9;Finland;Satakunta;Pori;;HARJAVALTA;11.6;12.0
-14/05/17 03:00;FI3956;Eurdep;air;61.2;22.71;49.2;Finland;Satakunta;Pori;;HUITTINEN;13.2;13.0
-14/05/17 03:00;FI3957;Eurdep;air;61.46;22.02;13.8;Finland;Satakunta;Pori;;ULVILA;12.2;12.0
-14/05/17 03:00;FI3959;Eurdep;air;61.69;22.01;50.0;Finland;Satakunta;Pori;;POMARKKU;11.9;12.0
-14/05/17 03:00;FI3961;Eurdep;air;61.99;22.26;97.0;Finland;Satakunta;Pohjois-Satakunta;;HONKAJOKI;11.9;12.0
-14/05/17 03:00;FI3962;Eurdep;air;61.05;22.35;47.4;Finland;Satakunta;Rauma;;SAEKYLAE;12.9;13.0
-14/05/17 03:00;FI3963;Eurdep;air;61.86;21.5;7.5;Finland;Satakunta;Pori;;MERIKARVIA;11.3;11.0
-14/05/17 03:00;FI4151;Eurdep;air;62.24;25.72;115.7;Finland;Finlandia Central;Jyväskylä;Jyväskylä;JYVAESKYLAE;12.9;13.0
-14/05/17 03:00;FI4157;Eurdep;air;61.92;26.15;138.2;Finland;Finlandia Central;Joutsa;;LEIVONMAEKI;11.9;12.0
-14/05/17 03:00;FI4161;Eurdep;air;62.43;26.39;116.7;Finland;Finlandia Central;Jyväskylä;;HANKASALMI;10.2;10.0
-14/05/17 03:00;FI4162;Eurdep;air;62.26;25.17;111.0;Finland;Finlandia Central;Jyväskylä;;PETAEJAEVESI;10.9;11.0
-14/05/17 03:00;FI4252;Eurdep;air;61.86;25.18;94.4;Finland;Finlandia Central;Jämsä;Jämsä;JAEMSAE;11.3;11.0
-14/05/17 03:00;FI4255;Eurdep;air;62.41;24.81;143.5;Finland;Finlandia Central;Keuruu;;MULTIA;11.5;11.0
-14/05/17 03:00;FI4452;Eurdep;air;62.71;25.23;131.4;Finland;Finlandia Central;Saarijärvi-Viitasaari;;SAARIJAERVI;10.8;11.0
-14/05/17 03:00;FI4453;Eurdep;air;62.87;24.8;148.8;Finland;Finlandia Central;Saarijärvi-Viitasaari;;KARSTULA;13.0;13.0
-14/05/17 03:00;FI4456;Eurdep;air;63.12;25.08;131.0;Finland;Finlandia Central;Saarijärvi-Viitasaari;;KIVIJAERVI;12.1;12.0
-14/05/17 03:00;FI4553;Eurdep;air;63.09;25.86;107.2;Finland;Finlandia Central;Saarijärvi-Viitasaari;;VIITASAARI;11.6;11.0
-14/05/17 03:00;FI4555;Eurdep;air;62.6;25.74;108.9;Finland;Finlandia Central;Äänekoski;Äänekoski;AEAENEKOSKI;11.1;11.0
-14/05/17 03:00;FI4556;Eurdep;air;62.63;26.29;133.8;Finland;Finlandia Central;Äänekoski;;KONNEVESI;11.5;12.0
-14/05/17 03:00;FI5151;Eurdep;air;60.88;26.7;69.4;Finland;Kymenlaakso;Kouvola;Kouvola;KOUVOLA;16.9;17.0
-14/05/17 03:00;FI5153;Eurdep;air;60.89;26.36;87.5;Finland;Kymenlaakso;Kouvola;;IITTI;17.7;18.0
-14/05/17 03:00;FI5155;Eurdep;air;60.75;26.82;37.0;Finland;Kymenlaakso;Kouvola;Kouvola;ANJALANKOSKI;17.8;18.0
-14/05/17 03:00;FI5156;Eurdep;air;60.72;26.45;47.5;Finland;Kymenlaakso;Kouvola;Kouvola;ELIMAEKI;16.4;16.0
-14/05/17 03:00;FI5157;Eurdep;air;61.09;27.06;115.8;Finland;Kymenlaakso;Kouvola;Kouvola;TUOHIKOTTI;14.3;14.0
-14/05/17 03:00;FI5252;Eurdep;air;60.48;26.92;10.5;Finland;Kymenlaakso;Kotka-Hamina;Kotka;KOTKA;21.2;21.0
-14/05/17 03:00;FI5253;Eurdep;air;60.56;27.12;10.0;Finland;Kymenlaakso;Kotka-Hamina;;HAMINA;20.0;20.0
-14/05/17 03:00;FI5254;Eurdep;air;60.68;27.69;39.0;Finland;Kymenlaakso;Kotka-Hamina;;MIEHIKKAELAE;16.5;16.0
-14/05/17 03:00;FI5255;Eurdep;air;60.5;26.74;22.0;Finland;Kymenlaakso;Kotka-Hamina;;PYHTAEAE;20.9;21.0
-14/05/17 03:00;FI5256;Eurdep;air;60.58;27.76;0.0;Finland;;Kotka-Hamina;;VIROLAHTI;19.1;19.0
-14/05/17 03:00;FI5257;Eurdep;air;60.29;27.15;5.8;Finland;;Kotka-Hamina;Kotka;HAAPASAARI;17.6;17.0
-14/05/17 03:00;FI5258;Eurdep;air;60.52;27.46;10.0;Finland;Kymenlaakso;Kotka-Hamina;;KLAMILA;17.0;18.0
-14/05/17 03:00;FI5259;Eurdep;air;60.75;27.34;50.2;Finland;Kymenlaakso;Kotka-Hamina;;PYHAELTOE;17.0;17.0
-14/05/17 03:00;FI5260;Eurdep;air;60.49;27.74;0.0;Finland;Kymenlaakso;Kotka-Hamina;;HURPPU;11.7;11.0
-14/05/17 03:00;FI5352;Eurdep;air;61.06;28.21;100.9;Finland;Karelia del Sur;Lappeenranta;Lappeenranta;LAPPEENRANTA;13.0;13.0
-14/05/17 03:00;FI5354;Eurdep;air;61.2;27.68;80.0;Finland;Karelia del Sur;Lappeenranta;;SAVITAIPALE;13.4;13.0
-14/05/17 03:00;FI5355;Eurdep;air;60.92;27.56;94.7;Finland;Karelia del Sur;Lappeenranta;;LUUMAEKI;17.8;18.0
-14/05/17 03:00;FI5356;Eurdep;air;60.96;28.53;76.4;Finland;Karelia del Sur;Lappeenranta;Lappeenranta;NUIJAMAA;17.1;17.0
-14/05/17 03:00;FI5359;Eurdep;air;60.8;28.0;0.0;Finland;0;0;0;YLAEMAA;14.2;14.0
-14/05/17 03:00;FI5360;Eurdep;air;61.06;27.81;110.2;Finland;Karelia del Sur;Lappeenranta;;LEMI;10.6;10.0
-14/05/17 03:00;FI5452;Eurdep;air;61.2;28.77;75.7;Finland;Karelia del Sur;Imatra;;IMATRA;14.9;15.0
-14/05/17 03:00;FI5453;Eurdep;air;61.44;29.36;76.2;Finland;Karelia del Sur;Imatra;;RAUTJAERVI;12.5;12.0
-14/05/17 03:00;FI5454;Eurdep;air;61.55;29.5;77.8;Finland;Karelia del Sur;Imatra;;PARIKKALA;12.9;13.0
-14/05/17 03:00;FI5456;Eurdep;air;61.11;28.49;101.6;Finland;Karelia del Sur;Lappeenranta;Lappeenranta;JOUTSENO;12.4;12.0
-14/05/17 03:00;FI5551;Eurdep;air;61.68;27.28;77.0;Finland;Savonia del Sur;Mikkeli;Mikkeli;MIKKELI;12.8;13.0
-14/05/17 03:00;FI5553;Eurdep;air;61.9;27.85;119.0;Finland;Savonia del Sur;Pieksämäki;;JUVA;10.8;11.0
-14/05/17 03:00;FI5555;Eurdep;air;61.99;26.64;101.2;Finland;Savonia del Sur;Mikkeli;;KANGASNIEMI;9.8;10.0
-14/05/17 03:00;FI5556;Eurdep;air;61.53;28.19;98.0;Finland;Savonia del Sur;Mikkeli;;PUUMALA;11.3;11.0
-14/05/17 03:00;FI5557;Eurdep;air;62.02;27.22;114.7;Finland;Savonia del Sur;Mikkeli;Mikkeli;HAUKIVUORI;9.9;10.0
-14/05/17 03:00;FI5559;Eurdep;air;61.5;26.48;111.5;Finland;Savonia del Sur;Mikkeli;;PERTUNMAA;12.0;12.0
-14/05/17 03:00;FI5561;Eurdep;air;61.51;27.26;86.5;Finland;Savonia del Sur;Mikkeli;Mikkeli;RISTIINA;9.8;10.0
-14/05/17 03:00;FI5752;Eurdep;air;61.87;28.89;79.6;Finland;Savonia del Sur;Savonlinna;Savonlinna;SAVONLINNA;9.0;10.0
-14/05/17 03:00;FI5753;Eurdep;air;61.76;29.38;76.0;Finland;Savonia del Sur;Savonlinna;Savonlinna;PUNKAHARJU;11.6;11.0
-14/05/17 03:00;FI5755;Eurdep;air;61.92;29.28;95.9;Finland;Savonia del Sur;Savonlinna;Savonlinna;KERIMAEKI;10.3;10.0
-14/05/17 03:00;FI5756;Eurdep;air;62.17;29.21;78.1;Finland;Savonia del Sur;Savonlinna;Savonlinna;SAVONRANTA;10.2;10.0
-14/05/17 03:00;FI5757;Eurdep;air;61.79;28.36;93.2;Finland;Savonia del Sur;Savonlinna;;SULKAVA;10.8;11.0
-14/05/17 03:00;FI5758;Eurdep;air;62.06;28.3;95.1;Finland;Savonia del Sur;Savonlinna;;RANTASALMI;8.3;8.9
-14/05/17 03:00;FI5852;Eurdep;air;62.29;27.16;127.8;Finland;Savonia del Sur;Pieksämäki;;PIEKSAEMAEKI;11.0;12.0
-14/05/17 03:00;FI5853;Eurdep;air;62.18;27.82;97.8;Finland;Savonia del Sur;Pieksämäki;;JOROINEN;10.0;10.0
-14/05/17 03:00;FI5854;Eurdep;air;62.42;28.62;97.8;Finland;Savonia del Sur;Savonlinna;;HEINAEVESI;10.1;10.0
-14/05/17 03:00;FI6151;Eurdep;air;63.09;21.61;1.0;Finland;Ostrobotnia;Vaasa;Vaasa;Vaasa;15.0;15.0
-14/05/17 03:00;FI6157;Eurdep;air;62.78;21.19;8.0;Finland;Ostrobotnia;Vaasa;;KORSNAES;11.0;11.0
-14/05/17 03:00;FI6159;Eurdep;air;62.97;22.03;10.9;Finland;Ostrobotnia;Kyrönmaa;;LAIHIA;12.6;13.0
-14/05/17 03:00;FI6160;Eurdep;air;63.35;21.33;6.0;Finland;Ostrobotnia;Vaasa;;BJOERKOEBY;15.4;15.0
-14/05/17 03:00;FI6252;Eurdep;air;62.27;21.41;19.3;Finland;Ostrobotnia;Sydösterbotten;;KRISTIINANKAUPUNKI;11.3;11.0
-14/05/17 03:00;FI6254;Eurdep;air;62.43;22.18;91.0;Finland;Ostrobotnia del Sur;Suupohja;Kauhajoki;KAUHAJOKI;12.0;12.0
-14/05/17 03:00;FI6258;Eurdep;air;62.11;21.97;96.1;Finland;Ostrobotnia del Sur;Suupohja;;ISOJOKI;10.8;11.0
-14/05/17 03:00;FI6452;Eurdep;air;62.79;22.83;41.0;Finland;Ostrobotnia del Sur;Seinäjoki;Seinäjoki;SEINAEJOKI;11.0;11.0
-14/05/17 03:00;FI6453;Eurdep;air;62.98;23.02;38.1;Finland;Ostrobotnia del Sur;Seinäjoki;Lapua;LAPUA;11.0;11.0
-14/05/17 03:00;FI6454;Eurdep;air;62.49;22.76;91.0;Finland;Ostrobotnia del Sur;Seinäjoki;;JALASJAERVI;12.0;12.0
-14/05/17 03:00;FI6456;Eurdep;air;62.62;22.4;53.6;Finland;Ostrobotnia del Sur;Seinäjoki;;KURIKKA;10.5;10.0
-14/05/17 03:00;FI6458;Eurdep;air;63.25;22.85;36.0;Finland;Ostrobotnia del Sur;Seinäjoki;;ALAHAERMAE;14.0;14.0
-14/05/17 03:00;FI6552;Eurdep;air;62.55;24.1;177.8;Finland;Ostrobotnia del Sur;Kuusiokunnat;;AEHTAERI;9.5;9.0
-14/05/17 03:00;FI6652;Eurdep;air;63.0;23.82;0.0;Finland;0;0;0;ALAJAERVI;11.0;12.0
-14/05/17 03:00;FI6752;Eurdep;air;63.68;22.7;5.3;Finland;Ostrobotnia;Jakobstad sub-region;Jakobstad;PIETARSAARI;10.0;10.0
-14/05/17 03:00;FI6852;Eurdep;air;63.84;23.12;10.0;Finland;Ostrobotnia Central;Kokkola;Kokkola;KOKKOLA;9.0;9.2
-14/05/17 03:00;FI6853;Eurdep;air;63.55;23.69;65.7;Finland;Ostrobotnia Central;Kaustinen;;KAUSTINEN;12.7;12.0
-14/05/17 03:00;FI6859;Eurdep;air;63.53;24.66;141.3;Finland;Ostrobotnia Central;Kaustinen;;LESTIJAERVI;8.2;8.4
-14/05/17 03:00;FI6861;Eurdep;air;63.9;23.91;47.0;Finland;Ostrobotnia Central;Kokkola;;KANNUS;9.9;10.0
-14/05/17 03:00;FI7151;Eurdep;air;62.88;27.63;98.2;Finland;Savonia del Norte;Kuopio;Kuopio;Kuopio;13.8;14.0
-14/05/17 03:00;FI7153;Eurdep;air;62.63;27.12;99.0;Finland;Savonia del Norte;Sisä-Savo;;SUONENJOKI;10.8;11.0
-14/05/17 03:00;FI7154;Eurdep;air;62.9;26.97;102.9;Finland;Savonia del Norte;Kuopio;Kuopio;KARTTULA;9.8;10.0
-14/05/17 03:00;FI7156;Eurdep;air;62.8;28.5;101.0;Finland;Savonia del Norte;Koillis-Savo;;TUUSNIEMI;9.5;9.8
-14/05/17 03:00;FI7157;Eurdep;air;63.49;28.31;131.6;Finland;Savonia del Norte;Koillis-Savo;;RAUTAVAARA;6.9;7.2
-14/05/17 03:00;FI7159;Eurdep;air;63.21;28.06;119.9;Finland;Savonia del Norte;Koillis-Savo;Kuopio;NILSIAE;8.3;8.0
-14/05/17 03:00;FI7163;Eurdep;air;62.93;26.41;121.4;Finland;Savonia del Norte;Sisä-Savo;;VESANTO;11.2;11.0
-14/05/17 03:00;FI7164;Eurdep;air;63.06;28.32;101.6;Finland;Savonia del Norte;Koillis-Savo;;JUANKOSKI;9.3;9.5
-14/05/17 03:00;FI7165;Eurdep;air;62.49;27.79;121.6;Finland;Savonia del Norte;Varkaus;;LEPPAEVIRTA;10.2;10.0
-14/05/17 03:00;FI7166;Eurdep;air;63.08;27.68;87.8;Finland;Savonia del Norte;Kuopio;;SIILINJAERVI;9.5;9.8
-14/05/17 03:00;FI7252;Eurdep;air;62.31;27.9;77.3;Finland;Savonia del Norte;Varkaus;Varkaus;VARKAUS;10.1;10.0
-14/05/17 03:00;FI7351;Eurdep;air;62.61;29.77;80.0;Finland;Karelia del Norte;Joensuu;Joensuu;Joensuu;9.3;9.7
-14/05/17 03:00;FI7353;Eurdep;air;62.8;30.15;96.0;Finland;Karelia del Norte;Joensuu;Joensuu;ENO;9.9;10.0
-14/05/17 03:00;FI7354;Eurdep;air;62.09;30.15;98.1;Finland;Karelia del Norte;Keski-Karjala;;KITEE;10.2;10.0
-14/05/17 03:00;FI7356;Eurdep;air;62.72;29.03;112.6;Finland;Karelia del Norte;Joensuu;;OUTOKUMPU;8.4;8.6
-14/05/17 03:00;FI7357;Eurdep;air;62.85;29.37;97.8;Finland;;;;POLVIJAERVI;11.5;11.0
-14/05/17 03:00;FI7359;Eurdep;air;61.9;29.82;95.7;Finland;Karelia del Norte;Keski-Karjala;;KESAELAHTI;10.4;10.0
-14/05/17 03:00;FI7360;Eurdep;air;62.17;30.59;87.8;Finland;Karelia del Norte;Keski-Karjala;;VAERTSILAE;10.4;10.0
-14/05/17 03:00;FI7361;Eurdep;air;62.48;30.61;119.5;Finland;Karelia del Norte;Joensuu;Joensuu;TUUPOVAARA;11.4;11.0
-14/05/17 03:00;FI7362;Eurdep;air;62.49;30.25;141.2;Finland;Karelia del Norte;Joensuu;Joensuu;KIIHTELYSVAARA;10.3;10.0
-14/05/17 03:00;FI7364;Eurdep;air;62.31;29.63;92.0;Finland;Karelia del Norte;Keski-Karjala;;RAEAEKKYLAE;9.8;10.0
-14/05/17 03:00;FI7365;Eurdep;air;62.67;30.94;151.1;Finland;Karelia del Norte;Joensuu;;ILOMANTSI;8.6;8.8
-14/05/17 03:00;FI7367;Eurdep;air;62.23;30.33;117.2;Finland;Karelia del Norte;Keski-Karjala;;TOHMAJAERVI;12.5;13.0
-14/05/17 03:00;FI7368;Eurdep;air;62.76;29.86;145.9;Finland;Karelia del Norte;Joensuu;;KONTIOLAHTI;12.4;12.0
-14/05/17 03:00;FI7369;Eurdep;air;63.3;30.96;240.0;Finland;Karelia del Norte;Pielisen Karjala;;INARI PKL;8.0;8.1
-14/05/17 03:00;FI7652;Eurdep;air;63.56;29.07;140.1;Finland;Karelia del Norte;Pielisen Karjala;;NURMES;10.0;10.0
-14/05/17 03:00;FI7654;Eurdep;air;63.32;30.03;98.1;Finland;Karelia del Norte;Pielisen Karjala;;LIEKSA;9.2;9.5
-14/05/17 03:00;FI7655;Eurdep;air;63.24;29.26;105.2;Finland;Karelia del Norte;Joensuu;;JUUKA;12.2;12.0
-14/05/17 03:00;FI7656;Eurdep;air;63.68;28.81;115.7;Finland;Karelia del Norte;Pielisen Karjala;;VALTIMO;11.3;11.0
-14/05/17 03:00;FI7752;Eurdep;air;63.57;27.19;96.0;Finland;Savonia del Norte;Ylä-Savo;Iisalmi;IISALMI;13.3;13.0
-14/05/17 03:00;FI7753;Eurdep;air;63.65;26.6;109.0;Finland;Savonia del Norte;Ylä-Savo;;KIURUVESI;10.1;10.0
-14/05/17 03:00;FI7755;Eurdep;air;63.36;27.39;100.4;Finland;Savonia del Norte;Ylä-Savo;;LAPINLAHTI;6.7;7.0
-14/05/17 03:00;FI7756;Eurdep;air;63.23;26.77;113.4;Finland;Savonia del Norte;Ylä-Savo;;PIELAVESI;9.0;9.0
-14/05/17 03:00;FI7758;Eurdep;air;63.75;27.01;108.8;Finland;Savonia del Norte;Ylä-Savo;;VIEREMAE;9.2;9.6
-14/05/17 03:00;FI7761;Eurdep;air;63.67;27.53;111.0;Finland;Savonia del Norte;Ylä-Savo;;SONKAJAERVI;9.4;9.8
-14/05/17 03:00;FI8151;Eurdep;air;65.01;25.49;12.7;Finland;Ostrobotnia del Norte;Oulu sub-region;Oulu;Oulu Raksila;13.3;13.0
-14/05/17 03:00;FI8152;Eurdep;air;64.56;26.84;131.0;Finland;Kainuu;Kajaani;;VAALA;14.2;14.0
-14/05/17 03:00;FI8156;Eurdep;air;65.32;25.39;2.1;Finland;Ostrobotnia del Norte;Oulunkaari;;II;10.8;11.0
-14/05/17 03:00;FI8161;Eurdep;air;64.81;26.02;20.0;Finland;Ostrobotnia del Norte;Oulu sub-region;;MUHOS;8.9;9.2
-14/05/17 03:00;FI8163;Eurdep;air;65.02;24.73;7.0;Finland;Ostrobotnia del Norte;Oulu sub-region;;HAILUOTO;9.9;10.0
-14/05/17 03:00;FI8164;Eurdep;air;65.61;25.21;12.4;Finland;Ostrobotnia del Norte;Oulunkaari;;KUIVANIEMI;7.0;7.2
-14/05/17 03:00;FI8167;Eurdep;air;65.02;25.47;0.5;Finland;Ostrobotnia del Norte;Oulu sub-region;Oulu;Oulu;9.2;9.0
-14/05/17 03:00;FI8253;Eurdep;air;64.48;24.99;88.8;Finland;Ostrobotnia del Norte;Raahe;;VIHANTI;9.1;9.7
-14/05/17 03:00;FI8352;Eurdep;air;64.08;24.53;55.0;Finland;Ostrobotnia del Norte;Ylivieska;;YLIVIESKA;8.6;8.0
-14/05/17 03:00;FI8354;Eurdep;air;64.26;23.96;12.7;Finland;Ostrobotnia del Norte;Ylivieska;;KALAJOKI;10.5;11.0
-14/05/17 03:00;FI8359;Eurdep;air;64.15;25.36;117.7;Finland;Ostrobotnia del Norte;Siikalatva sub-region;;HAAPAVESI;11.9;12.0
-14/05/17 03:00;FI8452;Eurdep;air;63.75;25.33;94.7;Finland;Ostrobotnia del Norte;Nivala-Haapajärvi sub-region;;HAAPAJAERVI;10.2;10.0
-14/05/17 03:00;FI8454;Eurdep;air;64.1;26.33;126.0;Finland;Ostrobotnia del Norte;Siikalatva sub-region;;PYHAENTAE;13.1;13.0
-14/05/17 03:00;FI8455;Eurdep;air;63.68;25.97;152.3;Finland;Ostrobotnia del Norte;Nivala-Haapajärvi sub-region;;PYHAEJAERVI;12.1;12.0
-14/05/17 03:00;FI8459;Eurdep;air;64.35;26.29;89.0;Finland;Ostrobotnia del Norte;Siikalatva sub-region;;KESTILAE;11.1;11.0
-14/05/17 03:00;FI8652;Eurdep;air;64.22;27.73;146.8;Finland;Kainuu;Kajaani;Kajaani;KAJAANI;15.0;15.0
-14/05/17 03:00;FI8653;Eurdep;air;64.09;27.71;202.2;Finland;Kainuu;Kajaani;;LEHTOVAARA;7.4;7.6
-14/05/17 03:00;FI8655;Eurdep;air;64.13;28.39;149.8;Finland;Kainuu;Kajaani;;SOTKAMO;9.7;10.0
-14/05/17 03:00;FI8657;Eurdep;air;64.51;28.21;132.0;Finland;Kainuu;Kajaani;;RISTIJAERVI;9.5;9.7
-14/05/17 03:00;FI8662;Eurdep;air;64.13;29.52;164.9;Finland;Kainuu;Kehys-Kainuu;;KUHMO;9.3;9.6
-14/05/17 03:00;FI8663;Eurdep;air;64.88;28.92;203.7;Finland;Kainuu;Kehys-Kainuu;;SUOMUSSALMI;8.1;8.4
-14/05/17 03:00;FI8664;Eurdep;air;65.22;29.47;225.0;Finland;Kainuu;Kehys-Kainuu;;JUNTUSRANTA;6.4;6.6
-14/05/17 03:00;FI8667;Eurdep;air;64.87;27.68;167.1;Finland;Kainuu;Kehys-Kainuu;;PUOLANKA;14.2;14.0
-14/05/17 03:00;FI8669;Eurdep;air;64.49;29.91;189.0;Finland;Kainuu;Kehys-Kainuu;;VARTIUS;7.0;7.4
-14/05/17 03:00;FI8952;Eurdep;air;65.97;29.17;259.9;Finland;Ostrobotnia del Norte;Koillismaa;Kuusamo;KUUSAMO;8.2;8.6
-14/05/17 03:00;FI8953;Eurdep;air;65.36;27.0;0.0;Finland;0;0;0;PUDASJAERVI;9.6;9.8
-14/05/17 03:00;FI8955;Eurdep;air;65.64;27.72;276.4;Finland;Ostrobotnia del Norte;Oulunkaari;;SYOETE;5.2;5.4
-14/05/17 03:00;FI8959;Eurdep;air;65.8;30.1;250.2;Finland;Ostrobotnia del Norte;Koillismaa;Kuusamo;KORTESALMI;8.5;8.8
-14/05/17 03:00;FI9152;Eurdep;air;66.51;25.67;134.9;Finland;Laponia finlandesa;Rovaniemi;Rovaniemi;Rovaniemi;8.8;9.2
-14/05/17 03:00;FI9154;Eurdep;air;66.11;28.17;249.3;Finland;Laponia finlandesa;Itä-Lappi;;POSIO;9.7;10.0
-14/05/17 03:00;FI9155;Eurdep;air;65.92;26.53;143.0;Finland;Laponia finlandesa;Rovaniemi;;RANUA;7.0;7.2
-14/05/17 03:00;FI9157;Eurdep;air;66.86;25.46;97.7;Finland;Laponia finlandesa;Rovaniemi;Rovaniemi;PATOKOSKI;8.8;9.0
-14/05/17 03:00;FI9159;Eurdep;air;66.35;26.84;91.7;Finland;Laponia finlandesa;Rovaniemi;Rovaniemi;Pekkala;6.9;7.0
-14/05/17 03:00;FI9162;Eurdep;air;66.09;24.82;36.7;Finland;Laponia finlandesa;Kemi-Tornio sub-region;;TERVOLA;6.8;7.0
-14/05/17 03:00;FI9163;Eurdep;air;65.85;24.17;4.1;Finland;Laponia finlandesa;Kemi-Tornio sub-region;Tornio;TORNIO;11.1;11.0
-14/05/17 03:00;FI9164;Eurdep;air;65.74;24.59;9.0;Finland;Laponia finlandesa;Kemi-Tornio sub-region;Kemi;KEMI;7.8;8.2
-14/05/17 03:00;FI9252;Eurdep;air;66.72;27.39;164.1;Finland;Laponia finlandesa;Itä-Lappi;;KEMIJAERVI;9.5;9.7
-14/05/17 03:00;FI9253;Eurdep;air;66.83;28.67;218.2;Finland;Laponia finlandesa;Itä-Lappi;;SALLA;7.1;7.5
-14/05/17 03:00;FI9254;Eurdep;air;67.11;27.51;160.0;Finland;Laponia finlandesa;Itä-Lappi;;PELKOSENNIEMI;6.8;7.0
-14/05/17 03:00;FI9255;Eurdep;air;67.3;28.16;186.0;Finland;Laponia finlandesa;Itä-Lappi;;SAVUKOSKI;6.3;6.6
-14/05/17 03:00;FI9256;Eurdep;air;66.93;28.9;199.7;Finland;Laponia finlandesa;Itä-Lappi;;KELLOSELKAE;6.0;6.0
-14/05/17 03:00;FI9261;Eurdep;air;67.75;29.61;373.8;Finland;Laponia finlandesa;Itä-Lappi;;VAERRIOE;5.4;5.0
-14/05/17 03:00;FI9352;Eurdep;air;67.42;26.61;187.1;Finland;Laponia finlandesa;Pohjois-Lappi;;SODANKYLAE;6.8;7.0
-14/05/17 03:00;FI9354;Eurdep;air;68.1;27.11;254.6;Finland;Laponia finlandesa;Pohjois-Lappi;;VUOTSO;5.4;5.0
-14/05/17 03:00;FI9452;Eurdep;air;67.66;24.9;178.7;Finland;Laponia finlandesa;Tunturi-Lappi;Kittilä;KITTILAE;6.6;7.0
-14/05/17 03:00;FI9552;Eurdep;air;66.77;23.96;101.9;Finland;Laponia finlandesa;Valle del Torne;;PELLO;10.3;10.0
-14/05/17 03:00;FI9555;Eurdep;air;67.34;23.83;149.0;Finland;Laponia finlandesa;Tunturi-Lappi;;KOLARI;6.4;6.7
-14/05/17 03:00;FI9556;Eurdep;air;66.34;23.69;55.7;Finland;Laponia finlandesa;Valle del Torne;;YLITORNIO;8.9;9.0
-14/05/17 03:00;FI9652;Eurdep;air;67.96;23.68;246.9;Finland;Laponia finlandesa;Tunturi-Lappi;Muonio;MUONIO;6.2;6.5
-14/05/17 03:00;FI9653;Eurdep;air;68.39;23.62;295.2;Finland;Laponia finlandesa;Tunturi-Lappi;;ENONTEKIOE;6.5;6.7
-14/05/17 03:00;FI9655;Eurdep;air;68.45;22.5;328.0;Finland;Laponia finlandesa;Tunturi-Lappi;;Karesuvanto;6.3;6.0
-14/05/17 03:00;FI9656;Eurdep;air;69.05;20.8;572.2;Finland;Laponia finlandesa;Tunturi-Lappi;;KILPISJAERVI;4.8;5.0
-14/05/17 03:00;FI9752;Eurdep;air;68.66;27.53;119.6;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;Ivalo;8.7;8.9
-14/05/17 03:00;FI9753;Eurdep;air;68.64;27.57;130.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;Ivalo Rv;7.0;7.0
-14/05/17 03:00;FI9754;Eurdep;air;68.9;27.01;138.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;INARI;5.3;5.5
-14/05/17 03:00;FI9755;Eurdep;air;68.9;28.42;118.1;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;VIRTANIEMI;6.5;6.7
-14/05/17 03:00;FI9756;Eurdep;air;69.51;28.6;96.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;SEVETTIJAERVI;5.6;5.8
-14/05/17 03:00;FI9759;Eurdep;air;69.91;27.03;72.0;Finland;Laponia finlandesa;Pohjois-Lappi;;UTSJOKI;6.0;6.2
-14/05/17 03:00;FI9760;Eurdep;air;69.4;25.86;174.4;Finland;Laponia finlandesa;Pohjois-Lappi;;KARIGASNIEMI;6.4;6.0
-14/05/17 03:00;FI9761;Eurdep;air;68.42;27.43;282.3;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;SAARISELKAE;4.9;5.1
-14/05/17 03:00;FI9763;Eurdep;air;69.1;27.25;160.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;KAAMANEN;5.4;5.6
-14/05/17 03:00;FI9765;Eurdep;air;68.47;28.46;125.2;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;RAJA-JOOSEPPI;7.1;7.3
-14/05/17 03:00;FI9766;Eurdep;air;68.47;26.2;429.2;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;LITMURIVAARA;7.2;7.4
-14/05/17 03:00;FI9767;Eurdep;air;70.08;27.89;52.8;Finland;Laponia finlandesa;Pohjois-Lappi;;NUORGAM;6.3;6.5
-14/05/17 03:00;FI1850;Eurdep;air;60.98;25.69;115.4;Finland;Päijänne Tavastia;Lahti;Lahti;Lahti;10.5;10.0
-14/05/17 03:00;FI5451;Eurdep;air;61.13;28.83;58.7;Finland;Karelia del Sur;Imatra;;Imatra Pelkola;12.7;12.0
-14/05/17 03:00;FI0061;Eurdep;air;60.21;25.05;19.4;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Roihupelto;10.4;10.0
-14/05/17 03:00;FI8956;Eurdep;air;66.3;29.15;240.1;Finland;Ostrobotnia del Norte;Koillismaa;Kuusamo;KAEYLAE;8.1;8.2
-14/05/17 03:00;FI7152;Eurdep;air;62.89;27.63;99.6;Finland;Savonia del Norte;Kuopio;Kuopio;Kuopio IL;13.5;13.0
-14/05/17 03:00;FI9353;Eurdep;air;67.37;26.63;178.3;Finland;Laponia finlandesa;Pohjois-Lappi;;Sodankylae IL;7.4;7.6
+14/05/17 16:00;FI0051;Eurdep;air;60.18;24.95;2.6;Finland;Uusimaa;Helsinki;Helsinki;Kallio;15.6;15.0
+14/05/17 16:00;FI0052;Eurdep;air;60.22;25.18;4.9;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Vuosaaren Satama;10.7;11.0
+14/05/17 16:00;FI0053;Eurdep;air;60.15;24.99;0.0;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Suomenlinna;13.7;13.0
+14/05/17 16:00;FI0054;Eurdep;air;60.21;24.74;27.2;Finland;Uusimaa;Helsinki;;ESPOO;11.2;11.0
+14/05/17 16:00;FI0055;Eurdep;air;59.97;24.39;0.0;Finland;Uusimaa;Helsinki;;PORKKALA;14.4;14.0
+14/05/17 16:00;FI0056;Eurdep;air;60.17;24.94;4.8;Finland;Uusimaa;Helsinki;Helsinki;HELSINKI TOEOELOE;12.3;12.0
+14/05/17 16:00;FI0057;Eurdep;air;60.13;24.51;8.9;Finland;Uusimaa;Helsinki;;KIRKKONUMMI;17.1;17.0
+14/05/17 16:00;FI0058;Eurdep;air;60.38;25.26;23.0;Finland;Uusimaa;Helsinki;;SIPOO;14.5;15.0
+14/05/17 16:00;FI0059;Eurdep;air;60.2;24.96;1.7;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Kumpula;13.2;13.0
+14/05/17 16:00;FI0060;Eurdep;air;60.31;24.96;47.8;Finland;Uusimaa;Helsinki;Vantaa;VANTAA;13.8;14.0
+14/05/17 16:00;FI0152;Eurdep;air;60.39;25.11;43.6;Finland;Uusimaa;Helsinki;;KERAVA;10.7;11.0
+14/05/17 16:00;FI0155;Eurdep;air;60.46;24.81;68.9;Finland;Uusimaa;Helsinki;Nurmijärvi;Nurmijaervi;12.4;12.0
+14/05/17 16:00;FI0652;Eurdep;air;60.46;26.22;10.6;Finland;Uusimaa;Loviisa;Loviisa;LOVIISA;21.5;22.0
+14/05/17 16:00;FI0654;Eurdep;air;60.52;26.47;18.0;Finland;Uusimaa;Loviisa;;RUOTSINPYHTAEAE;20.1;20.0
+14/05/17 16:00;FI0655;Eurdep;air;60.63;26.2;26.0;Finland;Uusimaa;Loviisa;;LAPINJAERVI;16.3;16.0
+14/05/17 16:00;FI0656;Eurdep;air;60.28;26.45;0.0;Finland;Uusimaa;Loviisa;;ORRENGRUND;12.3;12.0
+14/05/17 16:00;FI1052;Eurdep;air;61.2;26.04;101.0;Finland;Päijänne Tavastia;Lahti;Heinola;HEINOLA;12.2;12.0
+14/05/17 16:00;FI1054;Eurdep;air;61.51;25.69;85.3;Finland;Päijänne Tavastia;Lahti;;SYSMAE;11.6;11.0
+14/05/17 16:00;FI1152;Eurdep;air;59.98;23.47;6.9;Finland;Uusimaa;Raasepori;;TAMMISAARI;11.0;11.0
+14/05/17 16:00;FI1153;Eurdep;air;59.84;22.99;17.0;Finland;Uusimaa;Raasepori;Hanko;HANKO;13.1;13.0
+14/05/17 16:00;FI1154;Eurdep;air;60.08;23.7;37.1;Finland;Uusimaa;Raasepori;;KARJAA;12.7;13.0
+14/05/17 16:00;FI1156;Eurdep;air;60.05;24.0;0.0;Finland;0;0;0;INKOO;13.3;13.0
+14/05/17 16:00;FI1157;Eurdep;air;59.83;23.56;0.0;Finland;Uusimaa;Raasepori;;JUSSAROE;0.0;0.0
+14/05/17 16:00;FI1252;Eurdep;air;60.24;24.06;97.6;Finland;Uusimaa;Helsinki;Lohja;LOHJA;10.4;10.0
+14/05/17 16:00;FI1255;Eurdep;air;60.33;24.32;65.4;Finland;Uusimaa;Helsinki;;NUMMELA;14.5;14.0
+14/05/17 16:00;FI1256;Eurdep;air;60.15;24.67;15.8;Finland;Uusimaa;Helsinki;Espoo;ESPOONLAHTI;14.2;14.0
+14/05/17 16:00;FI1257;Eurdep;air;60.53;24.24;71.2;Finland;Uusimaa;Helsinki;;KARKKILA;12.9;13.0
+14/05/17 16:00;FI1452;Eurdep;air;60.73;24.77;91.9;Finland;Tavastia Propia;Riihimäki;Riihimäki;RIIHIMAEKI;10.2;10.0
+14/05/17 16:00;FI1552;Eurdep;air;60.39;25.61;23.7;Finland;Uusimaa;Porvoo;Porvoo;PORVOO;13.4;13.0
+14/05/17 16:00;FI1555;Eurdep;air;60.64;25.32;73.8;Finland;Uusimaa;Helsinki;;MAENTSAELAE;13.4;13.0
+14/05/17 16:00;FI1652;Eurdep;air;60.82;23.61;106.4;Finland;Tavastia Propia;Forssa;Forssa;FORSSA;11.0;12.0
+14/05/17 16:00;FI1751;Eurdep;air;61.0;24.49;0.0;Finland;0;0;0;Haemeenlinna;12.6;12.0
+14/05/17 16:00;FI1754;Eurdep;air;61.07;25.01;135.4;Finland;Tavastia Propia;Hämeenlinna;Hämeenlinna;LAMMI;11.6;11.0
+14/05/17 16:00;FI1755;Eurdep;air;61.17;24.57;96.0;Finland;Tavastia Propia;Hämeenlinna;Hämeenlinna;HAUHO;13.5;13.0
+14/05/17 16:00;FI1756;Eurdep;air;60.89;24.3;106.9;Finland;Tavastia Propia;Hämeenlinna;Hämeenlinna;RENKO;12.0;12.0
+14/05/17 16:00;FI1854;Eurdep;air;60.87;25.27;93.7;Finland;Päijänne Tavastia;Lahti;;KAERKOELAE;15.1;15.0
+14/05/17 16:00;FI1855;Eurdep;air;60.8;25.72;102.6;Finland;Päijänne Tavastia;Lahti;;ORIMATTILA;13.1;13.0
+14/05/17 16:00;FI1856;Eurdep;air;60.75;26.05;77.7;Finland;Päijänne Tavastia;Lahti;;ARTJAERVI;13.9;14.0
+14/05/17 16:00;FI1857;Eurdep;air;61.35;25.27;85.5;Finland;Päijänne Tavastia;Lahti;;PADASJOKI;0.0;0.0
+14/05/17 16:00;FI1858;Eurdep;air;60.93;25.97;121.9;Finland;Päijänne Tavastia;Lahti;Lahti;NASTOLA;16.0;16.0
+14/05/17 16:00;FI2151;Eurdep;air;60.45;22.25;10.0;Finland;Finlandia del Sudoeste;Turku;Turku;Turku;16.0;16.0
+14/05/17 16:00;FI2154;Eurdep;air;60.44;22.26;18.8;Finland;Finlandia del Sudoeste;Turku;Turku;Turku Vaehaeheikkilae;10.1;10.0
+14/05/17 16:00;FI2158;Eurdep;air;60.59;22.9;69.2;Finland;Finlandia del Sudoeste;Loimaa;;MARTTILA;14.8;15.0
+14/05/17 16:00;FI2160;Eurdep;air;60.87;22.41;51.7;Finland;Finlandia del Sudoeste;Loimaa;;YLAENE;0.0;0.0
+14/05/17 16:00;FI2252;Eurdep;air;60.8;21.41;5.6;Finland;Finlandia del Sudoeste;Vakka-Suomi;Uusikaupunki;UUSIKAUPUNKI;13.2;13.0
+14/05/17 16:00;FI2253;Eurdep;air;60.88;21.7;27.5;Finland;Finlandia del Sudoeste;Vakka-Suomi;;LAITILA;12.1;12.0
+14/05/17 16:00;FI2255;Eurdep;air;60.55;21.36;11.5;Finland;Finlandia del Sudoeste;Vakka-Suomi;;KUSTAVI;18.3;18.0
+14/05/17 16:00;FI2352;Eurdep;air;60.85;23.06;86.2;Finland;Finlandia del Sudoeste;Loimaa;Loimaa;LOIMAA;15.3;16.0
+14/05/17 16:00;FI2452;Eurdep;air;60.39;23.13;3.3;Finland;Finlandia del Sudoeste;Salo;Salo;SALO;11.4;11.0
+14/05/17 16:00;FI2652;Eurdep;air;60.3;22.31;3.1;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;PARAINEN;11.1;11.0
+14/05/17 16:00;FI2653;Eurdep;air;60.19;21.9;33.9;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;NAUVO;13.8;14.0
+14/05/17 16:00;FI2654;Eurdep;air;60.23;21.38;6.2;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;HOUTSKARI;14.7;14.0
+14/05/17 16:00;FI2655;Eurdep;air;60.07;22.49;14.9;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;DRAGSFJAERD;13.6;14.0
+14/05/17 16:00;FI2657;Eurdep;air;60.16;21.56;9.8;Finland;Finlandia del Sudoeste;Åboland-Turunmaa;;KORPPOO;14.1;14.0
+14/05/17 16:00;FI2851;Eurdep;air;60.1;19.94;11.3;Finland;Mariehamns stad;Mariehamn;Mariehamn;MAARIANHAMINA;0.0;0.0
+14/05/17 16:00;FI2852;Eurdep;air;60.25;20.38;17.4;Finland;Archipelago;Vårdö;;Vårdoe;20.6;20.0
+14/05/17 16:00;FI2853;Eurdep;air;60.21;19.62;12.1;Finland;Countryside;Eckerö;;ECKEROE;12.4;12.0
+14/05/17 16:00;FI3152;Eurdep;air;61.51;23.79;128.8;Finland;Pirkanmaa;Tampere;Tampere;Tampere;15.7;16.0
+14/05/17 16:00;FI3154;Eurdep;air;61.41;24.72;104.0;Finland;Pirkanmaa;Tampere;;RAUTAJAERVI;13.0;13.0
+14/05/17 16:00;FI3156;Eurdep;air;61.68;24.36;114.5;Finland;Pirkanmaa;Tampere;;ORIVESI;12.4;12.0
+14/05/17 16:00;FI3160;Eurdep;air;61.77;23.04;83.0;Finland;Pirkanmaa;Luoteis-Pirkanmaa;;IKAALINEN;12.8;13.0
+14/05/17 16:00;FI3161;Eurdep;air;62.01;23.02;116.9;Finland;Pirkanmaa;Luoteis-Pirkanmaa;;PARKANO;12.7;12.0
+14/05/17 16:00;FI3166;Eurdep;air;61.51;23.04;114.4;Finland;Pirkanmaa;Lounais-Pirkanmaa;;MOUHIJAERVI;11.3;11.0
+14/05/17 16:00;FI3252;Eurdep;air;61.33;22.92;59.1;Finland;Pirkanmaa;Lounais-Pirkanmaa;Sastamala;VAMMALA;13.3;13.0
+14/05/17 16:00;FI3452;Eurdep;air;61.98;24.07;131.8;Finland;Pirkanmaa;Ylä-Pirkanmaa;;RUOVESI;9.6;9.8
+14/05/17 16:00;FI3453;Eurdep;air;61.88;23.73;107.5;Finland;Pirkanmaa;Tampere;;KURU;12.3;12.0
+14/05/17 16:00;FI3454;Eurdep;air;62.23;23.77;159.6;Finland;Pirkanmaa;Ylä-Pirkanmaa;;VIRRAT;11.0;11.0
+14/05/17 16:00;FI3752;Eurdep;air;61.27;24.04;85.0;Finland;Pirkanmaa;Etelä-Pirkanmaa;Valkeakoski;VALKEAKOSKI;12.7;13.0
+14/05/17 16:00;FI3754;Eurdep;air;61.08;23.56;118.6;Finland;Pirkanmaa;Etelä-Pirkanmaa;;URJALA;12.1;12.0
+14/05/17 16:00;FI3852;Eurdep;air;61.12;21.5;14.6;Finland;Satakunta;Rauma;Rauma;RAUMA;12.0;12.0
+14/05/17 16:00;FI3853;Eurdep;air;61.2;21.74;18.1;Finland;Satakunta;Rauma;;EURAJOKI;16.1;16.0
+14/05/17 16:00;FI3854;Eurdep;air;61.1;21.84;30.2;Finland;Satakunta;Rauma;Rauma;LAPPI TL;14.3;14.0
+14/05/17 16:00;FI3855;Eurdep;air;61.28;21.58;1.9;Finland;Satakunta;Rauma;;KUIVALAHTI;15.1;15.0
+14/05/17 16:00;FI3952;Eurdep;air;61.48;21.78;8.1;Finland;Satakunta;Pori;Pori;PORI;9.6;9.8
+14/05/17 16:00;FI3954;Eurdep;air;61.36;21.62;3.6;Finland;Satakunta;Pori;;LUVIA;13.0;13.0
+14/05/17 16:00;FI3955;Eurdep;air;61.31;22.14;38.9;Finland;Satakunta;Pori;;HARJAVALTA;11.6;12.0
+14/05/17 16:00;FI3956;Eurdep;air;61.2;22.71;49.2;Finland;Satakunta;Pori;;HUITTINEN;13.4;13.0
+14/05/17 16:00;FI3957;Eurdep;air;61.46;22.02;13.8;Finland;Satakunta;Pori;;ULVILA;12.0;12.0
+14/05/17 16:00;FI3959;Eurdep;air;61.69;22.01;50.0;Finland;Satakunta;Pori;;POMARKKU;12.0;12.0
+14/05/17 16:00;FI3961;Eurdep;air;61.99;22.26;97.0;Finland;Satakunta;Pohjois-Satakunta;;HONKAJOKI;12.0;12.0
+14/05/17 16:00;FI3962;Eurdep;air;61.05;22.35;47.4;Finland;Satakunta;Rauma;;SAEKYLAE;13.0;13.0
+14/05/17 16:00;FI3963;Eurdep;air;61.86;21.5;7.5;Finland;Satakunta;Pori;;MERIKARVIA;11.3;11.0
+14/05/17 16:00;FI4151;Eurdep;air;62.24;25.72;115.7;Finland;Finlandia Central;Jyväskylä;Jyväskylä;JYVAESKYLAE;13.0;13.0
+14/05/17 16:00;FI4157;Eurdep;air;61.92;26.15;138.2;Finland;Finlandia Central;Joutsa;;LEIVONMAEKI;12.0;12.0
+14/05/17 16:00;FI4161;Eurdep;air;62.43;26.39;116.7;Finland;Finlandia Central;Jyväskylä;;HANKASALMI;10.2;10.0
+14/05/17 16:00;FI4162;Eurdep;air;62.26;25.17;111.0;Finland;Finlandia Central;Jyväskylä;;PETAEJAEVESI;10.8;11.0
+14/05/17 16:00;FI4252;Eurdep;air;61.86;25.18;94.4;Finland;Finlandia Central;Jämsä;Jämsä;JAEMSAE;11.3;11.0
+14/05/17 16:00;FI4255;Eurdep;air;62.41;24.81;143.5;Finland;Finlandia Central;Keuruu;;MULTIA;11.5;11.0
+14/05/17 16:00;FI4452;Eurdep;air;62.71;25.23;131.4;Finland;Finlandia Central;Saarijärvi-Viitasaari;;SAARIJAERVI;10.8;11.0
+14/05/17 16:00;FI4453;Eurdep;air;62.87;24.8;148.8;Finland;Finlandia Central;Saarijärvi-Viitasaari;;KARSTULA;13.0;13.0
+14/05/17 16:00;FI4456;Eurdep;air;63.12;25.08;131.0;Finland;Finlandia Central;Saarijärvi-Viitasaari;;KIVIJAERVI;12.0;12.0
+14/05/17 16:00;FI4553;Eurdep;air;63.09;25.86;107.2;Finland;Finlandia Central;Saarijärvi-Viitasaari;;VIITASAARI;11.6;11.0
+14/05/17 16:00;FI4555;Eurdep;air;62.6;25.74;108.9;Finland;Finlandia Central;Äänekoski;Äänekoski;AEAENEKOSKI;11.2;11.0
+14/05/17 16:00;FI4556;Eurdep;air;62.63;26.29;133.8;Finland;Finlandia Central;Äänekoski;;KONNEVESI;11.5;11.0
+14/05/17 16:00;FI5151;Eurdep;air;60.88;26.7;69.4;Finland;Kymenlaakso;Kouvola;Kouvola;KOUVOLA;17.1;17.0
+14/05/17 16:00;FI5153;Eurdep;air;60.89;26.36;87.5;Finland;Kymenlaakso;Kouvola;;IITTI;17.8;18.0
+14/05/17 16:00;FI5155;Eurdep;air;60.75;26.82;37.0;Finland;Kymenlaakso;Kouvola;Kouvola;ANJALANKOSKI;17.9;18.0
+14/05/17 16:00;FI5156;Eurdep;air;60.72;26.45;47.5;Finland;Kymenlaakso;Kouvola;Kouvola;ELIMAEKI;16.4;16.0
+14/05/17 16:00;FI5157;Eurdep;air;61.09;27.06;115.8;Finland;Kymenlaakso;Kouvola;Kouvola;TUOHIKOTTI;14.3;14.0
+14/05/17 16:00;FI5252;Eurdep;air;60.48;26.92;10.5;Finland;Kymenlaakso;Kotka-Hamina;Kotka;KOTKA;21.2;21.0
+14/05/17 16:00;FI5253;Eurdep;air;60.56;27.12;10.0;Finland;Kymenlaakso;Kotka-Hamina;;HAMINA;20.1;20.0
+14/05/17 16:00;FI5254;Eurdep;air;60.68;27.69;39.0;Finland;Kymenlaakso;Kotka-Hamina;;MIEHIKKAELAE;16.5;16.0
+14/05/17 16:00;FI5255;Eurdep;air;60.5;26.74;22.0;Finland;Kymenlaakso;Kotka-Hamina;;PYHTAEAE;21.0;21.0
+14/05/17 16:00;FI5256;Eurdep;air;60.58;27.76;0.0;Finland;;Kotka-Hamina;;VIROLAHTI;19.1;19.0
+14/05/17 16:00;FI5257;Eurdep;air;60.29;27.15;5.8;Finland;;Kotka-Hamina;Kotka;HAAPASAARI;17.5;17.0
+14/05/17 16:00;FI5258;Eurdep;air;60.52;27.46;10.0;Finland;Kymenlaakso;Kotka-Hamina;;KLAMILA;17.0;18.0
+14/05/17 16:00;FI5259;Eurdep;air;60.75;27.34;50.2;Finland;Kymenlaakso;Kotka-Hamina;;PYHAELTOE;17.4;17.0
+14/05/17 16:00;FI5260;Eurdep;air;60.49;27.74;0.0;Finland;Kymenlaakso;Kotka-Hamina;;HURPPU;11.8;12.0
+14/05/17 16:00;FI5352;Eurdep;air;61.06;28.21;100.9;Finland;Karelia del Sur;Lappeenranta;Lappeenranta;LAPPEENRANTA;13.1;13.0
+14/05/17 16:00;FI5354;Eurdep;air;61.2;27.68;80.0;Finland;Karelia del Sur;Lappeenranta;;SAVITAIPALE;13.5;13.0
+14/05/17 16:00;FI5355;Eurdep;air;60.92;27.56;94.7;Finland;Karelia del Sur;Lappeenranta;;LUUMAEKI;17.0;18.0
+14/05/17 16:00;FI5356;Eurdep;air;60.96;28.53;76.4;Finland;Karelia del Sur;Lappeenranta;Lappeenranta;NUIJAMAA;17.1;17.0
+14/05/17 16:00;FI5359;Eurdep;air;60.8;28.0;0.0;Finland;0;0;0;YLAEMAA;14.3;14.0
+14/05/17 16:00;FI5360;Eurdep;air;61.06;27.81;110.2;Finland;Karelia del Sur;Lappeenranta;;LEMI;10.6;10.0
+14/05/17 16:00;FI5452;Eurdep;air;61.2;28.77;75.7;Finland;Karelia del Sur;Imatra;;IMATRA;14.9;15.0
+14/05/17 16:00;FI5453;Eurdep;air;61.44;29.36;76.2;Finland;Karelia del Sur;Imatra;;RAUTJAERVI;12.5;12.0
+14/05/17 16:00;FI5454;Eurdep;air;61.55;29.5;77.8;Finland;Karelia del Sur;Imatra;;PARIKKALA;12.9;13.0
+14/05/17 16:00;FI5456;Eurdep;air;61.11;28.49;101.6;Finland;Karelia del Sur;Lappeenranta;Lappeenranta;JOUTSENO;12.4;12.0
+14/05/17 16:00;FI5551;Eurdep;air;61.68;27.28;77.0;Finland;Savonia del Sur;Mikkeli;Mikkeli;MIKKELI;12.9;13.0
+14/05/17 16:00;FI5553;Eurdep;air;61.9;27.85;119.0;Finland;Savonia del Sur;Pieksämäki;;JUVA;10.7;11.0
+14/05/17 16:00;FI5555;Eurdep;air;61.99;26.64;101.2;Finland;Savonia del Sur;Mikkeli;;KANGASNIEMI;9.8;10.0
+14/05/17 16:00;FI5556;Eurdep;air;61.53;28.19;98.0;Finland;Savonia del Sur;Mikkeli;;PUUMALA;11.3;11.0
+14/05/17 16:00;FI5557;Eurdep;air;62.02;27.22;114.7;Finland;Savonia del Sur;Mikkeli;Mikkeli;HAUKIVUORI;9.8;10.0
+14/05/17 16:00;FI5559;Eurdep;air;61.5;26.48;111.5;Finland;Savonia del Sur;Mikkeli;;PERTUNMAA;12.1;12.0
+14/05/17 16:00;FI5561;Eurdep;air;61.51;27.26;86.5;Finland;Savonia del Sur;Mikkeli;Mikkeli;RISTIINA;9.8;10.0
+14/05/17 16:00;FI5752;Eurdep;air;61.87;28.89;79.6;Finland;Savonia del Sur;Savonlinna;Savonlinna;SAVONLINNA;9.7;10.0
+14/05/17 16:00;FI5753;Eurdep;air;61.76;29.38;76.0;Finland;Savonia del Sur;Savonlinna;Savonlinna;PUNKAHARJU;11.6;11.0
+14/05/17 16:00;FI5755;Eurdep;air;61.92;29.28;95.9;Finland;Savonia del Sur;Savonlinna;Savonlinna;KERIMAEKI;10.3;10.0
+14/05/17 16:00;FI5756;Eurdep;air;62.17;29.21;78.1;Finland;Savonia del Sur;Savonlinna;Savonlinna;SAVONRANTA;10.2;10.0
+14/05/17 16:00;FI5757;Eurdep;air;61.79;28.36;93.2;Finland;Savonia del Sur;Savonlinna;;SULKAVA;10.8;11.0
+14/05/17 16:00;FI5758;Eurdep;air;62.06;28.3;95.1;Finland;Savonia del Sur;Savonlinna;;RANTASALMI;8.3;8.0
+14/05/17 16:00;FI5852;Eurdep;air;62.29;27.16;127.8;Finland;Savonia del Sur;Pieksämäki;;PIEKSAEMAEKI;11.4;11.0
+14/05/17 16:00;FI5853;Eurdep;air;62.18;27.82;97.8;Finland;Savonia del Sur;Pieksämäki;;JOROINEN;9.9;10.0
+14/05/17 16:00;FI5854;Eurdep;air;62.42;28.62;97.8;Finland;Savonia del Sur;Savonlinna;;HEINAEVESI;10.2;10.0
+14/05/17 16:00;FI6151;Eurdep;air;63.09;21.61;1.0;Finland;Ostrobotnia;Vaasa;Vaasa;Vaasa;15.0;15.0
+14/05/17 16:00;FI6157;Eurdep;air;62.78;21.19;8.0;Finland;Ostrobotnia;Vaasa;;KORSNAES;10.9;11.0
+14/05/17 16:00;FI6159;Eurdep;air;62.97;22.03;10.9;Finland;Ostrobotnia;Kyrönmaa;;LAIHIA;12.0;12.0
+14/05/17 16:00;FI6160;Eurdep;air;63.35;21.33;6.0;Finland;Ostrobotnia;Vaasa;;BJOERKOEBY;15.3;15.0
+14/05/17 16:00;FI6252;Eurdep;air;62.27;21.41;19.3;Finland;Ostrobotnia;Sydösterbotten;;KRISTIINANKAUPUNKI;11.3;11.0
+14/05/17 16:00;FI6254;Eurdep;air;62.43;22.18;91.0;Finland;Ostrobotnia del Sur;Suupohja;Kauhajoki;KAUHAJOKI;12.1;12.0
+14/05/17 16:00;FI6258;Eurdep;air;62.11;21.97;96.1;Finland;Ostrobotnia del Sur;Suupohja;;ISOJOKI;10.9;11.0
+14/05/17 16:00;FI6452;Eurdep;air;62.79;22.83;41.0;Finland;Ostrobotnia del Sur;Seinäjoki;Seinäjoki;SEINAEJOKI;11.0;11.0
+14/05/17 16:00;FI6453;Eurdep;air;62.98;23.02;38.1;Finland;Ostrobotnia del Sur;Seinäjoki;Lapua;LAPUA;11.0;11.0
+14/05/17 16:00;FI6454;Eurdep;air;62.49;22.76;91.0;Finland;Ostrobotnia del Sur;Seinäjoki;;JALASJAERVI;12.0;12.0
+14/05/17 16:00;FI6456;Eurdep;air;62.62;22.4;53.6;Finland;Ostrobotnia del Sur;Seinäjoki;;KURIKKA;10.4;10.0
+14/05/17 16:00;FI6458;Eurdep;air;63.25;22.85;36.0;Finland;Ostrobotnia del Sur;Seinäjoki;;ALAHAERMAE;14.0;14.0
+14/05/17 16:00;FI6552;Eurdep;air;62.55;24.1;177.8;Finland;Ostrobotnia del Sur;Kuusiokunnat;;AEHTAERI;9.5;10.0
+14/05/17 16:00;FI6652;Eurdep;air;63.0;23.82;0.0;Finland;0;0;0;ALAJAERVI;11.8;12.0
+14/05/17 16:00;FI6752;Eurdep;air;63.68;22.7;5.3;Finland;Ostrobotnia;Jakobstad sub-region;Jakobstad;PIETARSAARI;10.0;10.0
+14/05/17 16:00;FI6852;Eurdep;air;63.84;23.12;10.0;Finland;Ostrobotnia Central;Kokkola;Kokkola;KOKKOLA;9.1;9.0
+14/05/17 16:00;FI6853;Eurdep;air;63.55;23.69;65.7;Finland;Ostrobotnia Central;Kaustinen;;KAUSTINEN;12.7;12.0
+14/05/17 16:00;FI6859;Eurdep;air;63.53;24.66;141.3;Finland;Ostrobotnia Central;Kaustinen;;LESTIJAERVI;8.3;8.6
+14/05/17 16:00;FI6861;Eurdep;air;63.9;23.91;47.0;Finland;Ostrobotnia Central;Kokkola;;KANNUS;9.9;10.0
+14/05/17 16:00;FI7151;Eurdep;air;62.88;27.63;98.2;Finland;Savonia del Norte;Kuopio;Kuopio;Kuopio;13.8;14.0
+14/05/17 16:00;FI7153;Eurdep;air;62.63;27.12;99.0;Finland;Savonia del Norte;Sisä-Savo;;SUONENJOKI;10.9;11.0
+14/05/17 16:00;FI7154;Eurdep;air;62.9;26.97;102.9;Finland;Savonia del Norte;Kuopio;Kuopio;KARTTULA;9.7;10.0
+14/05/17 16:00;FI7156;Eurdep;air;62.8;28.5;101.0;Finland;Savonia del Norte;Koillis-Savo;;TUUSNIEMI;9.5;9.8
+14/05/17 16:00;FI7157;Eurdep;air;63.49;28.31;131.6;Finland;Savonia del Norte;Koillis-Savo;;RAUTAVAARA;7.1;7.0
+14/05/17 16:00;FI7159;Eurdep;air;63.21;28.06;119.9;Finland;Savonia del Norte;Koillis-Savo;Kuopio;NILSIAE;8.3;8.6
+14/05/17 16:00;FI7163;Eurdep;air;62.93;26.41;121.4;Finland;Savonia del Norte;Sisä-Savo;;VESANTO;11.2;11.0
+14/05/17 16:00;FI7164;Eurdep;air;63.06;28.32;101.6;Finland;Savonia del Norte;Koillis-Savo;;JUANKOSKI;9.3;9.5
+14/05/17 16:00;FI7165;Eurdep;air;62.49;27.79;121.6;Finland;Savonia del Norte;Varkaus;;LEPPAEVIRTA;10.2;10.0
+14/05/17 16:00;FI7166;Eurdep;air;63.08;27.68;87.8;Finland;Savonia del Norte;Kuopio;;SIILINJAERVI;9.6;9.0
+14/05/17 16:00;FI7252;Eurdep;air;62.31;27.9;77.3;Finland;Savonia del Norte;Varkaus;Varkaus;VARKAUS;10.1;10.0
+14/05/17 16:00;FI7351;Eurdep;air;62.61;29.77;80.0;Finland;Karelia del Norte;Joensuu;Joensuu;Joensuu;9.4;9.7
+14/05/17 16:00;FI7353;Eurdep;air;62.8;30.15;96.0;Finland;Karelia del Norte;Joensuu;Joensuu;ENO;9.9;10.0
+14/05/17 16:00;FI7354;Eurdep;air;62.09;30.15;98.1;Finland;Karelia del Norte;Keski-Karjala;;KITEE;10.1;10.0
+14/05/17 16:00;FI7356;Eurdep;air;62.72;29.03;112.6;Finland;Karelia del Norte;Joensuu;;OUTOKUMPU;8.4;8.6
+14/05/17 16:00;FI7357;Eurdep;air;62.85;29.37;97.8;Finland;;;;POLVIJAERVI;11.5;11.0
+14/05/17 16:00;FI7359;Eurdep;air;61.9;29.82;95.7;Finland;Karelia del Norte;Keski-Karjala;;KESAELAHTI;10.4;10.0
+14/05/17 16:00;FI7360;Eurdep;air;62.17;30.59;87.8;Finland;Karelia del Norte;Keski-Karjala;;VAERTSILAE;10.3;10.0
+14/05/17 16:00;FI7361;Eurdep;air;62.48;30.61;119.5;Finland;Karelia del Norte;Joensuu;Joensuu;TUUPOVAARA;11.3;11.0
+14/05/17 16:00;FI7362;Eurdep;air;62.49;30.25;141.2;Finland;Karelia del Norte;Joensuu;Joensuu;KIIHTELYSVAARA;10.3;10.0
+14/05/17 16:00;FI7364;Eurdep;air;62.31;29.63;92.0;Finland;Karelia del Norte;Keski-Karjala;;RAEAEKKYLAE;9.8;10.0
+14/05/17 16:00;FI7365;Eurdep;air;62.67;30.94;151.1;Finland;Karelia del Norte;Joensuu;;ILOMANTSI;8.6;8.8
+14/05/17 16:00;FI7367;Eurdep;air;62.23;30.33;117.2;Finland;Karelia del Norte;Keski-Karjala;;TOHMAJAERVI;12.4;13.0
+14/05/17 16:00;FI7368;Eurdep;air;62.76;29.86;145.9;Finland;Karelia del Norte;Joensuu;;KONTIOLAHTI;12.4;12.0
+14/05/17 16:00;FI7369;Eurdep;air;63.3;30.96;240.0;Finland;Karelia del Norte;Pielisen Karjala;;INARI PKL;7.9;8.2
+14/05/17 16:00;FI7652;Eurdep;air;63.56;29.07;140.1;Finland;Karelia del Norte;Pielisen Karjala;;NURMES;10.1;10.0
+14/05/17 16:00;FI7654;Eurdep;air;63.32;30.03;98.1;Finland;Karelia del Norte;Pielisen Karjala;;LIEKSA;9.2;9.7
+14/05/17 16:00;FI7655;Eurdep;air;63.24;29.26;105.2;Finland;Karelia del Norte;Joensuu;;JUUKA;12.3;12.0
+14/05/17 16:00;FI7656;Eurdep;air;63.68;28.81;115.7;Finland;Karelia del Norte;Pielisen Karjala;;VALTIMO;11.4;11.0
+14/05/17 16:00;FI7752;Eurdep;air;63.57;27.19;96.0;Finland;Savonia del Norte;Ylä-Savo;Iisalmi;IISALMI;13.4;13.0
+14/05/17 16:00;FI7753;Eurdep;air;63.65;26.6;109.0;Finland;Savonia del Norte;Ylä-Savo;;KIURUVESI;10.2;10.0
+14/05/17 16:00;FI7755;Eurdep;air;63.36;27.39;100.4;Finland;Savonia del Norte;Ylä-Savo;;LAPINLAHTI;6.8;7.0
+14/05/17 16:00;FI7756;Eurdep;air;63.23;26.77;113.4;Finland;Savonia del Norte;Ylä-Savo;;PIELAVESI;9.1;9.4
+14/05/17 16:00;FI7758;Eurdep;air;63.75;27.01;108.8;Finland;Savonia del Norte;Ylä-Savo;;VIEREMAE;9.3;9.7
+14/05/17 16:00;FI7761;Eurdep;air;63.67;27.53;111.0;Finland;Savonia del Norte;Ylä-Savo;;SONKAJAERVI;9.5;10.0
+14/05/17 16:00;FI8151;Eurdep;air;65.01;25.49;12.7;Finland;Ostrobotnia del Norte;Oulu sub-region;Oulu;Oulu Raksila;13.4;13.0
+14/05/17 16:00;FI8152;Eurdep;air;64.56;26.84;131.0;Finland;Kainuu;Kajaani;;VAALA;14.2;14.0
+14/05/17 16:00;FI8156;Eurdep;air;65.32;25.39;2.1;Finland;Ostrobotnia del Norte;Oulunkaari;;II;11.0;11.0
+14/05/17 16:00;FI8161;Eurdep;air;64.81;26.02;20.0;Finland;Ostrobotnia del Norte;Oulu sub-region;;MUHOS;9.0;9.4
+14/05/17 16:00;FI8163;Eurdep;air;65.02;24.73;7.0;Finland;Ostrobotnia del Norte;Oulu sub-region;;HAILUOTO;10.0;10.0
+14/05/17 16:00;FI8164;Eurdep;air;65.61;25.21;12.4;Finland;Ostrobotnia del Norte;Oulunkaari;;KUIVANIEMI;7.0;7.2
+14/05/17 16:00;FI8167;Eurdep;air;65.02;25.47;0.5;Finland;Ostrobotnia del Norte;Oulu sub-region;Oulu;Oulu;9.2;9.0
+14/05/17 16:00;FI8253;Eurdep;air;64.48;24.99;88.8;Finland;Ostrobotnia del Norte;Raahe;;VIHANTI;9.2;9.7
+14/05/17 16:00;FI8352;Eurdep;air;64.08;24.53;55.0;Finland;Ostrobotnia del Norte;Ylivieska;;YLIVIESKA;8.6;8.0
+14/05/17 16:00;FI8354;Eurdep;air;64.26;23.96;12.7;Finland;Ostrobotnia del Norte;Ylivieska;;KALAJOKI;10.4;11.0
+14/05/17 16:00;FI8359;Eurdep;air;64.15;25.36;117.7;Finland;Ostrobotnia del Norte;Siikalatva sub-region;;HAAPAVESI;12.1;12.0
+14/05/17 16:00;FI8452;Eurdep;air;63.75;25.33;94.7;Finland;Ostrobotnia del Norte;Nivala-Haapajärvi sub-region;;HAAPAJAERVI;10.2;10.0
+14/05/17 16:00;FI8454;Eurdep;air;64.1;26.33;126.0;Finland;Ostrobotnia del Norte;Siikalatva sub-region;;PYHAENTAE;13.1;13.0
+14/05/17 16:00;FI8455;Eurdep;air;63.68;25.97;152.3;Finland;Ostrobotnia del Norte;Nivala-Haapajärvi sub-region;;PYHAEJAERVI;12.1;12.0
+14/05/17 16:00;FI8459;Eurdep;air;64.35;26.29;89.0;Finland;Ostrobotnia del Norte;Siikalatva sub-region;;KESTILAE;11.1;11.0
+14/05/17 16:00;FI8652;Eurdep;air;64.22;27.73;146.8;Finland;Kainuu;Kajaani;Kajaani;KAJAANI;15.1;15.0
+14/05/17 16:00;FI8653;Eurdep;air;64.09;27.71;202.2;Finland;Kainuu;Kajaani;;LEHTOVAARA;7.5;8.4
+14/05/17 16:00;FI8655;Eurdep;air;64.13;28.39;149.8;Finland;Kainuu;Kajaani;;SOTKAMO;9.8;10.0
+14/05/17 16:00;FI8657;Eurdep;air;64.51;28.21;132.0;Finland;Kainuu;Kajaani;;RISTIJAERVI;9.5;9.9
+14/05/17 16:00;FI8662;Eurdep;air;64.13;29.52;164.9;Finland;Kainuu;Kehys-Kainuu;;KUHMO;9.4;9.0
+14/05/17 16:00;FI8663;Eurdep;air;64.88;28.92;203.7;Finland;Kainuu;Kehys-Kainuu;;SUOMUSSALMI;8.2;8.5
+14/05/17 16:00;FI8664;Eurdep;air;65.22;29.47;225.0;Finland;Kainuu;Kehys-Kainuu;;JUNTUSRANTA;6.4;6.9
+14/05/17 16:00;FI8667;Eurdep;air;64.87;27.68;167.1;Finland;Kainuu;Kehys-Kainuu;;PUOLANKA;14.2;14.0
+14/05/17 16:00;FI8669;Eurdep;air;64.49;29.91;189.0;Finland;Kainuu;Kehys-Kainuu;;VARTIUS;7.1;7.4
+14/05/17 16:00;FI8952;Eurdep;air;65.97;29.17;259.9;Finland;Ostrobotnia del Norte;Koillismaa;Kuusamo;KUUSAMO;8.3;8.4
+14/05/17 16:00;FI8953;Eurdep;air;65.36;27.0;0.0;Finland;0;0;0;PUDASJAERVI;9.7;10.0
+14/05/17 16:00;FI8955;Eurdep;air;65.64;27.72;276.4;Finland;Ostrobotnia del Norte;Oulunkaari;;SYOETE;5.3;5.4
+14/05/17 16:00;FI8959;Eurdep;air;65.8;30.1;250.2;Finland;Ostrobotnia del Norte;Koillismaa;Kuusamo;KORTESALMI;8.5;8.8
+14/05/17 16:00;FI9152;Eurdep;air;66.51;25.67;134.9;Finland;Laponia finlandesa;Rovaniemi;Rovaniemi;Rovaniemi;8.8;9.2
+14/05/17 16:00;FI9154;Eurdep;air;66.11;28.17;249.3;Finland;Laponia finlandesa;Itä-Lappi;;POSIO;9.6;10.0
+14/05/17 16:00;FI9155;Eurdep;air;65.92;26.53;143.0;Finland;Laponia finlandesa;Rovaniemi;;RANUA;7.0;7.2
+14/05/17 16:00;FI9157;Eurdep;air;66.86;25.46;97.7;Finland;Laponia finlandesa;Rovaniemi;Rovaniemi;PATOKOSKI;8.8;9.0
+14/05/17 16:00;FI9159;Eurdep;air;66.35;26.84;91.7;Finland;Laponia finlandesa;Rovaniemi;Rovaniemi;Pekkala;7.0;7.0
+14/05/17 16:00;FI9162;Eurdep;air;66.09;24.82;36.7;Finland;Laponia finlandesa;Kemi-Tornio sub-region;;TERVOLA;6.8;7.0
+14/05/17 16:00;FI9163;Eurdep;air;65.85;24.17;4.1;Finland;Laponia finlandesa;Kemi-Tornio sub-region;Tornio;TORNIO;11.1;11.0
+14/05/17 16:00;FI9164;Eurdep;air;65.74;24.59;9.0;Finland;Laponia finlandesa;Kemi-Tornio sub-region;Kemi;KEMI;7.8;8.2
+14/05/17 16:00;FI9252;Eurdep;air;66.72;27.39;164.1;Finland;Laponia finlandesa;Itä-Lappi;;KEMIJAERVI;9.5;9.7
+14/05/17 16:00;FI9253;Eurdep;air;66.83;28.67;218.2;Finland;Laponia finlandesa;Itä-Lappi;;SALLA;7.1;7.5
+14/05/17 16:00;FI9254;Eurdep;air;67.11;27.51;160.0;Finland;Laponia finlandesa;Itä-Lappi;;PELKOSENNIEMI;6.8;7.0
+14/05/17 16:00;FI9255;Eurdep;air;67.3;28.16;186.0;Finland;Laponia finlandesa;Itä-Lappi;;SAVUKOSKI;6.3;6.6
+14/05/17 16:00;FI9256;Eurdep;air;66.93;28.9;199.7;Finland;Laponia finlandesa;Itä-Lappi;;KELLOSELKAE;5.9;6.1
+14/05/17 16:00;FI9261;Eurdep;air;67.75;29.61;373.8;Finland;Laponia finlandesa;Itä-Lappi;;VAERRIOE;5.4;5.6
+14/05/17 16:00;FI9352;Eurdep;air;67.42;26.61;187.1;Finland;Laponia finlandesa;Pohjois-Lappi;;SODANKYLAE;6.7;7.0
+14/05/17 16:00;FI9354;Eurdep;air;68.1;27.11;254.6;Finland;Laponia finlandesa;Pohjois-Lappi;;VUOTSO;5.4;5.0
+14/05/17 16:00;FI9452;Eurdep;air;67.66;24.9;178.7;Finland;Laponia finlandesa;Tunturi-Lappi;Kittilä;KITTILAE;6.6;7.0
+14/05/17 16:00;FI9552;Eurdep;air;66.77;23.96;101.9;Finland;Laponia finlandesa;Valle del Torne;;PELLO;10.2;10.0
+14/05/17 16:00;FI9555;Eurdep;air;67.34;23.83;149.0;Finland;Laponia finlandesa;Tunturi-Lappi;;KOLARI;6.4;6.6
+14/05/17 16:00;FI9556;Eurdep;air;66.34;23.69;55.7;Finland;Laponia finlandesa;Valle del Torne;;YLITORNIO;9.0;9.0
+14/05/17 16:00;FI9652;Eurdep;air;67.96;23.68;246.9;Finland;Laponia finlandesa;Tunturi-Lappi;Muonio;MUONIO;6.2;6.4
+14/05/17 16:00;FI9653;Eurdep;air;68.39;23.62;295.2;Finland;Laponia finlandesa;Tunturi-Lappi;;ENONTEKIOE;6.5;6.7
+14/05/17 16:00;FI9655;Eurdep;air;68.45;22.5;328.0;Finland;Laponia finlandesa;Tunturi-Lappi;;Karesuvanto;6.3;6.0
+14/05/17 16:00;FI9656;Eurdep;air;69.05;20.8;572.2;Finland;Laponia finlandesa;Tunturi-Lappi;;KILPISJAERVI;4.8;5.0
+14/05/17 16:00;FI9752;Eurdep;air;68.66;27.53;119.6;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;Ivalo;8.7;8.9
+14/05/17 16:00;FI9753;Eurdep;air;68.64;27.57;130.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;Ivalo Rv;6.9;7.2
+14/05/17 16:00;FI9754;Eurdep;air;68.9;27.01;138.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;INARI;5.2;5.0
+14/05/17 16:00;FI9755;Eurdep;air;68.9;28.42;118.1;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;VIRTANIEMI;6.5;6.7
+14/05/17 16:00;FI9756;Eurdep;air;69.51;28.6;96.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;SEVETTIJAERVI;5.6;5.8
+14/05/17 16:00;FI9759;Eurdep;air;69.91;27.03;72.0;Finland;Laponia finlandesa;Pohjois-Lappi;;UTSJOKI;5.9;6.2
+14/05/17 16:00;FI9760;Eurdep;air;69.4;25.86;174.4;Finland;Laponia finlandesa;Pohjois-Lappi;;KARIGASNIEMI;6.4;6.0
+14/05/17 16:00;FI9761;Eurdep;air;68.42;27.43;282.3;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;SAARISELKAE;4.9;5.1
+14/05/17 16:00;FI9763;Eurdep;air;69.1;27.25;160.0;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;KAAMANEN;5.4;5.6
+14/05/17 16:00;FI9765;Eurdep;air;68.47;28.46;125.2;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;RAJA-JOOSEPPI;7.1;7.3
+14/05/17 16:00;FI9766;Eurdep;air;68.47;26.2;429.2;Finland;Laponia finlandesa;Pohjois-Lappi;Inari;LITMURIVAARA;7.1;7.4
+14/05/17 16:00;FI9767;Eurdep;air;70.08;27.89;52.8;Finland;Laponia finlandesa;Pohjois-Lappi;;NUORGAM;6.4;6.6
+14/05/17 16:00;FI1850;Eurdep;air;60.98;25.69;115.4;Finland;Päijänne Tavastia;Lahti;Lahti;Lahti;10.4;10.0
+14/05/17 16:00;FI5451;Eurdep;air;61.13;28.83;58.7;Finland;Karelia del Sur;Imatra;;Imatra Pelkola;12.8;13.0
+14/05/17 16:00;FI0061;Eurdep;air;60.21;25.05;19.4;Finland;Uusimaa;Helsinki;Helsinki;Helsinki Roihupelto;10.3;10.0
+14/05/17 16:00;FI8956;Eurdep;air;66.3;29.15;240.1;Finland;Ostrobotnia del Norte;Koillismaa;Kuusamo;KAEYLAE;8.0;8.2
+14/05/17 16:00;FI7152;Eurdep;air;62.89;27.63;99.6;Finland;Savonia del Norte;Kuopio;Kuopio;Kuopio IL;13.5;13.0
+14/05/17 16:00;FI9353;Eurdep;air;67.37;26.63;178.3;Finland;Laponia finlandesa;Pohjois-Lappi;;Sodankylae IL;7.4;7.6
