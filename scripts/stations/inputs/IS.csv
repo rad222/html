@@ -1,5 +1,5 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-16/05/17 15:00;IS0002;Eurdep;air;64.13;-21.9;0;Iceland;0;0;0;Reykjavik;5.6;5.0
-16/05/17 16:00;IS0005;Eurdep;air;66.46;-15.95;0;Iceland;0;0;0;Raufarhofn;4.0;4.0
-16/05/17 15:00;IS0004;Eurdep;air;66.16;-23.25;0;Iceland;0;0;0;Bolungarvik;5.0;5.1
-16/05/17 16:00;IS0003;Eurdep;air;64.27;-15.21;0;Iceland;0;0;0;Hofn i Hornafirdi;5.1;5.2
+16/05/17 17:00;IS0002;Eurdep;air;64.13;-21.9;0;Iceland;0;0;0;Reykjavik;5.0;5.0
+16/05/17 21:00;IS0005;Eurdep;air;66.46;-15.95;0;Iceland;0;0;0;Raufarhofn;4.0;4.0
+17/05/17 09:00;IS0004;Eurdep;air;66.16;-23.25;0;Iceland;0;0;0;Bolungarvik;4.9;5.1
+16/05/17 21:00;IS0003;Eurdep;air;64.27;-15.21;0;Iceland;0;0;0;Hofn i Hornafirdi;4.8;5.0
