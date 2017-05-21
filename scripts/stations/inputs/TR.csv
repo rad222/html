@@ -1,192 +1,192 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-21/05/17 04:00;TR10101;Eurdep;air;37.0;35.34;0.0;Turkey;0;0;0;ADANA;7.0;7.7
-21/05/17 04:00;TR10102;Eurdep;air;37.43;35.82;104.5;Turkey;Provincia de Adana;Kozan;;ADANA KOZAN;6.7;8.0
-21/05/17 04:00;TR10201;Eurdep;air;37.75;38.28;617.2;Turkey;Provincia de Adıyaman;Adıyaman Merkez;Adıyaman;ADIYAMAN;4.0;5.0
-21/05/17 04:00;TR10301;Eurdep;air;37.74;30.56;1443.2;Turkey;Provincia de Isparta;Isparta Merkez;;AFYONKARAHISAR;19.0;19.0
-21/05/17 04:00;TR10302;Eurdep;air;38.46;30.27;1082.4;Turkey;Provincia de Afyonkarahisar;Sandıklı;Sandıklı;AFYONKARAHISAR SANDIKLI;23.2;24.0
-21/05/17 04:00;TR10303;Eurdep;air;39.02;31.15;965.0;Turkey;Provincia de Afyonkarahisar;Emirdağ;Emirdağ;AFYONKARAHISAR EMIRDAG;24.5;25.0
-21/05/17 04:00;TR10401;Eurdep;air;39.73;43.06;1644.0;Turkey;Provincia de Ağrı;Ağrı Merkez;Agri;AGRI;14.4;15.0
-21/05/17 04:00;TR10402;Eurdep;air;39.55;44.08;1585.2;Turkey;Provincia de Ağrı;Doğubeyazıt;Doğubeyazıt;AGRI DOGUBAYAZIT;11.0;11.0
-21/05/17 04:00;TR10501;Eurdep;air;40.66;35.83;448.5;Turkey;Provincia de Amasya;Amasya Merkez;;AMASYA;8.0;8.0
-21/05/17 04:00;TR10601;Eurdep;air;39.91;32.74;870.6;Turkey;Provincia de Ankara;Çankaya;Ankara;Ankara Cankaya TAEK;5.1;6.0
-21/05/17 04:00;TR10602;Eurdep;air;40.1;31.7;541.5;Turkey;Provincia de Ankara;Nallıhan;;Ankara Nallihan CAYIRHAN TS;11.5;12.0
-21/05/17 04:00;TR10603;Eurdep;air;39.92;32.85;879.0;Turkey;Provincia de Ankara;Çankaya;Ankara;ANKARA CANKAYA;15.0;15.0
-21/05/17 04:00;TR10604;Eurdep;air;39.58;32.13;864.8;Turkey;Provincia de Ankara;Polatlı;Polatlı;ANKARA POLATLI;10.0;10.0
-21/05/17 04:00;TR10605;Eurdep;air;40.06;32.61;848.1;Turkey;Provincia de Ankara;Kazan;Saray Mahallesi;Ankara Kazan SANAEM;9.0;9.0
-21/05/17 04:00;TR10606;Eurdep;air;38.93;33.55;951.3;Turkey;Provincia de Ankara;Şereflikoçhisar;Şereflikoçhisar;ANKARA SEREFLIKOCHISAR;9.1;10.0
-21/05/17 04:00;TR10701;Eurdep;air;36.89;30.69;55.9;Turkey;Provincia de Antalya;Muratpaşa;Antalya;ANTALYA;6.0;6.0
-21/05/17 04:00;TR10702;Eurdep;air;36.55;31.98;11.1;Turkey;Provincia de Antalya;Alanya;Alanya;ANTALYA ALANYA;6.2;7.0
-21/05/17 04:00;TR10703;Eurdep;air;36.2;29.65;158.0;Turkey;Provincia de Antalya;Kaş;Kaş;ANTALYA KAS;4.9;5.0
-21/05/17 04:00;TR10704;Eurdep;air;36.79;31.45;11.3;Turkey;Provincia de Antalya;Manavgat;Manavgat;ANTALYA MANAVGAT;4.6;5.0
-21/05/17 04:00;TR10801;Eurdep;air;41.18;41.81;738.6;Turkey;Provincia de Artvin;Artvin Merkez;Artvin;ARTVIN;8.0;8.0
-21/05/17 04:00;TR10802;Eurdep;air;41.4;41.43;0.0;Turkey;0;0;0.0;ARTVIN HOPA;7.2;8.0
-21/05/17 04:00;TR10901;Eurdep;air;37.84;27.84;57.0;Turkey;Provincia de Aydin;Aydın Merkez;Aydin;AYDIN;12.0;12.6
-21/05/17 04:00;TR10902;Eurdep;air;37.86;27.27;63.8;Turkey;Provincia de Aydin;Kuşadası;Kusadasi;AYDIN KUSADASI;9.6;10.0
-21/05/17 04:00;TR11001;Eurdep;air;39.64;27.9;126.0;Turkey;Provincia de Balıkesir;Balıkesir Merkez;Balikesir;BALIKESIR;15.3;16.0
-21/05/17 04:00;TR11002;Eurdep;air;39.32;26.69;0.0;Turkey;;;;BALIKESIR AYVALIK;23.3;24.0
-21/05/17 04:00;TR11003;Eurdep;air;40.36;27.97;0.0;Turkey;;;;BALIKESIR BANDIRMA;7.0;7.0
-21/05/17 04:00;TR11101;Eurdep;air;40.14;29.98;485.5;Turkey;Provincia de Bilecik;Bilecik Merkez;Bilecik;BILECIK;9.5;10.0
-21/05/17 04:00;TR11201;Eurdep;air;38.88;40.5;1138.4;Turkey;Provincia de Bingöl;Bingöl Merkez;;BINGOL;12.0;13.0
-21/05/17 04:00;TR11301;Eurdep;air;38.48;42.16;1810.6;Turkey;Provincia de Bitlis;Bitlis Merkez;;BITLIS;12.7;13.0
-21/05/17 04:00;TR11302;Eurdep;air;38.49;42.29;1666.3;Turkey;Provincia de Bitlis;Tatvan;Tatvan;Bitlis TATVAN;10.4;11.0
-21/05/17 04:00;TR11401;Eurdep;air;40.73;31.6;727.0;Turkey;Provincia de Bolu;Bolu Merkez;Bolu;BOLU;9.0;9.0
-21/05/17 04:00;TR11501;Eurdep;air;37.72;30.29;954.0;Turkey;Provincia de Burdur;Burdur Merkez;Burdur;BURDUR;10.3;11.0
-21/05/17 04:00;TR11601;Eurdep;air;40.23;29.01;97.5;Turkey;Provincia de Bursa;Osmangazi;Bursa;BURSA;8.3;9.0
-21/05/17 04:00;TR11602;Eurdep;air;39.95;28.87;359.8;Turkey;Provincia de Bursa;Orhaneli;;Bursa ORHANELI TS;9.0;9.0
-21/05/17 04:00;TR11701;Eurdep;air;40.15;26.41;10.2;Turkey;Provincia de Çanakkale;Çanakkale Merkez;Çanakkale;CANAKKALE;9.5;10.0
-21/05/17 04:00;TR11702;Eurdep;air;40.02;26.98;134.8;Turkey;Provincia de Çanakkale;Çan;;Canakkale CAN TS;10.3;11.0
-21/05/17 04:00;TR11703;Eurdep;air;40.42;26.67;33.9;Turkey;Provincia de Çanakkale;Galípoli;Gelibolu (Gallípoli);CANAKKALE GELIBOLU;8.1;8.9
-21/05/17 04:00;TR11704;Eurdep;air;39.78;26.33;53.0;Turkey;Provincia de Çanakkale;Ezine;;CANAKKALE EZINE;16.2;17.0
-21/05/17 04:00;TR11801;Eurdep;air;40.61;33.61;758.5;Turkey;Provincia de Çankırı;Çankırı Merkez;Çankır;CANKIRI;7.0;7.0
-21/05/17 04:00;TR11901;Eurdep;air;40.55;34.96;818.0;Turkey;Provincia de Çorum;Çorum Merkez;Corum;CORUM;9.0;9.5
-21/05/17 04:00;TR12001;Eurdep;air;37.76;29.09;440.5;Turkey;Provincia de Denizli;Denizli Merkez;Denizli;DENIZLI;11.3;12.0
-21/05/17 04:00;TR12101;Eurdep;air;37.9;40.23;642.1;Turkey;Provincia de Diyarbakır;Yenişehir;;DIYARBAKIR;6.3;7.0
-21/05/17 03:00;TR12201;Eurdep;air;41.67;26.57;50.7;Turkey;Provincia de Edirne;Edirne Merkez;Edirne;EDIRNE;8.0;8.0
-21/05/17 03:00;TR12202;Eurdep;air;41.84;26.73;141.1;Turkey;Provincia de Edirne;Lalapaşa;;EDIRNE LALAPASA;10.1;10.9
-21/05/17 03:00;TR12203;Eurdep;air;41.27;26.69;17.1;Turkey;Provincia de Edirne;Uzunköprü;Uzunköprü;EDIRNE UZUNKOPRU;8.0;8.0
-21/05/17 03:00;TR12204;Eurdep;air;40.85;26.63;115.9;Turkey;Provincia de Edirne;Keşan;Keşan;EDIRNE KESAN;8.6;9.0
-21/05/17 03:00;TR12301;Eurdep;air;38.64;39.26;971.3;Turkey;Provincia de Elazığ;Elâzığ Merkez;;ELAZIG;5.0;5.0
+21/05/17 16:00;TR10101;Eurdep;air;37.0;35.34;0.0;Turkey;0;0;0;ADANA;6.8;7.0
+21/05/17 16:00;TR10102;Eurdep;air;37.43;35.82;104.5;Turkey;Provincia de Adana;Kozan;;ADANA KOZAN;6.3;7.0
+21/05/17 16:00;TR10201;Eurdep;air;37.75;38.28;617.2;Turkey;Provincia de Adıyaman;Adıyaman Merkez;Adıyaman;ADIYAMAN;4.0;4.0
+21/05/17 17:00;TR10301;Eurdep;air;37.74;30.56;1443.2;Turkey;Provincia de Isparta;Isparta Merkez;;AFYONKARAHISAR;19.0;19.0
+21/05/17 16:00;TR10302;Eurdep;air;38.46;30.27;1082.4;Turkey;Provincia de Afyonkarahisar;Sandıklı;Sandıklı;AFYONKARAHISAR SANDIKLI;23.2;23.6
+21/05/17 16:00;TR10303;Eurdep;air;39.02;31.15;965.0;Turkey;Provincia de Afyonkarahisar;Emirdağ;Emirdağ;AFYONKARAHISAR EMIRDAG;24.5;25.0
+21/05/17 16:00;TR10401;Eurdep;air;39.73;43.06;1644.0;Turkey;Provincia de Ağrı;Ağrı Merkez;Agri;AGRI;14.2;14.6
+21/05/17 16:00;TR10402;Eurdep;air;39.55;44.08;1585.2;Turkey;Provincia de Ağrı;Doğubeyazıt;Doğubeyazıt;AGRI DOGUBAYAZIT;11.0;11.0
+21/05/17 16:00;TR10501;Eurdep;air;40.66;35.83;448.5;Turkey;Provincia de Amasya;Amasya Merkez;;AMASYA;8.0;8.0
+21/05/17 16:00;TR10601;Eurdep;air;39.91;32.74;870.6;Turkey;Provincia de Ankara;Çankaya;Ankara;Ankara Cankaya TAEK;5.2;6.0
+21/05/17 16:00;TR10602;Eurdep;air;40.1;31.7;541.5;Turkey;Provincia de Ankara;Nallıhan;;Ankara Nallihan CAYIRHAN TS;11.7;12.0
+21/05/17 16:00;TR10603;Eurdep;air;39.92;32.85;879.0;Turkey;Provincia de Ankara;Çankaya;Ankara;ANKARA CANKAYA;15.0;15.0
+21/05/17 16:00;TR10604;Eurdep;air;39.58;32.13;864.8;Turkey;Provincia de Ankara;Polatlı;Polatlı;ANKARA POLATLI;10.0;10.8
+21/05/17 17:00;TR10605;Eurdep;air;40.06;32.61;848.1;Turkey;Provincia de Ankara;Kazan;Saray Mahallesi;Ankara Kazan SANAEM;9.0;9.0
+21/05/17 16:00;TR10606;Eurdep;air;38.93;33.55;951.3;Turkey;Provincia de Ankara;Şereflikoçhisar;Şereflikoçhisar;ANKARA SEREFLIKOCHISAR;9.2;10.0
+21/05/17 16:00;TR10701;Eurdep;air;36.89;30.69;55.9;Turkey;Provincia de Antalya;Muratpaşa;Antalya;ANTALYA;6.0;6.0
+21/05/17 16:00;TR10702;Eurdep;air;36.55;31.98;11.1;Turkey;Provincia de Antalya;Alanya;Alanya;ANTALYA ALANYA;6.2;7.0
+21/05/17 16:00;TR10703;Eurdep;air;36.2;29.65;158.0;Turkey;Provincia de Antalya;Kaş;Kaş;ANTALYA KAS;4.8;5.0
+21/05/17 17:00;TR10704;Eurdep;air;36.79;31.45;11.3;Turkey;Provincia de Antalya;Manavgat;Manavgat;ANTALYA MANAVGAT;4.7;5.0
+21/05/17 17:00;TR10801;Eurdep;air;41.18;41.81;738.6;Turkey;Provincia de Artvin;Artvin Merkez;Artvin;ARTVIN;8.0;8.0
+21/05/17 16:00;TR10802;Eurdep;air;41.4;41.43;0.0;Turkey;0;0;0.0;ARTVIN HOPA;7.2;8.0
+21/05/17 16:00;TR10901;Eurdep;air;37.84;27.84;57.0;Turkey;Provincia de Aydin;Aydın Merkez;Aydin;AYDIN;12.0;12.0
+21/05/17 16:00;TR10902;Eurdep;air;37.86;27.27;63.8;Turkey;Provincia de Aydin;Kuşadası;Kusadasi;AYDIN KUSADASI;9.7;10.0
+21/05/17 17:00;TR11001;Eurdep;air;39.64;27.9;126.0;Turkey;Provincia de Balıkesir;Balıkesir Merkez;Balikesir;BALIKESIR;15.5;16.0
+21/05/17 16:00;TR11002;Eurdep;air;39.32;26.69;0.0;Turkey;;;;BALIKESIR AYVALIK;23.5;24.0
+21/05/17 17:00;TR11003;Eurdep;air;40.36;27.97;0.0;Turkey;;;;BALIKESIR BANDIRMA;7.0;7.0
+21/05/17 16:00;TR11101;Eurdep;air;40.14;29.98;485.5;Turkey;Provincia de Bilecik;Bilecik Merkez;Bilecik;BILECIK;9.5;10.0
+21/05/17 16:00;TR11201;Eurdep;air;38.88;40.5;1138.4;Turkey;Provincia de Bingöl;Bingöl Merkez;;BINGOL;12.0;12.9
+21/05/17 17:00;TR11301;Eurdep;air;38.48;42.16;1810.6;Turkey;Provincia de Bitlis;Bitlis Merkez;;BITLIS;12.9;13.0
+21/05/17 16:00;TR11302;Eurdep;air;38.49;42.29;1666.3;Turkey;Provincia de Bitlis;Tatvan;Tatvan;Bitlis TATVAN;10.3;11.0
+21/05/17 17:00;TR11401;Eurdep;air;40.73;31.6;727.0;Turkey;Provincia de Bolu;Bolu Merkez;Bolu;BOLU;9.0;9.0
+21/05/17 17:00;TR11501;Eurdep;air;37.72;30.29;954.0;Turkey;Provincia de Burdur;Burdur Merkez;Burdur;BURDUR;10.4;11.0
+21/05/17 16:00;TR11601;Eurdep;air;40.23;29.01;97.5;Turkey;Provincia de Bursa;Osmangazi;Bursa;BURSA;8.3;9.0
+21/05/17 17:00;TR11602;Eurdep;air;39.95;28.87;359.8;Turkey;Provincia de Bursa;Orhaneli;;Bursa ORHANELI TS;9.0;9.0
+21/05/17 17:00;TR11701;Eurdep;air;40.15;26.41;10.2;Turkey;Provincia de Çanakkale;Çanakkale Merkez;Çanakkale;CANAKKALE;9.6;10.0
+21/05/17 17:00;TR11702;Eurdep;air;40.02;26.98;134.8;Turkey;Provincia de Çanakkale;Çan;;Canakkale CAN TS;10.6;14.0
+21/05/17 16:00;TR11703;Eurdep;air;40.42;26.67;33.9;Turkey;Provincia de Çanakkale;Galípoli;Gelibolu (Gallípoli);CANAKKALE GELIBOLU;8.0;8.9
+21/05/17 17:00;TR11704;Eurdep;air;39.78;26.33;53.0;Turkey;Provincia de Çanakkale;Ezine;;CANAKKALE EZINE;16.3;17.0
+21/05/17 17:00;TR11801;Eurdep;air;40.61;33.61;758.5;Turkey;Provincia de Çankırı;Çankırı Merkez;Çankır;CANKIRI;7.0;7.0
+21/05/17 17:00;TR11901;Eurdep;air;40.55;34.96;818.0;Turkey;Provincia de Çorum;Çorum Merkez;Corum;CORUM;9.0;9.5
+21/05/17 16:00;TR12001;Eurdep;air;37.76;29.09;440.5;Turkey;Provincia de Denizli;Denizli Merkez;Denizli;DENIZLI;11.3;12.0
+21/05/17 17:00;TR12101;Eurdep;air;37.9;40.23;642.1;Turkey;Provincia de Diyarbakır;Yenişehir;;DIYARBAKIR;6.1;6.5
+21/05/17 17:00;TR12201;Eurdep;air;41.67;26.57;50.7;Turkey;Provincia de Edirne;Edirne Merkez;Edirne;EDIRNE;8.0;8.0
+21/05/17 17:00;TR12202;Eurdep;air;41.84;26.73;141.1;Turkey;Provincia de Edirne;Lalapaşa;;EDIRNE LALAPASA;10.1;10.9
+21/05/17 17:00;TR12203;Eurdep;air;41.27;26.69;17.1;Turkey;Provincia de Edirne;Uzunköprü;Uzunköprü;EDIRNE UZUNKOPRU;8.0;8.0
+21/05/17 17:00;TR12204;Eurdep;air;40.85;26.63;115.9;Turkey;Provincia de Edirne;Keşan;Keşan;EDIRNE KESAN;8.7;9.0
+21/05/17 17:00;TR12301;Eurdep;air;38.64;39.26;971.3;Turkey;Provincia de Elazığ;Elâzığ Merkez;;ELAZIG;5.0;5.0
 15/05/17 22:00;TR12401;Eurdep;air;39.75;39.49;1214.5;Turkey;Provincia de Erzincan;Erzincan Merkez;Erzincan;ERZINCAN;0.0;0.0
-21/05/17 03:00;TR12501;Eurdep;air;39.91;41.26;1861.0;Turkey;Provincia de Erzurum;Yakutiye;Erzurum;ERZURUM;9.0;9.0
-21/05/17 04:00;TR12601;Eurdep;air;39.77;30.55;796.5;Turkey;Provincia de Eskişehir;Odunpazarı;Eskişehir;ESKISEHIR;9.3;10.0
-21/05/17 03:00;TR12602;Eurdep;air;39.69;31.21;762.3;Turkey;Provincia de Eskişehir;Beylikova;Beylikova;ESKISEHIR BEYLIKOVA;8.7;9.0
-21/05/17 03:00;TR12701;Eurdep;air;37.05;37.4;859.5;Turkey;Provincia de Gaziantep;Şahinbey;Gaziantep;GAZIANTEP;5.1;5.8
-21/05/17 03:00;TR12801;Eurdep;air;40.92;38.39;104.5;Turkey;Provincia de Giresun;Giresun Merkez;Giresun;GIRESUN;8.6;9.0
-21/05/17 03:00;TR12901;Eurdep;air;40.46;39.48;1174.4;Turkey;Provincia de Gümüşhane;Gümüşhane Merkez;Gümüşhane;GUMUSHANE;12.9;13.0
-21/05/17 04:00;TR13001;Eurdep;air;37.58;43.74;1757.4;Turkey;Provincia de Hakkâri;Hakkâri Merkez;Hakkâri;HAKKARI;9.0;10.0
-21/05/17 04:00;TR13002;Eurdep;air;37.3;44.58;1347.5;Turkey;Provincia de Hakkâri;Şemdinli;;HAKKARI SEMDINLI;9.0;9.0
-21/05/17 03:00;TR13003;Eurdep;air;37.57;44.28;1870.8;Turkey;Provincia de Hakkâri;Yüksekova;Yüksekova;HAKKARI YUKSEKOVA;11.0;11.0
-21/05/17 03:00;TR13102;Eurdep;air;36.58;36.14;2.5;Turkey;Provincia de Hatay;İskenderun;;HATAY ISKENDERUN;5.3;6.0
-21/05/17 03:00;TR13201;Eurdep;air;37.78;30.57;1002.8;Turkey;Provincia de Isparta;Isparta Merkez;Isparta;ISPARTA;29.4;30.0
-21/05/17 03:00;TR13202;Eurdep;air;38.3;31.18;1113.5;Turkey;Provincia de Isparta;Yalvaç;Yalvaç;ISPARTA YALVAC;17.0;17.0
-21/05/17 04:00;TR13301;Eurdep;air;36.78;34.61;0.0;Turkey;;;;MERSIN;6.0;6.8
-21/05/17 03:00;TR13302;Eurdep;air;36.16;33.55;0.0;Turkey;0;0;0.0;Mersin Gulnar AKKUYU NGS;9.0;9.6
-21/05/17 03:00;TR13303;Eurdep;air;36.07;32.86;3.0;Turkey;Provincia de Mersin;Anamur;;MERSIN ANAMUR;8.2;9.0
-21/05/17 04:00;TR13401;Eurdep;air;41.03;28.76;44.2;Turkey;Provincia de Estambul;Küçükçekmece;;Istanbul Kucukcekmece CNAEM;6.0;6.0
-21/05/17 03:00;TR13402;Eurdep;air;40.91;29.16;23.2;Turkey;Provincia de Estambul;Kartal;Estambul;Istanbul KARTAL;8.1;9.0
-21/05/17 03:00;TR13403;Eurdep;air;41.11;29.03;134.2;Turkey;Provincia de Estambul;Sarıyer;Estambul;Istanbul Besiktas ITU;5.9;6.0
-21/05/17 03:00;TR13404;Eurdep;air;41.15;29.05;0.0;Turkey;;;;ISTANBUL SARIYER;8.0;8.0
-21/05/17 03:00;TR13501;Eurdep;air;38.39;27.08;39.2;Turkey;Provincia de Esmirna;Karabağlar;Esmirna;IZMIR;9.0;9.0
-21/05/17 04:00;TR13502;Eurdep;air;38.8;26.97;14.6;Turkey;Provincia de Esmirna;Aliağa;Aliağa;IZMIR ALIAGA;13.0;13.0
-21/05/17 03:00;TR13503;Eurdep;air;38.32;26.31;38.4;Turkey;Provincia de Esmirna;Çeşme;Çeşme;IZMIR CESME;9.8;10.0
-21/05/17 04:00;TR13504;Eurdep;air;38.36;27.14;79.1;Turkey;Provincia de Esmirna;Buca;Esmirna;IZMIR GAZIEMIR;7.0;7.0
-21/05/17 04:00;TR13601;Eurdep;air;40.61;43.1;1750.7;Turkey;Provincia de Kars;Kars Merkez;Kars;KARS;13.1;14.0
-21/05/17 04:00;TR13602;Eurdep;air;40.38;43.41;1654.7;Turkey;Provincia de Kars;Digor;;KARS DIGOR;15.1;15.8
-21/05/17 04:00;TR13603;Eurdep;air;40.33;42.59;2097.4;Turkey;Provincia de Kars;Sarıkamış;Sarıkamış;KARS SARIKAMIS;14.9;15.0
-21/05/17 04:00;TR13604;Eurdep;air;40.75;43.63;1505.4;Turkey;Provincia de Kars;Akyaka;;KARS AKYAKA;9.1;10.0
-21/05/17 04:00;TR13701;Eurdep;air;41.39;33.78;770.8;Turkey;Provincia de Kastamonu;Kastamonu Merkez;Kastamonu;KASTAMONU;8.1;8.0
-21/05/17 04:00;TR13702;Eurdep;air;41.98;33.76;2.3;Turkey;;;;KASTAMONU INEBOLU;5.0;6.0
-21/05/17 03:00;TR13801;Eurdep;air;38.69;35.5;1092.9;Turkey;Provincia de Kayseri;Melikgazi;Kayseri;KAYSERI;10.2;11.0
-21/05/17 04:00;TR13802;Eurdep;air;38.72;36.4;1587.8;Turkey;Provincia de Kayseri;Pınarbaşı;;KAYSERI PINARBASI;9.0;10.0
-21/05/17 04:00;TR13901;Eurdep;air;41.74;27.22;242.3;Turkey;Provincia de Kırklareli;Kırklareli Merkez;Kırklareli;KIRKLARELI;11.8;12.0
-21/05/17 04:00;TR13902;Eurdep;air;41.94;27.16;439.3;Turkey;Provincia de Kırklareli;Kofçaz;;KIRKLARELI KOFCAZ;7.4;8.0
-21/05/17 04:00;TR14001;Eurdep;air;39.16;34.16;1005.0;Turkey;Provincia de Kırşehir;Kırşehir Merkez;Kırşehir;KIRSEHIR;8.9;9.0
+21/05/17 17:00;TR12501;Eurdep;air;39.91;41.26;1861.0;Turkey;Provincia de Erzurum;Yakutiye;Erzurum;ERZURUM;9.0;9.0
+21/05/17 17:00;TR12601;Eurdep;air;39.77;30.55;796.5;Turkey;Provincia de Eskişehir;Odunpazarı;Eskişehir;ESKISEHIR;9.2;10.0
+21/05/17 17:00;TR12602;Eurdep;air;39.69;31.21;762.3;Turkey;Provincia de Eskişehir;Beylikova;Beylikova;ESKISEHIR BEYLIKOVA;8.7;9.0
+21/05/17 17:00;TR12701;Eurdep;air;37.05;37.4;859.5;Turkey;Provincia de Gaziantep;Şahinbey;Gaziantep;GAZIANTEP;5.0;5.0
+21/05/17 17:00;TR12801;Eurdep;air;40.92;38.39;104.5;Turkey;Provincia de Giresun;Giresun Merkez;Giresun;GIRESUN;8.8;9.0
+21/05/17 17:00;TR12901;Eurdep;air;40.46;39.48;1174.4;Turkey;Provincia de Gümüşhane;Gümüşhane Merkez;Gümüşhane;GUMUSHANE;12.9;13.0
+21/05/17 17:00;TR13001;Eurdep;air;37.58;43.74;1757.4;Turkey;Provincia de Hakkâri;Hakkâri Merkez;Hakkâri;HAKKARI;9.2;10.0
+21/05/17 17:00;TR13002;Eurdep;air;37.3;44.58;1347.5;Turkey;Provincia de Hakkâri;Şemdinli;;HAKKARI SEMDINLI;9.0;9.0
+21/05/17 17:00;TR13003;Eurdep;air;37.57;44.28;1870.8;Turkey;Provincia de Hakkâri;Yüksekova;Yüksekova;HAKKARI YUKSEKOVA;11.0;11.0
+21/05/17 17:00;TR13102;Eurdep;air;36.58;36.14;2.5;Turkey;Provincia de Hatay;İskenderun;;HATAY ISKENDERUN;5.1;6.0
+21/05/17 17:00;TR13201;Eurdep;air;37.78;30.57;1002.8;Turkey;Provincia de Isparta;Isparta Merkez;Isparta;ISPARTA;29.6;30.3
+21/05/17 17:00;TR13202;Eurdep;air;38.3;31.18;1113.5;Turkey;Provincia de Isparta;Yalvaç;Yalvaç;ISPARTA YALVAC;17.0;17.0
+21/05/17 17:00;TR13301;Eurdep;air;36.78;34.61;0.0;Turkey;;;;MERSIN;6.0;6.0
+21/05/17 17:00;TR13302;Eurdep;air;36.16;33.55;0.0;Turkey;0;0;0.0;Mersin Gulnar AKKUYU NGS;9.0;9.0
+21/05/17 17:00;TR13303;Eurdep;air;36.07;32.86;3.0;Turkey;Provincia de Mersin;Anamur;;MERSIN ANAMUR;8.0;8.0
+21/05/17 17:00;TR13401;Eurdep;air;41.03;28.76;44.2;Turkey;Provincia de Estambul;Küçükçekmece;;Istanbul Kucukcekmece CNAEM;6.2;7.0
+21/05/17 17:00;TR13402;Eurdep;air;40.91;29.16;23.2;Turkey;Provincia de Estambul;Kartal;Estambul;Istanbul KARTAL;8.3;9.0
+21/05/17 17:00;TR13403;Eurdep;air;41.11;29.03;134.2;Turkey;Provincia de Estambul;Sarıyer;Estambul;Istanbul Besiktas ITU;6.0;6.6
+21/05/17 17:00;TR13404;Eurdep;air;41.15;29.05;0.0;Turkey;;;;ISTANBUL SARIYER;8.0;8.7
+21/05/17 17:00;TR13501;Eurdep;air;38.39;27.08;39.2;Turkey;Provincia de Esmirna;Karabağlar;Esmirna;IZMIR;9.0;9.0
+21/05/17 17:00;TR13502;Eurdep;air;38.8;26.97;14.6;Turkey;Provincia de Esmirna;Aliağa;Aliağa;IZMIR ALIAGA;13.0;13.0
+21/05/17 17:00;TR13503;Eurdep;air;38.32;26.31;38.4;Turkey;Provincia de Esmirna;Çeşme;Çeşme;IZMIR CESME;9.9;10.0
+21/05/17 17:00;TR13504;Eurdep;air;38.36;27.14;79.1;Turkey;Provincia de Esmirna;Buca;Esmirna;IZMIR GAZIEMIR;7.0;7.0
+21/05/17 17:00;TR13601;Eurdep;air;40.61;43.1;1750.7;Turkey;Provincia de Kars;Kars Merkez;Kars;KARS;13.1;13.7
+21/05/17 17:00;TR13602;Eurdep;air;40.38;43.41;1654.7;Turkey;Provincia de Kars;Digor;;KARS DIGOR;15.0;15.7
+21/05/17 17:00;TR13603;Eurdep;air;40.33;42.59;2097.4;Turkey;Provincia de Kars;Sarıkamış;Sarıkamış;KARS SARIKAMIS;15.0;15.0
+21/05/17 17:00;TR13604;Eurdep;air;40.75;43.63;1505.4;Turkey;Provincia de Kars;Akyaka;;KARS AKYAKA;9.0;9.6
+21/05/17 17:00;TR13701;Eurdep;air;41.39;33.78;770.8;Turkey;Provincia de Kastamonu;Kastamonu Merkez;Kastamonu;KASTAMONU;8.2;9.0
+21/05/17 17:00;TR13702;Eurdep;air;41.98;33.76;2.3;Turkey;;;;KASTAMONU INEBOLU;5.1;5.8
+21/05/17 16:00;TR13801;Eurdep;air;38.69;35.5;1092.9;Turkey;Provincia de Kayseri;Melikgazi;Kayseri;KAYSERI;10.0;10.0
+21/05/17 16:00;TR13802;Eurdep;air;38.72;36.4;1587.8;Turkey;Provincia de Kayseri;Pınarbaşı;;KAYSERI PINARBASI;8.9;9.0
+21/05/17 16:00;TR13901;Eurdep;air;41.74;27.22;242.3;Turkey;Provincia de Kırklareli;Kırklareli Merkez;Kırklareli;KIRKLARELI;11.7;12.0
+21/05/17 16:00;TR13902;Eurdep;air;41.94;27.16;439.3;Turkey;Provincia de Kırklareli;Kofçaz;;KIRKLARELI KOFCAZ;7.4;8.0
+21/05/17 16:00;TR14001;Eurdep;air;39.16;34.16;1005.0;Turkey;Provincia de Kırşehir;Kırşehir Merkez;Kırşehir;KIRSEHIR;8.9;9.0
 11/05/17 22:00;TR14101;Eurdep;air;40.77;29.92;144.6;Turkey;Provincia de Kocaeli;İzmit;Izmit;KOCAELI;0.0;0.0
-21/05/17 04:00;TR14201;Eurdep;air;37.87;32.47;1030.0;Turkey;Provincia de Konya;Meram;Konya;KONYA;6.0;6.0
-21/05/17 04:00;TR14202;Eurdep;air;37.42;31.84;1131.9;Turkey;Provincia de Konya;Seydişehir;Seydişehir;KONYA SEYDISEHIR;13.1;14.0
-21/05/17 04:00;TR14203;Eurdep;air;38.66;32.92;971.1;Turkey;Provincia de Konya;Cihanbeyli;Cihanbeyli;KONYA CIHANBEYLI;8.0;8.0
-21/05/17 04:00;TR14204;Eurdep;air;37.51;34.06;1055.5;Turkey;Provincia de Konya;Ereğli;Ereğli;KONYA EREGLI;5.0;5.8
-21/05/17 04:00;TR14205;Eurdep;air;37.95;31.59;1232.1;Turkey;Provincia de Konya;Hüyük;;KONYA HUYUK;12.8;13.0
-21/05/17 04:00;TR14206;Eurdep;air;38.36;31.42;1023.0;Turkey;Provincia de Konya;Akşehir;Akşehir;KONYA AKSEHIR;7.0;7.0
-21/05/17 04:00;TR14301;Eurdep;air;39.42;29.99;948.4;Turkey;Provincia de Kütahya;Kütahya Merkez;Kutahya;KUTAHYA;13.5;14.0
-21/05/17 04:00;TR14302;Eurdep;air;39.63;29.46;841.5;Turkey;Provincia de Kütahya;Tavşanlı;;Kutahya Tavsanli TUNCBILEK TS;7.0;7.0
-21/05/17 04:00;TR14303;Eurdep;air;39.57;29.89;1123.8;Turkey;Provincia de Kütahya;Kütahya Merkez;;Kutahya SEYITOMER TS;16.5;17.0
-21/05/17 04:00;TR14401;Eurdep;air;38.34;38.22;932.3;Turkey;Provincia de Malatya;Yeşilyurt;;MALATYA;9.4;10.0
-21/05/17 04:00;TR14501;Eurdep;air;38.62;27.41;51.2;Turkey;Provincia de Manisa;Manisa Merkez;Manisa;MANISA;9.8;10.0
-21/05/17 04:00;TR14502;Eurdep;air;39.19;27.64;140.2;Turkey;Provincia de Manisa;Soma;;Manisa SOMA TS;10.0;11.0
-21/05/17 04:00;TR14503;Eurdep;air;38.35;28.52;205.1;Turkey;Provincia de Manisa;Alaşehir;Alaşehir;MANISA ALASEHIR;10.7;11.0
-21/05/17 04:00;TR14504;Eurdep;air;38.75;28.4;250.3;Turkey;Provincia de Manisa;Köprübaşı;Köprübaşı;MANISA KOPRUBASI;6.4;7.0
-21/05/17 04:00;TR14601;Eurdep;air;37.58;36.95;607.4;Turkey;Provincia de Kahramanmaraş;Kahramanmaraş Merkez;Kahramanmaraş;KAHRAMANMARAS;3.0;3.0
+21/05/17 16:00;TR14201;Eurdep;air;37.87;32.47;1030.0;Turkey;Provincia de Konya;Meram;Konya;KONYA;6.0;6.0
+21/05/17 17:00;TR14202;Eurdep;air;37.42;31.84;1131.9;Turkey;Provincia de Konya;Seydişehir;Seydişehir;KONYA SEYDISEHIR;13.1;13.0
+21/05/17 17:00;TR14203;Eurdep;air;38.66;32.92;971.1;Turkey;Provincia de Konya;Cihanbeyli;Cihanbeyli;KONYA CIHANBEYLI;8.0;8.0
+21/05/17 16:00;TR14204;Eurdep;air;37.51;34.06;1055.5;Turkey;Provincia de Konya;Ereğli;Ereğli;KONYA EREGLI;5.0;5.0
+21/05/17 16:00;TR14205;Eurdep;air;37.95;31.59;1232.1;Turkey;Provincia de Konya;Hüyük;;KONYA HUYUK;12.7;13.0
+21/05/17 16:00;TR14206;Eurdep;air;38.36;31.42;1023.0;Turkey;Provincia de Konya;Akşehir;Akşehir;KONYA AKSEHIR;7.0;7.0
+21/05/17 16:00;TR14301;Eurdep;air;39.42;29.99;948.4;Turkey;Provincia de Kütahya;Kütahya Merkez;Kutahya;KUTAHYA;13.6;14.0
+21/05/17 16:00;TR14302;Eurdep;air;39.63;29.46;841.5;Turkey;Provincia de Kütahya;Tavşanlı;;Kutahya Tavsanli TUNCBILEK TS;7.0;7.0
+21/05/17 16:00;TR14303;Eurdep;air;39.57;29.89;1123.8;Turkey;Provincia de Kütahya;Kütahya Merkez;;Kutahya SEYITOMER TS;16.3;17.0
+21/05/17 16:00;TR14401;Eurdep;air;38.34;38.22;932.3;Turkey;Provincia de Malatya;Yeşilyurt;;MALATYA;9.4;10.0
+21/05/17 16:00;TR14501;Eurdep;air;38.62;27.41;51.2;Turkey;Provincia de Manisa;Manisa Merkez;Manisa;MANISA;9.9;10.0
+21/05/17 17:00;TR14502;Eurdep;air;39.19;27.64;140.2;Turkey;Provincia de Manisa;Soma;;Manisa SOMA TS;10.0;10.9
+21/05/17 16:00;TR14503;Eurdep;air;38.35;28.52;205.1;Turkey;Provincia de Manisa;Alaşehir;Alaşehir;MANISA ALASEHIR;10.7;11.0
+21/05/17 16:00;TR14504;Eurdep;air;38.75;28.4;250.3;Turkey;Provincia de Manisa;Köprübaşı;Köprübaşı;MANISA KOPRUBASI;6.4;7.0
+21/05/17 17:00;TR14601;Eurdep;air;37.58;36.95;607.4;Turkey;Provincia de Kahramanmaraş;Kahramanmaraş Merkez;Kahramanmaraş;KAHRAMANMARAS;3.0;3.0
 18/05/17 22:00;TR14602;Eurdep;air;38.34;37.03;1197.6;Turkey;Provincia de Kahramanmaraş;Afşin;;Kahramanmaras AFSINELBISTAN TS;0.0;0.0
-21/05/17 04:00;TR14701;Eurdep;air;37.31;40.73;1011.8;Turkey;Provincia de Mardin;Mardin Merkez;Mardin;MARDIN;7.6;8.0
-21/05/17 04:00;TR14801;Eurdep;air;37.21;28.37;647.4;Turkey;Provincia de Muğla;Muğla Merkez;Muğla;MUGLA;5.9;6.0
-21/05/17 04:00;TR14802;Eurdep;air;36.83;28.39;11.2;Turkey;Provincia de Muğla;Marmaris;;Mugla Marmaris AKSAZ;2.0;2.0
-21/05/17 04:00;TR14803;Eurdep;air;37.3;27.78;62.0;Turkey;Provincia de Muğla;Milas;Milas;MUGLA MILAS;11.0;11.0
-21/05/17 04:00;TR14804;Eurdep;air;37.33;28.1;344.0;Turkey;Provincia de Muğla;Yatağan;;Mugla YATAGAN TS;7.0;7.7
-21/05/17 04:00;TR14805;Eurdep;air;37.03;27.9;6.2;Turkey;Provincia de Muğla;Milas;;Mugla Milas KEMERKOY TS;7.8;8.0
-21/05/17 04:00;TR14806;Eurdep;air;37.14;27.88;295.5;Turkey;Provincia de Muğla;Milas;;Mugla Milas YENIKOY TS;8.5;9.0
-21/05/17 04:00;TR14807;Eurdep;air;36.63;29.12;5.7;Turkey;Provincia de Muğla;Fethiye;Fethiye;MUGLA FETHIYE;6.4;7.0
-21/05/17 04:00;TR14901;Eurdep;air;38.75;41.5;1310.9;Turkey;Provincia de Muş;Muş Merkez;;MUS;11.9;12.0
-21/05/17 04:00;TR15001;Eurdep;air;38.62;34.7;1228.9;Turkey;Provincia de Nevşehir;Nevşehir Merkez;Nevşehir;NEVSEHIR;18.0;19.0
-21/05/17 04:00;TR15101;Eurdep;air;37.96;34.68;1212.1;Turkey;Provincia de Niğde;Niğde Merkez;Nigde;NIGDE;8.0;9.0
-21/05/17 04:00;TR15201;Eurdep;air;40.98;37.89;12.3;Turkey;Provincia de Ordu;Ordu Merkez;Ordu;ORDU;10.6;11.0
-21/05/17 04:00;TR15202;Eurdep;air;41.13;37.29;0.0;Turkey;;;;ORDU UNYE;7.9;8.0
-21/05/17 04:00;TR15301;Eurdep;air;41.04;40.5;6.2;Turkey;Provincia de Rize;Rize Merkez;Rize;RIZE;7.8;8.0
-21/05/17 04:00;TR15302;Eurdep;air;41.18;40.89;0.0;Turkey;0;0;0.0;RIZE PAZAR;8.0;8.8
-21/05/17 04:00;TR15401;Eurdep;air;40.76;30.39;28.9;Turkey;Provincia de Sakarya;Adapazarı;Sakarya;SAKARYA;6.0;6.0
-21/05/17 04:00;TR15402;Eurdep;air;41.1;30.69;3.0;Turkey;Provincia de Sakarya;Karasu;Karasu;SAKARYA KARASU;6.9;7.0
-21/05/17 04:00;TR15501;Eurdep;air;41.35;36.25;0.0;Turkey;;;;SAMSUN;6.2;7.0
-21/05/17 04:00;TR15502;Eurdep;air;41.57;35.9;24.7;Turkey;Provincia de Samsun;Bafra;Bafra;SAMSUN BAFRA;5.1;6.0
-21/05/17 04:00;TR15601;Eurdep;air;37.93;41.94;887.9;Turkey;Provincia de Siirt;Siirt Merkez;Siirt;SIIRT;9.9;10.0
-21/05/17 03:00;TR15701;Eurdep;air;42.03;35.15;8.6;Turkey;Provincia de Sinop;Sinop Merkez;Sinop;SINOP;4.0;4.8
-21/05/17 03:00;TR15801;Eurdep;air;39.74;37.0;0.0;Turkey;0;0;0;SIVAS;8.0;8.0
+21/05/17 17:00;TR14701;Eurdep;air;37.31;40.73;1011.8;Turkey;Provincia de Mardin;Mardin Merkez;Mardin;MARDIN;7.4;8.0
+21/05/17 16:00;TR14801;Eurdep;air;37.21;28.37;647.4;Turkey;Provincia de Muğla;Muğla Merkez;Muğla;MUGLA;5.8;6.0
+21/05/17 16:00;TR14802;Eurdep;air;36.83;28.39;11.2;Turkey;Provincia de Muğla;Marmaris;;Mugla Marmaris AKSAZ;2.0;2.0
+21/05/17 16:00;TR14803;Eurdep;air;37.3;27.78;62.0;Turkey;Provincia de Muğla;Milas;Milas;MUGLA MILAS;11.0;11.0
+21/05/17 17:00;TR14804;Eurdep;air;37.33;28.1;344.0;Turkey;Provincia de Muğla;Yatağan;;Mugla YATAGAN TS;7.0;7.7
+21/05/17 17:00;TR14805;Eurdep;air;37.03;27.9;6.2;Turkey;Provincia de Muğla;Milas;;Mugla Milas KEMERKOY TS;7.8;8.0
+21/05/17 16:00;TR14806;Eurdep;air;37.14;27.88;295.5;Turkey;Provincia de Muğla;Milas;;Mugla Milas YENIKOY TS;8.8;9.0
+21/05/17 17:00;TR14807;Eurdep;air;36.63;29.12;5.7;Turkey;Provincia de Muğla;Fethiye;Fethiye;MUGLA FETHIYE;6.3;7.0
+21/05/17 16:00;TR14901;Eurdep;air;38.75;41.5;1310.9;Turkey;Provincia de Muş;Muş Merkez;;MUS;11.9;12.0
+21/05/17 17:00;TR15001;Eurdep;air;38.62;34.7;1228.9;Turkey;Provincia de Nevşehir;Nevşehir Merkez;Nevşehir;NEVSEHIR;18.0;18.0
+21/05/17 17:00;TR15101;Eurdep;air;37.96;34.68;1212.1;Turkey;Provincia de Niğde;Niğde Merkez;Nigde;NIGDE;7.8;8.0
+21/05/17 16:00;TR15201;Eurdep;air;40.98;37.89;12.3;Turkey;Provincia de Ordu;Ordu Merkez;Ordu;ORDU;10.6;11.0
+21/05/17 17:00;TR15202;Eurdep;air;41.13;37.29;0.0;Turkey;;;;ORDU UNYE;8.0;8.0
+21/05/17 16:00;TR15301;Eurdep;air;41.04;40.5;6.2;Turkey;Provincia de Rize;Rize Merkez;Rize;RIZE;7.7;8.0
+21/05/17 16:00;TR15302;Eurdep;air;41.18;40.89;0.0;Turkey;0;0;0.0;RIZE PAZAR;8.0;8.0
+21/05/17 17:00;TR15401;Eurdep;air;40.76;30.39;28.9;Turkey;Provincia de Sakarya;Adapazarı;Sakarya;SAKARYA;6.0;6.0
+21/05/17 17:00;TR15402;Eurdep;air;41.1;30.69;3.0;Turkey;Provincia de Sakarya;Karasu;Karasu;SAKARYA KARASU;7.0;7.0
+21/05/17 16:00;TR15501;Eurdep;air;41.35;36.25;0.0;Turkey;;;;SAMSUN;6.4;7.0
+21/05/17 17:00;TR15502;Eurdep;air;41.57;35.9;24.7;Turkey;Provincia de Samsun;Bafra;Bafra;SAMSUN BAFRA;5.1;6.0
+21/05/17 16:00;TR15601;Eurdep;air;37.93;41.94;887.9;Turkey;Provincia de Siirt;Siirt Merkez;Siirt;SIIRT;10.0;10.0
+21/05/17 17:00;TR15701;Eurdep;air;42.03;35.15;8.6;Turkey;Provincia de Sinop;Sinop Merkez;Sinop;SINOP;4.2;5.0
+21/05/17 17:00;TR15801;Eurdep;air;39.74;37.0;0.0;Turkey;0;0;0;SIVAS;8.0;8.0
 17/05/17 22:00;TR15802;Eurdep;air;39.08;37.29;1471.3;Turkey;Provincia de Sivas;Kangal;;Sivas KANGAL TS;0.0;0.0
-21/05/17 03:00;TR15901;Eurdep;air;40.96;27.5;0.0;Turkey;;;;TEKIRDAG;6.0;6.0
-21/05/17 03:00;TR16001;Eurdep;air;40.33;36.56;602.2;Turkey;Provincia de Tokat;Tokat Merkez;Tokat;TOKAT;4.0;4.0
-21/05/17 04:00;TR16101;Eurdep;air;41.01;39.72;8.8;Turkey;Trebisonda;Trabzon Merkez;Trebisonda;TRABZON;8.0;9.0
-21/05/17 03:00;TR16102;Eurdep;air;40.75;40.24;444.4;Turkey;Trebisonda;Çaykara;;TRABZON CAYKARA;11.2;12.0
-21/05/17 03:00;TR16201;Eurdep;air;39.11;39.55;993.9;Turkey;Provincia de Tunceli;Tunceli Merkez;Tunceli;TUNCELI;8.9;9.0
-21/05/17 03:00;TR16301;Eurdep;air;37.16;38.8;512.6;Turkey;Provincia de Sanliurfa;Şanlıurfa Merkez;Sanliurfa;SANLIURFA;5.0;5.0
-21/05/17 03:00;TR16302;Eurdep;air;37.75;39.33;796.0;Turkey;Provincia de Sanliurfa;Siverek;Siverek;SANLIURFA SIVEREK;9.4;10.0
-21/05/17 04:00;TR16303;Eurdep;air;36.84;40.03;365.6;Turkey;Provincia de Sanliurfa;Ceylanpınar;;SANLIURFA CEYLANPINAR;6.0;6.0
-21/05/17 04:00;TR16401;Eurdep;air;38.67;29.4;934.6;Turkey;Provincia de Uşak;Uşak Merkez;Usak;USAK;10.9;11.0
-21/05/17 04:00;TR16501;Eurdep;air;38.52;43.36;1672.9;Turkey;Provincia de Van;Van Merkez;Van;VAN;14.2;15.0
-21/05/17 03:00;TR16502;Eurdep;air;39.14;43.9;0.0;Turkey;0;0;0.0;VAN CALDIRAN;9.9;10.0
-21/05/17 03:00;TR16503;Eurdep;air;38.99;43.76;1702.1;Turkey;Provincia de Van;Muradiye;Muradiye;VAN MURADIYE;16.2;17.0
-21/05/17 04:00;TR16504;Eurdep;air;38.66;43.99;2027.4;Turkey;Provincia de Van;Özalp;Özalp;VAN OZALP;8.8;9.0
-21/05/17 03:00;TR16601;Eurdep;air;39.82;34.82;1322.5;Turkey;Provincia de Yozgat;Yozgat Merkez;Yozgat;YOZGAT;13.1;13.0
-21/05/17 04:00;TR16602;Eurdep;air;39.67;35.87;1276.0;Turkey;Provincia de Yozgat;Akdağmadeni;;YOZGAT AKDAGMADENI;11.0;11.2
-21/05/17 03:00;TR16701;Eurdep;air;41.45;31.78;92.9;Turkey;Provincia de Zonguldak;Zonguldak Merkez;Zonguldak;ZONGULDAK;7.5;8.0
-21/05/17 03:00;TR16702;Eurdep;air;41.52;31.9;5.9;Turkey;;;;Zonguldak CATALAGZI TS;7.0;7.0
-21/05/17 04:00;TR16801;Eurdep;air;38.37;34.0;0.0;Turkey;0;0;0;AKSARAY;8.0;8.0
-21/05/17 04:00;TR16901;Eurdep;air;40.26;40.23;1572.8;Turkey;Provincia de Bayburt;Bayburt Merkez;Bayburt;BAYBURT;10.8;11.0
-21/05/17 03:00;TR17001;Eurdep;air;37.19;33.22;1029.1;Turkey;Karamán;Karaman Merkez;Karaman;KARAMAN;11.5;13.0
-20/05/17 13:00;TR17101;Eurdep;air;39.84;33.52;718.0;Turkey;Provincia de Kırıkkale;Kırıkkale Merkez;Kırıkkale;KIRIKKALE;11.8;12.0
-21/05/17 03:00;TR17201;Eurdep;air;37.88;41.15;593.3;Turkey;Provincia de Batman;Batman Merkez;Batman;BATMAN;9.8;10.0
-21/05/17 03:00;TR17301;Eurdep;air;37.52;42.46;1393.8;Turkey;Provincia de Şırnak;Şırnak Merkez;Şırnak;SIRNAK;8.1;8.5
-21/05/17 04:00;TR17401;Eurdep;air;41.62;32.36;52.8;Turkey;Provincia de Bartın;Bartın Merkez;Bartın;BARTIN;5.9;6.0
-21/05/17 04:00;TR17501;Eurdep;air;41.11;42.7;1800.4;Turkey;Provincia de Ardahan;Ardahan Merkez;Ardahan;ARDAHAN;11.7;12.0
-21/05/17 03:00;TR17601;Eurdep;air;39.93;44.05;859.3;Turkey;Provincia de Iğdır;Iğdır Merkez;Iğdır;IGDIR;4.8;5.0
-21/05/17 03:00;TR17602;Eurdep;air;40.03;44.18;843.0;Turkey;;;;Igdir Karakoyunlu ALICAN HK;8.0;8.0
-20/05/17 02:00;TR17603;Eurdep;air;39.88;44.52;815.6;Turkey;Provincia de Iğdır;Aralık;;IGDIR ARALIK;6.0;6.0
-21/05/17 03:00;TR17604;Eurdep;air;40.09;43.45;1079.1;Turkey;Provincia de Iğdır;Tuzluca;;Igdir Tuzluca GAZILER JKK;7.6;8.0
-21/05/17 03:00;TR17605;Eurdep;air;39.97;44.17;848.0;Turkey;Provincia de Iğdır;Karakoyunlu;;IGDIR KARAKOYUNLU;7.0;7.9
-21/05/17 04:00;TR17606;Eurdep;air;40.03;44.07;853.9;Turkey;Provincia de Iğdır;Iğdır Merkez;;Igdir Tuzluca KARAKALE JKK;9.3;10.0
-21/05/17 04:00;TR17701;Eurdep;air;40.66;29.28;3.1;Turkey;Provincia de Yalova;Yalova Merkez;Yalova;YALOVA;7.2;8.0
-21/05/17 04:00;TR17801;Eurdep;air;41.23;32.63;456.0;Turkey;Provincia de Karabük;Karabük Merkez;;KARABUK;5.0;5.0
-21/05/17 04:00;TR17901;Eurdep;air;36.71;37.11;645.7;Turkey;Provincia de Kilis;Kilis Merkez;Kilis;KILIS;5.0;5.3
-21/05/17 03:00;TR18001;Eurdep;air;37.1;36.25;98.8;Turkey;Provincia de Osmaniye;Osmaniye Merkez;;OSMANIYE;3.7;5.0
-21/05/17 04:00;TR18101;Eurdep;air;40.83;31.15;145.0;Turkey;Provincia de Düzce;Düzce Merkez;Düzce;DUZCE;6.0;6.0
-21/05/17 03:00;TR15803;Eurdep;air;40.16;38.09;1031.6;Turkey;Provincia de Sivas;Suşehri;;Sivas SUSEHRI;11.1;11.9
-21/05/17 03:00;TR16002;Eurdep;air;40.3;35.89;726.3;Turkey;Provincia de Tokat;Zile;Zile;Tokat ZILE;7.6;8.0
+21/05/17 17:00;TR15901;Eurdep;air;40.96;27.5;0.0;Turkey;;;;TEKIRDAG;6.0;6.0
+21/05/17 17:00;TR16001;Eurdep;air;40.33;36.56;602.2;Turkey;Provincia de Tokat;Tokat Merkez;Tokat;TOKAT;4.0;4.0
+21/05/17 17:00;TR16101;Eurdep;air;41.01;39.72;8.8;Turkey;Trebisonda;Trabzon Merkez;Trebisonda;TRABZON;8.0;9.0
+21/05/17 17:00;TR16102;Eurdep;air;40.75;40.24;444.4;Turkey;Trebisonda;Çaykara;;TRABZON CAYKARA;11.3;12.0
+21/05/17 17:00;TR16201;Eurdep;air;39.11;39.55;993.9;Turkey;Provincia de Tunceli;Tunceli Merkez;Tunceli;TUNCELI;8.8;9.0
+21/05/17 17:00;TR16301;Eurdep;air;37.16;38.8;512.6;Turkey;Provincia de Sanliurfa;Şanlıurfa Merkez;Sanliurfa;SANLIURFA;5.0;5.0
+21/05/17 17:00;TR16302;Eurdep;air;37.75;39.33;796.0;Turkey;Provincia de Sanliurfa;Siverek;Siverek;SANLIURFA SIVEREK;9.5;10.0
+21/05/17 17:00;TR16303;Eurdep;air;36.84;40.03;365.6;Turkey;Provincia de Sanliurfa;Ceylanpınar;;SANLIURFA CEYLANPINAR;6.0;6.0
+21/05/17 17:00;TR16401;Eurdep;air;38.67;29.4;934.6;Turkey;Provincia de Uşak;Uşak Merkez;Usak;USAK;11.0;11.0
+21/05/17 17:00;TR16501;Eurdep;air;38.52;43.36;1672.9;Turkey;Provincia de Van;Van Merkez;Van;VAN;14.2;15.0
+21/05/17 17:00;TR16502;Eurdep;air;39.14;43.9;0.0;Turkey;0;0;0.0;VAN CALDIRAN;9.9;10.0
+21/05/17 17:00;TR16503;Eurdep;air;38.99;43.76;1702.1;Turkey;Provincia de Van;Muradiye;Muradiye;VAN MURADIYE;16.1;16.6
+21/05/17 17:00;TR16504;Eurdep;air;38.66;43.99;2027.4;Turkey;Provincia de Van;Özalp;Özalp;VAN OZALP;8.8;9.0
+21/05/17 17:00;TR16601;Eurdep;air;39.82;34.82;1322.5;Turkey;Provincia de Yozgat;Yozgat Merkez;Yozgat;YOZGAT;13.1;13.0
+21/05/17 17:00;TR16602;Eurdep;air;39.67;35.87;1276.0;Turkey;Provincia de Yozgat;Akdağmadeni;;YOZGAT AKDAGMADENI;11.0;11.0
+21/05/17 17:00;TR16701;Eurdep;air;41.45;31.78;92.9;Turkey;Provincia de Zonguldak;Zonguldak Merkez;Zonguldak;ZONGULDAK;7.0;8.6
+21/05/17 17:00;TR16702;Eurdep;air;41.52;31.9;5.9;Turkey;;;;Zonguldak CATALAGZI TS;7.0;7.0
+21/05/17 17:00;TR16801;Eurdep;air;38.37;34.0;0.0;Turkey;0;0;0;AKSARAY;8.0;8.0
+21/05/17 17:00;TR16901;Eurdep;air;40.26;40.23;1572.8;Turkey;Provincia de Bayburt;Bayburt Merkez;Bayburt;BAYBURT;10.5;11.0
+21/05/17 17:00;TR17001;Eurdep;air;37.19;33.22;1029.1;Turkey;Karamán;Karaman Merkez;Karaman;KARAMAN;11.2;11.9
+19/05/17 22:00;TR17101;Eurdep;air;39.84;33.52;718.0;Turkey;Provincia de Kırıkkale;Kırıkkale Merkez;Kırıkkale;KIRIKKALE;0.0;0.0
+21/05/17 17:00;TR17201;Eurdep;air;37.88;41.15;593.3;Turkey;Provincia de Batman;Batman Merkez;Batman;BATMAN;9.8;10.0
+21/05/17 17:00;TR17301;Eurdep;air;37.52;42.46;1393.8;Turkey;Provincia de Şırnak;Şırnak Merkez;Şırnak;SIRNAK;8.0;8.5
+21/05/17 17:00;TR17401;Eurdep;air;41.62;32.36;52.8;Turkey;Provincia de Bartın;Bartın Merkez;Bartın;BARTIN;6.1;7.0
+21/05/17 17:00;TR17501;Eurdep;air;41.11;42.7;1800.4;Turkey;Provincia de Ardahan;Ardahan Merkez;Ardahan;ARDAHAN;11.8;12.0
+21/05/17 17:00;TR17601;Eurdep;air;39.93;44.05;859.3;Turkey;Provincia de Iğdır;Iğdır Merkez;Iğdır;IGDIR;4.8;5.0
+21/05/17 17:00;TR17602;Eurdep;air;40.03;44.18;843.0;Turkey;;;;Igdir Karakoyunlu ALICAN HK;8.0;8.0
+19/05/17 22:00;TR17603;Eurdep;air;39.88;44.52;815.6;Turkey;Provincia de Iğdır;Aralık;;IGDIR ARALIK;0.0;0.0
+21/05/17 17:00;TR17604;Eurdep;air;40.09;43.45;1079.1;Turkey;Provincia de Iğdır;Tuzluca;;Igdir Tuzluca GAZILER JKK;7.6;8.0
+21/05/17 17:00;TR17605;Eurdep;air;39.97;44.17;848.0;Turkey;Provincia de Iğdır;Karakoyunlu;;IGDIR KARAKOYUNLU;7.1;8.0
+21/05/17 17:00;TR17606;Eurdep;air;40.03;44.07;853.9;Turkey;Provincia de Iğdır;Iğdır Merkez;;Igdir Tuzluca KARAKALE JKK;9.2;10.0
+21/05/17 17:00;TR17701;Eurdep;air;40.66;29.28;3.1;Turkey;Provincia de Yalova;Yalova Merkez;Yalova;YALOVA;7.4;8.0
+21/05/17 17:00;TR17801;Eurdep;air;41.23;32.63;456.0;Turkey;Provincia de Karabük;Karabük Merkez;;KARABUK;5.0;5.0
+21/05/17 17:00;TR17901;Eurdep;air;36.71;37.11;645.7;Turkey;Provincia de Kilis;Kilis Merkez;Kilis;KILIS;5.0;5.0
+21/05/17 17:00;TR18001;Eurdep;air;37.1;36.25;98.8;Turkey;Provincia de Osmaniye;Osmaniye Merkez;;OSMANIYE;3.3;4.0
+21/05/17 17:00;TR18101;Eurdep;air;40.83;31.15;145.0;Turkey;Provincia de Düzce;Düzce Merkez;Düzce;DUZCE;6.0;6.0
+21/05/17 17:00;TR15803;Eurdep;air;40.16;38.09;1031.6;Turkey;Provincia de Sivas;Suşehri;;Sivas SUSEHRI;11.0;11.9
+21/05/17 17:00;TR16002;Eurdep;air;40.3;35.89;726.3;Turkey;Provincia de Tokat;Zile;Zile;Tokat ZILE;7.7;8.0
 16/05/17 22:00;TR10705;Eurdep;air;36.27;32.31;23.0;Turkey;Provincia de Antalya;Gazipaşa;Gazipaşa;Antalya GAZIPASA;0.0;0.0
-21/05/17 03:00;TR13304;Eurdep;air;36.15;33.33;29.0;Turkey;Provincia de Mersin;Aydıncık;Aydıncık;Mersin AYDINCIK;6.6;7.0
+21/05/17 17:00;TR13304;Eurdep;air;36.15;33.33;29.0;Turkey;Provincia de Mersin;Aydıncık;Aydıncık;Mersin AYDINCIK;6.5;7.0
 01/05/17 22:00;TR13305;Eurdep;air;36.11;32.97;6.1;Turkey;Provincia de Mersin;Bozyazı;;Mersin BOZYAZI;0.0;0.0
-21/05/17 03:00;TR13306;Eurdep;air;36.61;34.31;14.9;Turkey;Provincia de Mersin;Erdemli;Erdemli;Mersin ERDEMLI;9.0;9.0
-21/05/17 03:00;TR13307;Eurdep;air;36.34;33.4;965.6;Turkey;Provincia de Mersin;Gülnar;Gülnar;Mersin GULNAR;7.3;8.0
-21/05/17 03:00;TR13308;Eurdep;air;36.64;33.44;322.3;Turkey;Provincia de Mersin;Mut;Mut;Mersin MUT;8.7;9.0
-21/05/17 03:00;TR13309;Eurdep;air;36.38;33.93;23.9;Turkey;Provincia de Mersin;Silifke;Silifke;Mersin SILIFKE;5.0;5.0
-21/05/17 04:00;TR14207;Eurdep;air;38.82;31.73;1120.6;Turkey;Provincia de Konya;Yunak;Yunak;Konya YUNAK;9.1;10.0
-21/05/17 03:00;TR17002;Eurdep;air;36.64;32.89;1295.6;Turkey;Karamán;Ermenek;Ermenek;Karaman ERMENEK;7.2;8.0
-21/05/17 04:00;TR11705;Eurdep;air;40.2;25.9;39.2;Turkey;Provincia de Çanakkale;Gökçeada;;Canakkale GOKCEADA;13.3;14.0
-21/05/17 04:00;TR14304;Eurdep;air;39.09;28.97;814.7;Turkey;Provincia de Kütahya;Simav;Simav;Kutahya SIMAV;14.8;15.0
-21/05/17 04:00;TR10706;Eurdep;air;36.3;30.14;83.4;Turkey;Provincia de Antalya;Finike;;Antalya FINIKE;6.4;7.0
-21/05/17 04:00;TR11502;Eurdep;air;37.14;29.51;998.8;Turkey;Provincia de Burdur;Gölhisar;Gölhisar;Burdur GOLHISAR;7.0;7.0
-21/05/17 04:00;TR10103;Eurdep;air;36.77;35.79;23.5;Turkey;Provincia de Adana;Yumurtalık;Yumurtalık;Adana YUMURTALIK;4.0;4.8
-21/05/17 04:00;TR13103;Eurdep;air;36.08;35.98;17.0;Turkey;Provincia de Hatay;Samandağ;Samandağ;Hatay SAMANDAG;5.0;5.0
-21/05/17 04:00;TR12502;Eurdep;air;39.36;41.7;1702.7;Turkey;Provincia de Erzurum;Hınıs;Hınıs;Erzurum HINIS;10.2;11.0
-21/05/17 04:00;TR11802;Eurdep;air;40.81;32.89;1125.9;Turkey;Provincia de Çankırı;Çerkeş;Çerkeş;Cankiri CERKES;6.0;6.0
-21/05/17 04:00;TR13703;Eurdep;air;41.98;34.01;5.4;Turkey;Provincia de Kastamonu;Abana;Abana;Kastamonu ABANA;6.0;6.0
-21/05/17 04:00;TR13704;Eurdep;air;41.51;34.22;558.7;Turkey;Provincia de Kastamonu;Taşköprü;Pompeyópolis;Kastamonu TASKOPRU;6.1;6.0
-21/05/17 04:00;TR15503;Eurdep;air;41.14;35.47;336.9;Turkey;Provincia de Samsun;Vezirköprü;Vezirköprü;Samsun VEZIRKOPRU;7.0;7.0
-21/05/17 03:00;TR15703;Eurdep;air;41.46;34.78;352.6;Turkey;Provincia de Sinop;Boyabat;Boyabat;Sinop BOYABAT;4.6;5.0
-21/05/17 03:00;TR15702;Eurdep;air;41.95;34.58;0.0;Turkey;;;;Sinop AYANCIK;6.7;7.0
-21/05/17 03:00;TR15704;Eurdep;air;41.88;34.91;188.3;Turkey;Provincia de Sinop;Erfelek;Erfelek;Sinop ERFELEK;5.0;5.0
-21/05/17 03:00;TR15705;Eurdep;air;41.8;35.2;2.6;Turkey;;;;Sinop GERZE;5.0;5.0
-21/05/17 03:00;TR12402;Eurdep;air;39.78;40.38;1443.4;Turkey;Provincia de Erzincan;Tercan;Tercan;Erzincan TERCAN;6.2;7.0
+21/05/17 17:00;TR13306;Eurdep;air;36.61;34.31;14.9;Turkey;Provincia de Mersin;Erdemli;Erdemli;Mersin ERDEMLI;8.8;9.0
+21/05/17 17:00;TR13307;Eurdep;air;36.34;33.4;965.6;Turkey;Provincia de Mersin;Gülnar;Gülnar;Mersin GULNAR;7.3;8.0
+21/05/17 17:00;TR13308;Eurdep;air;36.64;33.44;322.3;Turkey;Provincia de Mersin;Mut;Mut;Mersin MUT;8.5;9.0
+21/05/17 17:00;TR13309;Eurdep;air;36.38;33.93;23.9;Turkey;Provincia de Mersin;Silifke;Silifke;Mersin SILIFKE;5.0;5.0
+21/05/17 16:00;TR14207;Eurdep;air;38.82;31.73;1120.6;Turkey;Provincia de Konya;Yunak;Yunak;Konya YUNAK;9.1;10.0
+21/05/17 17:00;TR17002;Eurdep;air;36.64;32.89;1295.6;Turkey;Karamán;Ermenek;Ermenek;Karaman ERMENEK;7.0;7.0
+21/05/17 16:00;TR11705;Eurdep;air;40.2;25.9;39.2;Turkey;Provincia de Çanakkale;Gökçeada;;Canakkale GOKCEADA;13.3;14.0
+21/05/17 16:00;TR14304;Eurdep;air;39.09;28.97;814.7;Turkey;Provincia de Kütahya;Simav;Simav;Kutahya SIMAV;14.7;15.0
+21/05/17 16:00;TR10706;Eurdep;air;36.3;30.14;83.4;Turkey;Provincia de Antalya;Finike;;Antalya FINIKE;6.4;7.0
+21/05/17 17:00;TR11502;Eurdep;air;37.14;29.51;998.8;Turkey;Provincia de Burdur;Gölhisar;Gölhisar;Burdur GOLHISAR;6.9;7.0
+21/05/17 14:00;TR10103;Eurdep;air;36.77;35.79;23.5;Turkey;Provincia de Adana;Yumurtalık;Yumurtalık;Adana YUMURTALIK;4.0;4.0
+21/05/17 17:00;TR13103;Eurdep;air;36.08;35.98;17.0;Turkey;Provincia de Hatay;Samandağ;Samandağ;Hatay SAMANDAG;5.0;5.0
+21/05/17 17:00;TR12502;Eurdep;air;39.36;41.7;1702.7;Turkey;Provincia de Erzurum;Hınıs;Hınıs;Erzurum HINIS;10.2;11.0
+21/05/17 17:00;TR11802;Eurdep;air;40.81;32.89;1125.9;Turkey;Provincia de Çankırı;Çerkeş;Çerkeş;Cankiri CERKES;6.0;6.0
+21/05/17 17:00;TR13703;Eurdep;air;41.98;34.01;5.4;Turkey;Provincia de Kastamonu;Abana;Abana;Kastamonu ABANA;6.0;6.6
+21/05/17 17:00;TR13704;Eurdep;air;41.51;34.22;558.7;Turkey;Provincia de Kastamonu;Taşköprü;Pompeyópolis;Kastamonu TASKOPRU;6.1;6.9
+21/05/17 16:00;TR15503;Eurdep;air;41.14;35.47;336.9;Turkey;Provincia de Samsun;Vezirköprü;Vezirköprü;Samsun VEZIRKOPRU;7.0;7.0
+21/05/17 17:00;TR15703;Eurdep;air;41.46;34.78;352.6;Turkey;Provincia de Sinop;Boyabat;Boyabat;Sinop BOYABAT;4.7;5.0
+21/05/17 17:00;TR15702;Eurdep;air;41.95;34.58;0.0;Turkey;;;;Sinop AYANCIK;6.9;7.0
+21/05/17 17:00;TR15704;Eurdep;air;41.88;34.91;188.3;Turkey;Provincia de Sinop;Erfelek;Erfelek;Sinop ERFELEK;5.0;5.0
+21/05/17 17:00;TR15705;Eurdep;air;41.8;35.2;2.6;Turkey;;;;Sinop GERZE;5.0;5.0
+21/05/17 17:00;TR12402;Eurdep;air;39.78;40.38;1443.4;Turkey;Provincia de Erzincan;Tercan;Tercan;Erzincan TERCAN;6.3;7.0
 13/05/17 22:00;TR12503;Eurdep;air;40.55;42.0;0.0;Turkey;0;0;0;Erzurum OLTU;0.0;0.0
-21/05/17 04:00;TR14402;Eurdep;air;39.04;38.49;1201.2;Turkey;Provincia de Malatya;Arapgir;Arapgir;Malatya ARAPGIR;8.4;9.0
-21/05/17 04:00;TR14902;Eurdep;air;39.15;42.53;1498.9;Turkey;Provincia de Muş;Malazgirt;;Mus MALAZGIRT;14.9;15.0
-21/05/17 04:00;TR13101;Eurdep;air;36.24;36.13;179.2;Turkey;Provincia de Hatay;Antioquía;;HATAY;6.8;7.0
-21/05/17 04:00;TR13903;Eurdep;air;41.39;27.37;90.9;Turkey;Provincia de Kırklareli;Lüleburgaz;;KIRKLARELI LULEBURGAZ;5.0;5.1
-21/05/17 04:00;TR13405;Eurdep;air;41.17;29.6;50.9;Turkey;Provincia de Estambul;Şile;;ISTANBUL SILE;5.8;6.0
+21/05/17 16:00;TR14402;Eurdep;air;39.04;38.49;1201.2;Turkey;Provincia de Malatya;Arapgir;Arapgir;Malatya ARAPGIR;8.4;9.0
+21/05/17 16:00;TR14902;Eurdep;air;39.15;42.53;1498.9;Turkey;Provincia de Muş;Malazgirt;;Mus MALAZGIRT;14.7;15.0
+21/05/17 17:00;TR13101;Eurdep;air;36.24;36.13;179.2;Turkey;Provincia de Hatay;Antioquía;;HATAY;6.4;7.0
+21/05/17 16:00;TR13903;Eurdep;air;41.39;27.37;90.9;Turkey;Provincia de Kırklareli;Lüleburgaz;;KIRKLARELI LULEBURGAZ;5.0;5.8
+21/05/17 17:00;TR13405;Eurdep;air;41.17;29.6;50.9;Turkey;Provincia de Estambul;Şile;;ISTANBUL SILE;6.0;7.0
