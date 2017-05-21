@@ -29,20 +29,20 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 20/05/17 05:00;UA33136;Eurdep;air;51.8;31.95;118.4;Ukraine;Chernigov;Shchors'kyi district;;Snovsk;8.0;8.0
 20/05/17 05:00;UA33146;Eurdep;air;51.77;32.97;189.9;Ukraine;Chernigov;Korops'kyi district;;Pokoshychi;8.0;8.0
 20/05/17 05:00;UA33156;Eurdep;air;51.65;33.98;185.7;Ukraine;Sumi;Hlukhivs'kyi district;;Hlukhiv;10.0;10.0
-20/05/17 04:00;UA33173;Eurdep;air;51.2;24.71;171.7;Ukraine;Volinia;;Kovel;Kovel;7.8;7.8
+19/05/17 22:00;UA33173;Eurdep;air;51.2;24.71;171.7;Ukraine;Volinia;;Kovel;Kovel;0.0;0.0
 20/05/17 05:00;UA33177;Eurdep;air;50.84;24.35;188.0;Ukraine;Volinia;Raión de Volodymyr-Volynskyi;;Volodymyr-Volynsky;12.0;12.0
 20/05/17 05:00;UA33187;Eurdep;air;50.72;25.4;197.9;Ukraine;Volinia;Luts'kyi district;Pidhaitsi;Lutsk;10.0;10.0
 20/05/17 05:00;UA33203;Eurdep;air;51.22;27.63;181.1;Ukraine;Zhitomir;Olevs'kyi district;Olevs'k;Olevsk;10.0;10.0
 20/05/17 05:00;UA33215;Eurdep;air;50.96;28.61;186.3;Ukraine;Zhitomir;;Korostén;Korosten;16.0;16.0
 20/05/17 05:00;UA33246;Eurdep;air;51.04;31.9;121.6;Ukraine;Chernigov;;Nezhin;Nizhyn;8.0;8.0
-20/05/17 04:00;UA33261;Eurdep;air;51.24;33.19;142.3;Ukraine;Sumi;;Konotop;Konotop;8.0;8.0
+19/05/17 22:00;UA33261;Eurdep;air;51.24;33.19;142.3;Ukraine;Sumi;;Konotop;Konotop;0.0;0.0
 20/05/17 05:00;UA33268;Eurdep;air;50.77;33.44;163.9;Ukraine;Sumi;;;Romny;8.0;8.0
 20/05/17 05:00;UA33275;Eurdep;air;50.86;34.75;176.8;Ukraine;Sumi;;Sumy;Sumy;11.0;11.0
 20/05/17 05:00;UA33287;Eurdep;air;50.24;23.63;236.9;Ukraine;Óblast de Leópolis;Zhovkivs'kyi district;Shabel'nya;Rava-Ruska;7.8;7.8
 20/05/17 05:00;UA33288;Eurdep;air;50.12;24.35;203.5;Ukraine;Óblast de Leópolis;Kam'yanka-Buz'kyi district;;Kamianka-Buzka;8.0;8.0
 20/05/17 05:00;UA33296;Eurdep;air;50.4;25.75;191.6;Ukraine;Rovno;;;Dubno;8.0;8.0
 20/05/17 05:00;UA33297;Eurdep;air;50.1;25.15;232.8;Ukraine;Óblast de Leópolis;Brodivs'kyi district;Brody;Brody;8.0;8.0
-20/05/17 04:00;UA33299;Eurdep;air;50.13;25.73;251.8;Ukraine;Ternopol;Kremenets'kyi district;;Kremenets;8.0;8.0
+19/05/17 22:00;UA33299;Eurdep;air;50.13;25.73;251.8;Ukraine;Ternopol;Kremenets'kyi district;;Kremenets;0.0;0.0
 20/05/17 05:00;UA33301;Eurdep;air;50.6;26.15;221.8;Ukraine;Rovno;Rivnens'kyi district;;Rivne;8.0;8.0
 20/05/17 05:00;UA33312;Eurdep;air;50.6;27.61;210.0;Ukraine;Zhitomir;;Novograd-Volinski;Novohrad-Volynskyi;10.0;10.0
 20/05/17 05:00;UA33317;Eurdep;air;50.16;27.04;267.5;Ukraine;Jmelnitsky;;Shepetovka;Shepetivka;11.0;11.0
@@ -85,7 +85,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 20/05/17 05:00;UA33605;Eurdep;air;49.06;32.68;122.9;Ukraine;Cherkasi;Chyhyryns'kyi district;Chiguirin;Chyhyryn;9.6;9.6
 20/05/17 05:00;UA33609;Eurdep;air;48.74;32.69;179.6;Ukraine;Kirovogrado;Znam'yans'kyi district;;Znamianka;10.0;10.0
 20/05/17 05:00;UA33614;Eurdep;air;49.07;33.25;0.0;Ukraine;0;0.0;0;Svitlovodsk;9.6;9.6
-20/05/17 04:00;UA33621;Eurdep;air;49.15;34.21;109.1;Ukraine;Poltava;Kobelyats'kyi district;Kobelyaky;Kobeliaky;10.0;10.0
+19/05/17 22:00;UA33621;Eurdep;air;49.15;34.21;109.1;Ukraine;Poltava;Kobelyats'kyi district;Kobelyaky;Kobeliaky;0.0;0.0
 20/05/17 05:00;UA33631;Eurdep;air;48.63;22.26;112.2;Ukraine;Transcarpatia;;Úzhgorod;Uzhhorod;12.0;12.0
 20/05/17 05:00;UA33633;Eurdep;air;48.53;23.5;439.4;Ukraine;Transcarpatia;Mizhhirs'kyi district;Mizhhir'ya;Mizhhirya;9.6;9.6
 20/05/17 05:00;UA33634;Eurdep;air;48.2;22.65;114.2;Ukraine;Transcarpatia;;Beregovo;Berehove;10.0;10.0
@@ -138,7 +138,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 20/05/17 05:00;UA34607;Eurdep;air;47.26;35.33;88.3;Ukraine;Zaporozhe;Mykhailivs'kyi district;Pryshyb;Pryshyb;12.0;12.0
 20/05/17 05:00;UA34609;Eurdep;air;47.33;36.33;215.9;Ukraine;Zaporozhe;Polohivs'kyi district;;Kyrylivka;10.0;10.0
 20/05/17 05:00;UA34615;Eurdep;air;47.61;37.49;256.4;Ukraine;Óblast de Donetsk;Volnovas'kyi district;Volnovaja;Volnovakha;9.6;9.6
-20/05/17 04:00;UA34704;Eurdep;air;46.83;35.36;35.9;Ukraine;Zaporozhe;;Melitópol;Melitopol;7.0;7.0
+19/05/17 22:00;UA34704;Eurdep;air;46.83;35.36;35.9;Ukraine;Zaporozhe;;Melitópol;Melitopol;0.0;0.0
 20/05/17 05:00;UA34708;Eurdep;air;46.68;35.84;12.1;Ukraine;Zaporozhe;Pryazovs'kyi district;Botijeve;Botievo;11.0;11.0
 20/05/17 02:00;UA34712;Eurdep;air;47.04;37.48;0.0;Ukraine;0;0.0;0;Mariupol;9.6;9.6
 20/05/17 05:00;UA34717;Eurdep;air;46.75;36.78;0.8;Ukraine;Zaporozhe;;Berdiansk;Berdiansk;8.0;8.0
