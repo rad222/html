@@ -1,12 +1,12 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-23/05/17 03:00;DK0207;Eurdep;air;57.0;9.92;0.0;Denmark;0;0;0;AALBORG SARA0207;3.4;3.5
-23/05/17 03:00;DK0208;Eurdep;air;56.36;10.85;40.7;Denmark;Jutlandia Central;Norddjurs;Grenaa;GRENA SARA0208;3.6;3.6
-23/05/17 03:00;DK0209;Eurdep;air;56.14;8.94;47.7;Denmark;Jutlandia Central;Herning;Herning;HERNING SARA0209;8.1;8.3
-23/05/17 03:00;DK0210;Eurdep;air;55.23;9.5;37.1;Denmark;Dinamarca Meridional;Haderslev;Haderslev;HADERSLEV SARA0210;3.9;4.0
-23/05/17 03:00;DK0211;Eurdep;air;54.8;10.71;29.9;Denmark;Dinamarca Meridional;Langeland Municipality;Humble;LANGELAND SARA0211;5.0;5.0
-23/05/17 03:00;DK0212;Eurdep;air;55.95;11.86;14.3;Denmark;Región Capital;Halsnæs;Hundested;LYNAES SARA0212;8.4;8.5
-23/05/17 03:00;DK0213;Eurdep;air;55.72;12.57;8.0;Denmark;Región Capital;København;Copenhague;KOBENHAVN SARA0213;9.1;9.2
-23/05/17 03:00;DK0214;Eurdep;air;55.69;12.1;11.7;Denmark;Región de Selandia;Roskilde;Roskilde;RISO SARA0214;5.1;5.2
-23/05/17 03:00;DK0215;Eurdep;air;54.96;12.51;68.1;Denmark;Región de Selandia;Vordingborg;Borre;MON SARA0215;4.9;5.0
-23/05/17 03:00;DK0216;Eurdep;air;54.7;11.94;0.4;Denmark;Región de Selandia;Guldborgsund;Væggerløse;FALSTER SARA0216;3.8;3.8
-23/05/17 03:00;DK0219;Eurdep;air;55.27;14.8;36.3;Denmark;Región Capital;Bornholm;Allinge;BORNHOLM S-STATION 0219;13.9;14.0
+24/05/17 16:00;DK0207;Eurdep;air;57.0;9.92;0.0;Denmark;0;0;0;AALBORG SARA0207;3.4;3.5
+24/05/17 16:00;DK0208;Eurdep;air;56.36;10.85;40.7;Denmark;Jutlandia Central;Norddjurs;Grenaa;GRENA SARA0208;3.6;3.7
+24/05/17 16:00;DK0209;Eurdep;air;56.14;8.94;47.7;Denmark;Jutlandia Central;Herning;Herning;HERNING SARA0209;8.2;8.2
+24/05/17 16:00;DK0210;Eurdep;air;55.23;9.5;37.1;Denmark;Dinamarca Meridional;Haderslev;Haderslev;HADERSLEV SARA0210;3.8;3.9
+24/05/17 16:00;DK0211;Eurdep;air;54.8;10.71;29.9;Denmark;Dinamarca Meridional;Langeland Municipality;Humble;LANGELAND SARA0211;4.9;5.0
+24/05/17 16:00;DK0212;Eurdep;air;55.95;11.86;14.3;Denmark;Región Capital;Halsnæs;Hundested;LYNAES SARA0212;8.5;8.6
+24/05/17 16:00;DK0213;Eurdep;air;55.72;12.57;8.0;Denmark;Región Capital;København;Copenhague;KOBENHAVN SARA0213;9.1;9.7
+24/05/17 16:00;DK0214;Eurdep;air;55.69;12.1;11.7;Denmark;Región de Selandia;Roskilde;Roskilde;RISO SARA0214;5.1;5.3
+24/05/17 16:00;DK0215;Eurdep;air;54.96;12.51;68.1;Denmark;Región de Selandia;Vordingborg;Borre;MON SARA0215;4.4;4.7
+24/05/17 16:00;DK0216;Eurdep;air;54.7;11.94;0.4;Denmark;Región de Selandia;Guldborgsund;Væggerløse;FALSTER SARA0216;3.7;3.9
+24/05/17 16:00;DK0219;Eurdep;air;55.27;14.8;36.3;Denmark;Región Capital;Bornholm;Allinge;BORNHOLM S-STATION 0219;14.0;14.1
