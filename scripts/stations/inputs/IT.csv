@@ -1,65 +1,65 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-02/06/17 03:00;ITJRC01;Eurdep;air;45.8;8.63;229.6;Italy;Lombardía;Varese;;JRC Station 1;1.7;2.2
-02/06/17 03:00;ITJRC03;Eurdep;air;45.81;8.64;223.6;Italy;Lombardía;Varese;;JRC Station 3;2.2;2.9
-02/06/17 03:00;ITJRC05;Eurdep;air;45.81;8.64;0.0;Italy;0;0;0;JRC Station 5;2.0;2.7
-02/06/17 03:00;ITJRC07;Eurdep;air;45.82;8.63;207.1;Italy;Lombardía;Varese;Ispra;JRC Station 7;2.1;2.8
-02/06/17 03:00;ITJRC09;Eurdep;air;45.81;8.62;211.8;Italy;Lombardía;Varese;Ispra;Station 9;2.1;2.8
-02/06/17 00:00;IT0001;Eurdep;air;43.89;7.6;224.2;Italy;Liguria;Imperia;Rocchetta Nervina;Rocchetta Nervina;12.1;12.0
-02/06/17 00:00;IT0002;Eurdep;air;44.22;9.72;182.4;Italy;Liguria;La Spezia;;Borghetto di Vara;10.6;11.0
-02/06/17 00:00;IT0003;Eurdep;air;44.39;7.82;418.3;Italy;Piamonte;Cuneo;Mondovì;Mondovi;9.5;9.8
-02/06/17 00:00;IT0004;Eurdep;air;44.73;7.32;392.6;Italy;Piamonte;Cuneo;Barge;Barge;12.1;12.0
-02/06/17 00:00;IT0005;Eurdep;air;44.73;8.87;215.8;Italy;Piamonte;Alessandria;Stazzano;Stazzano;10.8;11.0
-02/06/17 00:00;IT0006;Eurdep;air;45.13;8.45;0.0;Italy;0;0;0;Casale Monferrato;9.1;9.0
-02/06/17 00:00;IT0007;Eurdep;air;45.19;9.16;79.8;Italy;Lombardía;Pavía;Pavía;Pavia;12.5;12.0
-02/06/17 00:00;IT0008;Eurdep;air;45.54;10.21;144.0;Italy;Lombardía;Brescia;Brescia;Brescia;12.0;12.0
-02/06/17 00:00;IT0009;Eurdep;air;45.72;8.69;260.4;Italy;Lombardía;Varese;Vergiate;Vergiate;15.0;15.0
-02/06/17 00:00;IT0010;Eurdep;air;46.18;9.98;630.6;Italy;Lombardía;Sondrio;;Ponte in Valtellina;16.2;16.0
-02/06/17 01:00;IT0012;Eurdep;air;46.07;12.4;1030.4;Italy;Véneto;Belluno;;PianCansiglio (Tambre);11.6;12.0
-01/06/17 14:00;IT0014;Eurdep;air;44.42;12.2;3.7;Italy;Emilia-Romaña;Rávena;Rávena;Marina di Ravenna;9.5;9.7
-02/06/17 00:00;IT0015;Eurdep;air;43.52;11.57;149.6;Italy;Toscana;Arezzo;Pestello;Montevarchi;9.2;9.6
-02/06/17 00:00;IT0017;Eurdep;air;43.31;10.52;15.7;Italy;Toscana;Livorno;Cecina;Cecina Marina;9.5;9.8
-02/06/17 00:00;IT0018;Eurdep;air;43.05;10.89;387.4;Italy;Toscana;Grosseto;Massa Marittima;Massa Marittima;7.3;7.5
+02/06/17 16:00;ITJRC01;Eurdep;air;45.8;8.63;229.6;Italy;Lombardía;Varese;;JRC Station 1;1.6;2.2
+02/06/17 16:00;ITJRC03;Eurdep;air;45.81;8.64;223.6;Italy;Lombardía;Varese;;JRC Station 3;2.1;2.9
+02/06/17 16:00;ITJRC05;Eurdep;air;45.81;8.64;0.0;Italy;0;0;0;JRC Station 5;2.1;2.5
+02/06/17 16:00;ITJRC07;Eurdep;air;45.82;8.63;207.1;Italy;Lombardía;Varese;Ispra;JRC Station 7;2.1;2.8
+02/06/17 16:00;ITJRC09;Eurdep;air;45.81;8.62;211.8;Italy;Lombardía;Varese;Ispra;Station 9;2.1;2.8
+02/06/17 00:00;IT0001;Eurdep;air;43.89;7.6;224.2;Italy;Liguria;Imperia;Rocchetta Nervina;Rocchetta Nervina;12.0;12.0
+02/06/17 00:00;IT0002;Eurdep;air;44.22;9.72;182.4;Italy;Liguria;La Spezia;;Borghetto di Vara;10.9;11.0
+02/06/17 00:00;IT0003;Eurdep;air;44.39;7.82;418.3;Italy;Piamonte;Cuneo;Mondovì;Mondovi;9.6;9.8
+02/06/17 00:00;IT0004;Eurdep;air;44.73;7.32;392.6;Italy;Piamonte;Cuneo;Barge;Barge;12.3;12.0
+02/06/17 00:00;IT0005;Eurdep;air;44.73;8.87;215.8;Italy;Piamonte;Alessandria;Stazzano;Stazzano;10.9;11.0
+02/06/17 00:00;IT0006;Eurdep;air;45.13;8.45;0.0;Italy;0;0;0;Casale Monferrato;9.1;9.3
+02/06/17 00:00;IT0007;Eurdep;air;45.19;9.16;79.8;Italy;Lombardía;Pavía;Pavía;Pavia;12.6;12.0
+02/06/17 00:00;IT0008;Eurdep;air;45.54;10.21;144.0;Italy;Lombardía;Brescia;Brescia;Brescia;12.3;12.0
+02/06/17 00:00;IT0009;Eurdep;air;45.72;8.69;260.4;Italy;Lombardía;Varese;Vergiate;Vergiate;15.2;15.0
+02/06/17 00:00;IT0010;Eurdep;air;46.18;9.98;630.6;Italy;Lombardía;Sondrio;;Ponte in Valtellina;16.3;16.0
+02/06/17 15:00;IT0012;Eurdep;air;46.07;12.4;1030.4;Italy;Véneto;Belluno;;PianCansiglio (Tambre);11.7;12.0
+31/05/17 22:00;IT0014;Eurdep;air;44.42;12.2;3.7;Italy;Emilia-Romaña;Rávena;Rávena;Marina di Ravenna;0.0;0.0
+02/06/17 00:00;IT0015;Eurdep;air;43.52;11.57;149.6;Italy;Toscana;Arezzo;Pestello;Montevarchi;9.3;9.6
+02/06/17 00:00;IT0017;Eurdep;air;43.31;10.52;15.7;Italy;Toscana;Livorno;Cecina;Cecina Marina;9.7;9.8
+02/06/17 00:00;IT0018;Eurdep;air;43.05;10.89;387.4;Italy;Toscana;Grosseto;Massa Marittima;Massa Marittima;7.4;7.5
 02/06/17 00:00;IT0019;Eurdep;air;42.44;11.21;1.0;Italy;Toscana;Grosseto;;Ansedonia;10.2;10.0
-02/06/17 00:00;IT0023;Eurdep;air;42.56;12.41;266.4;Italy;Umbría;Terni;;Amelia;10.9;11.0
-02/06/17 00:00;IT0025;Eurdep;air;42.62;13.16;1023.8;Italy;Lacio;Rieti;;Cittareale;9.8;10.0
-02/06/17 00:00;IT0026;Eurdep;air;42.2;12.88;426.8;Italy;Lacio;Rieti;Poggio Moiano;Poggio Moiano;11.8;12.0
-02/06/17 00:00;IT0027;Eurdep;air;41.47;13.18;75.1;Italy;Lacio;Latina;Priverno;Priverno;15.1;16.0
-02/06/17 00:00;IT0028;Eurdep;air;42.46;14.21;3.7;Italy;Abruzos;Pescara;Pescara;Pescara;8.3;8.6
-02/06/17 00:00;IT0029;Eurdep;air;42.36;13.73;1295.4;Italy;Abruzos;L'Aquila;;Castel del Monte;10.7;11.0
-02/06/17 00:00;IT0030;Eurdep;air;42.09;13.36;711.1;Italy;Abruzos;L'Aquila;Magliano de' Marsi;Magliano dei Marsi;14.0;15.0
-02/06/17 00:00;IT0031;Eurdep;air;42.01;14.86;227.3;Italy;Molise;Campobasso;Petacciato;Petacciato Scalo;6.8;7.0
-02/06/17 00:00;IT0032;Eurdep;air;41.81;14.37;755.2;Italy;Molise;Isernia;;Agnone;10.1;10.0
-02/06/17 00:00;IT0033;Eurdep;air;41.74;14.85;607.5;Italy;Molise;Campobasso;Casacalenda;Casacalenda;9.0;9.7
-02/06/17 00:00;IT0034;Eurdep;air;41.06;14.55;281.6;Italy;Campania;Benevento;;Airola;13.3;13.0
+02/06/17 00:00;IT0023;Eurdep;air;42.56;12.41;266.4;Italy;Umbría;Terni;;Amelia;11.0;11.0
+02/06/17 00:00;IT0025;Eurdep;air;42.62;13.16;1023.8;Italy;Lacio;Rieti;;Cittareale;9.9;10.0
+02/06/17 00:00;IT0026;Eurdep;air;42.2;12.88;426.8;Italy;Lacio;Rieti;Poggio Moiano;Poggio Moiano;11.8;11.0
+02/06/17 00:00;IT0027;Eurdep;air;41.47;13.18;75.1;Italy;Lacio;Latina;Priverno;Priverno;15.3;15.0
+02/06/17 00:00;IT0028;Eurdep;air;42.46;14.21;3.7;Italy;Abruzos;Pescara;Pescara;Pescara;8.4;8.6
+02/06/17 00:00;IT0029;Eurdep;air;42.36;13.73;1295.4;Italy;Abruzos;L'Aquila;;Castel del Monte;10.7;10.0
+02/06/17 00:00;IT0030;Eurdep;air;42.09;13.36;711.1;Italy;Abruzos;L'Aquila;Magliano de' Marsi;Magliano dei Marsi;14.5;15.0
+02/06/17 00:00;IT0031;Eurdep;air;42.01;14.86;227.3;Italy;Molise;Campobasso;Petacciato;Petacciato Scalo;6.9;7.0
+02/06/17 00:00;IT0032;Eurdep;air;41.81;14.37;755.2;Italy;Molise;Isernia;;Agnone;10.3;10.0
+02/06/17 00:00;IT0033;Eurdep;air;41.74;14.85;607.5;Italy;Molise;Campobasso;Casacalenda;Casacalenda;9.6;9.7
+02/06/17 00:00;IT0034;Eurdep;air;41.06;14.55;281.6;Italy;Campania;Benevento;;Airola;13.4;13.0
 21/05/17 22:00;IT0035;Eurdep;air;40.96;14.0;0.0;Italy;0;0;0;Castel Volturno;0.0;0.0
-02/06/17 00:00;IT0036;Eurdep;air;40.11;15.23;244.8;Italy;Campania;Salerno;;Pisciotta;10.4;10.0
-02/06/17 00:00;IT0041;Eurdep;air;39.99;15.72;485.1;Italy;Basilicata;Potenza;;Maratea;9.3;9.6
-02/06/17 00:00;IT0042;Eurdep;air;40.51;15.49;459.7;Italy;Campania;Salerno;Polla;Polla;13.3;13.0
-02/06/17 00:00;IT0044;Eurdep;air;38.51;16.32;892.2;Italy;Calabria;Vibo Valentia;;Mongiana;12.1;12.0
-02/06/17 00:00;IT0045;Eurdep;air;45.74;7.31;600.2;Italy;Valle de Aosta;Valle de Aosta;Aosta;Aosta;9.9;10.0
-02/06/17 00:00;IT0046;Eurdep;air;46.67;11.16;314.4;Italy;Trentino-Alto Adigio;Bolzano;Merano;Merano;13.7;16.0
+02/06/17 00:00;IT0036;Eurdep;air;40.11;15.23;244.8;Italy;Campania;Salerno;;Pisciotta;10.5;10.0
+02/06/17 00:00;IT0041;Eurdep;air;39.99;15.72;485.1;Italy;Basilicata;Potenza;;Maratea;9.4;9.6
+02/06/17 00:00;IT0042;Eurdep;air;40.51;15.49;459.7;Italy;Campania;Salerno;Polla;Polla;13.0;13.0
+02/06/17 00:00;IT0044;Eurdep;air;38.51;16.32;892.2;Italy;Calabria;Vibo Valentia;;Mongiana;12.3;12.0
+02/06/17 00:00;IT0045;Eurdep;air;45.74;7.31;600.2;Italy;Valle de Aosta;Valle de Aosta;Aosta;Aosta;10.1;10.0
+02/06/17 00:00;IT0046;Eurdep;air;46.67;11.16;314.4;Italy;Trentino-Alto Adigio;Bolzano;Merano;Merano;14.6;16.0
 02/06/17 00:00;IT0047;Eurdep;air;45.89;11.04;190.0;Italy;Trentino-Alto Adigio;Trento;Rovereto;Rovereto;8.6;8.8
-02/06/17 00:00;IT0063;Eurdep;air;44.01;10.55;152.8;Italy;Toscana;Lucca;;Bagni di Lucca;9.1;9.3
-02/06/17 00:00;IT0064;Eurdep;air;44.81;11.59;7.0;Italy;Emilia-Romaña;Ferrara;Ferrara;Ferrara;9.0;9.0
-02/06/17 00:00;IT0065;Eurdep;air;46.56;12.42;872.3;Italy;Véneto;Belluno;;Auronzo di Cadore;9.2;12.0
-02/06/17 01:00;IT0066;Eurdep;air;46.09;13.11;132.6;Italy;Friuli-Venecia Julia;Udine;;Fagagna;12.8;13.0
-02/06/17 01:00;IT0067;Eurdep;air;46.51;13.55;794.1;Italy;Friuli-Venecia Julia;Udine;Camporosso In Valcanale;Tarvisio;11.7;12.0
-02/06/17 01:00;IT0068;Eurdep;air;45.94;13.62;81.0;Italy;Friuli-Venecia Julia;Gorizia;Gorizia;Gorizia;9.3;9.8
-02/06/17 00:00;IT0069;Eurdep;air;44.8;10.33;57.8;Italy;Emilia-Romaña;Parma;Parma;Parma;6.7;6.9
-02/06/17 00:00;IT0070;Eurdep;air;42.42;11.87;181.0;Italy;Lacio;Viterbo;Tuscania;Tuscania;21.6;22.0
-02/06/17 00:00;IT0071;Eurdep;air;40.12;8.82;305.1;Italy;Cerdeña;Oristán;;Abbasanta;11.3;11.0
-02/06/17 00:00;IT0073;Eurdep;air;43.19;12.93;505.1;Italy;Marcas;Macerata;Massa;Fiuminata;6.4;6.8
-02/06/17 00:00;IT0074;Eurdep;air;43.32;13.43;110.5;Italy;Marcas;Macerata;Villa Potenza;Villa Potenza;7.1;7.0
-02/06/17 00:00;IT0075;Eurdep;air;42.9;13.79;128.6;Italy;Marcas;Ascoli Piceno;;Monsampolo;9.0;9.4
-02/06/17 00:00;IT0076;Eurdep;air;39.11;17.09;10.7;Italy;Calabria;Crotona;Crotone;Crotone;11.1;11.0
+02/06/17 00:00;IT0063;Eurdep;air;44.01;10.55;152.8;Italy;Toscana;Lucca;;Bagni di Lucca;9.2;9.3
+02/06/17 00:00;IT0064;Eurdep;air;44.81;11.59;7.0;Italy;Emilia-Romaña;Ferrara;Ferrara;Ferrara;8.8;9.1
+02/06/17 00:00;IT0065;Eurdep;air;46.56;12.42;872.3;Italy;Véneto;Belluno;;Auronzo di Cadore;9.6;11.0
+02/06/17 15:00;IT0066;Eurdep;air;46.09;13.11;132.6;Italy;Friuli-Venecia Julia;Udine;;Fagagna;12.9;13.0
+02/06/17 11:00;IT0067;Eurdep;air;46.51;13.55;794.1;Italy;Friuli-Venecia Julia;Udine;Camporosso In Valcanale;Tarvisio;11.7;12.0
+02/06/17 15:00;IT0068;Eurdep;air;45.94;13.62;81.0;Italy;Friuli-Venecia Julia;Gorizia;Gorizia;Gorizia;9.4;9.8
+02/06/17 00:00;IT0069;Eurdep;air;44.8;10.33;57.8;Italy;Emilia-Romaña;Parma;Parma;Parma;6.8;6.9
+02/06/17 00:00;IT0070;Eurdep;air;42.42;11.87;181.0;Italy;Lacio;Viterbo;Tuscania;Tuscania;21.8;22.0
+02/06/17 00:00;IT0071;Eurdep;air;40.12;8.82;305.1;Italy;Cerdeña;Oristán;;Abbasanta;11.4;11.0
+02/06/17 00:00;IT0073;Eurdep;air;43.19;12.93;505.1;Italy;Marcas;Macerata;Massa;Fiuminata;6.5;6.8
+02/06/17 00:00;IT0074;Eurdep;air;43.32;13.43;110.5;Italy;Marcas;Macerata;Villa Potenza;Villa Potenza;7.2;7.0
+02/06/17 00:00;IT0075;Eurdep;air;42.9;13.79;128.6;Italy;Marcas;Ascoli Piceno;;Monsampolo;9.2;9.4
+02/06/17 00:00;IT0076;Eurdep;air;39.11;17.09;10.7;Italy;Calabria;Crotona;Crotone;Crotone;11.3;11.0
 23/05/17 22:00;IT0077;Eurdep;air;46.48;10.37;0.0;Italy;0;0;0;Bormio;0.0;0.0
-02/06/17 00:00;IT0078;Eurdep;air;45.48;9.4;112.3;Italy;Lombardía;Milán;;Milano;8.6;9.0
-02/06/17 00:00;IT0079;Eurdep;air;45.43;12.38;0.0;Italy;;Venecia;Venecia;Venezia Lido;8.8;9.0
-02/06/17 00:00;IT0080;Eurdep;air;45.51;11.51;31.9;Italy;Véneto;Vicenza;Nogarazza;Vicenza;11.6;12.0
-02/06/17 00:00;IT0081;Eurdep;air;40.99;15.63;558.5;Italy;Basilicata;Potenza;;Melfi;18.4;18.0
-02/06/17 00:00;IT0082;Eurdep;air;41.12;16.9;0.0;Italy;;;;Bari;5.8;6.1
-02/06/17 00:00;IT0083;Eurdep;air;41.82;12.47;18.9;Italy;Lacio;Roma;Roma;Roma;15.6;17.0
-02/06/17 00:00;IT0085;Eurdep;air;38.03;12.55;34.4;Italy;Sicilia;Trapani;Casa Santa;Trapani;6.2;6.5
+02/06/17 00:00;IT0078;Eurdep;air;45.48;9.4;112.3;Italy;Lombardía;Milán;;Milano;8.7;9.0
+02/06/17 00:00;IT0079;Eurdep;air;45.43;12.38;0.0;Italy;;Venecia;Venecia;Venezia Lido;8.9;9.0
+02/06/17 00:00;IT0080;Eurdep;air;45.51;11.51;31.9;Italy;Véneto;Vicenza;Nogarazza;Vicenza;11.9;12.0
+02/06/17 00:00;IT0081;Eurdep;air;40.99;15.63;558.5;Italy;Basilicata;Potenza;;Melfi;18.5;18.0
+02/06/17 00:00;IT0082;Eurdep;air;41.12;16.9;0.0;Italy;;;;Bari;5.9;6.1
+02/06/17 00:00;IT0083;Eurdep;air;41.82;12.47;18.9;Italy;Lacio;Roma;Roma;Roma;15.9;17.0
+02/06/17 00:00;IT0085;Eurdep;air;38.03;12.55;34.4;Italy;Sicilia;Trapani;Casa Santa;Trapani;6.3;6.5
 26/05/17 22:00;ITVDA001;Eurdep;air;45.74;7.32;0.0;Italy;0;0;0;Plouves;0.0;0.0
 26/05/17 22:00;ITVDA002;Eurdep;air;45.62;7.36;0.0;Italy;0;0;0;Cogne;0.0;0.0
 26/05/17 22:00;ITVDA003;Eurdep;air;45.6;7.77;0.0;Italy;0;0;0;Donnas;0.0;0.0
@@ -208,4 +208,4 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 14/05/17 22:00;ITVVF0158;Eurdep;air;46.41;13.02;0.0;Italy;0;0;0;Tolmezzo;0.0;0.0
 14/05/17 22:00;ITVVF0159;Eurdep;air;46.04;13.21;0.0;Italy;0;0;0;Udine1;0.0;0.0
 14/05/17 22:00;ITVVF0142;Eurdep;air;46.27;13.27;0.0;Italy;0;0;0;Lusevera;0.0;0.0
-02/06/17 00:00;IT0062;Eurdep;air;45.95;12.68;24.4;Italy;Friuli-Venecia Julia;Pordenone;Pordenone;Pordenone;11.1;11.0
+02/06/17 14:00;IT0062;Eurdep;air;45.95;12.68;24.4;Italy;Friuli-Venecia Julia;Pordenone;Pordenone;Pordenone;11.2;11.0
