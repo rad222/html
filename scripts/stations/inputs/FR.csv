@@ -1,31 +1,31 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-05/06/17 03:00;FR2001;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS801MA_18_SIT_GM;11.6;12.0
-05/06/17 03:00;FR2002;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS802MA_18_SIT_GM;11.5;12.0
-05/06/17 03:00;FR2003;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS803MA_18_SIT_GM;10.9;11.0
-05/06/17 03:00;FR2004;Eurdep;air;47.5;2.88;134.0;France;Centro;Cher;Sury-près-Léré;BV0KRS804MA_18_SIT_GM;11.0;11.0
-05/06/17 03:00;FR2005;Eurdep;air;47.5;2.87;132.6;France;Centro;Cher;Belleville-sur-Loire;BV0KRS805MA_18_SIT_GM;11.2;12.0
-05/06/17 03:00;FR2006;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS806MA_18_SIT_GM;10.4;11.0
-05/06/17 03:00;FR2007;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS807MA_18_SIT_GM;12.0;12.0
-05/06/17 03:00;FR2008;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS808MA_18_SIT_GM;11.2;11.0
-05/06/17 03:00;FR2009;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS809MA_18_SIT_GM;10.1;10.0
-05/06/17 03:00;FR2010;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS810MA_18_SIT_GM;11.6;12.0
-05/06/17 03:00;FR2011;Eurdep;air;47.51;2.89;132.6;France;Bourgogne-Franche-Comté;Nièvre;Neuvy-sur-Loire;BV0KRS921MA_58_SIT_GM;7.9;8.0
-05/06/17 03:00;FR2012;Eurdep;air;47.5;2.87;132.6;France;Centro;Cher;Belleville-sur-Loire;BV0KRS922MA_18_SIT_GM;9.4;10.0
-05/06/17 03:00;FR2013;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS923MA_18_SIT_GM;11.1;11.0
-05/06/17 03:00;FR2014;Eurdep;air;47.53;2.87;160.4;France;Bourgogne-Franche-Comté;Nièvre;Neuvy-sur-Loire;BV0KRS924MA_58_SIT_GM;7.2;7.4
-05/06/17 03:00;FR2015;Eurdep;air;47.48;2.87;141.9;France;Centro;Cher;Sury-près-Léré;BV0KRS911MA_58_SIT_GM;12.8;13.0
-05/06/17 03:00;FR2016;Eurdep;air;47.55;2.81;152.7;France;Centro;Loiret;Beaulieu-sur-Loire;BV0KRS912MA_18_SIT_GM;12.2;12.0
-05/06/17 03:00;FR2017;Eurdep;air;47.52;2.88;138.7;France;Bourgogne-Franche-Comté;Nièvre;Neuvy-sur-Loire;BV0KRS913MA_45_SIT_GM;9.3;9.8
-05/06/17 03:00;FR2018;Eurdep;air;47.54;2.98;160.8;France;Bourgogne-Franche-Comté;Nièvre;Arquian;BV0KRS914MA_58_SIT_GM;7.2;7.6
-05/06/17 03:00;FR2021;Eurdep;air;47.54;2.93;175.6;France;Bourgogne-Franche-Comté;Nièvre;Annay;BV0KRS931MA_58_SIT_GM;10.7;11.0
-05/06/17 03:00;FR2022;Eurdep;air;47.47;2.93;145.8;France;Bourgogne-Franche-Comté;Nièvre;La Celle-sur-Loire;BV0KRS932MA_58_SIT_GM;13.4;14.0
-05/06/17 02:00;FR2024;Eurdep;air;47.42;2.88;157.1;France;Centro;Cher;Boulleret;BV0KRS934MA_18_SIT_GM;11.6;12.0
-05/06/17 03:00;FR2025;Eurdep;air;47.48;2.86;146.3;France;Centro;Cher;Sury-près-Léré;BV0KRS935MA_18_SIT_GM;13.0;13.0
-05/06/17 02:00;FR2026;Eurdep;air;47.44;2.81;215.7;France;Centro;Cher;Savigny-en-Sancerre;BV0KRS936MA_18_SIT_GM;12.7;13.0
-05/06/17 03:00;FR2027;Eurdep;air;47.51;2.85;137.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS937MA_18_SIT_GM;13.0;13.0
-05/06/17 03:00;FR2028;Eurdep;air;47.5;2.77;202.0;France;Centro;Cher;Santranges;BV0KRS938MA_18_SIT_GM;12.3;13.0
-05/06/17 03:00;FR2029;Eurdep;air;47.57;2.84;153.5;France;Centro;Loiret;Bonny-sur-Loire;BV0KRS939MA_45_SIT_GM;8.3;8.0
-05/06/17 03:00;FR2030;Eurdep;air;47.58;2.91;181.4;France;Centro;Loiret;Thou;BV0KRS940MA_45_SIT_GM;8.5;9.0
+05/06/17 16:00;FR2001;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS801MA_18_SIT_GM;11.8;12.0
+05/06/17 16:00;FR2002;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS802MA_18_SIT_GM;11.5;12.0
+05/06/17 16:00;FR2003;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS803MA_18_SIT_GM;11.1;11.0
+05/06/17 16:00;FR2004;Eurdep;air;47.5;2.88;134.0;France;Centro;Cher;Sury-près-Léré;BV0KRS804MA_18_SIT_GM;10.9;11.0
+05/06/17 16:00;FR2005;Eurdep;air;47.5;2.87;132.6;France;Centro;Cher;Belleville-sur-Loire;BV0KRS805MA_18_SIT_GM;11.3;12.0
+05/06/17 16:00;FR2006;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS806MA_18_SIT_GM;10.6;11.0
+05/06/17 16:00;FR2007;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS807MA_18_SIT_GM;12.1;13.0
+05/06/17 16:00;FR2008;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS808MA_18_SIT_GM;11.4;12.0
+05/06/17 16:00;FR2009;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS809MA_18_SIT_GM;10.2;10.0
+05/06/17 16:00;FR2010;Eurdep;air;47.51;2.88;141.8;France;Centro;Cher;Belleville-sur-Loire;BV0KRS810MA_18_SIT_GM;11.6;12.0
+05/06/17 16:00;FR2011;Eurdep;air;47.51;2.89;132.6;France;Bourgogne-Franche-Comté;Nièvre;Neuvy-sur-Loire;BV0KRS921MA_58_SIT_GM;8.0;8.0
+05/06/17 16:00;FR2012;Eurdep;air;47.5;2.87;132.6;France;Centro;Cher;Belleville-sur-Loire;BV0KRS922MA_18_SIT_GM;9.6;10.0
+05/06/17 16:00;FR2013;Eurdep;air;47.51;2.87;136.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS923MA_18_SIT_GM;11.3;11.0
+05/06/17 16:00;FR2014;Eurdep;air;47.53;2.87;160.4;France;Bourgogne-Franche-Comté;Nièvre;Neuvy-sur-Loire;BV0KRS924MA_58_SIT_GM;7.2;7.4
+05/06/17 16:00;FR2015;Eurdep;air;47.48;2.87;141.9;France;Centro;Cher;Sury-près-Léré;BV0KRS911MA_58_SIT_GM;12.9;13.0
+05/06/17 16:00;FR2016;Eurdep;air;47.55;2.81;152.7;France;Centro;Loiret;Beaulieu-sur-Loire;BV0KRS912MA_18_SIT_GM;12.3;13.0
+05/06/17 16:00;FR2017;Eurdep;air;47.52;2.88;138.7;France;Bourgogne-Franche-Comté;Nièvre;Neuvy-sur-Loire;BV0KRS913MA_45_SIT_GM;9.3;9.8
+05/06/17 16:00;FR2018;Eurdep;air;47.54;2.98;160.8;France;Bourgogne-Franche-Comté;Nièvre;Arquian;BV0KRS914MA_58_SIT_GM;7.2;7.7
+05/06/17 16:00;FR2021;Eurdep;air;47.54;2.93;175.6;France;Bourgogne-Franche-Comté;Nièvre;Annay;BV0KRS931MA_58_SIT_GM;10.6;11.0
+05/06/17 16:00;FR2022;Eurdep;air;47.47;2.93;145.8;France;Bourgogne-Franche-Comté;Nièvre;La Celle-sur-Loire;BV0KRS932MA_58_SIT_GM;13.5;14.0
+05/06/17 16:00;FR2024;Eurdep;air;47.42;2.88;157.1;France;Centro;Cher;Boulleret;BV0KRS934MA_18_SIT_GM;11.7;12.0
+05/06/17 16:00;FR2025;Eurdep;air;47.48;2.86;146.3;France;Centro;Cher;Sury-près-Léré;BV0KRS935MA_18_SIT_GM;13.2;14.0
+05/06/17 15:00;FR2026;Eurdep;air;47.44;2.81;215.7;France;Centro;Cher;Savigny-en-Sancerre;BV0KRS936MA_18_SIT_GM;12.7;13.0
+05/06/17 16:00;FR2027;Eurdep;air;47.51;2.85;137.5;France;Centro;Cher;Belleville-sur-Loire;BV0KRS937MA_18_SIT_GM;13.1;14.0
+05/06/17 16:00;FR2028;Eurdep;air;47.5;2.77;202.0;France;Centro;Cher;Santranges;BV0KRS938MA_18_SIT_GM;12.4;13.0
+05/06/17 16:00;FR2029;Eurdep;air;47.57;2.84;153.5;France;Centro;Loiret;Bonny-sur-Loire;BV0KRS939MA_45_SIT_GM;8.4;9.0
+05/06/17 16:00;FR2030;Eurdep;air;47.58;2.91;181.4;France;Centro;Loiret;Thou;BV0KRS940MA_45_SIT_GM;8.6;9.0
 21/05/17 22:00;FR2031;Eurdep;air;45.25;-0.69;0.0;France;0;0;0;BA0KRS801MA_33_SIT_GM;0.0;0.0
 21/05/17 22:00;FR2032;Eurdep;air;45.25;-0.69;0.0;France;0;0;0;BA0KRS802MA_33_SIT_GM;0.0;0.0
 21/05/17 22:00;FR2033;Eurdep;air;45.25;-0.69;0.0;France;0;0;0;BA0KRS803MA_33_SIT_GM;0.0;0.0
@@ -52,61 +52,61 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 21/05/17 22:00;FR2058;Eurdep;air;45.29;-0.62;10.6;France;Nouvelle-Aquitaine;Gironda;Saint-Ciers-sur-Gironde;BA0KRS938MA_33_SIT_GM;0.0;0.0
 21/05/17 22:00;FR2059;Eurdep;air;45.27;-0.56;14.9;France;Nouvelle-Aquitaine;Gironda;Marcillac;BA0KRS939MA_33_SIT_GM;0.0;0.0
 21/05/17 22:00;FR2060;Eurdep;air;45.22;-0.57;0.0;France;0;0;0;BA0KRS940MA_33_SIT_GM;0.0;0.0
-05/06/17 03:00;FR2061;Eurdep;air;45.79;5.27;203.3;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS801MA_01_SIT_GM;6.3;7.1
-05/06/17 03:00;FR2062;Eurdep;air;45.79;5.26;192.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS802MA_01_SIT_GM;6.7;7.4
-05/06/17 03:00;FR2063;Eurdep;air;45.8;5.26;198.1;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS803MA_01_SIT_GM;8.0;8.5
-05/06/17 03:00;FR2064;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS804MA_01_SIT_GM;7.3;8.0
-05/06/17 03:00;FR2065;Eurdep;air;45.81;5.27;208.2;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS805MA_01_SIT_GM;6.2;6.8
-05/06/17 03:00;FR2066;Eurdep;air;45.81;5.27;208.2;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS806MA_01_SIT_GM;6.3;6.8
-05/06/17 03:00;FR2067;Eurdep;air;45.8;5.28;198.5;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS807MA_01_SIT_GM;6.3;6.9
-05/06/17 03:00;FR2068;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS808MA_01_SIT_GM;6.4;6.8
-05/06/17 03:00;FR2069;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS809MA_01_SIT_GM;7.6;8.1
-05/06/17 03:00;FR2070;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS810MA_01_SIT_GM;7.3;7.9
-05/06/17 03:00;FR2071;Eurdep;air;45.79;5.27;203.3;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS921MA_01_SIT_GM;5.8;6.2
-05/06/17 03:00;FR2072;Eurdep;air;45.79;5.27;203.3;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS922MA_01_SIT_GM;8.6;9.0
-05/06/17 03:00;FR2073;Eurdep;air;45.81;5.27;208.2;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS923MA_01_SIT_GM;6.4;6.8
-05/06/17 03:00;FR2074;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS924MA_01_SIT_GM;5.9;6.2
-05/06/17 03:00;FR2075;Eurdep;air;45.81;5.28;215.1;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS911MA_01_SIT_GM;7.4;8.0
-05/06/17 03:00;FR2076;Eurdep;air;45.76;5.29;424.3;France;Auvergne-Rhône-Alpes;Isère;Annoisin-Chatelans;BU0KRS912MA_38_SIT_GM;7.5;8.4
-05/06/17 03:00;FR2077;Eurdep;air;45.78;5.21;193.9;France;Auvergne-Rhône-Alpes;Ain;Loyettes;BU0KRS913MA_01_SIT_GM;7.1;7.6
-05/06/17 03:00;FR2078;Eurdep;air;45.82;5.19;204.9;France;Auvergne-Rhône-Alpes;Ain;Saint-Maurice-de-Gourdans;BU0KRS914MA_01_SIT_GM;6.1;6.8
-05/06/17 03:00;FR2086;Eurdep;air;45.9;5.35;205.3;France;Auvergne-Rhône-Alpes;Ain;Lagnieu;BU0KRS936MA_01_SIT_GM;6.8;7.0
-04/06/17 23:00;FR2087;Eurdep;air;45.82;5.39;231.3;France;Auvergne-Rhône-Alpes;Isère;Porcieu-Amblagnieu;BU0KRS937MA_38_SIT_GM;6.4;6.0
-05/06/17 03:00;FR2081;Eurdep;air;45.72;5.25;242.5;France;Auvergne-Rhône-Alpes;Isère;Crémieu;BU0KRS931MA_38_SIT_GM;6.9;7.0
-05/06/17 03:00;FR2082;Eurdep;air;45.74;5.16;207.5;France;Auvergne-Rhône-Alpes;Isère;Charvieu-Chavagneux;BU0KRS932MA_38_SIT_GM;10.5;11.0
-05/06/17 02:00;FR2083;Eurdep;air;45.79;5.11;222.5;France;Auvergne-Rhône-Alpes;Isère;Villette-d'Anthon;BU0KRS933MA_38_SIT_GM;7.4;8.0
-05/06/17 03:00;FR2084;Eurdep;air;45.85;5.13;205.8;France;Auvergne-Rhône-Alpes;Ain;Béligneux;BU0KRS934MA_01_SIT_GM;7.3;7.0
-05/06/17 02:00;FR2085;Eurdep;air;45.9;5.2;217.7;France;Auvergne-Rhône-Alpes;Ain;Meximieux;BU0KRS935MA_01_SIT_GM;6.9;7.0
-05/06/17 03:00;FR2101;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS801MA_57_SIT_GM;13.4;14.0
-05/06/17 03:00;FR2102;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS802MA_57_SIT_GM;17.1;17.0
-05/06/17 03:00;FR2103;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS803MA_57_SIT_GM;12.6;13.0
-05/06/17 03:00;FR2104;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS804MA_57_SIT_GM;13.3;14.0
-05/06/17 03:00;FR2105;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS805MA_57_SIT_GM;12.4;12.0
-05/06/17 03:00;FR2106;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS806MA_57_SIT_GM;15.2;16.0
-05/06/17 03:00;FR2107;Eurdep;air;49.41;6.21;190.4;France;Grand Est;Mosela;Cattenom;CA0KRS807MA_57_SIT_GM;15.2;15.0
-05/06/17 03:00;FR2108;Eurdep;air;49.41;6.21;190.4;France;Grand Est;Mosela;Cattenom;CA0KRS808MA_57_SIT_GM;14.6;15.0
-05/06/17 03:00;FR2109;Eurdep;air;49.42;6.21;200.1;France;Grand Est;Mosela;Cattenom;CA0KRS809MA_57_SIT_GM;15.9;17.0
-05/06/17 03:00;FR2110;Eurdep;air;49.42;6.22;175.7;France;Grand Est;Mosela;Cattenom;CA0KRS810MA_57_SIT_GM;13.3;14.0
-05/06/17 03:00;FR2119;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS811MA_57_SIT_GM;12.5;13.0
-05/06/17 03:00;FR2111;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS921MA_57_SIT_GM;10.3;10.0
+05/06/17 16:00;FR2061;Eurdep;air;45.79;5.27;203.3;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS801MA_01_SIT_GM;6.3;6.5
+05/06/17 16:00;FR2062;Eurdep;air;45.79;5.26;192.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS802MA_01_SIT_GM;6.7;7.2
+05/06/17 16:00;FR2063;Eurdep;air;45.8;5.26;198.1;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS803MA_01_SIT_GM;8.0;8.0
+05/06/17 16:00;FR2064;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS804MA_01_SIT_GM;7.3;8.0
+05/06/17 16:00;FR2065;Eurdep;air;45.81;5.27;208.2;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS805MA_01_SIT_GM;6.3;6.9
+05/06/17 16:00;FR2066;Eurdep;air;45.81;5.27;208.2;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS806MA_01_SIT_GM;6.4;6.9
+05/06/17 16:00;FR2067;Eurdep;air;45.8;5.28;198.5;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS807MA_01_SIT_GM;6.5;7.0
+05/06/17 16:00;FR2068;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS808MA_01_SIT_GM;6.4;6.9
+05/06/17 16:00;FR2069;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS809MA_01_SIT_GM;7.7;8.4
+05/06/17 16:00;FR2070;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS810MA_01_SIT_GM;7.4;8.2
+05/06/17 16:00;FR2071;Eurdep;air;45.79;5.27;203.3;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS921MA_01_SIT_GM;5.9;6.0
+05/06/17 16:00;FR2072;Eurdep;air;45.79;5.27;203.3;France;Auvergne-Rhône-Alpes;Isère;Hières-sur-Amby;BU0KRS922MA_01_SIT_GM;8.7;8.9
+05/06/17 16:00;FR2073;Eurdep;air;45.81;5.27;208.2;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS923MA_01_SIT_GM;6.5;6.7
+05/06/17 16:00;FR2074;Eurdep;air;45.8;5.27;195.0;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS924MA_01_SIT_GM;5.9;6.1
+05/06/17 16:00;FR2075;Eurdep;air;45.81;5.28;215.1;France;Auvergne-Rhône-Alpes;Ain;Saint-Vulbas;BU0KRS911MA_01_SIT_GM;7.6;8.3
+05/06/17 16:00;FR2076;Eurdep;air;45.76;5.29;424.3;France;Auvergne-Rhône-Alpes;Isère;Annoisin-Chatelans;BU0KRS912MA_38_SIT_GM;7.6;8.5
+05/06/17 16:00;FR2077;Eurdep;air;45.78;5.21;193.9;France;Auvergne-Rhône-Alpes;Ain;Loyettes;BU0KRS913MA_01_SIT_GM;7.1;7.6
+05/06/17 16:00;FR2078;Eurdep;air;45.82;5.19;204.9;France;Auvergne-Rhône-Alpes;Ain;Saint-Maurice-de-Gourdans;BU0KRS914MA_01_SIT_GM;6.0;6.5
+05/06/17 16:00;FR2086;Eurdep;air;45.9;5.35;205.3;France;Auvergne-Rhône-Alpes;Ain;Lagnieu;BU0KRS936MA_01_SIT_GM;6.8;7.0
+05/06/17 16:00;FR2087;Eurdep;air;45.82;5.39;231.3;France;Auvergne-Rhône-Alpes;Isère;Porcieu-Amblagnieu;BU0KRS937MA_38_SIT_GM;6.6;6.0
+05/06/17 16:00;FR2081;Eurdep;air;45.72;5.25;242.5;France;Auvergne-Rhône-Alpes;Isère;Crémieu;BU0KRS931MA_38_SIT_GM;6.9;7.0
+05/06/17 15:00;FR2082;Eurdep;air;45.74;5.16;207.5;France;Auvergne-Rhône-Alpes;Isère;Charvieu-Chavagneux;BU0KRS932MA_38_SIT_GM;10.6;11.0
+05/06/17 16:00;FR2083;Eurdep;air;45.79;5.11;222.5;France;Auvergne-Rhône-Alpes;Isère;Villette-d'Anthon;BU0KRS933MA_38_SIT_GM;7.5;8.0
+05/06/17 16:00;FR2084;Eurdep;air;45.85;5.13;205.8;France;Auvergne-Rhône-Alpes;Ain;Béligneux;BU0KRS934MA_01_SIT_GM;7.4;8.0
+05/06/17 16:00;FR2085;Eurdep;air;45.9;5.2;217.7;France;Auvergne-Rhône-Alpes;Ain;Meximieux;BU0KRS935MA_01_SIT_GM;6.9;7.0
+05/06/17 16:00;FR2101;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS801MA_57_SIT_GM;13.6;14.0
+05/06/17 16:00;FR2102;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS802MA_57_SIT_GM;17.5;18.0
+05/06/17 16:00;FR2103;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS803MA_57_SIT_GM;13.0;13.0
+05/06/17 16:00;FR2104;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS804MA_57_SIT_GM;13.4;14.0
+05/06/17 16:00;FR2105;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS805MA_57_SIT_GM;12.6;13.0
+05/06/17 16:00;FR2106;Eurdep;air;49.41;6.22;172.5;France;Grand Est;Mosela;Cattenom;CA0KRS806MA_57_SIT_GM;15.5;16.0
+05/06/17 16:00;FR2107;Eurdep;air;49.41;6.21;190.4;France;Grand Est;Mosela;Cattenom;CA0KRS807MA_57_SIT_GM;15.4;16.0
+05/06/17 16:00;FR2108;Eurdep;air;49.41;6.21;190.4;France;Grand Est;Mosela;Cattenom;CA0KRS808MA_57_SIT_GM;14.9;15.0
+05/06/17 16:00;FR2109;Eurdep;air;49.42;6.21;200.1;France;Grand Est;Mosela;Cattenom;CA0KRS809MA_57_SIT_GM;16.3;17.0
+05/06/17 16:00;FR2110;Eurdep;air;49.42;6.22;175.7;France;Grand Est;Mosela;Cattenom;CA0KRS810MA_57_SIT_GM;13.6;14.0
+05/06/17 16:00;FR2119;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS811MA_57_SIT_GM;12.7;13.0
+05/06/17 16:00;FR2111;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS921MA_57_SIT_GM;10.4;10.0
 19/05/17 22:00;FR2112;Eurdep;air;49.42;6.23;183.8;France;Grand Est;Mosela;Cattenom;CA0KRS922MA_57_SIT_GM;0.0;0.0
-05/06/17 03:00;FR2113;Eurdep;air;49.41;6.21;190.4;France;Grand Est;Mosela;Cattenom;CA0KRS923MA_57_SIT_GM;10.8;11.0
-05/06/17 03:00;FR2114;Eurdep;air;49.44;6.2;205.2;France;Grand Est;Mosela;Boust;CA0KRS924MA_57_SIT_GM;9.9;10.0
-05/06/17 03:00;FR2115;Eurdep;air;49.47;6.24;180.2;France;Grand Est;Mosela;Rodemack;CA0KRS911MA_57_SIT_GM;8.9;9.4
-05/06/17 03:00;FR2116;Eurdep;air;49.41;6.24;157.2;France;Grand Est;Mosela;Cattenom;CA0KRS912MA_57_SIT_GM;9.5;10.0
-05/06/17 03:00;FR2117;Eurdep;air;49.4;6.2;168.6;France;Grand Est;Mosela;Thionville;CA0KRS913MA_57_SIT_GM;11.2;11.0
-05/06/17 03:00;FR2118;Eurdep;air;49.41;6.15;183.9;France;Grand Est;Mosela;Hettange-Grande;CA0KRS914MA_57_SIT_GM;12.8;13.0
-05/06/17 03:00;FR2121;Eurdep;air;49.47;6.3;179.9;France;Grand Est;Mosela;Beyren-lès-Sierck;CA0KRS931MA_57_SIT_GM;18.6;19.0
-05/06/17 03:00;FR2122;Eurdep;air;49.44;6.36;160.5;France;Grand Est;Mosela;Sierck-les-Bains;CA0KRS932MA_57_SIT_GM;13.1;13.0
-05/06/17 03:00;FR2123;Eurdep;air;49.38;6.33;191.6;France;Grand Est;Mosela;Oudrenne;CA0KRS933MA_57_SIT_GM;12.8;13.0
-05/06/17 03:00;FR2124;Eurdep;air;49.36;6.26;184.7;France;Grand Est;Mosela;Valmestroff;CA0KRS934MA_57_SIT_GM;11.5;12.0
-05/06/17 03:00;FR2125;Eurdep;air;49.36;6.19;155.0;France;Grand Est;Mosela;Yutz;CA0KRS935MA_57_SIT_GM;17.2;17.0
-05/06/17 03:00;FR2126;Eurdep;air;49.37;6.14;182.8;France;Grand Est;Mosela;Thionville;CA0KRS936MA_57_SIT_GM;14.3;15.0
-05/06/17 03:00;FR2127;Eurdep;air;49.42;6.11;231.5;France;Grand Est;Mosela;Entrange;CA0KRS937MA_57_SIT_GM;18.9;19.0
-05/06/17 03:00;FR2128;Eurdep;air;49.44;6.08;317.9;France;Grand Est;Mosela;Volmerange-les-Mines;CA0KRS938MA_57_SIT_GM;12.0;12.0
-05/06/17 03:00;FR2129;Eurdep;air;49.46;6.13;235.3;France;Grand Est;Mosela;Zoufftgen;CA0KRS939MA_57_SIT_GM;13.2;13.0
-05/06/17 03:00;FR2130;Eurdep;air;49.51;6.19;251.0;France;Luxemburgo;Cantón de Esch-sur-Alzette;Frisange;CA0KRS940MA_57_SIT_GM;14.0;14.0
-05/06/17 02:00;FR2120;Eurdep;air;49.5;6.27;212.2;France;Grand Est;Mosela;Mondorff;CA0KRS941MA_57_SIT_GM;11.6;12.0
+05/06/17 16:00;FR2113;Eurdep;air;49.41;6.21;190.4;France;Grand Est;Mosela;Cattenom;CA0KRS923MA_57_SIT_GM;11.0;11.0
+05/06/17 16:00;FR2114;Eurdep;air;49.44;6.2;205.2;France;Grand Est;Mosela;Boust;CA0KRS924MA_57_SIT_GM;10.0;10.0
+05/06/17 16:00;FR2115;Eurdep;air;49.47;6.24;180.2;France;Grand Est;Mosela;Rodemack;CA0KRS911MA_57_SIT_GM;8.8;9.2
+05/06/17 16:00;FR2116;Eurdep;air;49.41;6.24;157.2;France;Grand Est;Mosela;Cattenom;CA0KRS912MA_57_SIT_GM;9.7;10.0
+05/06/17 16:00;FR2117;Eurdep;air;49.4;6.2;168.6;France;Grand Est;Mosela;Thionville;CA0KRS913MA_57_SIT_GM;11.3;11.0
+05/06/17 16:00;FR2118;Eurdep;air;49.41;6.15;183.9;France;Grand Est;Mosela;Hettange-Grande;CA0KRS914MA_57_SIT_GM;13.0;13.0
+05/06/17 16:00;FR2121;Eurdep;air;49.47;6.3;179.9;France;Grand Est;Mosela;Beyren-lès-Sierck;CA0KRS931MA_57_SIT_GM;18.0;19.0
+05/06/17 16:00;FR2122;Eurdep;air;49.44;6.36;160.5;France;Grand Est;Mosela;Sierck-les-Bains;CA0KRS932MA_57_SIT_GM;13.2;14.0
+05/06/17 16:00;FR2123;Eurdep;air;49.38;6.33;191.6;France;Grand Est;Mosela;Oudrenne;CA0KRS933MA_57_SIT_GM;13.0;13.0
+05/06/17 16:00;FR2124;Eurdep;air;49.36;6.26;184.7;France;Grand Est;Mosela;Valmestroff;CA0KRS934MA_57_SIT_GM;11.7;12.0
+05/06/17 16:00;FR2125;Eurdep;air;49.36;6.19;155.0;France;Grand Est;Mosela;Yutz;CA0KRS935MA_57_SIT_GM;17.3;17.0
+05/06/17 16:00;FR2126;Eurdep;air;49.37;6.14;182.8;France;Grand Est;Mosela;Thionville;CA0KRS936MA_57_SIT_GM;14.3;15.0
+05/06/17 16:00;FR2127;Eurdep;air;49.42;6.11;231.5;France;Grand Est;Mosela;Entrange;CA0KRS937MA_57_SIT_GM;19.0;19.0
+05/06/17 16:00;FR2128;Eurdep;air;49.44;6.08;317.9;France;Grand Est;Mosela;Volmerange-les-Mines;CA0KRS938MA_57_SIT_GM;12.2;13.0
+05/06/17 16:00;FR2129;Eurdep;air;49.46;6.13;235.3;France;Grand Est;Mosela;Zoufftgen;CA0KRS939MA_57_SIT_GM;13.3;13.0
+05/06/17 15:00;FR2130;Eurdep;air;49.51;6.19;251.0;France;Luxemburgo;Cantón de Esch-sur-Alzette;Frisange;CA0KRS940MA_57_SIT_GM;14.1;14.0
+05/06/17 16:00;FR2120;Eurdep;air;49.5;6.27;212.2;France;Grand Est;Mosela;Mondorff;CA0KRS941MA_57_SIT_GM;11.0;12.0
 06/05/17 22:00;FR2131;Eurdep;air;47.23;0.18;36.9;France;Centro;Indre y Loira;Avoine;CH0KRS801MA_37_SIT_GM;0.0;0.0
 06/05/17 22:00;FR2132;Eurdep;air;47.23;0.18;36.9;France;Centro;Indre y Loira;Avoine;CH0KRS802MA_37_SIT_GM;0.0;0.0
 06/05/17 22:00;FR2133;Eurdep;air;47.23;0.18;36.9;France;Centro;Indre y Loira;Avoine;CH0KRS803MA_37_SIT_GM;0.0;0.0
@@ -124,729 +124,729 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 06/05/17 22:00;FR2147;Eurdep;air;47.2;0.15;31.0;France;Centro;Indre y Loira;Savigny-en-Véron;CH0KRS913MA_37_SIT_GM;0.0;0.0
 06/05/17 22:00;FR2148;Eurdep;air;47.24;0.13;29.9;France;Centro;Indre y Loira;Chouzé-sur-Loire;CH0KRS914MA_37_SIT_GM;0.0;0.0
 06/05/17 22:00;FR2157;Eurdep;air;47.24;0.05;28.0;France;Países del Loira;Maine y Loira;Varennes-sur-Loire;CH0KRS937MA_37_SIT_GM;0.0;0.0
-05/06/17 03:00;FR2301;Eurdep;air;47.74;2.52;125.9;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS801MA_45_SIT_GM;9.0;9.0
-05/06/17 03:00;FR2302;Eurdep;air;47.73;2.52;122.7;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS802MA_45_SIT_GM;11.3;12.0
-05/06/17 03:00;FR2303;Eurdep;air;47.73;2.53;0.0;France;0;0;0;DA0KRS803MA_45_SIT_GM;11.0;11.0
-05/06/17 03:00;FR2304;Eurdep;air;47.73;2.52;122.7;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS804MA_45_SIT_GM;9.7;10.0
-05/06/17 03:00;FR2305;Eurdep;air;47.73;2.52;122.7;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS805MA_45_SIT_GM;9.5;10.0
-05/06/17 03:00;FR2306;Eurdep;air;47.73;2.51;105.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS806MA_45_SIT_GM;10.2;10.0
-05/06/17 03:00;FR2307;Eurdep;air;47.73;2.51;105.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS807MA_45_SIT_GM;10.0;10.0
-05/06/17 03:00;FR2308;Eurdep;air;47.73;2.51;105.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS808MA_45_SIT_GM;10.1;10.0
-05/06/17 03:00;FR2309;Eurdep;air;47.74;2.51;118.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS809MA_45_SIT_GM;11.6;12.0
-05/06/17 03:00;FR2310;Eurdep;air;47.74;2.52;125.9;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS810MA_45_SIT_GM;11.2;11.0
-05/06/17 03:00;FR2311;Eurdep;air;47.74;2.54;150.8;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS921MA_45_SIT_GM;10.1;10.0
-05/06/17 03:00;FR2312;Eurdep;air;47.73;2.53;0.0;France;0;0;0;DA0KRS922MA_45_SIT_GM;10.2;10.0
-05/06/17 03:00;FR2313;Eurdep;air;47.72;2.5;130.4;France;Centro;Loiret;Lion-en-Sullias;DA0KRS923MA_45_SIT_GM;8.6;9.2
-05/06/17 03:00;FR2314;Eurdep;air;47.74;2.51;118.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS924MA_45_SIT_GM;8.9;9.2
-05/06/17 03:00;FR2315;Eurdep;air;47.76;2.52;149.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS911MA_45_SIT_GM;8.6;9.1
-05/06/17 03:00;FR2316;Eurdep;air;47.71;2.58;128.9;France;Centro;Loiret;Nevoy;DA0KRS912MA_45_SIT_GM;10.6;10.0
-05/06/17 03:00;FR2317;Eurdep;air;47.69;2.48;150.6;France;Centro;Loiret;Saint-Florent;DA0KRS913MA_45_SIT_GM;8.7;9.4
-05/06/17 03:00;FR2318;Eurdep;air;47.74;2.44;122.9;France;Centro;Loiret;Saint-Aignan-le-Jaillard;DA0KRS914MA_45_SIT_GM;13.0;13.0
-05/06/17 02:00;FR2321;Eurdep;air;47.82;2.66;132.1;France;Centro;Loiret;Langesse;DA0KRS931MA_45_SIT_GM;10.2;11.0
-05/06/17 03:00;FR2322;Eurdep;air;47.8;2.67;153.6;France;Centro;Loiret;Les Choux;DA0KRS932MA_45_SIT_GM;11.0;11.0
-05/06/17 03:00;FR2323;Eurdep;air;47.71;2.62;154.7;France;Centro;Loiret;Gien;DA0KRS933MA_45_SIT_GM;11.0;11.0
-05/06/17 03:00;FR2324;Eurdep;air;47.7;2.54;126.1;France;Centro;Loiret;Saint-Gondon;DA0KRS934MA_45_SIT_GM;12.0;13.0
-05/06/17 02:00;FR2325;Eurdep;air;47.62;2.51;160.3;France;Centro;Loiret;Coullons;DA0KRS935MA_45_SIT_GM;10.8;11.0
-05/06/17 03:00;FR2326;Eurdep;air;47.63;2.37;150.2;France;Centro;Loiret;Cerdon;DA0KRS936MA_45_SIT_GM;10.7;11.0
-05/06/17 03:00;FR2327;Eurdep;air;47.76;2.37;118.7;France;Centro;Loiret;Sully-sur-Loire;DA0KRS937MA_45_SIT_GM;11.5;12.0
-05/06/17 03:00;FR2328;Eurdep;air;47.82;2.4;138.2;France;Centro;Loiret;Les Bordes;DA0KRS938MA_45_SIT_GM;8.8;9.0
-05/06/17 03:00;FR2329;Eurdep;air;47.77;2.47;129.0;France;Centro;Loiret;Ouzouer-sur-Loire;DA0KRS939MA_45_SIT_GM;11.2;11.0
-05/06/17 02:00;FR2330;Eurdep;air;47.86;2.57;0.0;France;0;0;0;DA0KRS940MA_45_SIT_GM;9.6;10.0
-05/06/17 03:00;FR2331;Eurdep;air;47.91;7.56;0.0;France;0;0;0;FS0KRS801MA_68_SIT_GM;8.4;9.0
-05/06/17 03:00;FR2332;Eurdep;air;47.91;7.57;212.8;France;Grand Est;Alto Rin;Fessenheim;FS0KRS802MA_68_SIT_GM;7.7;8.3
-05/06/17 03:00;FR2333;Eurdep;air;47.9;7.57;206.9;France;Grand Est;Alto Rin;Fessenheim;FS0KRS803MA_68_SIT_GM;8.1;8.8
-05/06/17 03:00;FR2334;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS804MA_68_SIT_GM;7.8;8.0
-05/06/17 03:00;FR2335;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS805MA_68_SIT_GM;7.5;8.0
-05/06/17 03:00;FR2336;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS806MA_68_SIT_GM;9.2;10.0
-05/06/17 03:00;FR2337;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS807MA_68_SIT_GM;7.4;7.9
-05/06/17 03:00;FR2338;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS808MA_68_SIT_GM;8.2;8.6
-05/06/17 03:00;FR2339;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS809MA_68_SIT_GM;7.8;8.3
-05/06/17 03:00;FR2340;Eurdep;air;47.91;7.56;0.0;France;0;0;0;FS0KRS810MA_68_SIT_GM;7.5;8.0
-05/06/17 03:00;FR2341;Eurdep;air;47.92;7.57;206.6;France;Grand Est;Alto Rin;Balgau;FS0KRS921MA_68_SIT_GM;7.5;8.2
-05/06/17 03:00;FR2342;Eurdep;air;47.91;7.57;212.8;France;Grand Est;Alto Rin;Fessenheim;FS0KRS922MA_68_SIT_GM;7.9;8.4
-05/06/17 03:00;FR2343;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS923MA_68_SIT_GM;7.2;7.7
-05/06/17 03:00;FR2344;Eurdep;air;47.91;7.56;0.0;France;0;0;0;FS0KRS924MA_68_SIT_GM;8.0;8.3
-05/06/17 03:00;FR2346;Eurdep;air;47.85;7.52;213.2;France;Grand Est;Alto Rin;Rumersheim-le-Haut;FS0KRS912MA_68_SIT_GM;7.7;8.3
-05/06/17 03:00;FR2347;Eurdep;air;47.97;7.54;197.4;France;Grand Est;Alto Rin;Heiteren;FS0KRS913MA_68_SIT_GM;7.6;8.4
-05/06/17 03:00;FR2348;Eurdep;air;48.02;7.52;192.6;France;Grand Est;Alto Rin;Volgelsheim;FS0KRS940MA_68_SIT_GM;9.7;10.0
-05/06/17 03:00;FR2351;Eurdep;air;47.93;7.57;203.8;France;Grand Est;Alto Rin;Balgau;FS0KRS931MA_68_SIT_GM;9.6;10.0
-05/06/17 02:00;FR2352;Eurdep;air;47.82;7.54;214.1;France;Grand Est;Alto Rin;Chalampé;FS0KRS932MA_68_SIT_GM;8.4;9.0
-05/06/17 03:00;FR2353;Eurdep;air;47.89;7.54;205.1;France;Grand Est;Alto Rin;Blodelsheim;FS0KRS933MA_68_SIT_GM;10.5;11.0
-05/06/17 02:00;FR2354;Eurdep;air;47.87;7.45;218.9;France;Grand Est;Alto Rin;Munchhouse;FS0KRS934MA_68_SIT_GM;7.8;8.0
-05/06/17 03:00;FR2355;Eurdep;air;47.87;7.35;219.3;France;Grand Est;Alto Rin;Ensisheim;FS0KRS935MA_68_SIT_GM;8.7;9.0
-05/06/17 02:00;FR2356;Eurdep;air;47.91;7.45;212.4;France;Grand Est;Alto Rin;Hirtzfelden;FS0KRS936MA_68_SIT_GM;9.2;9.0
-05/06/17 02:00;FR2357;Eurdep;air;47.91;7.54;204.2;France;Grand Est;Alto Rin;Fessenheim;FS0KRS937MA_68_SIT_GM;8.1;8.0
-05/06/17 03:00;FR2358;Eurdep;air;47.94;7.46;204.9;France;Grand Est;Alto Rin;Rustenhart;FS0KRS938MA_68_SIT_GM;10.9;11.0
-05/06/17 03:00;FR2359;Eurdep;air;47.93;7.54;204.0;France;Grand Est;Alto Rin;Balgau;FS0KRS939MA_68_SIT_GM;8.1;8.0
-05/06/17 03:00;FR2401;Eurdep;air;44.1;0.86;58.2;France;Occitanie;Tarn y Garona;Golfech;GF0KRS801MA_82_SIT_GM;8.4;9.0
-05/06/17 03:00;FR2403;Eurdep;air;44.1;0.85;55.4;France;Occitanie;Tarn y Garona;Golfech;GF0KRS803MA_82_SIT_GM;8.5;9.0
-05/06/17 03:00;FR2404;Eurdep;air;44.1;0.84;54.0;France;Occitanie;Tarn y Garona;Saint-Loup;GF0KRS804MA_82_SIT_GM;7.8;8.2
-05/06/17 03:00;FR2405;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS805MA_82_SIT_GM;7.6;8.3
-05/06/17 03:00;FR2406;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS806MA_82_SIT_GM;8.6;9.0
-05/06/17 03:00;FR2407;Eurdep;air;44.12;0.84;53.2;France;Occitanie;Tarn y Garona;Lamagistère;GF0KRS807MA_82_SIT_GM;7.0;7.4
-05/06/17 03:00;FR2408;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS808MA_82_SIT_GM;8.2;8.8
-05/06/17 03:00;FR2409;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GF0KRS809MA_82_SIT_GM;8.7;9.3
-05/06/17 03:00;FR2410;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GF0KRS810MA_82_SIT_GM;7.5;8.2
-05/06/17 03:00;FR2411;Eurdep;air;44.1;0.86;58.2;France;Occitanie;Tarn y Garona;Golfech;GF0KRS921MA_82_SIT_GM;8.3;8.5
-05/06/17 03:00;FR2412;Eurdep;air;44.1;0.85;55.4;France;Occitanie;Tarn y Garona;Golfech;GF0KRS922MA_82_SIT_GM;6.4;6.7
-05/06/17 03:00;FR2413;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS923MA_82_SIT_GM;8.1;8.3
-05/06/17 03:00;FR2414;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GF0KRS924MA_82_SIT_GM;9.1;9.3
-05/06/17 03:00;FR2415;Eurdep;air;44.12;0.82;0.0;France;0;0;0;GF0KRS911MA_82_SIT_GM;8.6;9.3
-05/06/17 03:00;FR2416;Eurdep;air;44.11;0.89;68.3;France;Occitanie;Tarn y Garona;Valence;GF0KRS912MA_82_SIT_GM;11.7;12.0
-05/06/17 03:00;FR2417;Eurdep;air;44.07;0.9;119.0;France;Occitanie;Tarn y Garona;Auvillar;GF0KRS913MA_82_SIT_GM;8.9;9.5
-05/06/17 03:00;FR2418;Eurdep;air;44.1;0.77;112.9;France;Occitanie;Tarn y Garona;Dunes;GF0KRS914MA_82_SIT_GM;9.4;10.0
-05/06/17 03:00;FR2421;Eurdep;air;44.08;0.9;58.7;France;Occitanie;Tarn y Garona;Espalais;GF0KRS931MA_82_SIT_GM;12.5;12.0
-04/06/17 20:00;FR2422;Eurdep;air;44.04;0.84;120.5;France;Occitanie;Gers;Saint-Antoine;GF0KRS932MA_32_SIT_GM;7.0;7.0
-05/06/17 03:00;FR2423;Eurdep;air;44.06;0.78;137.9;France;Occitanie;Tarn y Garona;Sistels;GF0KRS933MA_82_SIT_GM;9.5;10.0
-05/06/17 03:00;FR2424;Eurdep;air;44.14;0.76;46.0;France;Nouvelle-Aquitaine;Lot y Garona;Saint-Nicolas-de-la-Balerme;GF0KRS934MA_47_SIT_GM;11.0;11.0
-05/06/17 03:00;FR2425;Eurdep;air;44.16;0.82;0.0;France;0;0;0;GF0KRS935MA_47_SIT_GM;10.0;10.0
-05/06/17 03:00;FR2426;Eurdep;air;44.18;0.88;191.5;France;Occitanie;Tarn y Garona;Perville;GF0KRS936MA_82_SIT_GM;9.2;9.0
-05/06/17 03:00;FR2427;Eurdep;air;44.15;0.92;114.0;France;Occitanie;Tarn y Garona;Gasques;GF0KRS937MA_82_SIT_GM;8.7;9.0
-05/06/17 03:00;FR2428;Eurdep;air;44.1;0.93;72.3;France;Occitanie;Tarn y Garona;Pommevic;GF0KRS938MA_82_SIT_GM;9.7;10.0
-05/06/17 03:00;FR2429;Eurdep;air;44.14;0.78;51.2;France;Nouvelle-Aquitaine;Lot y Garona;Saint-Sixte;GF0KRS939MA_47_SIT_GM;8.2;8.0
-05/06/17 03:00;FR2431;Eurdep;air;51.02;2.15;6.2;France;Hauts-de-France;Norte;Gravelinas;GG0KRS801MA_59_SIT_GM;6.5;7.0
-05/06/17 03:00;FR2432;Eurdep;air;51.02;2.15;6.2;France;Hauts-de-France;Norte;Gravelinas;GG0KRS802MA_59_SIT_GM;6.2;6.7
-05/06/17 03:00;FR2433;Eurdep;air;51.01;2.14;7.4;France;Hauts-de-France;Norte;Gravelinas;GG0KRS803MA_59_SIT_GM;6.4;6.8
-05/06/17 03:00;FR2434;Eurdep;air;51.01;2.15;5.5;France;Hauts-de-France;Norte;Gravelinas;GG0KRS804MA_59_SIT_GM;6.3;6.7
-05/06/17 03:00;FR2443;Eurdep;air;51.01;2.15;5.5;France;Hauts-de-France;Norte;Gravelinas;GG0KRS923MA_59_SIT_GM;7.9;8.0
-05/06/17 03:00;FR2435;Eurdep;air;51.01;2.14;7.4;France;Hauts-de-France;Norte;Gravelinas;GG0KRS805MA_59_SIT_GM;6.4;6.8
-05/06/17 03:00;FR2436;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS806MA_59_SIT_GM;6.7;7.2
-05/06/17 03:00;FR2437;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS807MA_59_SIT_GM;7.6;8.0
-05/06/17 03:00;FR2438;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS808MA_59_SIT_GM;7.1;7.0
-05/06/17 03:00;FR2439;Eurdep;air;51.02;2.14;2.7;France;Hauts-de-France;Norte;Gravelinas;GG0KRS809MA_59_SIT_GM;7.9;8.3
-05/06/17 03:00;FR2440;Eurdep;air;51.02;2.14;2.7;France;Hauts-de-France;Norte;Gravelinas;GG0KRS810MA_59_SIT_GM;8.6;9.0
-05/06/17 03:00;FR2441;Eurdep;air;51.02;2.15;6.2;France;Hauts-de-France;Norte;Gravelinas;GG0KRS921MA_59_SIT_GM;7.7;8.0
-05/06/17 03:00;FR2442;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS922MA_59_SIT_GM;7.4;7.7
-05/06/17 03:00;FR2444;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS924MA_59_SIT_GM;6.5;6.8
-05/06/17 03:00;FR2446;Eurdep;air;51.0;2.22;0.0;France;0;0;0;GG0KRS912MA_59_SIT_GM;9.8;10.0
-05/06/17 03:00;FR2447;Eurdep;air;50.98;2.14;1.0;France;Hauts-de-France;Norte;Gravelinas;GG0KRS913MA_59_SIT_GM;7.0;8.1
-05/06/17 03:00;FR2448;Eurdep;air;50.99;2.09;2.4;France;Hauts-de-France;Paso de Calais;Oye-Plage;GG0KRS914MA_59_SIT_GM;8.8;9.4
-04/06/17 16:00;FR2451;Eurdep;air;51.02;2.25;2.3;France;Hauts-de-France;Norte;Dunquerque;GG0KRS931MA_59_SIT_GM;6.6;7.0
-05/06/17 02:00;FR2452;Eurdep;air;51.01;2.28;0.0;France;0;0;0;GG0KRS932MA_59_SIT_GM;8.1;8.0
-05/06/17 03:00;FR2453;Eurdep;air;50.97;2.24;0.0;France;Hauts-de-France;Norte;Craywick;GG0KRS933MA_59_SIT_GM;8.4;8.0
-05/06/17 03:00;FR2454;Eurdep;air;50.95;2.26;0.0;France;Hauts-de-France;Norte;Bourbourg;GG0KRS934MA_59_SIT_GM;7.8;8.0
-05/06/17 03:00;FR2455;Eurdep;air;50.95;2.19;3.1;France;Hauts-de-France;Norte;Bourbourg;GG0KRS935MA_59_SIT_GM;10.2;11.0
-05/06/17 03:00;FR2456;Eurdep;air;50.94;2.16;0.0;France;Hauts-de-France;Norte;Bourbourg;GG0KRS936MA_62_SIT_GM;7.9;8.0
-05/06/17 03:00;FR2457;Eurdep;air;50.94;2.13;0.2;France;Hauts-de-France;Paso de Calais;Saint-Folquin;GG0KRS937MA_62_SIT_GM;7.9;8.0
-05/06/17 03:00;FR2458;Eurdep;air;50.94;2.09;1.2;France;Hauts-de-France;Paso de Calais;Saint-Omer-Capelle;GG0KRS938MA_62_SIT_GM;7.1;7.0
-05/06/17 03:00;FR2459;Eurdep;air;50.93;2.03;1.0;France;Hauts-de-France;Paso de Calais;Offekerque;GG0KRS939MA_62_SIT_GM;6.7;7.0
-05/06/17 03:00;FR2461;Eurdep;air;48.52;3.53;0.0;France;0;0;0;NO0KRS801MA_10_SIT_GM;7.1;7.4
-05/06/17 03:00;FR2471;Eurdep;air;48.52;3.53;0.0;France;0;0;0;NO0KRS921MA_10_SIT_GM;7.2;7.4
-05/06/17 03:00;FR2462;Eurdep;air;48.52;3.53;0.0;France;0;0;0;NO0KRS802MA_10_SIT_GM;6.6;6.8
-05/06/17 03:00;FR2463;Eurdep;air;48.52;3.52;65.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS803MA_10_SIT_GM;6.7;7.2
-05/06/17 03:00;FR2464;Eurdep;air;48.51;3.52;61.5;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS804MA_10_SIT_GM;7.0;7.2
-05/06/17 03:00;FR2465;Eurdep;air;48.51;3.52;61.5;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS805MA_10_SIT_GM;6.0;6.1
-05/06/17 03:00;FR2466;Eurdep;air;48.51;3.51;62.8;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS806MA_10_SIT_GM;7.9;8.2
-05/06/17 03:00;FR2467;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS807MA_10_SIT_GM;6.7;7.0
-05/06/17 03:00;FR2468;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS808MA_10_SIT_GM;6.9;7.3
-05/06/17 03:00;FR2474;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS924MA_10_SIT_GM;6.8;7.1
-05/06/17 03:00;FR2469;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS809MA_10_SIT_GM;5.8;6.2
-05/06/17 03:00;FR2470;Eurdep;air;48.52;3.52;65.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS810MA_10_SIT_GM;6.8;7.0
-05/06/17 03:00;FR2472;Eurdep;air;48.51;3.53;0.0;France;0;0;0;NO0KRS922MA_10_SIT_GM;7.0;7.2
-05/06/17 03:00;FR2473;Eurdep;air;48.51;3.51;62.8;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS923MA_10_SIT_GM;7.1;7.3
-05/06/17 03:00;FR2475;Eurdep;air;48.56;3.58;68.7;France;Grand Est;Aube;Barbuise;NO0KRS911MA_10_SIT_GM;7.9;8.5
-05/06/17 03:00;FR2476;Eurdep;air;48.52;3.6;66.0;France;Grand Est;Aube;Pont-sur-Seine;NO0KRS912MA_10_SIT_GM;8.3;8.6
-05/06/17 03:00;FR2477;Eurdep;air;48.5;3.51;70.5;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS913MA_10_SIT_GM;7.0;7.2
-05/06/17 03:00;FR2478;Eurdep;air;48.54;3.5;76.8;France;Grand Est;Aube;La Saulsotte;NO0KRS914MA_10_SIT_GM;7.1;7.5
-05/06/17 02:00;FR2481;Eurdep;air;48.55;3.66;69.7;France;Grand Est;Marne;Esclavolles-Lurey;NO0KRS931MA_51_SIT_GM;6.6;6.0
-05/06/17 03:00;FR2482;Eurdep;air;48.48;3.67;74.3;France;Grand Est;Aube;Gélannes;NO0KRS932MA_10_SIT_GM;9.0;10.0
-05/06/17 00:00;FR2483;Eurdep;air;48.42;3.57;0.0;France;0;0;0;NO0KRS933MA_10_SIT_GM;9.0;9.0
-05/06/17 03:00;FR2485;Eurdep;air;48.48;3.35;57.7;France;Isla de Francia;Sena y Marne;Hermé;NO0KRS935MA_77_SIT_GM;5.4;5.0
-05/06/17 02:00;FR2487;Eurdep;air;48.58;3.44;140.5;France;Isla de Francia;Sena y Marne;Beauchery-Saint-Martin;NO0KRS937MA_77_SIT_GM;7.9;8.0
-05/06/17 02:00;FR2488;Eurdep;air;48.59;3.55;77.8;France;Grand Est;Aube;Villenauxe-la-Grande;NO0KRS938MA_10_SIT_GM;6.0;6.0
-05/06/17 03:00;FR2501;Eurdep;air;49.86;0.65;64.8;France;Normandía;Sena Marítimo;Saint-Sylvain;PA0KRS801MA_76_SIT_GM;6.1;6.6
-05/06/17 03:00;FR2502;Eurdep;air;49.86;0.65;64.8;France;Normandía;Sena Marítimo;Saint-Sylvain;PA0KRS802MA_76_SIT_GM;6.8;7.3
-05/06/17 03:00;FR2503;Eurdep;air;49.85;0.65;69.9;France;Normandía;Sena Marítimo;Paluel;PA0KRS803MA_76_SIT_GM;6.9;7.3
-05/06/17 03:00;FR2504;Eurdep;air;49.85;0.64;68.6;France;Normandía;Sena Marítimo;Paluel;PA0KRS804MA_76_SIT_GM;7.4;7.6
-05/06/17 03:00;FR2505;Eurdep;air;49.85;0.64;68.6;France;Normandía;Sena Marítimo;Paluel;PA0KRS805MA_76_SIT_GM;7.0;7.8
-05/06/17 03:00;FR2506;Eurdep;air;49.85;0.63;70.5;France;Normandía;Sena Marítimo;Paluel;PA0KRS806MA_76_SIT_GM;8.2;9.1
-05/06/17 03:00;FR2507;Eurdep;air;49.86;0.63;26.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS807MA_76_SIT_GM;7.8;8.0
-05/06/17 03:00;FR2508;Eurdep;air;49.86;0.63;26.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS808MA_76_SIT_GM;6.4;7.0
-05/06/17 03:00;FR2509;Eurdep;air;49.86;0.64;55.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS809MA_76_SIT_GM;5.5;6.3
-05/06/17 03:00;FR2510;Eurdep;air;49.86;0.64;55.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS810MA_76_SIT_GM;5.9;6.0
-05/06/17 03:00;FR2511;Eurdep;air;49.86;0.65;64.8;France;Normandía;Sena Marítimo;Saint-Sylvain;PA0KRS921MA_76_SIT_GM;6.1;6.2
-05/06/17 03:00;FR2512;Eurdep;air;49.85;0.65;69.9;France;Normandía;Sena Marítimo;Paluel;PA0KRS922MA_76_SIT_GM;6.6;6.9
-05/06/17 03:00;FR2514;Eurdep;air;49.86;0.62;0.4;France;;;;PA0KRS924MA_76_SIT_GM;7.7;7.9
-05/06/17 03:00;FR2515;Eurdep;air;49.86;0.7;0.0;France;0;0;0;PA0KRS911MA_76_SIT_GM;6.0;7.4
-05/06/17 03:00;FR2516;Eurdep;air;49.82;0.66;85.5;France;Normandía;Sena Marítimo;Saint-Riquier-ès-Plains;PA0KRS912MA_76_SIT_GM;8.3;9.0
-05/06/17 03:00;FR2517;Eurdep;air;49.83;0.55;84.8;France;Normandía;Sena Marítimo;Saint-Martin-aux-Buneaux;PA0KRS913MA_76_SIT_GM;8.9;9.6
-04/06/17 08:00;FR2521;Eurdep;air;49.8;0.53;92.0;France;Normandía;Sena Marítimo;Sassetot-le-Mauconduit;PA0KRS931MA_76_SIT_GM;8.7;9.0
-04/06/17 07:00;FR2523;Eurdep;air;49.78;0.59;110.8;France;Normandía;Sena Marítimo;Ouainville;PA0KRS933MA_76_SIT_GM;9.3;9.0
-05/06/17 02:00;FR2525;Eurdep;air;49.8;0.69;0.0;France;0;0;0;PA0KRS935MA_76_SIT_GM;9.9;10.0
-05/06/17 03:00;FR2601;Eurdep;air;47.72;1.59;0.0;France;0;0;0;LB0KRS801MA_41_SIT_GM;9.2;9.8
-05/06/17 03:00;FR2602;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS802MA_41_SIT_GM;11.5;12.0
-05/06/17 03:00;FR2603;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS803MA_41_SIT_GM;9.5;10.0
-05/06/17 03:00;FR2604;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS804MA_41_SIT_GM;10.6;11.0
-05/06/17 03:00;FR2605;Eurdep;air;47.72;1.57;80.7;France;Centro;Loir y Cher;Avaray;LB0KRS805MA_41_SIT_GM;11.4;12.0
-05/06/17 03:00;FR2606;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS806MA_41_SIT_GM;9.4;9.9
-05/06/17 03:00;FR2607;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS807MA_41_SIT_GM;8.6;9.0
-05/06/17 03:00;FR2608;Eurdep;air;47.73;1.58;89.7;France;Centro;Loir y Cher;Avaray;LB0KRS808MA_41_SIT_GM;11.2;11.0
-05/06/17 03:00;FR2609;Eurdep;air;47.73;1.58;89.7;France;Centro;Loir y Cher;Avaray;LB0KRS809MA_41_SIT_GM;10.7;11.0
-05/06/17 03:00;FR2610;Eurdep;air;47.73;1.59;0.0;France;0;0;0;LB0KRS810MA_41_SIT_GM;10.2;10.0
-05/06/17 03:00;FR2611;Eurdep;air;47.73;1.6;77.6;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS921MA_41_SIT_GM;10.5;11.0
-05/06/17 03:00;FR2613;Eurdep;air;47.71;1.59;0.0;France;0;0;0;LB0KRS923MA_41_SIT_GM;10.3;10.0
-05/06/17 03:00;FR2615;Eurdep;air;47.76;1.62;94.2;France;Centro;Loiret;Tavers;LB0KRS911MA_45_SIT_GM;8.4;8.9
-05/06/17 03:00;FR2616;Eurdep;air;47.72;1.61;0.0;France;0;0;0;LB0KRS912MA_41_SIT_GM;12.6;13.0
-05/06/17 03:00;FR2617;Eurdep;air;47.67;1.52;73.9;France;Centro;Loir y Cher;Muides-sur-Loire;LB0KRS913MA_41_SIT_GM;10.2;11.0
-05/06/17 03:00;FR2618;Eurdep;air;47.71;1.51;100.4;France;Centro;Loir y Cher;Mer;LB0KRS914MA_41_SIT_GM;9.9;10.0
-05/06/17 03:00;FR2621;Eurdep;air;47.77;1.69;91.8;France;Centro;Loiret;Lailly-en-Val;LB0KRS931MA_45_SIT_GM;9.2;10.0
-05/06/17 03:00;FR2622;Eurdep;air;47.65;1.67;92.2;France;Centro;Loir y Cher;La Ferté-Saint-Cyr;LB0KRS932MA_41_SIT_GM;9.2;9.0
-05/06/17 03:00;FR2623;Eurdep;air;47.63;1.6;87.4;France;Centro;Loir y Cher;Thoury;LB0KRS933MA_41_SIT_GM;10.9;11.0
-05/06/17 03:00;FR2624;Eurdep;air;47.65;1.49;85.7;France;Centro;Loir y Cher;Saint-Dyé-sur-Loire;LB0KRS934MA_41_SIT_GM;8.2;8.0
-05/06/17 02:00;FR2625;Eurdep;air;47.72;1.41;0.0;France;0;0;0;LB0KRS935MA_41_SIT_GM;9.0;9.0
-05/06/17 03:00;FR2626;Eurdep;air;47.77;1.48;111.9;France;Centro;Loir y Cher;Concriers;LB0KRS936MA_41_SIT_GM;9.7;10.0
-05/06/17 03:00;FR2627;Eurdep;air;47.8;1.53;114.0;France;Centro;Loir y Cher;Josnes;LB0KRS937MA_41_SIT_GM;10.7;11.0
-05/06/17 03:00;FR2628;Eurdep;air;47.8;1.6;110.9;France;Centro;Loiret;Villorceau;LB0KRS938MA_45_SIT_GM;8.3;9.0
-05/06/17 03:00;FR2631;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS801MA_84_SIT_GM;6.9;7.0
-05/06/17 03:00;FR2632;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS802MA_26_SIT_GM;7.7;8.2
-05/06/17 03:00;FR2633;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS803MA_26_SIT_GM;7.4;8.0
-05/06/17 03:00;FR2634;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS804MA_26_SIT_GM;7.3;7.8
-05/06/17 03:00;FR2636;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS806MA_26_SIT_GM;14.0;15.0
-05/06/17 03:00;FR2637;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS807MA_26_SIT_GM;11.6;12.0
-05/06/17 03:00;FR2638;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS808MA_26_SIT_GM;8.0;8.6
-05/06/17 03:00;FR2639;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS809MA_26_SIT_GM;6.3;7.0
-05/06/17 03:00;FR2640;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS810MA_84_SIT_GM;7.9;8.4
-05/06/17 03:00;FR2641;Eurdep;air;44.32;4.73;50.6;France;Provenza-Alpes-Costa Azul;Vaucluse;Bollène;TN0KRS921MA_84_SIT_GM;7.5;7.7
-05/06/17 03:00;FR2642;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS922MA_26_SIT_GM;8.1;8.2
-05/06/17 03:00;FR2643;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS923MA_26_SIT_GM;7.2;7.3
-05/06/17 03:00;FR2644;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS924MA_26_SIT_GM;7.3;7.6
-05/06/17 03:00;FR2645;Eurdep;air;44.39;4.7;56.6;France;Auvergne-Rhône-Alpes;Drôme;Pierrelatte;TN0KRS911MA_26_SIT_GM;6.5;7.3
-05/06/17 03:00;FR2646;Eurdep;air;44.34;4.77;176.6;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS912MA_26_SIT_GM;8.1;8.5
-05/06/17 03:00;FR2647;Eurdep;air;44.28;4.76;57.8;France;Provenza-Alpes-Costa Azul;Vaucluse;Bollène;TN0KRS913MA_84_SIT_GM;7.6;8.1
-05/06/17 03:00;FR2648;Eurdep;air;44.25;4.65;41.2;France;Occitanie;Gard;Pont-Saint-Esprit;TN0KRS914MA_30_SIT_GM;8.0;8.8
-05/06/17 03:00;FR2651;Eurdep;air;44.24;4.71;43.5;France;Provenza-Alpes-Costa Azul;Vaucluse;Mondragon;TN0KRS931MA_84_SIT_GM;7.1;7.0
-05/06/17 03:00;FR2652;Eurdep;air;44.27;4.71;43.4;France;Provenza-Alpes-Costa Azul;Vaucluse;Bollène;TN0KRS932MA_84_SIT_GM;8.4;9.0
-05/06/17 02:00;FR2653;Eurdep;air;44.31;4.69;47.8;France;Provenza-Alpes-Costa Azul;Vaucluse;Lapalud;TN0KRS933MA_84_SIT_GM;9.4;10.0
-05/06/17 02:00;FR2654;Eurdep;air;44.33;4.62;163.9;France;Auvergne-Rhône-Alpes;Ardèche;Saint-Marcel-d'Ardèche;TN0KRS934MA_07_SIT_GM;8.8;9.0
-05/06/17 01:00;FR2655;Eurdep;air;44.38;4.64;84.6;France;Auvergne-Rhône-Alpes;Ardèche;Bourg-Saint-Andéol;TN0KRS935MA_07_SIT_GM;8.8;9.0
-05/06/17 03:00;FR2657;Eurdep;air;44.4;4.8;156.8;France;Auvergne-Rhône-Alpes;Drôme;Valaurie;TN0KRS937MA_26_SIT_GM;6.6;7.0
-05/06/17 02:00;FR2658;Eurdep;air;44.35;4.83;123.1;France;Auvergne-Rhône-Alpes;Drôme;Solérieux;TN0KRS938MA_26_SIT_GM;7.4;8.0
-05/06/17 03:00;FR2659;Eurdep;air;44.33;4.76;162.2;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS939MA_26_SIT_GM;7.0;7.0
-05/06/17 03:00;FR2660;Eurdep;air;44.29;4.83;83.8;France;Auvergne-Rhône-Alpes;Drôme;Suze-la-Rousse;TN0KRS940MA_26_SIT_GM;7.6;8.0
-05/06/17 03:00;FR1004;Eurdep;air;4.92;-52.32;10.5;France;Cayenne;Cayenne;Cayena;CAYENNE-GUYANE_973_AGG_CP;6.9;7.1
-05/06/17 03:00;FR1009;Eurdep;air;49.89;2.27;28.8;France;Hauts-de-France;Somme;Amiens;AMIENS_80_AGG_CP;6.0;6.2
-05/06/17 03:00;FR1010;Eurdep;air;48.45;1.48;147.5;France;Centro;Eure y Loir;Chartres;CHARTRES_28_AGG_CP;8.2;8.0
-05/06/17 03:00;FR1011;Eurdep;air;48.96;2.88;54.9;France;Isla de Francia;Sena y Marne;Meaux;MEAUX_77_AGG_CP;5.9;6.3
-05/06/17 03:00;FR1012;Eurdep;air;48.54;2.65;60.0;France;Isla de Francia;Sena y Marne;Melun;MELUN_77_AGG_CP;5.9;6.0
-05/06/17 03:00;FR1013;Eurdep;air;48.84;2.38;33.6;France;Isla de Francia;París;París;PARIS-BERCY_75_ILE_CP;5.9;6.0
-05/06/17 03:00;FR1015;Eurdep;air;48.89;2.34;78.4;France;Isla de Francia;París;París;PARIS-SACRE-COEUR_75_ILE_CP;4.0;4.1
-05/06/17 03:00;FR1016;Eurdep;air;49.45;1.08;55.3;France;Normandía;Sena Marítimo;Ruan;ROUEN_76_AGG_CP;6.3;6.5
-05/06/17 03:00;FR1018;Eurdep;air;48.2;3.28;0.0;France;0;0;0;SENS_89_AGG_CP;8.0;8.3
-05/06/17 03:00;FR1019;Eurdep;air;48.84;2.44;50.7;France;Isla de Francia;París;París;VINCENNES_94_ILE_CP;4.8;4.9
-05/06/17 03:00;FR1020;Eurdep;air;48.79;2.27;164.1;France;Isla de Francia;Altos del Sena;Clamart;FONTENAY-AUX-ROSES-IRSN_92_SIT_CP;6.7;6.8
-05/06/17 03:00;FR1021;Eurdep;air;48.86;2.29;38.3;France;Isla de Francia;París;París;PARIS-TOUR-EIFFEL_75_ILE_CP;4.4;4.5
-05/06/17 03:00;FR1022;Eurdep;air;48.88;2.13;29.4;France;Isla de Francia;Yvelines;Le Vésinet;LE VESINET_78_AGG_CP;7.9;8.1
-05/06/17 03:00;FR1023;Eurdep;air;45.04;3.88;648.6;France;Auvergne-Rhône-Alpes;Alto Loira;Le Puy-en-Velay;LE PUY-EN-VELAY_43_AGG_CP;10.3;10.0
-05/06/17 03:00;FR1024;Eurdep;air;43.29;5.38;14.8;France;Provenza-Alpes-Costa Azul;Bocas del Ródano;Marsella;MARSEILLE_13_AGG_CP;7.2;7.0
-05/06/17 03:00;FR1025;Eurdep;air;43.67;7.2;10.4;France;Provenza-Alpes-Costa Azul;Alpes Marítimos;Niza;NICE_06_AGG_CP;6.3;6.5
-05/06/17 03:00;FR1026;Eurdep;air;45.19;5.73;217.5;France;Auvergne-Rhône-Alpes;Isère;Grenoble;GRENOBLE_38_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1027;Eurdep;air;48.84;2.25;40.9;France;Isla de Francia;Altos del Sena;Boulogne-Billancourt;PARIS-PARC-DES-PRINCES_92_ILE_CP;6.0;6.2
-05/06/17 03:00;FR1028;Eurdep;air;49.44;2.07;66.6;France;Hauts-de-France;Oise;Beauvais;BEAUVAIS_60_AGG_CP;7.2;7.5
-05/06/17 03:00;FR1029;Eurdep;air;44.94;4.89;110.1;France;Auvergne-Rhône-Alpes;Drôme;Bourg-lès-Valence;VALENCE_26_AGG_CP;6.3;6.0
-05/06/17 03:00;FR1030;Eurdep;air;47.49;3.91;258.4;France;Bourgogne-Franche-Comté;Yonne;Avallon;AVALLON_89_AGG_CP;8.3;8.7
-05/06/17 03:00;FR1031;Eurdep;air;47.32;5.04;246.7;France;Bourgogne-Franche-Comté;Côte-d'Or;Dijon;DIJON_21_AGG_CP;6.2;6.4
-05/06/17 03:00;FR1032;Eurdep;air;47.23;6.02;246.4;France;Bourgogne-Franche-Comté;Doubs;Besanzón;BESANCON_25_AGG_CP;9.1;9.3
-05/06/17 03:00;FR1033;Eurdep;air;44.09;6.24;606.5;France;Provenza-Alpes-Costa Azul;Alpes de Alta Provenza;Digne-les-Bains;DIGNE-LES-BAINS_04_AGG_CP;7.6;7.8
-05/06/17 03:00;FR1034;Eurdep;air;46.78;4.85;179.2;France;Bourgogne-Franche-Comté;Saona y Loira;Chalon-sur-Saône;CHALON-SUR-SAONE_71_AGG_CP;8.4;8.6
-05/06/17 03:00;FR1035;Eurdep;air;43.96;4.76;70.4;France;Occitanie;Gard;Les Angles;LES ANGLES_30_AGG_CP;6.2;6.4
-05/06/17 03:00;FR1036;Eurdep;air;45.76;4.84;164.0;France;Auvergne-Rhône-Alpes;Ródano;Lyon;LYON_69_AGG_CP;7.3;8.0
-05/06/17 03:00;FR1037;Eurdep;air;43.61;3.88;40.3;France;Occitanie;Hérault;Montpellier;MONTPELLIER_34_AGG_CP;6.5;6.9
-05/06/17 03:00;FR1038;Eurdep;air;43.83;4.36;45.0;France;Occitanie;Gard;Nimes;NIMES_30_AGG_CP;7.9;8.1
-05/06/17 03:00;FR1039;Eurdep;air;45.44;4.39;522.8;France;Auvergne-Rhône-Alpes;Loira;Saint-Étienne;ST-ETIENNE_42_AGG_CP;10.6;11.0
-05/06/17 03:00;FR1040;Eurdep;air;43.13;5.93;32.1;France;Provenza-Alpes-Costa Azul;Var;Tolón;TOULON_83_AGG_CP;5.9;6.0
-05/06/17 03:00;FR1042;Eurdep;air;47.79;7.38;0.0;France;0;0;0;SAUSHEIM_68_AGG_CP;7.6;7.7
-05/06/17 03:00;FR1043;Eurdep;air;47.75;7.41;237.8;France;Grand Est;Alto Rin;Rixheim;RIXHEIM_68_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1044;Eurdep;air;47.65;7.46;258.3;France;Grand Est;Alto Rin;Sierentz;SIERENTZ_68_AGG_CP;8.5;8.0
-05/06/17 03:00;FR1045;Eurdep;air;48.08;7.36;193.6;France;Grand Est;Alto Rin;Colmar;COLMAR_68_AGG_CP;8.5;8.6
-05/06/17 03:00;FR1046;Eurdep;air;47.8;7.23;265.5;France;Grand Est;Alto Rin;Wittelsheim;WITTELSHEIM_68_AGG_CP;8.5;8.0
-05/06/17 03:00;FR1047;Eurdep;air;47.88;7.22;285.2;France;Grand Est;Alto Rin;Soultz-Haut-Rhin;SOULTZ-HAUT-RHIN_68_AGG_CP;9.6;9.0
-05/06/17 03:00;FR1048;Eurdep;air;48.01;7.38;196.2;France;Grand Est;Alto Rin;Sainte-Croix-en-Plaine;ST-CROIX-EN-PLAINE_68_AGG_CP;7.6;7.8
-05/06/17 03:00;FR1049;Eurdep;air;48.13;7.48;177.0;France;Grand Est;Alto Rin;Jebsheim;JEBSHEIM_68_AGG_CP;7.6;7.8
-05/06/17 03:00;FR1050;Eurdep;air;47.96;7.31;201.7;France;Grand Est;Alto Rin;Rouffach;ROUFFACH_68_AGG_CP;7.8;7.9
-05/06/17 03:00;FR1051;Eurdep;air;46.04;4.07;283.0;France;Auvergne-Rhône-Alpes;Loira;Roanne;ROANNE_42_AGG_CP;16.0;16.0
-05/06/17 03:00;FR1052;Eurdep;air;45.78;3.08;383.0;France;Auvergne-Rhône-Alpes;Puy-de-Dôme;Clermont-Ferrand;CLERMONT-FERRAND_63_AGG_CP;11.1;11.0
-05/06/17 03:00;FR1053;Eurdep;air;46.99;3.16;191.1;France;Bourgogne-Franche-Comté;Nièvre;Nevers;NEVERS_58_AGG_CP;9.0;9.3
-05/06/17 03:00;FR1055;Eurdep;air;44.17;5.28;1754.1;France;Provenza-Alpes-Costa Azul;Vaucluse;Bédoin;MONT-VENTOUX_84_SOM_CP;9.1;9.3
-05/06/17 03:00;FR1056;Eurdep;air;48.76;5.17;269.0;France;Grand Est;Mosa;Savonnières-devant-Bar;BAR-LE-DUC_55_AGG_CP;6.4;6.9
-05/06/17 03:00;FR1057;Eurdep;air;48.18;6.43;361.5;France;Grand Est;Vosgos;Épinal;EPINAL_88_AGG_CP;10.0;10.0
-05/06/17 03:00;FR1058;Eurdep;air;48.68;6.18;223.3;France;Grand Est;Meurthe y Mosela;Nancy;NANCY_54_AGG_CP;12.3;13.0
-05/06/17 03:00;FR1059;Eurdep;air;49.21;6.16;164.4;France;Grand Est;Mosela;Maizières-lès-Metz;MAIZIERES-LES-METZ_57_AGG_CP;10.0;10.0
-05/06/17 03:00;FR1060;Eurdep;air;49.37;5.89;349.6;France;Grand Est;Meurthe y Mosela;Audun-le-Roman;AUDUN-LE-ROMAN_54_AGG_CP;11.0;11.0
-05/06/17 03:00;FR1061;Eurdep;air;49.31;6.28;209.0;France;Grand Est;Mosela;Metzervisse;METZERVISSE_57_AGG_CP;9.2;9.5
-05/06/17 03:00;FR1062;Eurdep;air;49.29;6.54;203.4;France;Grand Est;Mosela;Bouzonville;BOUZONVILLE_57_AGG_CP;11.6;12.0
-05/06/17 03:00;FR1063;Eurdep;air;49.51;5.73;360.0;France;Grand Est;Meurthe y Mosela;Lexy;LEXY_54_AGG_CP;9.4;9.7
-05/06/17 03:00;FR1064;Eurdep;air;49.47;5.95;345.1;France;Grand Est;Mosela;Audun-le-Tiche;AUDUN-LE-TICHE_57_AGG_CP;9.5;9.6
-05/06/17 03:00;FR1065;Eurdep;air;49.36;5.98;288.1;France;Grand Est;Mosela;Fontoy;FONTOY_57_AGG_CP;9.5;10.0
-05/06/17 03:00;FR1066;Eurdep;air;49.31;6.12;172.9;France;Grand Est;Mosela;Fameck;FAMECK_57_AGG_CP;9.3;9.6
-05/06/17 03:00;FR1067;Eurdep;air;49.16;5.88;200.3;France;Grand Est;Meurthe y Mosela;Jarny;JARNY_54_AGG_CP;10.7;11.0
-05/06/17 03:00;FR1068;Eurdep;air;49.44;6.33;171.6;France;Grand Est;Mosela;Rettel;RETTEL_57_AGG_CP;9.7;10.0
-05/06/17 03:00;FR1069;Eurdep;air;47.56;2.45;164.3;France;Centro;Cher;Argent-sur-Sauldre;ARGENT-SUR-SAULDRE_18_AGG_CP;9.0;9.0
-05/06/17 03:00;FR1070;Eurdep;air;47.49;2.44;185.5;France;Centro;Cher;Aubigny-sur-Nère;AUBIGNY-SUR-NERE_18_AGG_CP;8.7;9.0
-05/06/17 03:00;FR1071;Eurdep;air;47.99;2.45;104.4;France;Centro;Loiret;Bellegarde;BELLEGARDE_45_AGG_CP;8.7;9.0
-05/06/17 03:00;FR1072;Eurdep;air;47.88;2.51;129.4;France;Centro;Loiret;Lorris;LORRIS_45_AGG_CP;8.7;8.9
-05/06/17 03:00;FR1073;Eurdep;air;47.64;2.75;134.3;France;Centro;Loiret;Briare;BRIARE_45_AGG_CP;8.3;8.6
-05/06/17 03:00;FR1075;Eurdep;air;47.86;2.24;123.6;France;Centro;Loiret;Châteauneuf-sur-Loire;CHATEAUNEUF-SUR-LOIRE_45_AGG_CP;7.8;8.2
-05/06/17 03:00;FR1076;Eurdep;air;47.4;2.93;173.5;France;Bourgogne-Franche-Comté;Nièvre;Cosne-Cours-sur-Loire;COSNE-COURS-SUR-LOIRE_58_AGG_CP;8.9;9.1
-05/06/17 03:00;FR1077;Eurdep;air;47.37;3.12;179.0;France;Bourgogne-Franche-Comté;Nièvre;Donzy;DONZY_58_AGG_CP;8.8;9.0
-05/06/17 03:00;FR1078;Eurdep;air;47.59;2.76;162.1;France;Centro;Loiret;Châtillon-sur-Loire;CHATILLON-SUR-LOIRE_45_AGG_CP;9.8;10.0
-05/06/17 03:00;FR1079;Eurdep;air;47.31;2.52;252.7;France;Centro;Cher;Henrichemont;HENRICHEMONT_18_AGG_CP;9.2;9.0
-05/06/17 03:00;FR1080;Eurdep;air;47.99;2.72;0.0;France;0;0;0;MONTARGIS_45_AGG_CP;9.3;9.0
-05/06/17 03:00;FR1081;Eurdep;air;47.28;2.96;160.2;France;Bourgogne-Franche-Comté;Nièvre;Pouilly-sur-Loire;POUILLY-SUR-LOIRE_58_AGG_CP;9.3;9.0
-05/06/17 03:00;FR1082;Eurdep;air;47.53;3.07;176.7;France;Bourgogne-Franche-Comté;Nièvre;Saint-Amand-en-Puisaye;ST-AMAND-EN-PUISAYE_58_AGG_CP;11.1;11.0
-05/06/17 03:00;FR1083;Eurdep;air;47.82;2.84;136.7;France;Centro;Loiret;Sainte-Geneviève-des-Bois;CHATILLON-COLIGNY_45_AGG_CP;7.4;7.6
-05/06/17 03:00;FR1084;Eurdep;air;47.64;3.07;198.1;France;Bourgogne-Franche-Comté;Yonne;Saint-Fargeau;ST-FARGEAU_89_AGG_CP;11.4;11.0
-05/06/17 03:00;FR1085;Eurdep;air;47.33;2.84;294.5;France;Centro;Cher;Sancerre;SANCERRE_18_AGG_CP;11.7;11.0
-05/06/17 03:00;FR1086;Eurdep;air;47.76;2.37;118.7;France;Centro;Loiret;Sully-sur-Loire;SULLY-SUR-LOIRE_45_AGG_CP;11.1;11.0
+05/06/17 16:00;FR2301;Eurdep;air;47.74;2.52;125.9;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS801MA_45_SIT_GM;9.1;9.5
+05/06/17 16:00;FR2302;Eurdep;air;47.73;2.52;122.7;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS802MA_45_SIT_GM;11.4;12.0
+05/06/17 16:00;FR2303;Eurdep;air;47.73;2.53;0.0;France;0;0;0;DA0KRS803MA_45_SIT_GM;11.1;11.0
+05/06/17 16:00;FR2304;Eurdep;air;47.73;2.52;122.7;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS804MA_45_SIT_GM;9.9;10.0
+05/06/17 16:00;FR2305;Eurdep;air;47.73;2.52;122.7;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS805MA_45_SIT_GM;9.7;10.0
+05/06/17 16:00;FR2306;Eurdep;air;47.73;2.51;105.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS806MA_45_SIT_GM;10.3;11.0
+05/06/17 16:00;FR2307;Eurdep;air;47.73;2.51;105.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS807MA_45_SIT_GM;10.1;10.0
+05/06/17 16:00;FR2308;Eurdep;air;47.73;2.51;105.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS808MA_45_SIT_GM;10.1;10.0
+05/06/17 16:00;FR2309;Eurdep;air;47.74;2.51;118.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS809MA_45_SIT_GM;11.7;12.0
+05/06/17 16:00;FR2310;Eurdep;air;47.74;2.52;125.9;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS810MA_45_SIT_GM;11.3;11.0
+05/06/17 16:00;FR2311;Eurdep;air;47.74;2.54;150.8;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS921MA_45_SIT_GM;10.2;10.0
+05/06/17 16:00;FR2312;Eurdep;air;47.73;2.53;0.0;France;0;0;0;DA0KRS922MA_45_SIT_GM;10.4;10.0
+05/06/17 16:00;FR2313;Eurdep;air;47.72;2.5;130.4;France;Centro;Loiret;Lion-en-Sullias;DA0KRS923MA_45_SIT_GM;8.8;9.2
+05/06/17 16:00;FR2314;Eurdep;air;47.74;2.51;118.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS924MA_45_SIT_GM;9.0;9.2
+05/06/17 16:00;FR2315;Eurdep;air;47.76;2.52;149.0;France;Centro;Loiret;Dampierre-en-Burly;DA0KRS911MA_45_SIT_GM;8.6;9.2
+05/06/17 16:00;FR2316;Eurdep;air;47.71;2.58;128.9;France;Centro;Loiret;Nevoy;DA0KRS912MA_45_SIT_GM;10.6;11.0
+05/06/17 16:00;FR2317;Eurdep;air;47.69;2.48;150.6;France;Centro;Loiret;Saint-Florent;DA0KRS913MA_45_SIT_GM;8.8;9.8
+05/06/17 16:00;FR2318;Eurdep;air;47.74;2.44;122.9;France;Centro;Loiret;Saint-Aignan-le-Jaillard;DA0KRS914MA_45_SIT_GM;13.1;13.0
+05/06/17 15:00;FR2321;Eurdep;air;47.82;2.66;132.1;France;Centro;Loiret;Langesse;DA0KRS931MA_45_SIT_GM;10.3;11.0
+05/06/17 15:00;FR2322;Eurdep;air;47.8;2.67;153.6;France;Centro;Loiret;Les Choux;DA0KRS932MA_45_SIT_GM;11.2;12.0
+05/06/17 16:00;FR2323;Eurdep;air;47.71;2.62;154.7;France;Centro;Loiret;Gien;DA0KRS933MA_45_SIT_GM;11.2;12.0
+05/06/17 16:00;FR2324;Eurdep;air;47.7;2.54;126.1;France;Centro;Loiret;Saint-Gondon;DA0KRS934MA_45_SIT_GM;12.7;13.0
+05/06/17 16:00;FR2325;Eurdep;air;47.62;2.51;160.3;France;Centro;Loiret;Coullons;DA0KRS935MA_45_SIT_GM;10.9;11.0
+05/06/17 16:00;FR2326;Eurdep;air;47.63;2.37;150.2;France;Centro;Loiret;Cerdon;DA0KRS936MA_45_SIT_GM;10.7;11.0
+05/06/17 16:00;FR2327;Eurdep;air;47.76;2.37;118.7;France;Centro;Loiret;Sully-sur-Loire;DA0KRS937MA_45_SIT_GM;11.6;12.0
+05/06/17 15:00;FR2328;Eurdep;air;47.82;2.4;138.2;France;Centro;Loiret;Les Bordes;DA0KRS938MA_45_SIT_GM;8.8;9.0
+05/06/17 16:00;FR2329;Eurdep;air;47.77;2.47;129.0;France;Centro;Loiret;Ouzouer-sur-Loire;DA0KRS939MA_45_SIT_GM;11.2;11.0
+05/06/17 16:00;FR2330;Eurdep;air;47.86;2.57;0.0;France;0;0;0;DA0KRS940MA_45_SIT_GM;9.5;10.0
+05/06/17 16:00;FR2331;Eurdep;air;47.91;7.56;0.0;France;0;0;0;FS0KRS801MA_68_SIT_GM;8.3;8.8
+05/06/17 16:00;FR2332;Eurdep;air;47.91;7.57;212.8;France;Grand Est;Alto Rin;Fessenheim;FS0KRS802MA_68_SIT_GM;7.7;8.0
+05/06/17 16:00;FR2333;Eurdep;air;47.9;7.57;206.9;France;Grand Est;Alto Rin;Fessenheim;FS0KRS803MA_68_SIT_GM;8.1;8.5
+05/06/17 16:00;FR2334;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS804MA_68_SIT_GM;7.8;8.2
+05/06/17 16:00;FR2335;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS805MA_68_SIT_GM;7.5;7.9
+05/06/17 16:00;FR2336;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS806MA_68_SIT_GM;9.1;9.0
+05/06/17 16:00;FR2337;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS807MA_68_SIT_GM;7.4;7.9
+05/06/17 16:00;FR2338;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS808MA_68_SIT_GM;8.2;8.0
+05/06/17 16:00;FR2339;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS809MA_68_SIT_GM;7.8;8.2
+05/06/17 16:00;FR2340;Eurdep;air;47.91;7.56;0.0;France;0;0;0;FS0KRS810MA_68_SIT_GM;7.6;8.2
+05/06/17 16:00;FR2341;Eurdep;air;47.92;7.57;206.6;France;Grand Est;Alto Rin;Balgau;FS0KRS921MA_68_SIT_GM;7.5;7.8
+05/06/17 16:00;FR2342;Eurdep;air;47.91;7.57;212.8;France;Grand Est;Alto Rin;Fessenheim;FS0KRS922MA_68_SIT_GM;7.9;8.1
+05/06/17 16:00;FR2343;Eurdep;air;47.9;7.56;0.0;France;0;0;0;FS0KRS923MA_68_SIT_GM;7.3;8.4
+05/06/17 16:00;FR2344;Eurdep;air;47.91;7.56;0.0;France;0;0;0;FS0KRS924MA_68_SIT_GM;7.9;8.1
+05/06/17 16:00;FR2346;Eurdep;air;47.85;7.52;213.2;France;Grand Est;Alto Rin;Rumersheim-le-Haut;FS0KRS912MA_68_SIT_GM;7.0;8.2
+05/06/17 16:00;FR2347;Eurdep;air;47.97;7.54;197.4;France;Grand Est;Alto Rin;Heiteren;FS0KRS913MA_68_SIT_GM;7.7;8.4
+05/06/17 16:00;FR2348;Eurdep;air;48.02;7.52;192.6;France;Grand Est;Alto Rin;Volgelsheim;FS0KRS940MA_68_SIT_GM;9.7;10.0
+05/06/17 16:00;FR2351;Eurdep;air;47.93;7.57;203.8;France;Grand Est;Alto Rin;Balgau;FS0KRS931MA_68_SIT_GM;9.7;10.0
+05/06/17 15:00;FR2352;Eurdep;air;47.82;7.54;214.1;France;Grand Est;Alto Rin;Chalampé;FS0KRS932MA_68_SIT_GM;8.5;9.0
+05/06/17 16:00;FR2353;Eurdep;air;47.89;7.54;205.1;France;Grand Est;Alto Rin;Blodelsheim;FS0KRS933MA_68_SIT_GM;10.4;11.0
+05/06/17 16:00;FR2354;Eurdep;air;47.87;7.45;218.9;France;Grand Est;Alto Rin;Munchhouse;FS0KRS934MA_68_SIT_GM;7.9;8.0
+05/06/17 15:00;FR2355;Eurdep;air;47.87;7.35;219.3;France;Grand Est;Alto Rin;Ensisheim;FS0KRS935MA_68_SIT_GM;8.6;9.0
+05/06/17 16:00;FR2356;Eurdep;air;47.91;7.45;212.4;France;Grand Est;Alto Rin;Hirtzfelden;FS0KRS936MA_68_SIT_GM;9.1;9.0
+05/06/17 16:00;FR2357;Eurdep;air;47.91;7.54;204.2;France;Grand Est;Alto Rin;Fessenheim;FS0KRS937MA_68_SIT_GM;7.9;8.0
+05/06/17 16:00;FR2358;Eurdep;air;47.94;7.46;204.9;France;Grand Est;Alto Rin;Rustenhart;FS0KRS938MA_68_SIT_GM;10.9;11.0
+05/06/17 16:00;FR2359;Eurdep;air;47.93;7.54;204.0;France;Grand Est;Alto Rin;Balgau;FS0KRS939MA_68_SIT_GM;8.2;8.0
+05/06/17 16:00;FR2401;Eurdep;air;44.1;0.86;58.2;France;Occitanie;Tarn y Garona;Golfech;GF0KRS801MA_82_SIT_GM;8.6;9.3
+05/06/17 16:00;FR2403;Eurdep;air;44.1;0.85;55.4;France;Occitanie;Tarn y Garona;Golfech;GF0KRS803MA_82_SIT_GM;8.5;9.1
+05/06/17 16:00;FR2404;Eurdep;air;44.1;0.84;54.0;France;Occitanie;Tarn y Garona;Saint-Loup;GF0KRS804MA_82_SIT_GM;0.0;0.0
+05/06/17 16:00;FR2405;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS805MA_82_SIT_GM;7.8;8.6
+05/06/17 16:00;FR2406;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS806MA_82_SIT_GM;8.6;9.4
+05/06/17 16:00;FR2407;Eurdep;air;44.12;0.84;53.2;France;Occitanie;Tarn y Garona;Lamagistère;GF0KRS807MA_82_SIT_GM;7.0;7.5
+05/06/17 16:00;FR2408;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS808MA_82_SIT_GM;8.1;8.9
+05/06/17 16:00;FR2409;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GF0KRS809MA_82_SIT_GM;8.7;9.1
+05/06/17 16:00;FR2410;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GF0KRS810MA_82_SIT_GM;7.6;8.2
+05/06/17 16:00;FR2411;Eurdep;air;44.1;0.86;58.2;France;Occitanie;Tarn y Garona;Golfech;GF0KRS921MA_82_SIT_GM;8.3;8.5
+05/06/17 16:00;FR2412;Eurdep;air;44.1;0.85;55.4;France;Occitanie;Tarn y Garona;Golfech;GF0KRS922MA_82_SIT_GM;6.4;6.6
+05/06/17 16:00;FR2413;Eurdep;air;44.11;0.84;54.5;France;Occitanie;Tarn y Garona;Golfech;GF0KRS923MA_82_SIT_GM;8.1;8.3
+05/06/17 16:00;FR2414;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GF0KRS924MA_82_SIT_GM;9.2;9.0
+05/06/17 16:00;FR2415;Eurdep;air;44.12;0.82;0.0;France;0;0;0;GF0KRS911MA_82_SIT_GM;8.6;9.0
+05/06/17 16:00;FR2416;Eurdep;air;44.11;0.89;68.3;France;Occitanie;Tarn y Garona;Valence;GF0KRS912MA_82_SIT_GM;11.8;13.0
+05/06/17 16:00;FR2417;Eurdep;air;44.07;0.9;119.0;France;Occitanie;Tarn y Garona;Auvillar;GF0KRS913MA_82_SIT_GM;0.0;0.0
+05/06/17 16:00;FR2418;Eurdep;air;44.1;0.77;112.9;France;Occitanie;Tarn y Garona;Dunes;GF0KRS914MA_82_SIT_GM;9.4;10.0
+05/06/17 16:00;FR2421;Eurdep;air;44.08;0.9;58.7;France;Occitanie;Tarn y Garona;Espalais;GF0KRS931MA_82_SIT_GM;12.6;13.0
+05/06/17 15:00;FR2422;Eurdep;air;44.04;0.84;120.5;France;Occitanie;Gers;Saint-Antoine;GF0KRS932MA_32_SIT_GM;7.4;7.0
+05/06/17 16:00;FR2423;Eurdep;air;44.06;0.78;137.9;France;Occitanie;Tarn y Garona;Sistels;GF0KRS933MA_82_SIT_GM;9.0;10.0
+05/06/17 16:00;FR2424;Eurdep;air;44.14;0.76;46.0;France;Nouvelle-Aquitaine;Lot y Garona;Saint-Nicolas-de-la-Balerme;GF0KRS934MA_47_SIT_GM;11.0;12.0
+05/06/17 16:00;FR2425;Eurdep;air;44.16;0.82;0.0;France;0;0;0;GF0KRS935MA_47_SIT_GM;10.1;10.0
+05/06/17 16:00;FR2426;Eurdep;air;44.18;0.88;191.5;France;Occitanie;Tarn y Garona;Perville;GF0KRS936MA_82_SIT_GM;9.2;10.0
+05/06/17 16:00;FR2427;Eurdep;air;44.15;0.92;114.0;France;Occitanie;Tarn y Garona;Gasques;GF0KRS937MA_82_SIT_GM;8.7;9.0
+05/06/17 16:00;FR2428;Eurdep;air;44.1;0.93;72.3;France;Occitanie;Tarn y Garona;Pommevic;GF0KRS938MA_82_SIT_GM;9.6;10.0
+05/06/17 16:00;FR2429;Eurdep;air;44.14;0.78;51.2;France;Nouvelle-Aquitaine;Lot y Garona;Saint-Sixte;GF0KRS939MA_47_SIT_GM;8.3;8.0
+05/06/17 16:00;FR2431;Eurdep;air;51.02;2.15;6.2;France;Hauts-de-France;Norte;Gravelinas;GG0KRS801MA_59_SIT_GM;6.6;7.0
+05/06/17 16:00;FR2432;Eurdep;air;51.02;2.15;6.2;France;Hauts-de-France;Norte;Gravelinas;GG0KRS802MA_59_SIT_GM;6.2;6.6
+05/06/17 16:00;FR2433;Eurdep;air;51.01;2.14;7.4;France;Hauts-de-France;Norte;Gravelinas;GG0KRS803MA_59_SIT_GM;6.4;6.8
+05/06/17 16:00;FR2434;Eurdep;air;51.01;2.15;5.5;France;Hauts-de-France;Norte;Gravelinas;GG0KRS804MA_59_SIT_GM;6.4;6.9
+05/06/17 16:00;FR2443;Eurdep;air;51.01;2.15;5.5;France;Hauts-de-France;Norte;Gravelinas;GG0KRS923MA_59_SIT_GM;7.9;8.1
+05/06/17 16:00;FR2435;Eurdep;air;51.01;2.14;7.4;France;Hauts-de-France;Norte;Gravelinas;GG0KRS805MA_59_SIT_GM;6.6;7.3
+05/06/17 16:00;FR2436;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS806MA_59_SIT_GM;6.9;7.4
+05/06/17 16:00;FR2437;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS807MA_59_SIT_GM;7.6;8.1
+05/06/17 16:00;FR2438;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS808MA_59_SIT_GM;7.2;7.0
+05/06/17 16:00;FR2439;Eurdep;air;51.02;2.14;2.7;France;Hauts-de-France;Norte;Gravelinas;GG0KRS809MA_59_SIT_GM;7.9;8.6
+05/06/17 16:00;FR2440;Eurdep;air;51.02;2.14;2.7;France;Hauts-de-France;Norte;Gravelinas;GG0KRS810MA_59_SIT_GM;8.7;9.4
+05/06/17 16:00;FR2441;Eurdep;air;51.02;2.15;6.2;France;Hauts-de-France;Norte;Gravelinas;GG0KRS921MA_59_SIT_GM;7.8;8.0
+05/06/17 16:00;FR2442;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS922MA_59_SIT_GM;7.5;7.7
+05/06/17 16:00;FR2444;Eurdep;air;51.01;2.13;0.3;France;Hauts-de-France;Norte;Gravelinas;GG0KRS924MA_59_SIT_GM;6.6;6.8
+05/06/17 16:00;FR2446;Eurdep;air;51.0;2.22;0.0;France;0;0;0;GG0KRS912MA_59_SIT_GM;9.8;10.0
+05/06/17 16:00;FR2447;Eurdep;air;50.98;2.14;1.0;France;Hauts-de-France;Norte;Gravelinas;GG0KRS913MA_59_SIT_GM;7.5;8.0
+05/06/17 16:00;FR2448;Eurdep;air;50.99;2.09;2.4;France;Hauts-de-France;Paso de Calais;Oye-Plage;GG0KRS914MA_59_SIT_GM;8.9;9.4
+05/06/17 16:00;FR2451;Eurdep;air;51.02;2.25;2.3;France;Hauts-de-France;Norte;Dunquerque;GG0KRS931MA_59_SIT_GM;7.0;7.0
+05/06/17 16:00;FR2452;Eurdep;air;51.01;2.28;0.0;France;0;0;0;GG0KRS932MA_59_SIT_GM;8.2;8.0
+05/06/17 16:00;FR2453;Eurdep;air;50.97;2.24;0.0;France;Hauts-de-France;Norte;Craywick;GG0KRS933MA_59_SIT_GM;8.4;9.0
+05/06/17 16:00;FR2454;Eurdep;air;50.95;2.26;0.0;France;Hauts-de-France;Norte;Bourbourg;GG0KRS934MA_59_SIT_GM;7.9;8.0
+05/06/17 15:00;FR2455;Eurdep;air;50.95;2.19;3.1;France;Hauts-de-France;Norte;Bourbourg;GG0KRS935MA_59_SIT_GM;10.2;11.0
+05/06/17 16:00;FR2456;Eurdep;air;50.94;2.16;0.0;France;Hauts-de-France;Norte;Bourbourg;GG0KRS936MA_62_SIT_GM;8.0;8.0
+05/06/17 15:00;FR2457;Eurdep;air;50.94;2.13;0.2;France;Hauts-de-France;Paso de Calais;Saint-Folquin;GG0KRS937MA_62_SIT_GM;8.0;8.0
+05/06/17 15:00;FR2458;Eurdep;air;50.94;2.09;1.2;France;Hauts-de-France;Paso de Calais;Saint-Omer-Capelle;GG0KRS938MA_62_SIT_GM;7.2;7.0
+05/06/17 15:00;FR2459;Eurdep;air;50.93;2.03;1.0;France;Hauts-de-France;Paso de Calais;Offekerque;GG0KRS939MA_62_SIT_GM;6.7;7.0
+05/06/17 16:00;FR2461;Eurdep;air;48.52;3.53;0.0;France;0;0;0;NO0KRS801MA_10_SIT_GM;7.0;7.4
+05/06/17 16:00;FR2471;Eurdep;air;48.52;3.53;0.0;France;0;0;0;NO0KRS921MA_10_SIT_GM;7.1;7.4
+05/06/17 16:00;FR2462;Eurdep;air;48.52;3.53;0.0;France;0;0;0;NO0KRS802MA_10_SIT_GM;6.7;7.2
+05/06/17 16:00;FR2463;Eurdep;air;48.52;3.52;65.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS803MA_10_SIT_GM;6.8;7.3
+05/06/17 16:00;FR2464;Eurdep;air;48.51;3.52;61.5;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS804MA_10_SIT_GM;7.0;7.4
+05/06/17 16:00;FR2465;Eurdep;air;48.51;3.52;61.5;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS805MA_10_SIT_GM;6.0;6.0
+05/06/17 16:00;FR2466;Eurdep;air;48.51;3.51;62.8;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS806MA_10_SIT_GM;8.0;8.5
+05/06/17 16:00;FR2467;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS807MA_10_SIT_GM;6.6;7.0
+05/06/17 16:00;FR2468;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS808MA_10_SIT_GM;7.0;7.4
+05/06/17 16:00;FR2474;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS924MA_10_SIT_GM;6.8;7.2
+05/06/17 16:00;FR2469;Eurdep;air;48.52;3.51;62.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS809MA_10_SIT_GM;5.9;6.0
+05/06/17 16:00;FR2470;Eurdep;air;48.52;3.52;65.0;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS810MA_10_SIT_GM;6.6;7.0
+05/06/17 16:00;FR2472;Eurdep;air;48.51;3.53;0.0;France;0;0;0;NO0KRS922MA_10_SIT_GM;6.9;7.2
+05/06/17 16:00;FR2473;Eurdep;air;48.51;3.51;62.8;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS923MA_10_SIT_GM;6.9;7.3
+05/06/17 16:00;FR2475;Eurdep;air;48.56;3.58;68.7;France;Grand Est;Aube;Barbuise;NO0KRS911MA_10_SIT_GM;8.2;9.2
+05/06/17 16:00;FR2476;Eurdep;air;48.52;3.6;66.0;France;Grand Est;Aube;Pont-sur-Seine;NO0KRS912MA_10_SIT_GM;8.3;8.6
+05/06/17 16:00;FR2477;Eurdep;air;48.5;3.51;70.5;France;Grand Est;Aube;Nogent-sur-Seine;NO0KRS913MA_10_SIT_GM;7.1;7.4
+05/06/17 16:00;FR2478;Eurdep;air;48.54;3.5;76.8;France;Grand Est;Aube;La Saulsotte;NO0KRS914MA_10_SIT_GM;7.3;8.0
+05/06/17 16:00;FR2481;Eurdep;air;48.55;3.66;69.7;France;Grand Est;Marne;Esclavolles-Lurey;NO0KRS931MA_51_SIT_GM;6.7;7.0
+05/06/17 11:00;FR2482;Eurdep;air;48.48;3.67;74.3;France;Grand Est;Aube;Gélannes;NO0KRS932MA_10_SIT_GM;9.6;10.0
+05/06/17 16:00;FR2483;Eurdep;air;48.42;3.57;0.0;France;0;0;0;NO0KRS933MA_10_SIT_GM;9.6;11.0
+05/06/17 15:00;FR2485;Eurdep;air;48.48;3.35;57.7;France;Isla de Francia;Sena y Marne;Hermé;NO0KRS935MA_77_SIT_GM;5.6;6.0
+05/06/17 15:00;FR2487;Eurdep;air;48.58;3.44;140.5;France;Isla de Francia;Sena y Marne;Beauchery-Saint-Martin;NO0KRS937MA_77_SIT_GM;7.7;8.0
+05/06/17 15:00;FR2488;Eurdep;air;48.59;3.55;77.8;France;Grand Est;Aube;Villenauxe-la-Grande;NO0KRS938MA_10_SIT_GM;6.9;7.0
+05/06/17 16:00;FR2501;Eurdep;air;49.86;0.65;64.8;France;Normandía;Sena Marítimo;Saint-Sylvain;PA0KRS801MA_76_SIT_GM;6.3;6.0
+05/06/17 16:00;FR2502;Eurdep;air;49.86;0.65;64.8;France;Normandía;Sena Marítimo;Saint-Sylvain;PA0KRS802MA_76_SIT_GM;6.9;7.3
+05/06/17 16:00;FR2503;Eurdep;air;49.85;0.65;69.9;France;Normandía;Sena Marítimo;Paluel;PA0KRS803MA_76_SIT_GM;6.9;7.7
+05/06/17 16:00;FR2504;Eurdep;air;49.85;0.64;68.6;France;Normandía;Sena Marítimo;Paluel;PA0KRS804MA_76_SIT_GM;7.4;8.0
+05/06/17 16:00;FR2505;Eurdep;air;49.85;0.64;68.6;France;Normandía;Sena Marítimo;Paluel;PA0KRS805MA_76_SIT_GM;7.4;7.8
+05/06/17 16:00;FR2506;Eurdep;air;49.85;0.63;70.5;France;Normandía;Sena Marítimo;Paluel;PA0KRS806MA_76_SIT_GM;8.4;8.0
+05/06/17 16:00;FR2507;Eurdep;air;49.86;0.63;26.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS807MA_76_SIT_GM;7.9;8.0
+05/06/17 16:00;FR2508;Eurdep;air;49.86;0.63;26.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS808MA_76_SIT_GM;6.5;7.0
+05/06/17 16:00;FR2509;Eurdep;air;49.86;0.64;55.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS809MA_76_SIT_GM;5.7;6.3
+05/06/17 16:00;FR2510;Eurdep;air;49.86;0.64;55.1;France;Normandía;Sena Marítimo;Paluel;PA0KRS810MA_76_SIT_GM;6.0;6.6
+05/06/17 16:00;FR2511;Eurdep;air;49.86;0.65;64.8;France;Normandía;Sena Marítimo;Saint-Sylvain;PA0KRS921MA_76_SIT_GM;6.1;6.4
+05/06/17 16:00;FR2512;Eurdep;air;49.85;0.65;69.9;France;Normandía;Sena Marítimo;Paluel;PA0KRS922MA_76_SIT_GM;6.8;7.0
+05/06/17 16:00;FR2514;Eurdep;air;49.86;0.62;0.4;France;;;;PA0KRS924MA_76_SIT_GM;7.8;8.0
+05/06/17 16:00;FR2515;Eurdep;air;49.86;0.7;0.0;France;0;0;0;PA0KRS911MA_76_SIT_GM;7.0;7.6
+05/06/17 16:00;FR2516;Eurdep;air;49.82;0.66;85.5;France;Normandía;Sena Marítimo;Saint-Riquier-ès-Plains;PA0KRS912MA_76_SIT_GM;8.4;9.6
+05/06/17 16:00;FR2517;Eurdep;air;49.83;0.55;84.8;France;Normandía;Sena Marítimo;Saint-Martin-aux-Buneaux;PA0KRS913MA_76_SIT_GM;9.1;9.6
+03/06/17 22:00;FR2521;Eurdep;air;49.8;0.53;92.0;France;Normandía;Sena Marítimo;Sassetot-le-Mauconduit;PA0KRS931MA_76_SIT_GM;0.0;0.0
+05/06/17 16:00;FR2523;Eurdep;air;49.78;0.59;110.8;France;Normandía;Sena Marítimo;Ouainville;PA0KRS933MA_76_SIT_GM;9.1;9.0
+05/06/17 16:00;FR2525;Eurdep;air;49.8;0.69;0.0;France;0;0;0;PA0KRS935MA_76_SIT_GM;9.9;10.0
+05/06/17 16:00;FR2601;Eurdep;air;47.72;1.59;0.0;France;0;0;0;LB0KRS801MA_41_SIT_GM;9.4;10.0
+05/06/17 16:00;FR2602;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS802MA_41_SIT_GM;11.5;12.0
+05/06/17 16:00;FR2603;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS803MA_41_SIT_GM;9.7;10.0
+05/06/17 16:00;FR2604;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS804MA_41_SIT_GM;10.7;11.0
+05/06/17 16:00;FR2605;Eurdep;air;47.72;1.57;80.7;France;Centro;Loir y Cher;Avaray;LB0KRS805MA_41_SIT_GM;11.6;12.0
+05/06/17 16:00;FR2606;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS806MA_41_SIT_GM;9.4;9.9
+05/06/17 16:00;FR2607;Eurdep;air;47.72;1.58;84.0;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS807MA_41_SIT_GM;8.7;9.0
+05/06/17 16:00;FR2608;Eurdep;air;47.73;1.58;89.7;France;Centro;Loir y Cher;Avaray;LB0KRS808MA_41_SIT_GM;11.3;11.0
+05/06/17 16:00;FR2609;Eurdep;air;47.73;1.58;89.7;France;Centro;Loir y Cher;Avaray;LB0KRS809MA_41_SIT_GM;10.8;11.0
+05/06/17 16:00;FR2610;Eurdep;air;47.73;1.59;0.0;France;0;0;0;LB0KRS810MA_41_SIT_GM;10.4;10.0
+05/06/17 16:00;FR2611;Eurdep;air;47.73;1.6;77.6;France;Centro;Loir y Cher;Saint-Laurent-Nouan;LB0KRS921MA_41_SIT_GM;10.6;11.0
+05/06/17 16:00;FR2613;Eurdep;air;47.71;1.59;0.0;France;0;0;0;LB0KRS923MA_41_SIT_GM;10.4;10.0
+05/06/17 16:00;FR2615;Eurdep;air;47.76;1.62;94.2;France;Centro;Loiret;Tavers;LB0KRS911MA_45_SIT_GM;8.4;8.8
+05/06/17 16:00;FR2616;Eurdep;air;47.72;1.61;0.0;France;0;0;0;LB0KRS912MA_41_SIT_GM;12.9;13.0
+05/06/17 16:00;FR2617;Eurdep;air;47.67;1.52;73.9;France;Centro;Loir y Cher;Muides-sur-Loire;LB0KRS913MA_41_SIT_GM;10.3;11.0
+05/06/17 16:00;FR2618;Eurdep;air;47.71;1.51;100.4;France;Centro;Loir y Cher;Mer;LB0KRS914MA_41_SIT_GM;10.1;10.0
+05/06/17 16:00;FR2621;Eurdep;air;47.77;1.69;91.8;France;Centro;Loiret;Lailly-en-Val;LB0KRS931MA_45_SIT_GM;9.2;10.0
+05/06/17 16:00;FR2622;Eurdep;air;47.65;1.67;92.2;France;Centro;Loir y Cher;La Ferté-Saint-Cyr;LB0KRS932MA_41_SIT_GM;9.4;10.0
+05/06/17 16:00;FR2623;Eurdep;air;47.63;1.6;87.4;France;Centro;Loir y Cher;Thoury;LB0KRS933MA_41_SIT_GM;11.0;11.0
+05/06/17 15:00;FR2624;Eurdep;air;47.65;1.49;85.7;France;Centro;Loir y Cher;Saint-Dyé-sur-Loire;LB0KRS934MA_41_SIT_GM;8.3;8.0
+05/06/17 16:00;FR2625;Eurdep;air;47.72;1.41;0.0;France;0;0;0;LB0KRS935MA_41_SIT_GM;9.1;9.0
+05/06/17 16:00;FR2626;Eurdep;air;47.77;1.48;111.9;France;Centro;Loir y Cher;Concriers;LB0KRS936MA_41_SIT_GM;9.7;10.0
+05/06/17 16:00;FR2627;Eurdep;air;47.8;1.53;114.0;France;Centro;Loir y Cher;Josnes;LB0KRS937MA_41_SIT_GM;10.9;11.0
+05/06/17 16:00;FR2628;Eurdep;air;47.8;1.6;110.9;France;Centro;Loiret;Villorceau;LB0KRS938MA_45_SIT_GM;8.5;9.0
+05/06/17 16:00;FR2631;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS801MA_84_SIT_GM;7.0;7.5
+05/06/17 16:00;FR2632;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS802MA_26_SIT_GM;7.8;8.7
+05/06/17 16:00;FR2633;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS803MA_26_SIT_GM;7.4;7.8
+05/06/17 16:00;FR2634;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS804MA_26_SIT_GM;7.2;7.8
+05/06/17 16:00;FR2636;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS806MA_26_SIT_GM;14.0;14.0
+05/06/17 16:00;FR2637;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS807MA_26_SIT_GM;11.6;12.0
+05/06/17 16:00;FR2638;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS808MA_26_SIT_GM;7.9;8.7
+05/06/17 16:00;FR2639;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS809MA_26_SIT_GM;6.3;6.7
+05/06/17 16:00;FR2640;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS810MA_84_SIT_GM;7.9;8.0
+05/06/17 16:00;FR2641;Eurdep;air;44.32;4.73;50.6;France;Provenza-Alpes-Costa Azul;Vaucluse;Bollène;TN0KRS921MA_84_SIT_GM;7.4;7.7
+05/06/17 16:00;FR2642;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS922MA_26_SIT_GM;8.1;8.3
+05/06/17 16:00;FR2643;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS923MA_26_SIT_GM;7.2;7.3
+05/06/17 16:00;FR2644;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS924MA_26_SIT_GM;7.2;7.6
+05/06/17 16:00;FR2645;Eurdep;air;44.39;4.7;56.6;France;Auvergne-Rhône-Alpes;Drôme;Pierrelatte;TN0KRS911MA_26_SIT_GM;6.5;7.1
+05/06/17 16:00;FR2646;Eurdep;air;44.34;4.77;176.6;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS912MA_26_SIT_GM;8.2;8.6
+05/06/17 16:00;FR2647;Eurdep;air;44.28;4.76;57.8;France;Provenza-Alpes-Costa Azul;Vaucluse;Bollène;TN0KRS913MA_84_SIT_GM;7.7;8.4
+05/06/17 16:00;FR2648;Eurdep;air;44.25;4.65;41.2;France;Occitanie;Gard;Pont-Saint-Esprit;TN0KRS914MA_30_SIT_GM;8.1;8.8
+05/06/17 16:00;FR2651;Eurdep;air;44.24;4.71;43.5;France;Provenza-Alpes-Costa Azul;Vaucluse;Mondragon;TN0KRS931MA_84_SIT_GM;7.1;7.0
+05/06/17 16:00;FR2652;Eurdep;air;44.27;4.71;43.4;France;Provenza-Alpes-Costa Azul;Vaucluse;Bollène;TN0KRS932MA_84_SIT_GM;8.3;9.0
+05/06/17 15:00;FR2653;Eurdep;air;44.31;4.69;47.8;France;Provenza-Alpes-Costa Azul;Vaucluse;Lapalud;TN0KRS933MA_84_SIT_GM;9.4;10.0
+05/06/17 16:00;FR2654;Eurdep;air;44.33;4.62;163.9;France;Auvergne-Rhône-Alpes;Ardèche;Saint-Marcel-d'Ardèche;TN0KRS934MA_07_SIT_GM;8.8;9.0
+05/06/17 15:00;FR2655;Eurdep;air;44.38;4.64;84.6;France;Auvergne-Rhône-Alpes;Ardèche;Bourg-Saint-Andéol;TN0KRS935MA_07_SIT_GM;9.0;9.0
+05/06/17 16:00;FR2657;Eurdep;air;44.4;4.8;156.8;France;Auvergne-Rhône-Alpes;Drôme;Valaurie;TN0KRS937MA_26_SIT_GM;6.7;7.0
+05/06/17 14:00;FR2658;Eurdep;air;44.35;4.83;123.1;France;Auvergne-Rhône-Alpes;Drôme;Solérieux;TN0KRS938MA_26_SIT_GM;7.3;8.0
+05/06/17 15:00;FR2659;Eurdep;air;44.33;4.76;162.2;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS939MA_26_SIT_GM;7.1;7.0
+05/06/17 15:00;FR2660;Eurdep;air;44.29;4.83;83.8;France;Auvergne-Rhône-Alpes;Drôme;Suze-la-Rousse;TN0KRS940MA_26_SIT_GM;7.7;8.0
+05/06/17 16:00;FR1004;Eurdep;air;4.92;-52.32;10.5;France;Cayenne;Cayenne;Cayena;CAYENNE-GUYANE_973_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1009;Eurdep;air;49.89;2.27;28.8;France;Hauts-de-France;Somme;Amiens;AMIENS_80_AGG_CP;6.0;6.2
+05/06/17 16:00;FR1010;Eurdep;air;48.45;1.48;147.5;France;Centro;Eure y Loir;Chartres;CHARTRES_28_AGG_CP;8.3;8.4
+05/06/17 16:00;FR1011;Eurdep;air;48.96;2.88;54.9;France;Isla de Francia;Sena y Marne;Meaux;MEAUX_77_AGG_CP;6.0;6.3
+05/06/17 16:00;FR1012;Eurdep;air;48.54;2.65;60.0;France;Isla de Francia;Sena y Marne;Melun;MELUN_77_AGG_CP;5.9;6.0
+05/06/17 16:00;FR1013;Eurdep;air;48.84;2.38;33.6;France;Isla de Francia;París;París;PARIS-BERCY_75_ILE_CP;6.0;6.0
+05/06/17 16:00;FR1015;Eurdep;air;48.89;2.34;78.4;France;Isla de Francia;París;París;PARIS-SACRE-COEUR_75_ILE_CP;4.0;4.1
+05/06/17 16:00;FR1016;Eurdep;air;49.45;1.08;55.3;France;Normandía;Sena Marítimo;Ruan;ROUEN_76_AGG_CP;6.4;6.5
+05/06/17 16:00;FR1018;Eurdep;air;48.2;3.28;0.0;France;0;0;0;SENS_89_AGG_CP;8.1;8.3
+05/06/17 16:00;FR1019;Eurdep;air;48.84;2.44;50.7;France;Isla de Francia;París;París;VINCENNES_94_ILE_CP;4.8;4.9
+05/06/17 16:00;FR1020;Eurdep;air;48.79;2.27;164.1;France;Isla de Francia;Altos del Sena;Clamart;FONTENAY-AUX-ROSES-IRSN_92_SIT_CP;6.7;6.8
+05/06/17 16:00;FR1021;Eurdep;air;48.86;2.29;38.3;France;Isla de Francia;París;París;PARIS-TOUR-EIFFEL_75_ILE_CP;4.4;4.6
+05/06/17 16:00;FR1022;Eurdep;air;48.88;2.13;29.4;France;Isla de Francia;Yvelines;Le Vésinet;LE VESINET_78_AGG_CP;7.9;8.1
+05/06/17 16:00;FR1023;Eurdep;air;45.04;3.88;648.6;France;Auvergne-Rhône-Alpes;Alto Loira;Le Puy-en-Velay;LE PUY-EN-VELAY_43_AGG_CP;10.4;10.0
+05/06/17 16:00;FR1024;Eurdep;air;43.29;5.38;14.8;France;Provenza-Alpes-Costa Azul;Bocas del Ródano;Marsella;MARSEILLE_13_AGG_CP;7.2;7.4
+05/06/17 16:00;FR1025;Eurdep;air;43.67;7.2;10.4;France;Provenza-Alpes-Costa Azul;Alpes Marítimos;Niza;NICE_06_AGG_CP;6.3;6.5
+05/06/17 16:00;FR1026;Eurdep;air;45.19;5.73;217.5;France;Auvergne-Rhône-Alpes;Isère;Grenoble;GRENOBLE_38_AGG_CP;7.2;7.4
+05/06/17 16:00;FR1027;Eurdep;air;48.84;2.25;40.9;France;Isla de Francia;Altos del Sena;Boulogne-Billancourt;PARIS-PARC-DES-PRINCES_92_ILE_CP;6.1;6.2
+05/06/17 16:00;FR1028;Eurdep;air;49.44;2.07;66.6;France;Hauts-de-France;Oise;Beauvais;BEAUVAIS_60_AGG_CP;7.2;7.5
+05/06/17 16:00;FR1029;Eurdep;air;44.94;4.89;110.1;France;Auvergne-Rhône-Alpes;Drôme;Bourg-lès-Valence;VALENCE_26_AGG_CP;6.3;6.4
+05/06/17 16:00;FR1030;Eurdep;air;47.49;3.91;258.4;France;Bourgogne-Franche-Comté;Yonne;Avallon;AVALLON_89_AGG_CP;8.4;8.7
+05/06/17 16:00;FR1031;Eurdep;air;47.32;5.04;246.7;France;Bourgogne-Franche-Comté;Côte-d'Or;Dijon;DIJON_21_AGG_CP;6.3;6.4
+05/06/17 16:00;FR1032;Eurdep;air;47.23;6.02;246.4;France;Bourgogne-Franche-Comté;Doubs;Besanzón;BESANCON_25_AGG_CP;9.1;9.3
+05/06/17 16:00;FR1033;Eurdep;air;44.09;6.24;606.5;France;Provenza-Alpes-Costa Azul;Alpes de Alta Provenza;Digne-les-Bains;DIGNE-LES-BAINS_04_AGG_CP;7.9;9.4
+05/06/17 16:00;FR1034;Eurdep;air;46.78;4.85;179.2;France;Bourgogne-Franche-Comté;Saona y Loira;Chalon-sur-Saône;CHALON-SUR-SAONE_71_AGG_CP;8.4;8.6
+05/06/17 16:00;FR1035;Eurdep;air;43.96;4.76;70.4;France;Occitanie;Gard;Les Angles;LES ANGLES_30_AGG_CP;6.2;6.4
+05/06/17 16:00;FR1036;Eurdep;air;45.76;4.84;164.0;France;Auvergne-Rhône-Alpes;Ródano;Lyon;LYON_69_AGG_CP;7.3;7.0
+05/06/17 16:00;FR1037;Eurdep;air;43.61;3.88;40.3;France;Occitanie;Hérault;Montpellier;MONTPELLIER_34_AGG_CP;6.6;7.1
+05/06/17 16:00;FR1038;Eurdep;air;43.83;4.36;45.0;France;Occitanie;Gard;Nimes;NIMES_30_AGG_CP;7.9;8.0
+05/06/17 16:00;FR1039;Eurdep;air;45.44;4.39;522.8;France;Auvergne-Rhône-Alpes;Loira;Saint-Étienne;ST-ETIENNE_42_AGG_CP;10.6;11.0
+05/06/17 16:00;FR1040;Eurdep;air;43.13;5.93;32.1;France;Provenza-Alpes-Costa Azul;Var;Tolón;TOULON_83_AGG_CP;5.9;6.0
+05/06/17 16:00;FR1042;Eurdep;air;47.79;7.38;0.0;France;0;0;0;SAUSHEIM_68_AGG_CP;7.6;7.8
+05/06/17 16:00;FR1043;Eurdep;air;47.75;7.41;237.8;France;Grand Est;Alto Rin;Rixheim;RIXHEIM_68_AGG_CP;7.3;7.4
+05/06/17 16:00;FR1044;Eurdep;air;47.65;7.46;258.3;France;Grand Est;Alto Rin;Sierentz;SIERENTZ_68_AGG_CP;8.6;8.8
+05/06/17 16:00;FR1045;Eurdep;air;48.08;7.36;193.6;France;Grand Est;Alto Rin;Colmar;COLMAR_68_AGG_CP;8.5;8.7
+05/06/17 16:00;FR1046;Eurdep;air;47.8;7.23;265.5;France;Grand Est;Alto Rin;Wittelsheim;WITTELSHEIM_68_AGG_CP;8.6;8.8
+05/06/17 16:00;FR1047;Eurdep;air;47.88;7.22;285.2;France;Grand Est;Alto Rin;Soultz-Haut-Rhin;SOULTZ-HAUT-RHIN_68_AGG_CP;9.7;9.9
+05/06/17 16:00;FR1048;Eurdep;air;48.01;7.38;196.2;France;Grand Est;Alto Rin;Sainte-Croix-en-Plaine;ST-CROIX-EN-PLAINE_68_AGG_CP;7.6;7.8
+05/06/17 16:00;FR1049;Eurdep;air;48.13;7.48;177.0;France;Grand Est;Alto Rin;Jebsheim;JEBSHEIM_68_AGG_CP;7.7;7.9
+05/06/17 16:00;FR1050;Eurdep;air;47.96;7.31;201.7;France;Grand Est;Alto Rin;Rouffach;ROUFFACH_68_AGG_CP;7.9;8.1
+05/06/17 16:00;FR1051;Eurdep;air;46.04;4.07;283.0;France;Auvergne-Rhône-Alpes;Loira;Roanne;ROANNE_42_AGG_CP;15.9;16.0
+05/06/17 16:00;FR1052;Eurdep;air;45.78;3.08;383.0;France;Auvergne-Rhône-Alpes;Puy-de-Dôme;Clermont-Ferrand;CLERMONT-FERRAND_63_AGG_CP;11.2;11.0
+05/06/17 16:00;FR1053;Eurdep;air;46.99;3.16;191.1;France;Bourgogne-Franche-Comté;Nièvre;Nevers;NEVERS_58_AGG_CP;9.1;9.3
+05/06/17 16:00;FR1055;Eurdep;air;44.17;5.28;1754.1;France;Provenza-Alpes-Costa Azul;Vaucluse;Bédoin;MONT-VENTOUX_84_SOM_CP;9.1;9.3
+05/06/17 16:00;FR1056;Eurdep;air;48.76;5.17;269.0;France;Grand Est;Mosa;Savonnières-devant-Bar;BAR-LE-DUC_55_AGG_CP;6.5;6.9
+05/06/17 16:00;FR1057;Eurdep;air;48.18;6.43;361.5;France;Grand Est;Vosgos;Épinal;EPINAL_88_AGG_CP;10.0;10.0
+05/06/17 16:00;FR1058;Eurdep;air;48.68;6.18;223.3;France;Grand Est;Meurthe y Mosela;Nancy;NANCY_54_AGG_CP;12.5;13.0
+05/06/17 16:00;FR1059;Eurdep;air;49.21;6.16;164.4;France;Grand Est;Mosela;Maizières-lès-Metz;MAIZIERES-LES-METZ_57_AGG_CP;10.1;10.0
+05/06/17 16:00;FR1060;Eurdep;air;49.37;5.89;349.6;France;Grand Est;Meurthe y Mosela;Audun-le-Roman;AUDUN-LE-ROMAN_54_AGG_CP;11.1;11.0
+05/06/17 16:00;FR1061;Eurdep;air;49.31;6.28;209.0;France;Grand Est;Mosela;Metzervisse;METZERVISSE_57_AGG_CP;9.3;9.8
+05/06/17 16:00;FR1062;Eurdep;air;49.29;6.54;203.4;France;Grand Est;Mosela;Bouzonville;BOUZONVILLE_57_AGG_CP;11.7;12.0
+05/06/17 16:00;FR1063;Eurdep;air;49.51;5.73;360.0;France;Grand Est;Meurthe y Mosela;Lexy;LEXY_54_AGG_CP;9.5;9.7
+05/06/17 16:00;FR1064;Eurdep;air;49.47;5.95;345.1;France;Grand Est;Mosela;Audun-le-Tiche;AUDUN-LE-TICHE_57_AGG_CP;9.5;9.6
+05/06/17 16:00;FR1065;Eurdep;air;49.36;5.98;288.1;France;Grand Est;Mosela;Fontoy;FONTOY_57_AGG_CP;9.6;10.0
+05/06/17 16:00;FR1066;Eurdep;air;49.31;6.12;172.9;France;Grand Est;Mosela;Fameck;FAMECK_57_AGG_CP;9.4;9.0
+05/06/17 16:00;FR1067;Eurdep;air;49.16;5.88;200.3;France;Grand Est;Meurthe y Mosela;Jarny;JARNY_54_AGG_CP;10.8;11.0
+05/06/17 16:00;FR1068;Eurdep;air;49.44;6.33;171.6;France;Grand Est;Mosela;Rettel;RETTEL_57_AGG_CP;9.8;10.0
+05/06/17 16:00;FR1069;Eurdep;air;47.56;2.45;164.3;France;Centro;Cher;Argent-sur-Sauldre;ARGENT-SUR-SAULDRE_18_AGG_CP;9.0;9.0
+05/06/17 16:00;FR1070;Eurdep;air;47.49;2.44;185.5;France;Centro;Cher;Aubigny-sur-Nère;AUBIGNY-SUR-NERE_18_AGG_CP;8.7;8.9
+05/06/17 16:00;FR1071;Eurdep;air;47.99;2.45;104.4;France;Centro;Loiret;Bellegarde;BELLEGARDE_45_AGG_CP;8.8;9.0
+05/06/17 16:00;FR1072;Eurdep;air;47.88;2.51;129.4;France;Centro;Loiret;Lorris;LORRIS_45_AGG_CP;8.7;8.0
+05/06/17 16:00;FR1073;Eurdep;air;47.64;2.75;134.3;France;Centro;Loiret;Briare;BRIARE_45_AGG_CP;8.0;8.6
+05/06/17 16:00;FR1075;Eurdep;air;47.86;2.24;123.6;France;Centro;Loiret;Châteauneuf-sur-Loire;CHATEAUNEUF-SUR-LOIRE_45_AGG_CP;7.8;8.2
+05/06/17 16:00;FR1076;Eurdep;air;47.4;2.93;173.5;France;Bourgogne-Franche-Comté;Nièvre;Cosne-Cours-sur-Loire;COSNE-COURS-SUR-LOIRE_58_AGG_CP;8.0;9.1
+05/06/17 16:00;FR1077;Eurdep;air;47.37;3.12;179.0;France;Bourgogne-Franche-Comté;Nièvre;Donzy;DONZY_58_AGG_CP;8.8;9.0
+05/06/17 16:00;FR1078;Eurdep;air;47.59;2.76;162.1;France;Centro;Loiret;Châtillon-sur-Loire;CHATILLON-SUR-LOIRE_45_AGG_CP;9.9;10.0
+05/06/17 16:00;FR1079;Eurdep;air;47.31;2.52;252.7;France;Centro;Cher;Henrichemont;HENRICHEMONT_18_AGG_CP;9.3;9.4
+05/06/17 16:00;FR1080;Eurdep;air;47.99;2.72;0.0;France;0;0;0;MONTARGIS_45_AGG_CP;9.4;9.6
+05/06/17 16:00;FR1081;Eurdep;air;47.28;2.96;160.2;France;Bourgogne-Franche-Comté;Nièvre;Pouilly-sur-Loire;POUILLY-SUR-LOIRE_58_AGG_CP;9.4;9.7
+05/06/17 16:00;FR1082;Eurdep;air;47.53;3.07;176.7;France;Bourgogne-Franche-Comté;Nièvre;Saint-Amand-en-Puisaye;ST-AMAND-EN-PUISAYE_58_AGG_CP;11.2;11.0
+05/06/17 16:00;FR1083;Eurdep;air;47.82;2.84;136.7;France;Centro;Loiret;Sainte-Geneviève-des-Bois;CHATILLON-COLIGNY_45_AGG_CP;7.5;7.6
+05/06/17 16:00;FR1084;Eurdep;air;47.64;3.07;198.1;France;Bourgogne-Franche-Comté;Yonne;Saint-Fargeau;ST-FARGEAU_89_AGG_CP;11.5;11.0
+05/06/17 16:00;FR1085;Eurdep;air;47.33;2.84;294.5;France;Centro;Cher;Sancerre;SANCERRE_18_AGG_CP;11.8;11.0
+05/06/17 16:00;FR1086;Eurdep;air;47.76;2.37;118.7;France;Centro;Loiret;Sully-sur-Loire;SULLY-SUR-LOIRE_45_AGG_CP;11.2;11.0
 14/05/17 22:00;FR1087;Eurdep;air;47.46;2.65;194.5;France;;;;VAILLY-SUR-SAULDRE_18_AGG_CP;0.0;0.0
-05/06/17 03:00;FR1088;Eurdep;air;44.98;-1.08;17.6;France;Nouvelle-Aquitaine;Gironda;Lacanau;LACANAU_33_AGG_CP;6.0;7.0
-05/06/17 03:00;FR1089;Eurdep;air;45.12;-0.66;3.7;France;Nouvelle-Aquitaine;Gironda;Blaye;BLAYE_33_AGG_CP;7.9;8.0
-05/06/17 03:00;FR1090;Eurdep;air;45.45;-0.43;47.6;France;Nouvelle-Aquitaine;Charente Marítimo;Jonzac;JONZAC_17_AGG_CP;8.1;8.2
-05/06/17 03:00;FR1091;Eurdep;air;45.3;-0.93;12.0;France;;;;LESPARRE-MEDOC_33_AGG_CP;7.2;7.3
-05/06/17 03:00;FR1092;Eurdep;air;45.04;-0.56;29.4;France;Nouvelle-Aquitaine;Gironda;Bourg;BOURG-SUR-GIRONDE_33_AGG_CP;9.2;9.3
-05/06/17 03:00;FR1093;Eurdep;air;45.37;-0.57;0.0;France;0;0;0;MIRAMBEAU_17_AGG_CP;7.3;7.4
-05/06/17 03:00;FR1094;Eurdep;air;45.29;-0.41;0.0;France;0;0;0;MONTENDRE_17_AGG_CP;8.9;9.4
-05/06/17 03:00;FR1096;Eurdep;air;45.22;-0.57;0.0;France;0;0;0;ETAULIERS_33_SIT_CP;7.8;8.1
-05/06/17 03:00;FR1097;Eurdep;air;45.15;-0.82;0.0;France;0;0;0;ST-LAURENT-MEDOC_33_AGG_CP;7.8;8.0
-05/06/17 03:00;FR1098;Eurdep;air;45.03;-0.79;17.2;France;Nouvelle-Aquitaine;Gironda;Castelnau-de-Médoc;CASTELNAU-DE-MEDOC_33_AGG_CP;7.0;7.2
-05/06/17 03:00;FR1099;Eurdep;air;45.14;-0.45;84.3;France;Nouvelle-Aquitaine;Gironda;Saint-Savin;ST-SAVIN_33_AGG_CP;6.8;7.0
-05/06/17 03:00;FR1100;Eurdep;air;45.51;-1.12;10.6;France;Nouvelle-Aquitaine;Gironda;Soulac-sur-Mer;SOULAC-SUR-MER_33_AGG_CP;6.3;6.4
-05/06/17 03:00;FR1133;Eurdep;air;43.74;5.69;334.7;France;Provenza-Alpes-Costa Azul;Vaucluse;Beaumont-de-Pertuis;BEAUMONT-DE-PERTUIS_84_AGG_CP;7.0;8.0
-05/06/17 03:00;FR1138;Eurdep;air;43.7;5.51;207.3;France;Provenza-Alpes-Costa Azul;Vaucluse;Pertuis;PERTUIS_84_AGG_CP;7.4;7.5
-05/06/17 03:00;FR1144;Eurdep;air;47.17;0.25;96.5;France;Centro;Indre y Loira;Chinon;CHINON_37_AGG_CP;11.2;11.0
-05/06/17 03:00;FR1145;Eurdep;air;47.27;0.47;0.0;France;0;0;0;AZAY-LE-RIDEAU_37_AGG_CP;8.0;8.2
-05/06/17 03:00;FR1146;Eurdep;air;47.19;0.05;74.1;France;Países del Loira;Maine y Loira;Fontevraud-l'Abbaye;FONTEVRAUD-L'ABBAYE_49_AGG_CP;7.6;7.7
-05/06/17 03:00;FR1147;Eurdep;air;47.45;0.32;93.8;France;Centro;Indre y Loira;Savigné-sur-Lathan;SAVIGNE-SUR-LATHAN_37_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1148;Eurdep;air;47.28;0.16;33.4;France;Centro;Indre y Loira;Bourgueil;BOURGUEIL_37_AGG_CP;6.9;7.0
-05/06/17 03:00;FR1149;Eurdep;air;47.29;0.02;23.3;France;Países del Loira;Maine y Loira;Allonnes;ALLONNES_49_AGG_CP;9.4;9.6
-05/06/17 03:00;FR1150;Eurdep;air;47.33;0.41;0.0;France;0;0;0;LANGEAIS_37_AGG_CP;8.7;8.9
-05/06/17 03:00;FR1151;Eurdep;air;47.12;0.42;33.2;France;Centro;Indre y Loira;L'Île-Bouchard;L'ILE-BOUCHARD_37_AGG_CP;10.0;10.0
-05/06/17 03:00;FR1152;Eurdep;air;47.38;-0.12;21.3;France;Países del Loira;Maine y Loira;Longué-Jumelles;LONGUE-JUMELLES_49_AGG_CP;8.4;8.7
-05/06/17 03:00;FR1153;Eurdep;air;47.01;0.08;114.4;France;Nouvelle-Aquitaine;Vienne;Loudun;LOUDUN_86_AGG_CP;7.7;7.9
-05/06/17 03:00;FR1154;Eurdep;air;47.14;-0.15;33.3;France;Países del Loira;Maine y Loira;Montreuil-Bellay;MONTREUIL-BELLAY_49_AGG_CP;9.2;9.4
-05/06/17 03:00;FR1155;Eurdep;air;47.51;0.12;79.7;France;Países del Loira;Maine y Loira;Noyant;NOYANT_49_AGG_CP;9.5;9.9
-05/06/17 03:00;FR1156;Eurdep;air;47.01;0.31;57.0;France;Centro;Indre y Loira;Richelieu;RICHELIEU_37_AGG_CP;9.2;9.4
-05/06/17 03:00;FR1158;Eurdep;air;47.24;-0.11;59.1;France;Países del Loira;Maine y Loira;Saumur;SAUMUR_49_AGG_CP;6.8;6.9
-05/06/17 03:00;FR1159;Eurdep;air;47.39;0.05;63.2;France;Países del Loira;Maine y Loira;Vernantes;VERNANTES_49_AGG_CP;8.3;8.4
-05/06/17 03:00;FR1161;Eurdep;air;49.74;4.85;207.6;France;Grand Est;Árdenas;Vrigne-aux-Bois;VRIGNE-AUX-BOIS_08_AGG_CP;6.7;7.0
-05/06/17 03:00;FR1162;Eurdep;air;49.93;4.64;173.0;France;Grand Est;Árdenas;Revin;REVIN_08_AGG_CP;7.8;8.0
-05/06/17 03:00;FR1164;Eurdep;air;46.68;0.56;57.9;France;Nouvelle-Aquitaine;Vienne;Bonneuil-Matours;BONNEUIL-MATOURS_86_AGG_CP;10.6;10.0
-05/06/17 03:00;FR1165;Eurdep;air;47.21;0.18;36.6;France;Centro;Indre y Loira;Avoine;AVOINE_37_SIT_CP;8.8;9.0
-05/06/17 03:00;FR1166;Eurdep;air;46.56;0.64;66.2;France;Nouvelle-Aquitaine;Vienne;Chauvigny;CHAUVIGNY_86_AGG_CP;8.9;9.0
-05/06/17 03:00;FR1167;Eurdep;air;46.36;0.41;0.0;France;0;0;0;GENCAY_86_AGG_CP;8.7;8.9
-05/06/17 03:00;FR1169;Eurdep;air;46.46;0.37;132.1;France;Nouvelle-Aquitaine;Vienne;La Villedieu-du-Clain;LA VILLEDIEU-DU-CLAIN_86_AGG_CP;8.5;8.7
-05/06/17 03:00;FR1170;Eurdep;air;46.23;0.69;0.0;France;0;0;0;L'ISLE-JOURDAIN_86_AGG_CP;10.5;10.0
-05/06/17 03:00;FR1171;Eurdep;air;46.42;0.86;116.0;France;Nouvelle-Aquitaine;Vienne;Montmorillon;MONTMORILLON_86_AGG_CP;9.1;9.2
-05/06/17 03:00;FR1172;Eurdep;air;46.4;0.73;109.1;France;Nouvelle-Aquitaine;Vienne;Lussac-les-Châteaux;LUSSAC-LES-CHATEAUX_86_AGG_CP;9.1;9.4
+05/06/17 16:00;FR1088;Eurdep;air;44.98;-1.08;17.6;France;Nouvelle-Aquitaine;Gironda;Lacanau;LACANAU_33_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1089;Eurdep;air;45.12;-0.66;3.7;France;Nouvelle-Aquitaine;Gironda;Blaye;BLAYE_33_AGG_CP;7.9;8.0
+05/06/17 16:00;FR1090;Eurdep;air;45.45;-0.43;47.6;France;Nouvelle-Aquitaine;Charente Marítimo;Jonzac;JONZAC_17_AGG_CP;8.1;8.2
+05/06/17 16:00;FR1091;Eurdep;air;45.3;-0.93;12.0;France;;;;LESPARRE-MEDOC_33_AGG_CP;7.2;7.3
+05/06/17 16:00;FR1092;Eurdep;air;45.04;-0.56;29.4;France;Nouvelle-Aquitaine;Gironda;Bourg;BOURG-SUR-GIRONDE_33_AGG_CP;9.2;9.4
+05/06/17 16:00;FR1093;Eurdep;air;45.37;-0.57;0.0;France;0;0;0;MIRAMBEAU_17_AGG_CP;7.3;7.4
+05/06/17 16:00;FR1094;Eurdep;air;45.29;-0.41;0.0;France;0;0;0;MONTENDRE_17_AGG_CP;8.9;9.2
+05/06/17 16:00;FR1096;Eurdep;air;45.22;-0.57;0.0;France;0;0;0;ETAULIERS_33_SIT_CP;7.8;8.0
+05/06/17 16:00;FR1097;Eurdep;air;45.15;-0.82;0.0;France;0;0;0;ST-LAURENT-MEDOC_33_AGG_CP;7.8;8.0
+05/06/17 16:00;FR1098;Eurdep;air;45.03;-0.79;17.2;France;Nouvelle-Aquitaine;Gironda;Castelnau-de-Médoc;CASTELNAU-DE-MEDOC_33_AGG_CP;7.0;7.2
+05/06/17 16:00;FR1099;Eurdep;air;45.14;-0.45;84.3;France;Nouvelle-Aquitaine;Gironda;Saint-Savin;ST-SAVIN_33_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1100;Eurdep;air;45.51;-1.12;10.6;France;Nouvelle-Aquitaine;Gironda;Soulac-sur-Mer;SOULAC-SUR-MER_33_AGG_CP;6.3;6.0
+05/06/17 16:00;FR1133;Eurdep;air;43.74;5.69;334.7;France;Provenza-Alpes-Costa Azul;Vaucluse;Beaumont-de-Pertuis;BEAUMONT-DE-PERTUIS_84_AGG_CP;7.9;8.1
+05/06/17 16:00;FR1138;Eurdep;air;43.7;5.51;207.3;France;Provenza-Alpes-Costa Azul;Vaucluse;Pertuis;PERTUIS_84_AGG_CP;7.4;7.5
+05/06/17 16:00;FR1144;Eurdep;air;47.17;0.25;96.5;France;Centro;Indre y Loira;Chinon;CHINON_37_AGG_CP;11.2;11.0
+05/06/17 16:00;FR1145;Eurdep;air;47.27;0.47;0.0;France;0;0;0;AZAY-LE-RIDEAU_37_AGG_CP;8.0;8.2
+05/06/17 16:00;FR1146;Eurdep;air;47.19;0.05;74.1;France;Países del Loira;Maine y Loira;Fontevraud-l'Abbaye;FONTEVRAUD-L'ABBAYE_49_AGG_CP;7.6;7.7
+05/06/17 16:00;FR1147;Eurdep;air;47.45;0.32;93.8;France;Centro;Indre y Loira;Savigné-sur-Lathan;SAVIGNE-SUR-LATHAN_37_AGG_CP;7.2;7.4
+05/06/17 16:00;FR1148;Eurdep;air;47.28;0.16;33.4;France;Centro;Indre y Loira;Bourgueil;BOURGUEIL_37_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1149;Eurdep;air;47.29;0.02;23.3;France;Países del Loira;Maine y Loira;Allonnes;ALLONNES_49_AGG_CP;9.4;9.6
+05/06/17 16:00;FR1150;Eurdep;air;47.33;0.41;0.0;France;0;0;0;LANGEAIS_37_AGG_CP;8.7;8.9
+05/06/17 16:00;FR1151;Eurdep;air;47.12;0.42;33.2;France;Centro;Indre y Loira;L'Île-Bouchard;L'ILE-BOUCHARD_37_AGG_CP;10.1;10.0
+05/06/17 16:00;FR1152;Eurdep;air;47.38;-0.12;21.3;France;Países del Loira;Maine y Loira;Longué-Jumelles;LONGUE-JUMELLES_49_AGG_CP;8.4;8.6
+05/06/17 16:00;FR1153;Eurdep;air;47.01;0.08;114.4;France;Nouvelle-Aquitaine;Vienne;Loudun;LOUDUN_86_AGG_CP;7.7;8.0
+05/06/17 16:00;FR1154;Eurdep;air;47.14;-0.15;33.3;France;Países del Loira;Maine y Loira;Montreuil-Bellay;MONTREUIL-BELLAY_49_AGG_CP;9.3;9.5
+05/06/17 16:00;FR1155;Eurdep;air;47.51;0.12;79.7;France;Países del Loira;Maine y Loira;Noyant;NOYANT_49_AGG_CP;9.5;9.7
+05/06/17 16:00;FR1156;Eurdep;air;47.01;0.31;57.0;France;Centro;Indre y Loira;Richelieu;RICHELIEU_37_AGG_CP;9.2;9.5
+05/06/17 16:00;FR1158;Eurdep;air;47.24;-0.11;59.1;France;Países del Loira;Maine y Loira;Saumur;SAUMUR_49_AGG_CP;6.8;6.9
+05/06/17 16:00;FR1159;Eurdep;air;47.39;0.05;63.2;France;Países del Loira;Maine y Loira;Vernantes;VERNANTES_49_AGG_CP;8.3;8.5
+05/06/17 16:00;FR1161;Eurdep;air;49.74;4.85;207.6;France;Grand Est;Árdenas;Vrigne-aux-Bois;VRIGNE-AUX-BOIS_08_AGG_CP;6.8;7.0
+05/06/17 16:00;FR1162;Eurdep;air;49.93;4.64;173.0;France;Grand Est;Árdenas;Revin;REVIN_08_AGG_CP;7.9;8.0
+05/06/17 16:00;FR1164;Eurdep;air;46.68;0.56;57.9;France;Nouvelle-Aquitaine;Vienne;Bonneuil-Matours;BONNEUIL-MATOURS_86_AGG_CP;10.5;10.0
+05/06/17 16:00;FR1165;Eurdep;air;47.21;0.18;36.6;France;Centro;Indre y Loira;Avoine;AVOINE_37_SIT_CP;8.8;9.0
+05/06/17 16:00;FR1166;Eurdep;air;46.56;0.64;66.2;France;Nouvelle-Aquitaine;Vienne;Chauvigny;CHAUVIGNY_86_AGG_CP;8.8;9.0
+05/06/17 16:00;FR1167;Eurdep;air;46.36;0.41;0.0;France;0;0;0;GENCAY_86_AGG_CP;8.7;8.9
+05/06/17 16:00;FR1169;Eurdep;air;46.46;0.37;132.1;France;Nouvelle-Aquitaine;Vienne;La Villedieu-du-Clain;LA VILLEDIEU-DU-CLAIN_86_AGG_CP;8.5;8.7
+05/06/17 16:00;FR1170;Eurdep;air;46.23;0.69;0.0;France;0;0;0;L'ISLE-JOURDAIN_86_AGG_CP;10.4;10.0
+05/06/17 16:00;FR1171;Eurdep;air;46.42;0.86;116.0;France;Nouvelle-Aquitaine;Vienne;Montmorillon;MONTMORILLON_86_AGG_CP;9.1;9.3
+05/06/17 16:00;FR1172;Eurdep;air;46.4;0.73;109.1;France;Nouvelle-Aquitaine;Vienne;Lussac-les-Châteaux;LUSSAC-LES-CHATEAUX_86_AGG_CP;9.1;9.4
 14/05/17 22:00;FR1173;Eurdep;air;46.63;1.07;76.1;France;Centro;Indre;Le Blanc;LE BLANC_36_AGG_CP;0.0;0.0
-05/06/17 03:00;FR1174;Eurdep;air;46.56;0.5;107.9;France;Nouvelle-Aquitaine;Vienne;Saint-Julien-l'Ars;ST-JULIEN-L'ARS_86_AGG_CP;9.3;9.5
-05/06/17 03:00;FR1175;Eurdep;air;46.56;0.86;110.4;France;Nouvelle-Aquitaine;Vienne;Antigny;ST-SAVIN_86_AGG_CP;8.5;8.7
-05/06/17 03:00;FR1177;Eurdep;air;46.44;0.26;134.3;France;Nouvelle-Aquitaine;Vienne;Vivonne;VIVONNE_86_AGG_CP;8.0;8.3
-31/05/17 22:00;FR1189;Eurdep;air;49.38;-1.76;0.0;France;0;0;0;BARNEVILLE-CARTERET_50_AGG_CP;0.0;0.0
-05/06/17 03:00;FR1190;Eurdep;air;49.46;-1.64;0.0;France;0;0;0;BRICQUEBEC_50_AGG_CP;9.7;9.9
-05/06/17 03:00;FR1192;Eurdep;air;49.66;-1.84;0.0;France;0;0;0;BEAUMONT-HAGUE_50_AGG_CP;7.8;8.0
-05/06/17 03:00;FR1194;Eurdep;air;49.49;-1.39;0.0;France;0;0;0;MONTEBOURG_50_AGG_CP;8.4;8.6
-05/06/17 03:00;FR1197;Eurdep;air;49.38;-1.53;19.7;France;Normandía;Mancha;Saint-Sauveur-le-Vicomte;ST-SAUVEUR-LE-VICOMTE_50_AGG_CP;9.5;9.7
-05/06/17 03:00;FR1198;Eurdep;air;49.51;-1.48;28.7;France;Normandía;Mancha;Valognes;VALOGNES_50_AGG_CP;6.6;6.8
-05/06/17 03:00;FR1199;Eurdep;air;49.69;-1.87;119.0;France;Normandía;Mancha;Omonville-la-Petite;OMONVILLE-LA-PETITE_50_AGG_CP;11.8;12.0
-05/06/17 03:00;FR1201;Eurdep;air;43.89;0.99;111.7;France;Occitanie;Tarn y Garona;Beaumont-de-Lomagne;BEAUMONT-DE-LOMAGNE_82_AGG_CP;10.4;10.0
-05/06/17 03:00;FR1202;Eurdep;air;44.28;0.88;162.6;France;Nouvelle-Aquitaine;Lot y Garona;Beauville;BEAUVILLE_47_AGG_CP;9.1;9.2
-05/06/17 03:00;FR1203;Eurdep;air;44.11;0.53;201.0;France;Nouvelle-Aquitaine;Lot y Garona;Laplume;LAPLUME_47_AGG_CP;8.5;8.8
-05/06/17 03:00;FR1205;Eurdep;air;44.26;1.15;107.2;France;Occitanie;Tarn y Garona;Lauzerte;LAUZERTE_82_AGG_CP;8.6;8.8
-05/06/17 03:00;FR1206;Eurdep;air;43.96;0.92;214.0;France;Occitanie;Tarn y Garona;Lavit;LAVIT_82_AGG_CP;9.8;10.0
-05/06/17 03:00;FR1208;Eurdep;air;43.94;0.65;165.0;France;Occitanie;Gers;Lectoure;LECTOURE_32_AGG_CP;8.3;8.5
-05/06/17 03:00;FR1209;Eurdep;air;44.11;1.11;72.7;France;Occitanie;Tarn y Garona;Moissac;MOISSAC_82_AGG_CP;7.0;7.9
-05/06/17 03:00;FR1210;Eurdep;air;43.89;0.76;165.5;France;Occitanie;Gers;Saint-Clar;ST-CLAR_32_AGG_CP;8.8;9.0
-05/06/17 03:00;FR1211;Eurdep;air;44.06;1.02;75.3;France;Occitanie;Tarn y Garona;Saint-Nicolas-de-la-Grave;ST-NICOLAS-DE-LA-GRAVE_82_AGG_CP;10.3;10.0
-05/06/17 03:00;FR1213;Eurdep;air;44.29;0.51;168.8;France;Nouvelle-Aquitaine;Lot y Garona;Prayssas;PRAYSSAS_47_AGG_CP;8.7;8.9
-05/06/17 03:00;FR1214;Eurdep;air;50.85;1.98;15.7;France;Hauts-de-France;Paso de Calais;Louches;ARDRES_62_AGG_CP;6.8;7.0
-05/06/17 03:00;FR1215;Eurdep;air;50.97;2.45;4.6;France;Hauts-de-France;Norte;Hoymille;HOYMILLE_59_AGG_CP;8.5;8.7
-05/06/17 03:00;FR1216;Eurdep;air;50.95;1.86;0.0;France;0;0;0;CALAIS_62_AGG_CP;7.4;7.5
-05/06/17 03:00;FR1217;Eurdep;air;50.83;2.21;4.5;France;Hauts-de-France;Norte;Watten;WATTEN_59_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1218;Eurdep;air;50.71;2.13;42.6;France;Hauts-de-France;Paso de Calais;Lumbres;LUMBRES_62_AGG_CP;8.6;8.8
-05/06/17 03:00;FR1219;Eurdep;air;50.82;1.71;37.4;France;Hauts-de-France;Paso de Calais;Marquise;MARQUISE_62_AGG_CP;6.4;6.6
-05/06/17 03:00;FR1220;Eurdep;air;51.05;2.52;0.0;France;Hauts-de-France;Norte;Ghyvelde;GHYVELDE_59_AGG_CP;8.3;8.5
-05/06/17 03:00;FR1221;Eurdep;air;50.94;2.2;2.7;France;Hauts-de-France;Norte;Bourbourg;BOURBOURG_59_AGG_CP;7.4;7.7
-05/06/17 03:00;FR1222;Eurdep;air;50.74;2.27;8.5;France;Hauts-de-France;Paso de Calais;Longuenesse;LONGUENESSE_62_AGG_CP;6.9;7.0
-05/06/17 03:00;FR1223;Eurdep;air;50.88;2.48;13.0;France;Hauts-de-France;Norte;Wormhout;WORMHOUT_59_AGG_CP;8.3;8.5
-05/06/17 03:00;FR1225;Eurdep;air;45.19;5.71;211.9;France;Auvergne-Rhône-Alpes;Isère;Grenoble;CHORIER_38_ILL_GM;10.4;10.0
-05/06/17 03:00;FR1230;Eurdep;air;45.21;5.68;208.8;France;Auvergne-Rhône-Alpes;Isère;Sassenage;STATION-PYLONE_38_ILL_GM;8.9;9.1
-05/06/17 02:00;FR1231;Eurdep;air;45.17;5.77;279.4;France;Auvergne-Rhône-Alpes;Isère;Saint-Martin-d'Hères;MURIER_38_ILL_GM;10.4;10.0
-05/06/17 03:00;FR1232;Eurdep;air;45.22;5.67;199.7;France;Auvergne-Rhône-Alpes;Isère;Sassenage;LA ROLLANDIERE_38_ILL_GM;6.7;6.9
-05/06/17 03:00;FR1233;Eurdep;air;44.61;2.03;199.7;France;Occitanie;Lot;Figeac;FIGEAC_46_AGG_CP;9.8;9.9
-05/06/17 03:00;FR1235;Eurdep;air;45.21;5.68;208.8;France;Auvergne-Rhône-Alpes;Isère;Sassenage;GRENOBLE-ILL_38_SIT_CP;6.8;7.0
-05/06/17 03:00;FR1237;Eurdep;air;44.05;5.04;93.4;France;Provenza-Alpes-Costa Azul;Vaucluse;Carpentras;CARPENTRAS_84_AGG_CP;6.0;6.0
-05/06/17 03:00;FR1239;Eurdep;air;44.24;4.88;104.5;France;Provenza-Alpes-Costa Azul;Vaucluse;Sainte-Cécile-les-Vignes;STE-CECILE-LES-VIGNES_84_AGG_CP;7.1;7.2
-05/06/17 03:00;FR1240;Eurdep;air;44.13;4.81;0.0;France;0;0;0;ORANGE_84_AGG_CP;6.7;6.9
-05/06/17 03:00;FR1252;Eurdep;air;44.39;5.0;0.0;France;0;0;0;VALREAS_84_AGG_CP;7.1;7.2
-05/06/17 03:00;FR1255;Eurdep;air;48.47;3.13;117.6;France;Isla de Francia;Sena y Marne;Donnemarie-Dontilly;DONNEMARIE-DONTILLY_77_ILE_CP;8.0;8.2
-05/06/17 03:00;FR1257;Eurdep;air;48.5;3.5;63.5;France;Grand Est;Aube;Nogent-sur-Seine;NOGENT-SUR-SEINE_10_AGG_CP;7.4;7.6
-05/06/17 03:00;FR1259;Eurdep;air;48.35;3.64;119.3;France;Grand Est;Aube;Marcilly-le-Hayer;MARCILLY-LE-HAYER_10_AGG_CP;6.5;6.6
-05/06/17 03:00;FR1260;Eurdep;air;48.51;3.9;86.8;France;Grand Est;Aube;Méry-sur-Seine;MERY-SUR-SEINE_10_AGG_CP;8.3;8.0
-05/06/17 03:00;FR1261;Eurdep;air;48.56;3.31;92.3;France;Isla de Francia;Sena y Marne;Provins;PROVINS_77_ILE_CP;6.4;6.8
-05/06/17 03:00;FR1262;Eurdep;air;48.52;3.73;72.7;France;Grand Est;Aube;Romilly-sur-Seine;ROMILLY-SUR-SEINE_10_AGG_CP;8.3;8.5
-05/06/17 03:00;FR1263;Eurdep;air;48.72;3.74;135.2;France;Grand Est;Marne;Sézanne;SEZANNE_51_AGG_CP;6.3;6.6
-05/06/17 03:00;FR1264;Eurdep;air;47.76;2.52;149.0;France;Centro;Loiret;Dampierre-en-Burly;DAMPIERRE-EN-BURLY_45_SIT_CP;7.6;7.8
-05/06/17 03:00;FR1265;Eurdep;air;48.65;3.41;160.3;France;Isla de Francia;Sena y Marne;Villiers-Saint-Georges;VILLIERS-ST-GEORGES_77_ILE_CP;7.6;7.9
-05/06/17 03:00;FR1266;Eurdep;air;49.72;0.78;117.0;France;Normandía;Sena Marítimo;Doudeville;DOUDEVILLE_76_AGG_CP;6.2;6.0
-05/06/17 03:00;FR1267;Eurdep;air;49.65;0.58;123.7;France;Normandía;Sena Marítimo;Fauville-en-Caux;FAUVILLE-EN-CAUX_76_AGG_CP;6.5;6.0
-05/06/17 03:00;FR1268;Eurdep;air;49.75;0.39;80.4;France;Normandía;Sena Marítimo;Fécamp;FECAMP_76_AGG_CP;6.4;6.6
-05/06/17 03:00;FR1269;Eurdep;air;49.64;0.36;117.2;France;Normandía;Sena Marítimo;Goderville;GODERVILLE_76_AGG_CP;6.7;6.9
-05/06/17 03:00;FR1270;Eurdep;air;44.39;0.81;93.4;France;Nouvelle-Aquitaine;Lot y Garona;Penne-d'Agenais;PENNE-D'AGENAIS_47_AGG_CP;8.6;8.7
-05/06/17 03:00;FR1271;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GOLFECH_82_SIT_CP;10.3;10.0
-05/06/17 03:00;FR1272;Eurdep;air;44.04;1.1;74.6;France;Occitanie;Tarn y Garona;Castelsarrasin;CASTELSARRASIN_82_AGG_CP;11.7;12.0
-05/06/17 03:00;FR1273;Eurdep;air;44.34;1.01;226.7;France;Occitanie;Tarn y Garona;Montaigu-de-Quercy;MONTAIGU-DE-QUERCY_82_AGG_CP;8.7;8.8
-05/06/17 03:00;FR1274;Eurdep;air;49.67;0.89;167.0;France;Normandía;Sena Marítimo;Yerville;YERVILLE_76_AGG_CP;6.4;6.6
-05/06/17 03:00;FR1275;Eurdep;air;49.62;0.75;142.8;France;Normandía;Sena Marítimo;Yvetot;YVETOT_76_AGG_CP;6.7;6.8
-05/06/17 03:00;FR1276;Eurdep;air;49.79;1.01;101.9;France;Normandía;Sena Marítimo;Bacqueville-en-Caux;BACQUEVILLE-EN-CAUX_76_AGG_CP;6.9;7.2
-05/06/17 03:00;FR1277;Eurdep;air;50.08;1.54;96.6;France;Hauts-de-France;Somme;Friville-Escarbotin;FRIVILLE-ESCARBOTIN_80_AGG_CP;6.5;6.6
-05/06/17 03:00;FR1278;Eurdep;air;49.99;1.54;23.4;France;Hauts-de-France;Somme;Gamaches;GAMACHES_80_AGG_CP;5.5;5.8
-05/06/17 03:00;FR1279;Eurdep;air;50.05;1.37;96.7;France;Normandía;Sena Marítimo;Le Tréport;LE TREPORT_76_AGG_CP;6.2;6.4
-05/06/17 03:00;FR1281;Eurdep;air;49.83;1.4;72.3;France;Normandía;Sena Marítimo;Londinières;LONDINIERES_76_AGG_CP;6.4;6.6
-05/06/17 03:00;FR1282;Eurdep;air;49.73;1.45;107.7;France;Normandía;Sena Marítimo;Neufchâtel-en-Bray;NEUFCHATEL_76_AGG_CP;5.3;5.5
-05/06/17 03:00;FR1283;Eurdep;air;49.88;1.04;81.1;France;Normandía;Sena Marítimo;Offranville;OFFRANVILLE_76_AGG_CP;6.7;6.8
-05/06/17 03:00;FR1286;Eurdep;air;47.69;2.64;156.8;France;Centro;Loiret;Gien;GIEN_45_AGG_CP;10.3;10.0
-05/06/17 03:00;FR1296;Eurdep;air;47.7;1.51;90.2;France;Centro;Loir y Cher;Mer;MER_41_SIT_CP;10.1;10.0
-05/06/17 03:00;FR1297;Eurdep;air;47.75;1.2;122.5;France;Centro;Loir y Cher;Selommes;SELOMMES_41_AGG_CP;7.9;8.2
-05/06/17 03:00;FR1298;Eurdep;air;47.51;1.45;83.3;France;Centro;Loir y Cher;Cour-Cheverny;COUR-CHEVERNY_41_AGG_CP;8.9;9.2
-05/06/17 03:00;FR1299;Eurdep;air;47.55;1.55;81.0;France;Centro;Loir y Cher;Bracieux;BRACIEUX_41_AGG_CP;8.9;9.3
-05/06/17 03:00;FR1300;Eurdep;air;47.62;1.52;81.3;France;Centro;Loir y Cher;Chambord;CHAMBORD_41_AGG_CP;9.0;9.3
-05/06/17 03:00;FR1301;Eurdep;air;47.82;1.76;98.0;France;Centro;Loiret;Cléry-Saint-André;CLERY-ST-ANDRE_45_AGG_CP;9.6;10.0
-05/06/17 03:00;FR1302;Eurdep;air;47.83;1.96;111.7;France;Centro;Loiret;Saint-Cyr-en-Val;ST-CYR-EN-VAL_45_AGG_CP;7.4;7.6
-05/06/17 03:00;FR1303;Eurdep;air;47.72;1.94;106.8;France;Centro;Loiret;La Ferté-Saint-Aubin;LA FERTE-ST-AUBIN_45_AGG_CP;9.2;9.4
-05/06/17 03:00;FR1305;Eurdep;air;47.83;1.39;0.0;France;0;0;0;MARCHENOIR_41_AGG_CP;7.4;7.8
-05/06/17 03:00;FR1306;Eurdep;air;47.84;1.71;98.2;France;Centro;Loiret;Meung-sur-Loire;MEUNG-SUR-LOIRE_45_AGG_CP;8.2;8.6
-05/06/17 03:00;FR1307;Eurdep;air;47.54;1.8;100.2;France;Centro;Loir y Cher;Neung-sur-Beuvron;NEUNG-SUR-BEUVRON_41_AGG_CP;12.4;12.0
-05/06/17 03:00;FR1308;Eurdep;air;47.86;1.14;0.0;France;0;0;0;PEZOU_41_AGG_CP;7.7;7.9
-05/06/17 03:00;FR1309;Eurdep;air;47.91;1.52;130.3;France;Centro;Loir y Cher;Ouzouer-le-Marché;OUZOUER-LE-MARCHE_41_AGG_CP;10.7;10.0
-05/06/17 03:00;FR1313;Eurdep;air;45.29;4.99;280.0;France;Auvergne-Rhône-Alpes;Drôme;Moras-en-Valloire;MORAS-EN-VALLOIRE_26_AGG_CP;8.8;9.0
-05/06/17 03:00;FR1337;Eurdep;air;41.92;8.74;0.7;France;Córcega;Córcega del Sur;Ajaccio;AJACCIO_2A_AGG_CP;11.8;12.0
-05/06/17 03:00;FR1340;Eurdep;air;47.47;-0.55;44.9;France;Países del Loira;Maine y Loira;Angers;ANGERS_49_AGG_CP;10.1;10.0
-05/06/17 03:00;FR1341;Eurdep;air;45.66;0.17;52.1;France;Nouvelle-Aquitaine;Charente;Gond-Pontouvre;ANGOULEME_16_AGG_CP;7.8;8.1
-05/06/17 03:00;FR1342;Eurdep;air;45.9;6.13;444.0;France;Auvergne-Rhône-Alpes;Alta Saboya;Annecy;ANNECY_74_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1343;Eurdep;air;50.29;2.76;66.7;France;Hauts-de-France;Paso de Calais;Arrás;ARRAS_62_AGG_CP;6.3;6.5
-05/06/17 03:00;FR1344;Eurdep;air;43.64;0.59;132.6;France;Occitanie;Gers;Auch;AUCH_32_AGG_CP;9.1;9.0
-05/06/17 03:00;FR1346;Eurdep;air;48.23;4.71;166.2;France;Grand Est;Aube;Bar-sur-Aube;BAR-SUR-AUBE_10_AGG_CP;9.4;9.8
-05/06/17 03:00;FR1347;Eurdep;air;42.7;9.45;18.3;France;Córcega;Alta Córcega;Bastia;BASTIA_2B_AGG_CP;10.4;10.0
-05/06/17 03:00;FR1348;Eurdep;air;43.5;-1.48;6.7;France;Nouvelle-Aquitaine;Pirineos Atlánticos;Bayona;BAYONNE_64_AGG_CP;6.9;7.1
-05/06/17 03:00;FR1350;Eurdep;air;47.91;7.91;1066.5;France;Baden-Wurtemberg;Región de Friburgo;Oberried;FREIBURG_ET_AGG_CP;11.0;12.0
-05/06/17 03:00;FR1351;Eurdep;air;44.84;-0.59;13.4;France;Nouvelle-Aquitaine;Gironda;Burdeos;BORDEAUX_33_AGG_CP;6.5;6.8
-05/06/17 03:00;FR1352;Eurdep;air;50.73;1.59;0.0;France;0;0;0;BOULOGNE-SUR-MER_62_AGG_CP;5.5;5.0
-05/06/17 03:00;FR1353;Eurdep;air;46.2;5.22;243.3;France;Auvergne-Rhône-Alpes;Ain;Bourg-en-Bresse;BOURG-EN-BRESSE_01_AGG_CP;6.7;7.4
-05/06/17 03:00;FR1354;Eurdep;air;47.08;2.4;155.2;France;Centro;Cher;Bourges;BOURGES_18_AGG_CP;7.6;7.0
-05/06/17 03:00;FR1358;Eurdep;air;43.21;2.35;113.1;France;Occitanie;Aude;Carcasona;CARCASSONNE_11_AGG_CP;8.7;8.9
-05/06/17 03:00;FR1359;Eurdep;air;48.95;4.37;83.8;France;Grand Est;Marne;Châlons-en-Champagne;CHALONS-EN-CHAMPAGNE_51_AGG_CP;7.5;7.7
-05/06/17 03:00;FR1360;Eurdep;air;47.59;1.33;104.9;France;Centro;Loir y Cher;Blois;BLOIS_41_AGG_CP;7.8;8.0
-05/06/17 03:00;FR1361;Eurdep;air;49.76;4.72;147.0;France;Grand Est;Árdenas;Charleville-Mézières;CHARLEVILLE-MEZIERES_08_AGG_CP;6.6;7.0
-05/06/17 03:00;FR1362;Eurdep;air;46.81;1.69;155.2;France;Centro;Indre;Châteauroux;CHATEAUROUX_36_AGG_CP;9.0;9.3
-05/06/17 03:00;FR1363;Eurdep;air;48.11;5.14;321.8;France;Grand Est;Alto Marne;Chaumont;CHAUMONT_52_AGG_CP;6.3;6.5
-05/06/17 03:00;FR1364;Eurdep;air;49.63;-1.65;77.2;France;Normandía;Mancha;Cherburgo;CHERBOURG-OCTEVILLE_50_AGG_CP;6.7;6.8
-05/06/17 03:00;FR1366;Eurdep;air;49.92;1.08;6.9;France;Normandía;Sena Marítimo;Dieppe;DIEPPE_76_AGG_CP;6.2;6.4
-05/06/17 03:00;FR1367;Eurdep;air;51.03;2.37;5.6;France;Hauts-de-France;Norte;Dunquerque;DUNKERQUE_59_AGG_CP;6.6;6.8
-05/06/17 03:00;FR1368;Eurdep;air;49.03;1.14;0.0;France;0;0;0;EVREUX_27_AGG_CP;5.7;5.9
-05/06/17 03:00;FR1369;Eurdep;air;48.63;2.43;83.2;France;Isla de Francia;Essonne;Évry;EVRY_91_AGG_CP;7.3;7.5
-05/06/17 03:00;FR1370;Eurdep;air;42.97;1.61;0.0;France;0;0;0;FOIX_09_AGG_CP;8.7;9.4
-05/06/17 03:00;FR1371;Eurdep;air;44.56;6.08;736.4;France;Provenza-Alpes-Costa Azul;Altos Alpes;Gap;GAP_05_AGG_CP;7.6;7.7
-05/06/17 03:00;FR1372;Eurdep;air;46.18;1.88;409.0;France;Nouvelle-Aquitaine;Creuse;Guéret;GUERET_23_AGG_CP;10.1;10.0
-05/06/17 03:00;FR1373;Eurdep;air;48.75;0.63;237.0;France;Normandía;Orne;L'Aigle;L'AIGLE_61_AGG_CP;6.5;6.6
-05/06/17 03:00;FR1374;Eurdep;air;48.89;2.24;69.2;France;Isla de Francia;Altos del Sena;Puteaux;LA DEFENSE_92_ILE_CP;6.5;6.6
-05/06/17 03:00;FR1375;Eurdep;air;46.16;-1.16;1.8;France;Nouvelle-Aquitaine;Charente Marítimo;La Rochelle;LA ROCHELLE_17_AGG_CP;6.8;7.0
-05/06/17 03:00;FR1376;Eurdep;air;46.76;-1.5;61.1;France;Países del Loira;Vendée;Le Poiré-sur-Vie;POIRE-SUR-VIE_85_AGG_CP;9.5;9.8
-05/06/17 03:00;FR1377;Eurdep;air;48.07;-0.77;51.6;France;Países del Loira;Mayenne;Laval;LAVAL_53_AGG_CP;6.8;7.0
-05/06/17 03:00;FR1378;Eurdep;air;46.31;6.08;506.1;France;Auvergne-Rhône-Alpes;Ain;Cessy;LE CERN_01_SIT_CP;7.4;7.0
-05/06/17 03:00;FR1379;Eurdep;air;49.49;0.11;2.3;France;Normandía;Sena Marítimo;El Havre;LE HAVRE_76_AGG_CP;6.5;6.7
-05/06/17 03:00;FR1380;Eurdep;air;48.0;0.2;0.0;France;0;0;0;LE MANS_72_AGG_CP;6.1;6.3
-05/06/17 03:00;FR1382;Eurdep;air;48.89;2.42;70.5;France;Isla de Francia;Sena-San Denís;Pantin;LES LILAS_93_ILE_CP;6.0;6.2
-05/06/17 03:00;FR1383;Eurdep;air;50.65;3.13;34.9;France;Hauts-de-France;Norte;Villeneuve-d'Ascq;VILLENEUVE-D'ASCQ_59_AGG_CP;6.7;6.9
-05/06/17 03:00;FR1384;Eurdep;air;45.83;1.26;270.6;France;Nouvelle-Aquitaine;Alto Vienne;Limoges;LIMOGES_87_AGG_CP;10.5;10.0
-05/06/17 03:00;FR1385;Eurdep;air;46.67;5.55;262.9;France;Bourgogne-Franche-Comté;Jura;Lons-le-Saunier;LONS-LE-SAUNIER_39_AGG_CP;7.3;7.6
-05/06/17 03:00;FR1386;Eurdep;air;46.31;4.84;167.1;France;Auvergne-Rhône-Alpes;Ain;Saint-Laurent-sur-Saône;MACON_71_AGG_CP;8.0;8.0
-05/06/17 03:00;FR1387;Eurdep;air;44.52;3.5;715.1;France;Occitanie;Lozère;Mende;MENDE_48_AGG_CP;8.8;9.1
-05/06/17 03:00;FR1388;Eurdep;air;49.12;6.17;169.5;France;Grand Est;Mosela;Metz;METZ_57_AGG_CP;8.0;8.8
-05/06/17 03:00;FR1389;Eurdep;air;43.89;-0.5;49.4;France;Nouvelle-Aquitaine;Landas;Mont-de-Marsan;MONT-DE-MARSAN_40_AGG_CP;7.2;7.5
-05/06/17 03:00;FR1390;Eurdep;air;44.02;1.36;0.0;France;0;0;0;MONTAUBAN_82_AGG_CP;7.9;8.2
-05/06/17 03:00;FR1391;Eurdep;air;46.57;3.33;223.7;France;Auvergne-Rhône-Alpes;Allier;Moulins;MOULINS_03_AGG_CP;11.4;11.0
-05/06/17 03:00;FR1392;Eurdep;air;47.22;-1.55;19.0;France;Países del Loira;Loira Atlántico;Nantes;NANTES_44_AGG_CP;11.6;11.0
-05/06/17 03:00;FR1393;Eurdep;air;46.32;-0.47;0.0;France;0;0;0;NIORT_79_AGG_CP;7.5;7.0
-05/06/17 03:00;FR1394;Eurdep;air;47.9;1.91;0.0;France;0;0;0;ORLEANS_45_AGG_CP;7.8;8.2
-05/06/17 03:00;FR1397;Eurdep;air;42.7;2.89;30.0;France;Occitanie;Pirineos Orientales;Perpiñán;PERPIGNAN_66_AGG_CP;11.1;12.0
-04/06/17 15:00;FR1398;Eurdep;air;42.94;0.14;2637.7;France;Occitanie;Altos Pirineos;Bagnères-de-Bigorre;PIC-DU-MIDI-DE-BIGORRE_65_SOM_CP;14.5;14.0
-05/06/17 03:00;FR1399;Eurdep;air;46.58;0.34;115.4;France;Nouvelle-Aquitaine;Vienne;Poitiers;POITIERS_86_AGG_CP;8.4;8.6
-05/06/17 03:00;FR1400;Eurdep;air;49.04;2.08;51.0;France;Isla de Francia;Valle del Oise;Cergy;CERGY_95_AGG_CP;6.1;6.3
-05/06/17 03:00;FR1401;Eurdep;air;44.74;4.6;265.6;France;Auvergne-Rhône-Alpes;Ardèche;Lyas;PRIVAS_07_AGG_CP;7.0;7.1
-05/06/17 03:00;FR1402;Eurdep;air;47.99;-4.1;68.5;France;Bretaña;Finisterre;Quimper;QUIMPER_29_AGG_CP;10.5;11.0
-05/06/17 03:00;FR1403;Eurdep;air;48.13;-1.69;38.0;France;Bretaña;Ille y Vilaine;Rennes;RENNES_35_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1404;Eurdep;air;43.94;5.48;862.7;France;Provenza-Alpes-Costa Azul;Vaucluse;Rustrel;RUSTREL_84_AGG_CP;7.3;7.4
-05/06/17 03:00;FR1405;Eurdep;air;48.51;-2.77;104.1;France;Bretaña;Costas de Armor;Saint-Brieuc;ST-BRIEUC_22_AGG_CP;6.8;6.9
-05/06/17 03:00;FR1406;Eurdep;air;49.11;-1.09;44.8;France;Normandía;Mancha;Saint-Lô;ST-LO_50_AGG_CP;7.6;7.8
-05/06/17 03:00;FR1408;Eurdep;air;49.39;3.34;42.5;France;Hauts-de-France;Aisne;Soissons;SOISSONS_02_AGG_CP;5.9;6.1
-05/06/17 03:00;FR1411;Eurdep;air;43.6;1.45;145.8;France;Occitanie;Alto Garona;Toulouse;TOULOUSE_31_AGG_CP;9.6;9.8
-05/06/17 03:00;FR1412;Eurdep;air;47.39;0.69;0.0;France;0;0;0;TOURS_37_AGG_CP;8.4;8.6
-05/06/17 03:00;FR1413;Eurdep;air;48.3;4.08;111.5;France;Grand Est;Aube;Troyes;TROYES_10_AGG_CP;7.2;7.0
-05/06/17 03:00;FR1415;Eurdep;air;45.55;2.31;638.2;France;Nouvelle-Aquitaine;Corrèze;Ussel;USSEL_19_AGG_CP;12.2;12.0
-05/06/17 03:00;FR1416;Eurdep;air;50.36;3.52;26.9;France;Hauts-de-France;Norte;Valenciennes;VALENCIENNES_59_AGG_CP;7.3;7.5
-05/06/17 03:00;FR1417;Eurdep;air;47.66;-2.76;17.6;France;Bretaña;Morbihan;Vannes;VANNES_56_AGG_CP;11.1;11.0
-05/06/17 03:00;FR1418;Eurdep;air;47.62;6.15;217.0;France;Bourgogne-Franche-Comté;Alto Saona;Vesoul;VESOUL_70_AGG_CP;11.4;11.0
-05/06/17 03:00;FR1421;Eurdep;air;50.14;4.85;148.5;France;Grand Est;Árdenas;Givet;GIVET_08_AGG_CP;9.0;9.3
-05/06/17 03:00;FR1422;Eurdep;air;49.99;4.71;134.7;France;Grand Est;Árdenas;Fumay;FUMAY_08_AGG_CP;7.5;7.8
-05/06/17 03:00;FR1424;Eurdep;air;41.38;2.12;0.0;France;0;0;0;BARCELONE_ET_AGG_CP;10.7;11.0
-05/06/17 03:00;FR1425;Eurdep;air;48.59;3.82;0.0;France;0;0;0;ANGLURE_51_AGG_CP;7.0;7.2
-05/06/17 03:00;FR1426;Eurdep;air;48.27;3.81;130.7;France;Grand Est;Aube;Estissac;ESTISSAC_10_AGG_CP;8.0;8.2
-05/06/17 03:00;FR1427;Eurdep;air;48.48;3.29;83.3;France;Isla de Francia;Sena y Marne;Gouaix;GOUAIX_77_ILE_CP;7.4;7.6
+05/06/17 16:00;FR1174;Eurdep;air;46.56;0.5;107.9;France;Nouvelle-Aquitaine;Vienne;Saint-Julien-l'Ars;ST-JULIEN-L'ARS_86_AGG_CP;9.2;9.4
+05/06/17 16:00;FR1175;Eurdep;air;46.56;0.86;110.4;France;Nouvelle-Aquitaine;Vienne;Antigny;ST-SAVIN_86_AGG_CP;8.4;8.6
+05/06/17 16:00;FR1177;Eurdep;air;46.44;0.26;134.3;France;Nouvelle-Aquitaine;Vienne;Vivonne;VIVONNE_86_AGG_CP;8.0;8.1
+05/06/17 16:00;FR1189;Eurdep;air;49.38;-1.76;0.0;France;0;0;0;BARNEVILLE-CARTERET_50_AGG_CP;9.1;9.2
+05/06/17 16:00;FR1190;Eurdep;air;49.46;-1.64;0.0;France;0;0;0;BRICQUEBEC_50_AGG_CP;9.8;10.0
+05/06/17 16:00;FR1192;Eurdep;air;49.66;-1.84;0.0;France;0;0;0;BEAUMONT-HAGUE_50_AGG_CP;7.9;8.1
+05/06/17 16:00;FR1194;Eurdep;air;49.49;-1.39;0.0;France;0;0;0;MONTEBOURG_50_AGG_CP;8.4;8.5
+05/06/17 16:00;FR1197;Eurdep;air;49.38;-1.53;19.7;France;Normandía;Mancha;Saint-Sauveur-le-Vicomte;ST-SAUVEUR-LE-VICOMTE_50_AGG_CP;9.6;9.9
+05/06/17 16:00;FR1198;Eurdep;air;49.51;-1.48;28.7;France;Normandía;Mancha;Valognes;VALOGNES_50_AGG_CP;6.7;7.0
+05/06/17 16:00;FR1199;Eurdep;air;49.69;-1.87;119.0;France;Normandía;Mancha;Omonville-la-Petite;OMONVILLE-LA-PETITE_50_AGG_CP;11.8;12.0
+05/06/17 16:00;FR1201;Eurdep;air;43.89;0.99;111.7;France;Occitanie;Tarn y Garona;Beaumont-de-Lomagne;BEAUMONT-DE-LOMAGNE_82_AGG_CP;10.5;10.0
+05/06/17 16:00;FR1202;Eurdep;air;44.28;0.88;162.6;France;Nouvelle-Aquitaine;Lot y Garona;Beauville;BEAUVILLE_47_AGG_CP;9.1;9.4
+05/06/17 16:00;FR1203;Eurdep;air;44.11;0.53;201.0;France;Nouvelle-Aquitaine;Lot y Garona;Laplume;LAPLUME_47_AGG_CP;8.5;8.7
+05/06/17 16:00;FR1205;Eurdep;air;44.26;1.15;107.2;France;Occitanie;Tarn y Garona;Lauzerte;LAUZERTE_82_AGG_CP;8.7;8.8
+05/06/17 16:00;FR1206;Eurdep;air;43.96;0.92;214.0;France;Occitanie;Tarn y Garona;Lavit;LAVIT_82_AGG_CP;9.9;10.0
+05/06/17 16:00;FR1208;Eurdep;air;43.94;0.65;165.0;France;Occitanie;Gers;Lectoure;LECTOURE_32_AGG_CP;8.4;8.5
+05/06/17 16:00;FR1209;Eurdep;air;44.11;1.11;72.7;France;Occitanie;Tarn y Garona;Moissac;MOISSAC_82_AGG_CP;7.7;7.9
+05/06/17 16:00;FR1210;Eurdep;air;43.89;0.76;165.5;France;Occitanie;Gers;Saint-Clar;ST-CLAR_32_AGG_CP;8.7;9.0
+05/06/17 16:00;FR1211;Eurdep;air;44.06;1.02;75.3;France;Occitanie;Tarn y Garona;Saint-Nicolas-de-la-Grave;ST-NICOLAS-DE-LA-GRAVE_82_AGG_CP;10.3;10.0
+05/06/17 16:00;FR1213;Eurdep;air;44.29;0.51;168.8;France;Nouvelle-Aquitaine;Lot y Garona;Prayssas;PRAYSSAS_47_AGG_CP;8.7;8.9
+05/06/17 16:00;FR1214;Eurdep;air;50.85;1.98;15.7;France;Hauts-de-France;Paso de Calais;Louches;ARDRES_62_AGG_CP;6.9;7.1
+05/06/17 16:00;FR1215;Eurdep;air;50.97;2.45;4.6;France;Hauts-de-France;Norte;Hoymille;HOYMILLE_59_AGG_CP;8.5;8.7
+05/06/17 16:00;FR1216;Eurdep;air;50.95;1.86;0.0;France;0;0;0;CALAIS_62_AGG_CP;7.4;7.6
+05/06/17 16:00;FR1217;Eurdep;air;50.83;2.21;4.5;France;Hauts-de-France;Norte;Watten;WATTEN_59_AGG_CP;7.3;7.4
+05/06/17 16:00;FR1218;Eurdep;air;50.71;2.13;42.6;France;Hauts-de-France;Paso de Calais;Lumbres;LUMBRES_62_AGG_CP;8.6;8.8
+05/06/17 16:00;FR1219;Eurdep;air;50.82;1.71;37.4;France;Hauts-de-France;Paso de Calais;Marquise;MARQUISE_62_AGG_CP;6.4;6.6
+05/06/17 16:00;FR1220;Eurdep;air;51.05;2.52;0.0;France;Hauts-de-France;Norte;Ghyvelde;GHYVELDE_59_AGG_CP;8.3;8.4
+05/06/17 16:00;FR1221;Eurdep;air;50.94;2.2;2.7;France;Hauts-de-France;Norte;Bourbourg;BOURBOURG_59_AGG_CP;7.5;7.7
+05/06/17 16:00;FR1222;Eurdep;air;50.74;2.27;8.5;France;Hauts-de-France;Paso de Calais;Longuenesse;LONGUENESSE_62_AGG_CP;7.0;7.0
+05/06/17 16:00;FR1223;Eurdep;air;50.88;2.48;13.0;France;Hauts-de-France;Norte;Wormhout;WORMHOUT_59_AGG_CP;8.3;8.5
+05/06/17 16:00;FR1225;Eurdep;air;45.19;5.71;211.9;France;Auvergne-Rhône-Alpes;Isère;Grenoble;CHORIER_38_ILL_GM;10.4;10.0
+05/06/17 16:00;FR1230;Eurdep;air;45.21;5.68;208.8;France;Auvergne-Rhône-Alpes;Isère;Sassenage;STATION-PYLONE_38_ILL_GM;8.9;9.1
+05/06/17 16:00;FR1231;Eurdep;air;45.17;5.77;279.4;France;Auvergne-Rhône-Alpes;Isère;Saint-Martin-d'Hères;MURIER_38_ILL_GM;10.4;10.0
+05/06/17 16:00;FR1232;Eurdep;air;45.22;5.67;199.7;France;Auvergne-Rhône-Alpes;Isère;Sassenage;LA ROLLANDIERE_38_ILL_GM;6.7;7.0
+05/06/17 16:00;FR1233;Eurdep;air;44.61;2.03;199.7;France;Occitanie;Lot;Figeac;FIGEAC_46_AGG_CP;9.8;10.0
+05/06/17 16:00;FR1235;Eurdep;air;45.21;5.68;208.8;France;Auvergne-Rhône-Alpes;Isère;Sassenage;GRENOBLE-ILL_38_SIT_CP;6.9;7.0
+05/06/17 16:00;FR1237;Eurdep;air;44.05;5.04;93.4;France;Provenza-Alpes-Costa Azul;Vaucluse;Carpentras;CARPENTRAS_84_AGG_CP;6.0;6.0
+05/06/17 16:00;FR1239;Eurdep;air;44.24;4.88;104.5;France;Provenza-Alpes-Costa Azul;Vaucluse;Sainte-Cécile-les-Vignes;STE-CECILE-LES-VIGNES_84_AGG_CP;7.1;7.2
+05/06/17 16:00;FR1240;Eurdep;air;44.13;4.81;0.0;France;0;0;0;ORANGE_84_AGG_CP;6.7;6.8
+05/06/17 16:00;FR1252;Eurdep;air;44.39;5.0;0.0;France;0;0;0;VALREAS_84_AGG_CP;7.1;7.2
+05/06/17 16:00;FR1255;Eurdep;air;48.47;3.13;117.6;France;Isla de Francia;Sena y Marne;Donnemarie-Dontilly;DONNEMARIE-DONTILLY_77_ILE_CP;8.1;8.2
+05/06/17 16:00;FR1257;Eurdep;air;48.5;3.5;63.5;France;Grand Est;Aube;Nogent-sur-Seine;NOGENT-SUR-SEINE_10_AGG_CP;7.5;7.7
+05/06/17 16:00;FR1259;Eurdep;air;48.35;3.64;119.3;France;Grand Est;Aube;Marcilly-le-Hayer;MARCILLY-LE-HAYER_10_AGG_CP;6.5;6.6
+05/06/17 16:00;FR1260;Eurdep;air;48.51;3.9;86.8;France;Grand Est;Aube;Méry-sur-Seine;MERY-SUR-SEINE_10_AGG_CP;8.4;8.0
+05/06/17 16:00;FR1261;Eurdep;air;48.56;3.31;92.3;France;Isla de Francia;Sena y Marne;Provins;PROVINS_77_ILE_CP;6.4;6.8
+05/06/17 16:00;FR1262;Eurdep;air;48.52;3.73;72.7;France;Grand Est;Aube;Romilly-sur-Seine;ROMILLY-SUR-SEINE_10_AGG_CP;8.3;8.5
+05/06/17 16:00;FR1263;Eurdep;air;48.72;3.74;135.2;France;Grand Est;Marne;Sézanne;SEZANNE_51_AGG_CP;6.4;6.6
+05/06/17 16:00;FR1264;Eurdep;air;47.76;2.52;149.0;France;Centro;Loiret;Dampierre-en-Burly;DAMPIERRE-EN-BURLY_45_SIT_CP;7.6;7.8
+05/06/17 16:00;FR1265;Eurdep;air;48.65;3.41;160.3;France;Isla de Francia;Sena y Marne;Villiers-Saint-Georges;VILLIERS-ST-GEORGES_77_ILE_CP;7.7;7.9
+05/06/17 16:00;FR1266;Eurdep;air;49.72;0.78;117.0;France;Normandía;Sena Marítimo;Doudeville;DOUDEVILLE_76_AGG_CP;6.2;6.3
+05/06/17 16:00;FR1267;Eurdep;air;49.65;0.58;123.7;France;Normandía;Sena Marítimo;Fauville-en-Caux;FAUVILLE-EN-CAUX_76_AGG_CP;6.6;6.0
+05/06/17 16:00;FR1268;Eurdep;air;49.75;0.39;80.4;France;Normandía;Sena Marítimo;Fécamp;FECAMP_76_AGG_CP;6.5;6.6
+05/06/17 16:00;FR1269;Eurdep;air;49.64;0.36;117.2;France;Normandía;Sena Marítimo;Goderville;GODERVILLE_76_AGG_CP;6.8;7.0
+05/06/17 16:00;FR1270;Eurdep;air;44.39;0.81;93.4;France;Nouvelle-Aquitaine;Lot y Garona;Penne-d'Agenais;PENNE-D'AGENAIS_47_AGG_CP;8.6;8.7
+05/06/17 16:00;FR1271;Eurdep;air;44.11;0.85;56.6;France;Occitanie;Tarn y Garona;Golfech;GOLFECH_82_SIT_CP;10.3;10.0
+05/06/17 16:00;FR1272;Eurdep;air;44.04;1.1;74.6;France;Occitanie;Tarn y Garona;Castelsarrasin;CASTELSARRASIN_82_AGG_CP;11.7;12.0
+05/06/17 16:00;FR1273;Eurdep;air;44.34;1.01;226.7;France;Occitanie;Tarn y Garona;Montaigu-de-Quercy;MONTAIGU-DE-QUERCY_82_AGG_CP;8.7;8.8
+05/06/17 16:00;FR1274;Eurdep;air;49.67;0.89;167.0;France;Normandía;Sena Marítimo;Yerville;YERVILLE_76_AGG_CP;6.4;6.7
+05/06/17 16:00;FR1275;Eurdep;air;49.62;0.75;142.8;France;Normandía;Sena Marítimo;Yvetot;YVETOT_76_AGG_CP;6.7;6.9
+05/06/17 16:00;FR1276;Eurdep;air;49.79;1.01;101.9;France;Normandía;Sena Marítimo;Bacqueville-en-Caux;BACQUEVILLE-EN-CAUX_76_AGG_CP;7.0;7.2
+05/06/17 16:00;FR1277;Eurdep;air;50.08;1.54;96.6;France;Hauts-de-France;Somme;Friville-Escarbotin;FRIVILLE-ESCARBOTIN_80_AGG_CP;6.6;6.7
+05/06/17 16:00;FR1278;Eurdep;air;49.99;1.54;23.4;France;Hauts-de-France;Somme;Gamaches;GAMACHES_80_AGG_CP;5.6;5.8
+05/06/17 16:00;FR1279;Eurdep;air;50.05;1.37;96.7;France;Normandía;Sena Marítimo;Le Tréport;LE TREPORT_76_AGG_CP;6.3;6.4
+05/06/17 16:00;FR1281;Eurdep;air;49.83;1.4;72.3;France;Normandía;Sena Marítimo;Londinières;LONDINIERES_76_AGG_CP;6.5;6.6
+05/06/17 16:00;FR1282;Eurdep;air;49.73;1.45;107.7;France;Normandía;Sena Marítimo;Neufchâtel-en-Bray;NEUFCHATEL_76_AGG_CP;5.3;5.5
+05/06/17 16:00;FR1283;Eurdep;air;49.88;1.04;81.1;France;Normandía;Sena Marítimo;Offranville;OFFRANVILLE_76_AGG_CP;6.7;6.8
+05/06/17 16:00;FR1286;Eurdep;air;47.69;2.64;156.8;France;Centro;Loiret;Gien;GIEN_45_AGG_CP;10.4;10.0
+05/06/17 16:00;FR1296;Eurdep;air;47.7;1.51;90.2;France;Centro;Loir y Cher;Mer;MER_41_SIT_CP;10.1;10.0
+05/06/17 16:00;FR1297;Eurdep;air;47.75;1.2;122.5;France;Centro;Loir y Cher;Selommes;SELOMMES_41_AGG_CP;8.0;8.2
+05/06/17 16:00;FR1298;Eurdep;air;47.51;1.45;83.3;France;Centro;Loir y Cher;Cour-Cheverny;COUR-CHEVERNY_41_AGG_CP;9.0;9.2
+05/06/17 16:00;FR1299;Eurdep;air;47.55;1.55;81.0;France;Centro;Loir y Cher;Bracieux;BRACIEUX_41_AGG_CP;9.0;9.4
+05/06/17 16:00;FR1300;Eurdep;air;47.62;1.52;81.3;France;Centro;Loir y Cher;Chambord;CHAMBORD_41_AGG_CP;9.0;9.4
+05/06/17 16:00;FR1301;Eurdep;air;47.82;1.76;98.0;France;Centro;Loiret;Cléry-Saint-André;CLERY-ST-ANDRE_45_AGG_CP;9.7;10.0
+05/06/17 16:00;FR1302;Eurdep;air;47.83;1.96;111.7;France;Centro;Loiret;Saint-Cyr-en-Val;ST-CYR-EN-VAL_45_AGG_CP;7.4;7.6
+05/06/17 16:00;FR1303;Eurdep;air;47.72;1.94;106.8;France;Centro;Loiret;La Ferté-Saint-Aubin;LA FERTE-ST-AUBIN_45_AGG_CP;9.2;9.4
+05/06/17 16:00;FR1305;Eurdep;air;47.83;1.39;0.0;France;0;0;0;MARCHENOIR_41_AGG_CP;7.5;7.8
+05/06/17 16:00;FR1306;Eurdep;air;47.84;1.71;98.2;France;Centro;Loiret;Meung-sur-Loire;MEUNG-SUR-LOIRE_45_AGG_CP;8.3;8.0
+05/06/17 16:00;FR1307;Eurdep;air;47.54;1.8;100.2;France;Centro;Loir y Cher;Neung-sur-Beuvron;NEUNG-SUR-BEUVRON_41_AGG_CP;12.4;12.0
+05/06/17 16:00;FR1308;Eurdep;air;47.86;1.14;0.0;France;0;0;0;PEZOU_41_AGG_CP;7.8;8.0
+05/06/17 16:00;FR1309;Eurdep;air;47.91;1.52;130.3;France;Centro;Loir y Cher;Ouzouer-le-Marché;OUZOUER-LE-MARCHE_41_AGG_CP;10.8;10.0
+05/06/17 16:00;FR1313;Eurdep;air;45.29;4.99;280.0;France;Auvergne-Rhône-Alpes;Drôme;Moras-en-Valloire;MORAS-EN-VALLOIRE_26_AGG_CP;8.9;9.0
+05/06/17 16:00;FR1337;Eurdep;air;41.92;8.74;0.7;France;Córcega;Córcega del Sur;Ajaccio;AJACCIO_2A_AGG_CP;11.8;12.0
+05/06/17 16:00;FR1340;Eurdep;air;47.47;-0.55;44.9;France;Países del Loira;Maine y Loira;Angers;ANGERS_49_AGG_CP;10.1;10.0
+05/06/17 16:00;FR1341;Eurdep;air;45.66;0.17;52.1;France;Nouvelle-Aquitaine;Charente;Gond-Pontouvre;ANGOULEME_16_AGG_CP;7.8;7.9
+05/06/17 16:00;FR1342;Eurdep;air;45.9;6.13;444.0;France;Auvergne-Rhône-Alpes;Alta Saboya;Annecy;ANNECY_74_AGG_CP;7.1;7.4
+05/06/17 16:00;FR1343;Eurdep;air;50.29;2.76;66.7;France;Hauts-de-France;Paso de Calais;Arrás;ARRAS_62_AGG_CP;6.3;6.5
+05/06/17 13:00;FR1344;Eurdep;air;43.64;0.59;132.6;France;Occitanie;Gers;Auch;AUCH_32_AGG_CP;9.1;9.0
+05/06/17 16:00;FR1346;Eurdep;air;48.23;4.71;166.2;France;Grand Est;Aube;Bar-sur-Aube;BAR-SUR-AUBE_10_AGG_CP;9.5;9.8
+05/06/17 16:00;FR1347;Eurdep;air;42.7;9.45;18.3;France;Córcega;Alta Córcega;Bastia;BASTIA_2B_AGG_CP;10.4;10.0
+05/06/17 16:00;FR1348;Eurdep;air;43.5;-1.48;6.7;France;Nouvelle-Aquitaine;Pirineos Atlánticos;Bayona;BAYONNE_64_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1350;Eurdep;air;47.91;7.91;1066.5;France;Baden-Wurtemberg;Región de Friburgo;Oberried;FREIBURG_ET_AGG_CP;11.7;11.0
+05/06/17 16:00;FR1351;Eurdep;air;44.84;-0.59;13.4;France;Nouvelle-Aquitaine;Gironda;Burdeos;BORDEAUX_33_AGG_CP;6.5;6.7
+05/06/17 16:00;FR1352;Eurdep;air;50.73;1.59;0.0;France;0;0;0;BOULOGNE-SUR-MER_62_AGG_CP;5.6;5.0
+05/06/17 16:00;FR1353;Eurdep;air;46.2;5.22;243.3;France;Auvergne-Rhône-Alpes;Ain;Bourg-en-Bresse;BOURG-EN-BRESSE_01_AGG_CP;6.7;6.8
+05/06/17 16:00;FR1354;Eurdep;air;47.08;2.4;155.2;France;Centro;Cher;Bourges;BOURGES_18_AGG_CP;7.7;7.9
+05/06/17 16:00;FR1358;Eurdep;air;43.21;2.35;113.1;France;Occitanie;Aude;Carcasona;CARCASSONNE_11_AGG_CP;8.7;8.9
+05/06/17 16:00;FR1359;Eurdep;air;48.95;4.37;83.8;France;Grand Est;Marne;Châlons-en-Champagne;CHALONS-EN-CHAMPAGNE_51_AGG_CP;7.5;7.7
+05/06/17 16:00;FR1360;Eurdep;air;47.59;1.33;104.9;France;Centro;Loir y Cher;Blois;BLOIS_41_AGG_CP;7.9;8.0
+05/06/17 16:00;FR1361;Eurdep;air;49.76;4.72;147.0;France;Grand Est;Árdenas;Charleville-Mézières;CHARLEVILLE-MEZIERES_08_AGG_CP;6.7;7.0
+05/06/17 16:00;FR1362;Eurdep;air;46.81;1.69;155.2;France;Centro;Indre;Châteauroux;CHATEAUROUX_36_AGG_CP;9.0;9.3
+05/06/17 16:00;FR1363;Eurdep;air;48.11;5.14;321.8;France;Grand Est;Alto Marne;Chaumont;CHAUMONT_52_AGG_CP;6.3;6.5
+05/06/17 16:00;FR1364;Eurdep;air;49.63;-1.65;77.2;France;Normandía;Mancha;Cherburgo;CHERBOURG-OCTEVILLE_50_AGG_CP;6.7;7.1
+05/06/17 16:00;FR1366;Eurdep;air;49.92;1.08;6.9;France;Normandía;Sena Marítimo;Dieppe;DIEPPE_76_AGG_CP;6.2;6.4
+05/06/17 16:00;FR1367;Eurdep;air;51.03;2.37;5.6;France;Hauts-de-France;Norte;Dunquerque;DUNKERQUE_59_AGG_CP;6.7;6.8
+05/06/17 16:00;FR1368;Eurdep;air;49.03;1.14;0.0;France;0;0;0;EVREUX_27_AGG_CP;5.7;5.9
+05/06/17 16:00;FR1369;Eurdep;air;48.63;2.43;83.2;France;Isla de Francia;Essonne;Évry;EVRY_91_AGG_CP;7.4;7.5
+05/06/17 16:00;FR1370;Eurdep;air;42.97;1.61;0.0;France;0;0;0;FOIX_09_AGG_CP;8.7;9.4
+05/06/17 16:00;FR1371;Eurdep;air;44.56;6.08;736.4;France;Provenza-Alpes-Costa Azul;Altos Alpes;Gap;GAP_05_AGG_CP;7.7;8.9
+05/06/17 16:00;FR1372;Eurdep;air;46.18;1.88;409.0;France;Nouvelle-Aquitaine;Creuse;Guéret;GUERET_23_AGG_CP;10.3;10.0
+05/06/17 16:00;FR1373;Eurdep;air;48.75;0.63;237.0;France;Normandía;Orne;L'Aigle;L'AIGLE_61_AGG_CP;6.6;6.8
+05/06/17 16:00;FR1374;Eurdep;air;48.89;2.24;69.2;France;Isla de Francia;Altos del Sena;Puteaux;LA DEFENSE_92_ILE_CP;6.6;6.0
+05/06/17 16:00;FR1375;Eurdep;air;46.16;-1.16;1.8;France;Nouvelle-Aquitaine;Charente Marítimo;La Rochelle;LA ROCHELLE_17_AGG_CP;6.8;7.0
+05/06/17 16:00;FR1376;Eurdep;air;46.76;-1.5;61.1;France;Países del Loira;Vendée;Le Poiré-sur-Vie;POIRE-SUR-VIE_85_AGG_CP;9.5;9.8
+05/06/17 16:00;FR1377;Eurdep;air;48.07;-0.77;51.6;France;Países del Loira;Mayenne;Laval;LAVAL_53_AGG_CP;6.8;7.0
+05/06/17 16:00;FR1378;Eurdep;air;46.31;6.08;506.1;France;Auvergne-Rhône-Alpes;Ain;Cessy;LE CERN_01_SIT_CP;7.5;7.0
+05/06/17 16:00;FR1379;Eurdep;air;49.49;0.11;2.3;France;Normandía;Sena Marítimo;El Havre;LE HAVRE_76_AGG_CP;6.5;6.0
+05/06/17 16:00;FR1380;Eurdep;air;48.0;0.2;0.0;France;0;0;0;LE MANS_72_AGG_CP;6.1;6.3
+05/06/17 16:00;FR1382;Eurdep;air;48.89;2.42;70.5;France;Isla de Francia;Sena-San Denís;Pantin;LES LILAS_93_ILE_CP;6.1;6.2
+05/06/17 16:00;FR1383;Eurdep;air;50.65;3.13;34.9;France;Hauts-de-France;Norte;Villeneuve-d'Ascq;VILLENEUVE-D'ASCQ_59_AGG_CP;6.7;7.0
+05/06/17 16:00;FR1384;Eurdep;air;45.83;1.26;270.6;France;Nouvelle-Aquitaine;Alto Vienne;Limoges;LIMOGES_87_AGG_CP;10.6;10.0
+05/06/17 16:00;FR1385;Eurdep;air;46.67;5.55;262.9;France;Bourgogne-Franche-Comté;Jura;Lons-le-Saunier;LONS-LE-SAUNIER_39_AGG_CP;7.4;7.6
+05/06/17 16:00;FR1386;Eurdep;air;46.31;4.84;167.1;France;Auvergne-Rhône-Alpes;Ain;Saint-Laurent-sur-Saône;MACON_71_AGG_CP;8.0;8.2
+05/06/17 16:00;FR1387;Eurdep;air;44.52;3.5;715.1;France;Occitanie;Lozère;Mende;MENDE_48_AGG_CP;8.8;9.1
+05/06/17 16:00;FR1388;Eurdep;air;49.12;6.17;169.5;France;Grand Est;Mosela;Metz;METZ_57_AGG_CP;8.1;8.8
+05/06/17 16:00;FR1389;Eurdep;air;43.89;-0.5;49.4;France;Nouvelle-Aquitaine;Landas;Mont-de-Marsan;MONT-DE-MARSAN_40_AGG_CP;7.2;7.3
+05/06/17 16:00;FR1390;Eurdep;air;44.02;1.36;0.0;France;0;0;0;MONTAUBAN_82_AGG_CP;7.9;8.2
+05/06/17 16:00;FR1391;Eurdep;air;46.57;3.33;223.7;France;Auvergne-Rhône-Alpes;Allier;Moulins;MOULINS_03_AGG_CP;11.5;11.0
+05/06/17 16:00;FR1392;Eurdep;air;47.22;-1.55;19.0;France;Países del Loira;Loira Atlántico;Nantes;NANTES_44_AGG_CP;11.6;11.0
+05/06/17 16:00;FR1393;Eurdep;air;46.32;-0.47;0.0;France;0;0;0;NIORT_79_AGG_CP;7.5;7.6
+05/06/17 16:00;FR1394;Eurdep;air;47.9;1.91;0.0;France;0;0;0;ORLEANS_45_AGG_CP;7.9;8.2
+05/06/17 16:00;FR1397;Eurdep;air;42.7;2.89;30.0;France;Occitanie;Pirineos Orientales;Perpiñán;PERPIGNAN_66_AGG_CP;11.0;11.0
+03/06/17 22:00;FR1398;Eurdep;air;42.94;0.14;2637.7;France;Occitanie;Altos Pirineos;Bagnères-de-Bigorre;PIC-DU-MIDI-DE-BIGORRE_65_SOM_CP;0.0;0.0
+05/06/17 16:00;FR1399;Eurdep;air;46.58;0.34;115.4;France;Nouvelle-Aquitaine;Vienne;Poitiers;POITIERS_86_AGG_CP;8.4;8.6
+05/06/17 16:00;FR1400;Eurdep;air;49.04;2.08;51.0;France;Isla de Francia;Valle del Oise;Cergy;CERGY_95_AGG_CP;6.2;6.3
+05/06/17 16:00;FR1401;Eurdep;air;44.74;4.6;265.6;France;Auvergne-Rhône-Alpes;Ardèche;Lyas;PRIVAS_07_AGG_CP;7.0;7.1
+05/06/17 16:00;FR1402;Eurdep;air;47.99;-4.1;68.5;France;Bretaña;Finisterre;Quimper;QUIMPER_29_AGG_CP;10.5;11.0
+05/06/17 16:00;FR1403;Eurdep;air;48.13;-1.69;38.0;France;Bretaña;Ille y Vilaine;Rennes;RENNES_35_AGG_CP;7.2;7.4
+05/06/17 16:00;FR1404;Eurdep;air;43.94;5.48;862.7;France;Provenza-Alpes-Costa Azul;Vaucluse;Rustrel;RUSTREL_84_AGG_CP;7.4;7.5
+05/06/17 16:00;FR1405;Eurdep;air;48.51;-2.77;104.1;France;Bretaña;Costas de Armor;Saint-Brieuc;ST-BRIEUC_22_AGG_CP;6.8;7.0
+05/06/17 16:00;FR1406;Eurdep;air;49.11;-1.09;44.8;France;Normandía;Mancha;Saint-Lô;ST-LO_50_AGG_CP;7.6;7.8
+05/06/17 16:00;FR1408;Eurdep;air;49.39;3.34;42.5;France;Hauts-de-France;Aisne;Soissons;SOISSONS_02_AGG_CP;5.9;6.1
+05/06/17 16:00;FR1411;Eurdep;air;43.6;1.45;145.8;France;Occitanie;Alto Garona;Toulouse;TOULOUSE_31_AGG_CP;9.7;9.9
+05/06/17 16:00;FR1412;Eurdep;air;47.39;0.69;0.0;France;0;0;0;TOURS_37_AGG_CP;8.4;8.6
+05/06/17 16:00;FR1413;Eurdep;air;48.3;4.08;111.5;France;Grand Est;Aube;Troyes;TROYES_10_AGG_CP;7.2;7.0
+05/06/17 16:00;FR1415;Eurdep;air;45.55;2.31;638.2;France;Nouvelle-Aquitaine;Corrèze;Ussel;USSEL_19_AGG_CP;12.3;12.0
+05/06/17 16:00;FR1416;Eurdep;air;50.36;3.52;26.9;France;Hauts-de-France;Norte;Valenciennes;VALENCIENNES_59_AGG_CP;7.4;7.6
+05/06/17 16:00;FR1417;Eurdep;air;47.66;-2.76;17.6;France;Bretaña;Morbihan;Vannes;VANNES_56_AGG_CP;11.1;11.0
+05/06/17 16:00;FR1418;Eurdep;air;47.62;6.15;217.0;France;Bourgogne-Franche-Comté;Alto Saona;Vesoul;VESOUL_70_AGG_CP;11.5;11.0
+05/06/17 16:00;FR1421;Eurdep;air;50.14;4.85;148.5;France;Grand Est;Árdenas;Givet;GIVET_08_AGG_CP;9.1;9.3
+05/06/17 16:00;FR1422;Eurdep;air;49.99;4.71;134.7;France;Grand Est;Árdenas;Fumay;FUMAY_08_AGG_CP;7.6;7.8
+05/06/17 16:00;FR1424;Eurdep;air;41.38;2.12;0.0;France;0;0;0;BARCELONE_ET_AGG_CP;10.6;11.0
+05/06/17 16:00;FR1425;Eurdep;air;48.59;3.82;0.0;France;0;0;0;ANGLURE_51_AGG_CP;7.0;7.2
+05/06/17 16:00;FR1426;Eurdep;air;48.27;3.81;130.7;France;Grand Est;Aube;Estissac;ESTISSAC_10_AGG_CP;8.1;8.2
+05/06/17 16:00;FR1427;Eurdep;air;48.48;3.29;83.3;France;Isla de Francia;Sena y Marne;Gouaix;GOUAIX_77_ILE_CP;7.4;7.0
 30/05/17 22:00;FR1428;Eurdep;air;48.66;3.13;132.0;France;Isla de Francia;Sena y Marne;Jouy-le-Châtel;JOUY-LE-CHATEL_77_ILE_CP;0.0;0.0
-05/06/17 03:00;FR1429;Eurdep;air;48.78;3.3;122.2;France;Isla de Francia;Sena y Marne;La Ferté-Gaucher;LA FERTE-GAUCHER_77_ILE_CP;6.2;6.6
-05/06/17 03:00;FR1432;Eurdep;air;48.35;3.26;148.0;France;Bourgogne-Franche-Comté;Yonne;Sergines;SERGINES_89_AGG_CP;9.5;9.6
-05/06/17 03:00;FR1433;Eurdep;air;48.58;3.56;76.1;France;Grand Est;Aube;Villenauxe-la-Grande;VILLENAUXE-LA-GRANDE_10_AGG_CP;6.5;6.8
-05/06/17 03:00;FR1434;Eurdep;air;48.24;3.55;113.8;France;Bourgogne-Franche-Comté;Yonne;Villeneuve-l'Archevêque;VILLENEUVE-L'ARCHEVEQUE_89_AGG_CP;8.1;8.3
-05/06/17 03:00;FR1436;Eurdep;air;47.6;2.03;111.0;France;Centro;Loir y Cher;Lamotte-Beuvron;LAMOTTE-BEUVRON_41_AGG_CP;7.7;8.0
-05/06/17 03:00;FR1445;Eurdep;air;49.71;0.22;39.5;France;Normandía;Sena Marítimo;Étretat;ETRETAT_76_AGG_CP;6.2;6.3
-05/06/17 03:00;FR1447;Eurdep;air;49.81;0.85;60.8;France;Normandía;Sena Marítimo;Fontaine-le-Dun;FONTAINE-LE-DUN_76_AGG_CP;5.9;6.1
-05/06/17 03:00;FR1449;Eurdep;air;49.79;1.11;63.4;France;Normandía;Sena Marítimo;Longueville-sur-Scie;LONGUEVILLE-SUR-SCIE_76_AGG_CP;7.5;7.8
-05/06/17 03:00;FR1450;Eurdep;air;47.42;2.06;109.4;France;Centro;Loir y Cher;Salbris;SALBRIS_41_AGG_CP;8.0;8.3
-05/06/17 03:00;FR1452;Eurdep;air;49.75;0.51;112.0;France;Normandía;Sena Marítimo;Thérouldeville;VALMONT_76_AGG_CP;7.4;7.6
-05/06/17 03:00;FR1473;Eurdep;air;45.48;-0.57;0.0;France;0;0;0;ST-GENIS-DE-SAINTONGE_17_AGG_CP;8.3;8.4
-05/06/17 03:00;FR1474;Eurdep;air;45.42;-0.64;21.0;France;Nouvelle-Aquitaine;Charente Marítimo;Saint-Ciers-du-Taillon;ST-CIERS-DU-TAILLON_17_AGG_CP;6.6;6.8
-05/06/17 03:00;FR2023;Eurdep;air;47.44;2.94;168.7;France;Bourgogne-Franche-Comté;Nièvre;Myennes;BV0KRS933MA_58_SIT_GM;9.9;11.0
+05/06/17 16:00;FR1429;Eurdep;air;48.78;3.3;122.2;France;Isla de Francia;Sena y Marne;La Ferté-Gaucher;LA FERTE-GAUCHER_77_ILE_CP;6.3;6.6
+05/06/17 16:00;FR1432;Eurdep;air;48.35;3.26;148.0;France;Bourgogne-Franche-Comté;Yonne;Sergines;SERGINES_89_AGG_CP;9.5;9.6
+05/06/17 16:00;FR1433;Eurdep;air;48.58;3.56;76.1;France;Grand Est;Aube;Villenauxe-la-Grande;VILLENAUXE-LA-GRANDE_10_AGG_CP;6.6;6.8
+05/06/17 16:00;FR1434;Eurdep;air;48.24;3.55;113.8;France;Bourgogne-Franche-Comté;Yonne;Villeneuve-l'Archevêque;VILLENEUVE-L'ARCHEVEQUE_89_AGG_CP;8.2;8.3
+05/06/17 16:00;FR1436;Eurdep;air;47.6;2.03;111.0;France;Centro;Loir y Cher;Lamotte-Beuvron;LAMOTTE-BEUVRON_41_AGG_CP;7.7;8.0
+05/06/17 16:00;FR1445;Eurdep;air;49.71;0.22;39.5;France;Normandía;Sena Marítimo;Étretat;ETRETAT_76_AGG_CP;6.2;6.4
+05/06/17 16:00;FR1447;Eurdep;air;49.81;0.85;60.8;France;Normandía;Sena Marítimo;Fontaine-le-Dun;FONTAINE-LE-DUN_76_AGG_CP;6.0;6.1
+05/06/17 16:00;FR1449;Eurdep;air;49.79;1.11;63.4;France;Normandía;Sena Marítimo;Longueville-sur-Scie;LONGUEVILLE-SUR-SCIE_76_AGG_CP;7.6;7.8
+05/06/17 16:00;FR1450;Eurdep;air;47.42;2.06;109.4;France;Centro;Loir y Cher;Salbris;SALBRIS_41_AGG_CP;8.2;8.3
+05/06/17 16:00;FR1452;Eurdep;air;49.75;0.51;112.0;France;Normandía;Sena Marítimo;Thérouldeville;VALMONT_76_AGG_CP;7.4;7.6
+05/06/17 16:00;FR1473;Eurdep;air;45.48;-0.57;0.0;France;0;0;0;ST-GENIS-DE-SAINTONGE_17_AGG_CP;8.3;8.4
+05/06/17 16:00;FR1474;Eurdep;air;45.42;-0.64;21.0;France;Nouvelle-Aquitaine;Charente Marítimo;Saint-Ciers-du-Taillon;ST-CIERS-DU-TAILLON_17_AGG_CP;6.6;6.8
+05/06/17 16:00;FR2023;Eurdep;air;47.44;2.94;168.7;France;Bourgogne-Franche-Comté;Nièvre;Myennes;BV0KRS933MA_58_SIT_GM;10.1;10.0
 21/05/17 22:00;FR2057;Eurdep;air;45.35;-0.66;-0.6;France;Nouvelle-Aquitaine;Charente Marítimo;Saint-Bonnet-sur-Gironde;BA0KRS937MA_17_SIT_GM;0.0;0.0
-05/06/17 03:00;FR2089;Eurdep;air;45.73;5.38;348.5;France;Auvergne-Rhône-Alpes;Isère;Courtenay;BU0KRS939MA_38_SIT_GM;7.8;8.0
-05/06/17 02:00;FR2088;Eurdep;air;45.79;5.33;368.1;France;Auvergne-Rhône-Alpes;Isère;Saint-Baudille-de-la-Tour;BU0KRS938MA_38_SIT_GM;7.4;8.0
+05/06/17 16:00;FR2089;Eurdep;air;45.73;5.38;348.5;France;Auvergne-Rhône-Alpes;Isère;Courtenay;BU0KRS939MA_38_SIT_GM;8.0;8.0
+05/06/17 16:00;FR2088;Eurdep;air;45.79;5.33;368.1;France;Auvergne-Rhône-Alpes;Isère;Saint-Baudille-de-la-Tour;BU0KRS938MA_38_SIT_GM;7.5;8.0
 06/05/17 22:00;FR2139;Eurdep;air;47.23;0.16;30.3;France;Centro;Indre y Loira;Avoine;CH0KRS809MA_37_SIT_GM;0.0;0.0
 06/05/17 22:00;FR2140;Eurdep;air;47.23;0.17;38.6;France;Centro;Indre y Loira;Avoine;CH0KRS810MA_37_SIT_GM;0.0;0.0
-05/06/17 02:00;FR2484;Eurdep;air;48.42;3.45;91.6;France;Grand Est;Aube;Traînel;NO0KRS934MA_10_SIT_GM;7.5;8.0
-05/06/17 03:00;FR2522;Eurdep;air;49.79;0.56;100.5;France;Normandía;Sena Marítimo;Criquetot-le-Mauconduit;PA0KRS932MA_76_SIT_GM;8.4;8.0
-05/06/17 02:00;FR2524;Eurdep;air;49.78;0.65;66.2;France;Normandía;Sena Marítimo;Cany-Barville;PA0KRS934MA_76_SIT_GM;7.1;7.0
-05/06/17 03:00;FR2526;Eurdep;air;49.83;0.71;63.8;France;Normandía;Sena Marítimo;Néville;PA0KRS936MA_76_SIT_GM;8.0;8.0
-05/06/17 02:00;FR2528;Eurdep;air;49.85;0.76;73.3;France;Normandía;Sena Marítimo;Manneville-ès-Plains;PA0KRS938MA_76_SIT_GM;8.1;8.0
-05/06/17 03:00;FR2656;Eurdep;air;44.39;4.75;109.2;France;Auvergne-Rhône-Alpes;Drôme;La Garde-Adhémar;TN0KRS936MA_26_SIT_GM;7.7;8.0
-05/06/17 03:00;FR1017;Eurdep;air;48.93;2.36;31.0;France;Isla de Francia;Sena-San Denís;Saint-Denis;ST-DENIS-STADE-DE-FRANCE_93_ILE_CP;5.4;5.5
-05/06/17 03:00;FR1074;Eurdep;air;47.5;2.85;141.7;France;Centro;Cher;Belleville-sur-Loire;SURY-PRES-LERE_18_SIT_CP;9.4;9.7
-05/06/17 02:00;FR2486;Eurdep;air;48.54;3.36;148.0;France;Isla de Francia;Sena y Marne;Sourdun;NO0KRS936MA_77_SIT_GM;8.0;8.0
-05/06/17 03:00;FR1396;Eurdep;air;45.18;0.72;92.1;France;Nouvelle-Aquitaine;Dordoña;Périgueux;PERIGUEUX_24_AGG_CP;7.3;7.4
-05/06/17 03:00;FR1125;Eurdep;air;45.8;5.05;220.8;France;Auvergne-Rhône-Alpes;Ródano;Jonage;JONAGE_69_AGG_CP;6.4;7.0
-05/06/17 03:00;FR1204;Eurdep;air;44.28;0.77;200.5;France;Nouvelle-Aquitaine;Lot y Garona;Laroque-Timbaut;LAROQUE-TIMBAUT_47_AGG_CP;9.0;9.2
-05/06/17 03:00;FR1314;Eurdep;air;45.62;4.68;357.9;France;Auvergne-Rhône-Alpes;Ródano;Mornant;MORNANT_69_AGG_CP;7.1;7.6
-05/06/17 03:00;FR1446;Eurdep;air;45.69;5.04;248.5;France;Auvergne-Rhône-Alpes;Ródano;Saint-Laurent-de-Mure;ST-LAURENT-DE-MURE_69_AGG_CP;7.0;7.3
-05/06/17 03:00;FR1320;Eurdep;air;45.64;4.86;210.7;France;Auvergne-Rhône-Alpes;Ródano;Saint-Symphorien-d'Ozon;ST-SYMPHORIEN-D'OZON_69_AGG_CP;9.3;10.0
-05/06/17 03:00;FR1200;Eurdep;air;44.06;0.65;87.7;France;Nouvelle-Aquitaine;Lot y Garona;Astaffort;ASTAFFORT_47_AGG_CP;8.5;8.0
-05/06/17 03:00;FR1207;Eurdep;air;44.19;0.8;78.1;France;Nouvelle-Aquitaine;Lot y Garona;Puymirol;PUYMIROL_47_AGG_CP;7.5;7.6
+05/06/17 11:00;FR2484;Eurdep;air;48.42;3.45;91.6;France;Grand Est;Aube;Traînel;NO0KRS934MA_10_SIT_GM;7.5;8.0
+05/06/17 16:00;FR2522;Eurdep;air;49.79;0.56;100.5;France;Normandía;Sena Marítimo;Criquetot-le-Mauconduit;PA0KRS932MA_76_SIT_GM;8.6;9.0
+05/06/17 16:00;FR2524;Eurdep;air;49.78;0.65;66.2;France;Normandía;Sena Marítimo;Cany-Barville;PA0KRS934MA_76_SIT_GM;7.0;7.0
+05/06/17 16:00;FR2526;Eurdep;air;49.83;0.71;63.8;France;Normandía;Sena Marítimo;Néville;PA0KRS936MA_76_SIT_GM;8.0;8.0
+05/06/17 16:00;FR2528;Eurdep;air;49.85;0.76;73.3;France;Normandía;Sena Marítimo;Manneville-ès-Plains;PA0KRS938MA_76_SIT_GM;8.2;9.0
+05/06/17 16:00;FR2656;Eurdep;air;44.39;4.75;109.2;France;Auvergne-Rhône-Alpes;Drôme;La Garde-Adhémar;TN0KRS936MA_26_SIT_GM;7.7;8.0
+05/06/17 16:00;FR1017;Eurdep;air;48.93;2.36;31.0;France;Isla de Francia;Sena-San Denís;Saint-Denis;ST-DENIS-STADE-DE-FRANCE_93_ILE_CP;5.5;5.6
+05/06/17 16:00;FR1074;Eurdep;air;47.5;2.85;141.7;France;Centro;Cher;Belleville-sur-Loire;SURY-PRES-LERE_18_SIT_CP;9.5;9.8
+05/06/17 16:00;FR2486;Eurdep;air;48.54;3.36;148.0;France;Isla de Francia;Sena y Marne;Sourdun;NO0KRS936MA_77_SIT_GM;8.8;9.0
+05/06/17 16:00;FR1396;Eurdep;air;45.18;0.72;92.1;France;Nouvelle-Aquitaine;Dordoña;Périgueux;PERIGUEUX_24_AGG_CP;7.3;7.4
+05/06/17 16:00;FR1125;Eurdep;air;45.8;5.05;220.8;France;Auvergne-Rhône-Alpes;Ródano;Jonage;JONAGE_69_AGG_CP;6.3;6.5
+05/06/17 16:00;FR1204;Eurdep;air;44.28;0.77;200.5;France;Nouvelle-Aquitaine;Lot y Garona;Laroque-Timbaut;LAROQUE-TIMBAUT_47_AGG_CP;9.0;9.2
+05/06/17 16:00;FR1314;Eurdep;air;45.62;4.68;357.9;France;Auvergne-Rhône-Alpes;Ródano;Mornant;MORNANT_69_AGG_CP;7.1;7.0
+05/06/17 16:00;FR1446;Eurdep;air;45.69;5.04;248.5;France;Auvergne-Rhône-Alpes;Ródano;Saint-Laurent-de-Mure;ST-LAURENT-DE-MURE_69_AGG_CP;7.0;7.2
+05/06/17 16:00;FR1320;Eurdep;air;45.64;4.86;210.7;France;Auvergne-Rhône-Alpes;Ródano;Saint-Symphorien-d'Ozon;ST-SYMPHORIEN-D'OZON_69_AGG_CP;9.2;9.4
+05/06/17 16:00;FR1200;Eurdep;air;44.06;0.65;87.7;France;Nouvelle-Aquitaine;Lot y Garona;Astaffort;ASTAFFORT_47_AGG_CP;8.5;8.6
+05/06/17 16:00;FR1207;Eurdep;air;44.19;0.8;78.1;France;Nouvelle-Aquitaine;Lot y Garona;Puymirol;PUYMIROL_47_AGG_CP;7.5;7.7
 22/05/17 22:00;FR2527;Eurdep;air;49.84;0.75;75.4;France;Normandía;Sena Marítimo;Gueutteville-les-Grès;PA0KRS937MA_76_SIT_GM;0.0;0.0
-05/06/17 03:00;FR1475;Eurdep;air;49.41;6.24;157.2;France;Grand Est;Mosela;Cattenom;CATTENOM_57_SIT_CP;15.8;16.0
-05/06/17 03:00;FR1247;Eurdep;air;44.01;4.86;20.5;France;Provenza-Alpes-Costa Azul;Vaucluse;Sorgues;SORGUES_84_AGG_CP;6.5;6.6
-05/06/17 03:00;FR1256;Eurdep;air;48.72;3.55;183.7;France;Grand Est;Marne;Esternay;ESTERNAY_51_AGG_CP;11.0;11.0
-05/06/17 03:00;FR1160;Eurdep;air;49.88;4.74;142.9;France;Grand Est;Árdenas;Monthermé;MONTHERME_08_AGG_CP;9.2;9.4
-05/06/17 03:00;FR2531;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS801MA_76_SIT_GM;5.5;5.8
-05/06/17 03:00;FR2532;Eurdep;air;49.97;1.23;0.0;France;0;0;0;PY0KRS802MA_76_SIT_GM;5.9;6.4
-05/06/17 03:00;FR2533;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS803MA_76_SIT_GM;7.2;7.6
-05/06/17 03:00;FR2534;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS804MA_76_SIT_GM;6.4;6.8
-05/06/17 03:00;FR2535;Eurdep;air;49.97;1.21;0.0;France;0;0;0;PY0KRS805MA_76_SIT_GM;6.4;6.8
-05/06/17 03:00;FR2536;Eurdep;air;49.98;1.21;0.0;France;0;0;0;PY0KRS806MA_76_SIT_GM;12.4;13.0
-05/06/17 03:00;FR2537;Eurdep;air;49.98;1.21;0.0;France;0;0;0;PY0KRS807MA_76_SIT_GM;5.1;5.4
-05/06/17 03:00;FR2538;Eurdep;air;49.98;1.21;0.0;France;0;0;0;PY0KRS808MA_76_SIT_GM;5.3;5.8
-05/06/17 03:00;FR2539;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS809MA_76_SIT_GM;5.5;6.1
-05/06/17 03:00;FR2540;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS810MA_76_SIT_GM;5.5;6.0
-05/06/17 03:00;FR2541;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS921MA_76_SIT_GM;5.4;5.6
-05/06/17 03:00;FR2542;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS922MA_76_SIT_GM;7.2;7.5
-05/06/17 03:00;FR2543;Eurdep;air;49.97;1.21;0.0;France;0;0;0;PY0KRS923MA_76_SIT_GM;5.8;6.0
-05/06/17 03:00;FR2544;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS924MA_76_SIT_GM;5.9;6.0
-05/06/17 03:00;FR2545;Eurdep;air;50.03;1.33;0.0;France;0;0;0;PY0KRS911MA_76_SIT_GM;6.5;7.1
-05/06/17 03:00;FR2546;Eurdep;air;49.91;1.28;0.0;France;0;0;0;PY0KRS912MA_76_SIT_GM;7.4;7.9
-05/06/17 03:00;FR2551;Eurdep;air;50.01;1.32;0.0;France;0;0;0;PY0KRS931MA_76_SIT_GM;5.8;6.0
-05/06/17 03:00;FR2547;Eurdep;air;49.93;1.11;0.0;France;0;0;0;PY0KRS913MA_76_SIT_GM;7.5;8.1
-05/06/17 03:00;FR2552;Eurdep;air;49.93;1.31;0.0;France;0;0;0;PY0KRS932MA_76_SIT_GM;6.8;7.0
-05/06/17 03:00;FR2553;Eurdep;air;49.91;1.28;0.0;France;0;0;0;PY0KRS933MA_76_SIT_GM;7.4;7.0
-05/06/17 02:00;FR2554;Eurdep;air;49.88;1.21;0.0;France;0;0;0;PY0KRS934MA_76_SIT_GM;8.1;8.0
-05/06/17 03:00;FR2555;Eurdep;air;49.92;1.14;0.0;France;0;0;0;PY0KRS935MA_76_SIT_GM;7.8;8.0
-05/06/17 02:00;FR2556;Eurdep;air;49.93;1.11;0.0;France;0;0;0;PY0KRS936MA_76_SIT_GM;7.5;7.0
-05/06/17 03:00;FR1008;Eurdep;air;-12.8;45.28;26.0;France;Pamandzi;;Pamanzi;PAMANDZI-MAYOTTE_976_AGG_CP;8.1;8.3
-05/06/17 03:00;FR1178;Eurdep;air;44.91;5.02;218.7;France;Auvergne-Rhône-Alpes;Drôme;Chabeuil;CHABEUIL_26_AGG_CP;8.0;8.7
-05/06/17 03:00;FR2614;Eurdep;air;47.73;1.57;92.4;France;Centro;Loir y Cher;Avaray;LB0KRS924MA_41_SIT_GM;9.7;10.0
-05/06/17 03:00;FR2612;Eurdep;air;47.72;1.55;94.6;France;Centro;Loir y Cher;Avaray;LB0KRS922MA_41_SIT_GM;10.8;11.0
-05/06/17 03:00;FR1180;Eurdep;air;44.72;5.03;214.0;France;Auvergne-Rhône-Alpes;Drôme;Crest;CREST_26_AGG_CP;7.5;7.0
-05/06/17 03:00;FR1443;Eurdep;air;45.82;4.87;266.6;France;Auvergne-Rhône-Alpes;Ródano;Sathonay-Camp;SATHONAY-CAMP_69_AGG_CP;6.2;6.8
-05/06/17 03:00;FR1181;Eurdep;air;44.53;5.06;417.9;France;Auvergne-Rhône-Alpes;Drôme;Dieulefit;DIEULEFIT_26_AGG_CP;9.3;9.4
-05/06/17 03:00;FR1182;Eurdep;air;44.54;4.93;220.2;France;Auvergne-Rhône-Alpes;Drôme;La Bégude-de-Mazenc;LA BEGUDE-DE-MAZENC_26_AGG_CP;7.7;7.8
-05/06/17 03:00;FR1184;Eurdep;air;44.75;4.82;115.8;France;Auvergne-Rhône-Alpes;Drôme;Loriol-sur-Drôme;LORIOL-SUR-DROME_26_AGG_CP;6.3;6.4
-05/06/17 03:00;FR1253;Eurdep;air;44.42;4.91;196.5;France;Auvergne-Rhône-Alpes;Drôme;Grignan;GRIGNAN_26_AGG_CP;7.8;8.0
-05/06/17 03:00;FR1054;Eurdep;air;45.88;6.89;0.0;France;0;0;0;AIGUILLE-DU-MIDI_74_SOM_CP;24.3;25.0
-05/06/17 03:00;FR1185;Eurdep;air;44.63;4.98;333.3;France;Auvergne-Rhône-Alpes;Drôme;Puy-Saint-Martin;PUY-SAINT-MARTIN_26_AGG_CP;7.0;7.5
-05/06/17 03:00;FR1248;Eurdep;air;45.06;5.04;168.7;France;Auvergne-Rhône-Alpes;Drôme;Romans-sur-Isère;ROMANS-SUR-ISERE_26_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1250;Eurdep;air;44.24;5.06;244.4;France;Provenza-Alpes-Costa Azul;Vaucluse;Vaison-la-Romaine;VAISON-LA-ROMAINE_84_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1280;Eurdep;air;43.96;4.93;56.9;France;Provenza-Alpes-Costa Azul;Vaucluse;Saint-Saturnin-lès-Avignon;ST-SATURNIN-LES-AVIGNON_84_AGG_CP;6.4;6.6
-05/06/17 03:00;FR1431;Eurdep;air;44.36;4.78;91.3;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;ST-PAUL-TROIS-CHATEAUX_26_SIT_CP;7.5;7.6
-05/06/17 03:00;FR1325;Eurdep;air;45.17;4.82;127.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Vallier;ST-VALLIER_26_AGG_CP;7.6;8.4
-05/06/17 03:00;FR2561;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS801MA_38_SIT_GM;7.4;8.8
-05/06/17 03:00;FR2562;Eurdep;air;45.4;4.75;0.0;France;0;0;0;SA0KRS802MA_38_SIT_GM;10.2;10.0
-05/06/17 03:00;FR2563;Eurdep;air;45.4;4.75;0.0;France;0;0;0;SA0KRS803MA_38_SIT_GM;8.9;9.5
-05/06/17 03:00;FR2564;Eurdep;air;45.41;4.75;0.0;France;0;0;0;SA0KRS804MA_38_SIT_GM;7.0;7.6
-05/06/17 03:00;FR2565;Eurdep;air;45.41;4.75;0.0;France;0;0;0;SA0KRS805MA_38_SIT_GM;8.9;9.5
-05/06/17 03:00;FR2566;Eurdep;air;45.41;4.76;0.0;France;0;0;0;SA0KRS806MA_38_SIT_GM;9.0;9.9
-05/06/17 03:00;FR2567;Eurdep;air;45.41;4.76;0.0;France;0;0;0;SA0KRS807MA_38_SIT_GM;7.5;8.2
-05/06/17 03:00;FR2568;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS808MA_38_SIT_GM;7.3;8.2
-05/06/17 03:00;FR2569;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS809MA_38_SIT_GM;9.8;10.0
-05/06/17 03:00;FR2570;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS810MA_38_SIT_GM;8.2;9.4
-05/06/17 03:00;FR2571;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS921MA_38_SIT_GM;7.3;8.2
-05/06/17 03:00;FR2572;Eurdep;air;45.41;4.75;0.0;France;0;0;0;SA0KRS922MA_38_SIT_GM;6.4;6.9
-05/06/17 03:00;FR2573;Eurdep;air;45.41;4.76;0.0;France;0;0;0;SA0KRS923MA_38_SIT_GM;8.4;9.1
-05/06/17 03:00;FR2574;Eurdep;air;45.4;4.77;0.0;France;0;0;0;SA0KRS924MA_38_SIT_GM;8.3;9.6
-05/06/17 03:00;FR2575;Eurdep;air;45.44;4.77;0.0;France;0;0;0;SA0KRS911MA_38_SIT_GM;7.4;7.0
-05/06/17 03:00;FR2576;Eurdep;air;45.37;4.81;0.0;France;0;0;0;SA0KRS912MA_38_SIT_GM;8.5;9.2
-05/06/17 03:00;FR2577;Eurdep;air;45.39;4.75;0.0;France;0;0;0;SA0KRS913MA_42_SIT_GM;10.7;11.0
-05/06/17 03:00;FR2578;Eurdep;air;45.42;4.68;0.0;France;0;0;0;SA0KRS914MA_42_SIT_GM;19.7;21.0
-05/06/17 02:00;FR2581;Eurdep;air;45.32;4.76;0.0;France;0;0;0;SA0KRS931MA_07_SIT_GM;10.3;10.0
-05/06/17 03:00;FR2582;Eurdep;air;45.33;4.71;0.0;France;0;0;0;SA0KRS932MA_07_SIT_GM;15.9;16.0
-05/06/17 03:00;FR2583;Eurdep;air;45.37;4.66;0.0;France;0;0;0;SA0KRS933MA_42_SIT_GM;13.0;14.0
-05/06/17 02:00;FR2584;Eurdep;air;45.42;4.64;0.0;France;0;0;0;SA0KRS934MA_42_SIT_GM;13.0;14.0
-05/06/17 03:00;FR2585;Eurdep;air;45.47;4.68;0.0;France;0;0;0;SA0KRS935MA_42_SIT_GM;12.6;14.0
-05/06/17 02:00;FR2586;Eurdep;air;45.48;4.79;0.0;France;0;0;0;SA0KRS936MA_69_SIT_GM;10.0;12.0
-05/06/17 03:00;FR2587;Eurdep;air;45.47;4.84;0.0;France;0;0;0;SA0KRS937MA_38_SIT_GM;9.6;10.0
-05/06/17 03:00;FR2588;Eurdep;air;45.41;4.87;0.0;France;0;0;0;SA0KRS938MA_38_SIT_GM;7.8;9.0
-05/06/17 03:00;FR2589;Eurdep;air;45.36;4.86;0.0;France;0;0;0;SA0KRS939MA_38_SIT_GM;8.8;10.0
-05/06/17 03:00;FR2590;Eurdep;air;45.34;4.82;0.0;France;0;0;0;SA0KRS940MA_38_SIT_GM;8.0;9.0
-05/06/17 03:00;FR1304;Eurdep;air;44.29;4.84;93.4;France;Auvergne-Rhône-Alpes;Drôme;Suze-la-Rousse;SUZE-LA-ROUSSE_26_AGG_CP;7.5;7.7
-05/06/17 03:00;FR1317;Eurdep;air;45.49;4.44;519.1;France;Auvergne-Rhône-Alpes;Loira;Sorbiers;SORBIERS_42_AGG_CP;12.2;12.0
-05/06/17 03:00;FR1319;Eurdep;air;45.49;4.58;364.4;France;Auvergne-Rhône-Alpes;Loira;Saint-Paul-en-Jarez;ST-PAUL-EN-JAREZ_42_AGG_CP;10.2;10.0
-05/06/17 03:00;FR1000;Eurdep;air;35.65;139.73;22.6;France;Tokio;;Minato;TOKYO-JAPON_ET_AGG_CP;6.0;6.1
-05/06/17 03:00;FR1041;Eurdep;air;44.1;3.09;354.9;France;Occitanie;Aveyron;Millau;MILLAU_12_AGG_CP;7.9;8.0
-05/06/17 03:00;FR1191;Eurdep;air;49.51;-1.82;114.6;France;Normandía;Mancha;Les Pieux;LES PIEUX_50_AGG_CP;7.9;8.0
-05/06/17 03:00;FR1195;Eurdep;air;49.67;-1.4;68.6;France;Normandía;Mancha;Saint-Pierre-Église;ST-PIERRE-EGLISE_50_AGG_CP;9.2;9.3
-05/06/17 03:00;FR2261;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS801MA_07_SIT_GM;7.4;7.0
-05/06/17 03:00;FR2262;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS802MA_07_SIT_GM;6.8;7.2
-05/06/17 03:00;FR2263;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS803MA_07_SIT_GM;8.2;8.8
-05/06/17 03:00;FR2264;Eurdep;air;44.64;4.75;79.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS804MA_07_SIT_GM;8.0;8.6
-05/06/17 03:00;FR2265;Eurdep;air;44.64;4.75;79.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS805MA_07_SIT_GM;8.0;8.5
-05/06/17 03:00;FR2266;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS806MA_07_SIT_GM;8.3;8.8
-05/06/17 03:00;FR2267;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS807MA_07_SIT_GM;11.0;11.0
-05/06/17 03:00;FR2268;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS808MA_07_SIT_GM;7.8;8.5
-05/06/17 03:00;FR2269;Eurdep;air;44.63;4.76;77.6;France;Auvergne-Rhône-Alpes;Drôme;La Coucourde;CS0KRS809MA_07_SIT_GM;7.9;8.0
-05/06/17 03:00;FR2270;Eurdep;air;44.63;4.76;77.6;France;Auvergne-Rhône-Alpes;Drôme;La Coucourde;CS0KRS810MA_07_SIT_GM;8.7;9.0
-05/06/17 03:00;FR2271;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS921MA_07_SIT_GM;7.2;7.0
-05/06/17 03:00;FR2272;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS922MA_07_SIT_GM;7.1;7.4
-05/06/17 03:00;FR2273;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS923MA_07_SIT_GM;8.0;8.0
-05/06/17 03:00;FR2274;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS924MA_07_SIT_GM;6.3;6.6
-05/06/17 03:00;FR2275;Eurdep;air;44.66;4.76;199.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS911MA_07_SIT_GM;7.3;7.7
-05/06/17 03:00;FR2276;Eurdep;air;44.7;4.8;107.3;France;Auvergne-Rhône-Alpes;Drôme;Saulce-sur-Rhône;CS0KRS912MA_26_SIT_GM;7.7;8.2
-05/06/17 03:00;FR2277;Eurdep;air;44.57;4.77;146.7;France;Auvergne-Rhône-Alpes;Drôme;Montélimar;CS0KRS913MA_26_SIT_GM;7.9;8.5
-05/06/17 03:00;FR2278;Eurdep;air;44.61;4.72;87.8;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS914MA_07_SIT_GM;10.3;11.0
-05/06/17 03:00;FR2281;Eurdep;air;44.7;4.84;186.9;France;Auvergne-Rhône-Alpes;Drôme;Mirmande;CS0KRS931MA_26_SIT_GM;6.6;7.0
-05/06/17 02:00;FR2282;Eurdep;air;44.64;4.88;220.4;France;Auvergne-Rhône-Alpes;Drôme;Marsanne;CS0KRS932MA_26_SIT_GM;6.6;7.0
-05/06/17 03:00;FR2283;Eurdep;air;44.59;4.88;148.0;France;Auvergne-Rhône-Alpes;Drôme;Bonlieu-sur-Roubion;CS0KRS933MA_26_SIT_GM;7.0;7.0
-05/06/17 03:00;FR2284;Eurdep;air;44.55;4.81;0.0;France;0;0;0;CS0KRS934MA_07_SIT_GM;7.6;8.0
-05/06/17 03:00;FR2285;Eurdep;air;44.54;4.76;93.2;France;Auvergne-Rhône-Alpes;Drôme;Montélimar;CS0KRS935MA_07_SIT_GM;8.6;9.0
-05/06/17 03:00;FR2286;Eurdep;air;44.55;4.68;89.9;France;Auvergne-Rhône-Alpes;Ardèche;Le Teil;CS0KRS936MA_07_SIT_GM;8.0;8.0
-05/06/17 03:00;FR2288;Eurdep;air;44.65;4.62;453.5;France;Auvergne-Rhône-Alpes;Ardèche;Saint-Pierre-la-Roche;CS0KRS938MA_26_SIT_GM;10.2;11.0
+05/06/17 16:00;FR1475;Eurdep;air;49.41;6.24;157.2;France;Grand Est;Mosela;Cattenom;CATTENOM_57_SIT_CP;15.9;16.0
+05/06/17 16:00;FR1247;Eurdep;air;44.01;4.86;20.5;France;Provenza-Alpes-Costa Azul;Vaucluse;Sorgues;SORGUES_84_AGG_CP;6.5;6.6
+05/06/17 16:00;FR1256;Eurdep;air;48.72;3.55;183.7;France;Grand Est;Marne;Esternay;ESTERNAY_51_AGG_CP;11.1;11.0
+05/06/17 16:00;FR1160;Eurdep;air;49.88;4.74;142.9;France;Grand Est;Árdenas;Monthermé;MONTHERME_08_AGG_CP;9.2;9.5
+05/06/17 16:00;FR2531;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS801MA_76_SIT_GM;5.7;6.2
+05/06/17 16:00;FR2532;Eurdep;air;49.97;1.23;0.0;France;0;0;0;PY0KRS802MA_76_SIT_GM;6.0;6.0
+05/06/17 16:00;FR2533;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS803MA_76_SIT_GM;7.5;7.9
+05/06/17 16:00;FR2534;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS804MA_76_SIT_GM;6.5;7.0
+05/06/17 16:00;FR2535;Eurdep;air;49.97;1.21;0.0;France;0;0;0;PY0KRS805MA_76_SIT_GM;6.5;7.2
+05/06/17 16:00;FR2536;Eurdep;air;49.98;1.21;0.0;France;0;0;0;PY0KRS806MA_76_SIT_GM;12.4;13.0
+05/06/17 16:00;FR2537;Eurdep;air;49.98;1.21;0.0;France;0;0;0;PY0KRS807MA_76_SIT_GM;5.1;5.6
+05/06/17 16:00;FR2538;Eurdep;air;49.98;1.21;0.0;France;0;0;0;PY0KRS808MA_76_SIT_GM;5.4;6.2
+05/06/17 16:00;FR2539;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS809MA_76_SIT_GM;5.5;6.0
+05/06/17 16:00;FR2540;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS810MA_76_SIT_GM;5.5;6.0
+05/06/17 16:00;FR2541;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS921MA_76_SIT_GM;5.5;5.6
+05/06/17 16:00;FR2542;Eurdep;air;49.97;1.22;0.0;France;0;0;0;PY0KRS922MA_76_SIT_GM;7.4;7.6
+05/06/17 16:00;FR2543;Eurdep;air;49.97;1.21;0.0;France;0;0;0;PY0KRS923MA_76_SIT_GM;5.9;6.2
+05/06/17 16:00;FR2544;Eurdep;air;49.98;1.22;0.0;France;0;0;0;PY0KRS924MA_76_SIT_GM;6.0;6.2
+05/06/17 16:00;FR2545;Eurdep;air;50.03;1.33;0.0;France;0;0;0;PY0KRS911MA_76_SIT_GM;6.6;7.1
+05/06/17 16:00;FR2546;Eurdep;air;49.91;1.28;0.0;France;0;0;0;PY0KRS912MA_76_SIT_GM;7.6;8.1
+05/06/17 16:00;FR2551;Eurdep;air;50.01;1.32;0.0;France;0;0;0;PY0KRS931MA_76_SIT_GM;5.0;6.0
+05/06/17 16:00;FR2547;Eurdep;air;49.93;1.11;0.0;France;0;0;0;PY0KRS913MA_76_SIT_GM;7.6;8.0
+05/06/17 16:00;FR2552;Eurdep;air;49.93;1.31;0.0;France;0;0;0;PY0KRS932MA_76_SIT_GM;6.0;7.0
+05/06/17 16:00;FR2553;Eurdep;air;49.91;1.28;0.0;France;0;0;0;PY0KRS933MA_76_SIT_GM;7.6;8.0
+05/06/17 16:00;FR2554;Eurdep;air;49.88;1.21;0.0;France;0;0;0;PY0KRS934MA_76_SIT_GM;8.2;8.0
+05/06/17 15:00;FR2555;Eurdep;air;49.92;1.14;0.0;France;0;0;0;PY0KRS935MA_76_SIT_GM;8.0;8.0
+05/06/17 15:00;FR2556;Eurdep;air;49.93;1.11;0.0;France;0;0;0;PY0KRS936MA_76_SIT_GM;7.6;8.0
+05/06/17 16:00;FR1008;Eurdep;air;-12.8;45.28;26.0;France;Pamandzi;;Pamanzi;PAMANDZI-MAYOTTE_976_AGG_CP;8.0;8.3
+05/06/17 16:00;FR1178;Eurdep;air;44.91;5.02;218.7;France;Auvergne-Rhône-Alpes;Drôme;Chabeuil;CHABEUIL_26_AGG_CP;8.4;8.6
+05/06/17 16:00;FR2614;Eurdep;air;47.73;1.57;92.4;France;Centro;Loir y Cher;Avaray;LB0KRS924MA_41_SIT_GM;9.8;10.0
+05/06/17 16:00;FR2612;Eurdep;air;47.72;1.55;94.6;France;Centro;Loir y Cher;Avaray;LB0KRS922MA_41_SIT_GM;11.0;11.0
+05/06/17 16:00;FR1180;Eurdep;air;44.72;5.03;214.0;France;Auvergne-Rhône-Alpes;Drôme;Crest;CREST_26_AGG_CP;7.5;7.0
+05/06/17 16:00;FR1443;Eurdep;air;45.82;4.87;266.6;France;Auvergne-Rhône-Alpes;Ródano;Sathonay-Camp;SATHONAY-CAMP_69_AGG_CP;6.2;6.0
+05/06/17 16:00;FR1181;Eurdep;air;44.53;5.06;417.9;France;Auvergne-Rhône-Alpes;Drôme;Dieulefit;DIEULEFIT_26_AGG_CP;9.3;9.4
+05/06/17 16:00;FR1182;Eurdep;air;44.54;4.93;220.2;France;Auvergne-Rhône-Alpes;Drôme;La Bégude-de-Mazenc;LA BEGUDE-DE-MAZENC_26_AGG_CP;7.8;8.0
+05/06/17 16:00;FR1184;Eurdep;air;44.75;4.82;115.8;France;Auvergne-Rhône-Alpes;Drôme;Loriol-sur-Drôme;LORIOL-SUR-DROME_26_AGG_CP;6.3;6.4
+05/06/17 16:00;FR1253;Eurdep;air;44.42;4.91;196.5;France;Auvergne-Rhône-Alpes;Drôme;Grignan;GRIGNAN_26_AGG_CP;7.9;8.0
+05/06/17 16:00;FR1054;Eurdep;air;45.88;6.89;0.0;France;0;0;0;AIGUILLE-DU-MIDI_74_SOM_CP;24.4;25.0
+05/06/17 16:00;FR1185;Eurdep;air;44.63;4.98;333.3;France;Auvergne-Rhône-Alpes;Drôme;Puy-Saint-Martin;PUY-SAINT-MARTIN_26_AGG_CP;7.4;7.5
+05/06/17 16:00;FR1248;Eurdep;air;45.06;5.04;168.7;France;Auvergne-Rhône-Alpes;Drôme;Romans-sur-Isère;ROMANS-SUR-ISERE_26_AGG_CP;7.3;7.4
+05/06/17 16:00;FR1250;Eurdep;air;44.24;5.06;244.4;France;Provenza-Alpes-Costa Azul;Vaucluse;Vaison-la-Romaine;VAISON-LA-ROMAINE_84_AGG_CP;7.2;7.3
+05/06/17 16:00;FR1280;Eurdep;air;43.96;4.93;56.9;France;Provenza-Alpes-Costa Azul;Vaucluse;Saint-Saturnin-lès-Avignon;ST-SATURNIN-LES-AVIGNON_84_AGG_CP;6.4;6.5
+05/06/17 16:00;FR1431;Eurdep;air;44.36;4.78;91.3;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;ST-PAUL-TROIS-CHATEAUX_26_SIT_CP;7.5;7.7
+05/06/17 16:00;FR1325;Eurdep;air;45.17;4.82;127.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Vallier;ST-VALLIER_26_AGG_CP;7.5;7.6
+05/06/17 16:00;FR2561;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS801MA_38_SIT_GM;7.4;7.8
+05/06/17 16:00;FR2562;Eurdep;air;45.4;4.75;0.0;France;0;0;0;SA0KRS802MA_38_SIT_GM;10.3;11.0
+05/06/17 16:00;FR2563;Eurdep;air;45.4;4.75;0.0;France;0;0;0;SA0KRS803MA_38_SIT_GM;9.0;9.5
+05/06/17 16:00;FR2564;Eurdep;air;45.41;4.75;0.0;France;0;0;0;SA0KRS804MA_38_SIT_GM;7.1;7.7
+05/06/17 16:00;FR2565;Eurdep;air;45.41;4.75;0.0;France;0;0;0;SA0KRS805MA_38_SIT_GM;8.8;9.2
+05/06/17 16:00;FR2566;Eurdep;air;45.41;4.76;0.0;France;0;0;0;SA0KRS806MA_38_SIT_GM;8.9;9.4
+05/06/17 16:00;FR2567;Eurdep;air;45.41;4.76;0.0;France;0;0;0;SA0KRS807MA_38_SIT_GM;7.6;8.2
+05/06/17 16:00;FR2568;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS808MA_38_SIT_GM;7.1;7.6
+05/06/17 16:00;FR2569;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS809MA_38_SIT_GM;9.8;10.0
+05/06/17 16:00;FR2570;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS810MA_38_SIT_GM;8.0;9.0
+05/06/17 16:00;FR2571;Eurdep;air;45.4;4.76;0.0;France;0;0;0;SA0KRS921MA_38_SIT_GM;7.3;7.5
+05/06/17 16:00;FR2572;Eurdep;air;45.41;4.75;0.0;France;0;0;0;SA0KRS922MA_38_SIT_GM;6.4;6.6
+05/06/17 16:00;FR2573;Eurdep;air;45.41;4.76;0.0;France;0;0;0;SA0KRS923MA_38_SIT_GM;8.4;8.0
+05/06/17 16:00;FR2574;Eurdep;air;45.4;4.77;0.0;France;0;0;0;SA0KRS924MA_38_SIT_GM;8.2;8.5
+05/06/17 16:00;FR2575;Eurdep;air;45.44;4.77;0.0;France;0;0;0;SA0KRS911MA_38_SIT_GM;7.3;8.0
+05/06/17 16:00;FR2576;Eurdep;air;45.37;4.81;0.0;France;0;0;0;SA0KRS912MA_38_SIT_GM;8.6;9.4
+05/06/17 16:00;FR2577;Eurdep;air;45.39;4.75;0.0;France;0;0;0;SA0KRS913MA_42_SIT_GM;10.8;11.0
+05/06/17 16:00;FR2578;Eurdep;air;45.42;4.68;0.0;France;0;0;0;SA0KRS914MA_42_SIT_GM;20.0;21.0
+05/06/17 15:00;FR2581;Eurdep;air;45.32;4.76;0.0;France;0;0;0;SA0KRS931MA_07_SIT_GM;10.3;11.0
+05/06/17 16:00;FR2582;Eurdep;air;45.33;4.71;0.0;France;0;0;0;SA0KRS932MA_07_SIT_GM;15.9;16.0
+05/06/17 16:00;FR2583;Eurdep;air;45.37;4.66;0.0;France;0;0;0;SA0KRS933MA_42_SIT_GM;13.7;14.0
+05/06/17 15:00;FR2584;Eurdep;air;45.42;4.64;0.0;France;0;0;0;SA0KRS934MA_42_SIT_GM;13.1;13.0
+05/06/17 15:00;FR2585;Eurdep;air;45.47;4.68;0.0;France;0;0;0;SA0KRS935MA_42_SIT_GM;12.6;13.0
+05/06/17 16:00;FR2586;Eurdep;air;45.48;4.79;0.0;France;0;0;0;SA0KRS936MA_69_SIT_GM;10.7;11.0
+05/06/17 15:00;FR2587;Eurdep;air;45.47;4.84;0.0;France;0;0;0;SA0KRS937MA_38_SIT_GM;9.6;10.0
+05/06/17 15:00;FR2588;Eurdep;air;45.41;4.87;0.0;France;0;0;0;SA0KRS938MA_38_SIT_GM;7.8;8.0
+05/06/17 16:00;FR2589;Eurdep;air;45.36;4.86;0.0;France;0;0;0;SA0KRS939MA_38_SIT_GM;8.7;9.0
+05/06/17 16:00;FR2590;Eurdep;air;45.34;4.82;0.0;France;0;0;0;SA0KRS940MA_38_SIT_GM;7.8;8.0
+05/06/17 16:00;FR1304;Eurdep;air;44.29;4.84;93.4;France;Auvergne-Rhône-Alpes;Drôme;Suze-la-Rousse;SUZE-LA-ROUSSE_26_AGG_CP;7.5;7.7
+05/06/17 16:00;FR1317;Eurdep;air;45.49;4.44;519.1;France;Auvergne-Rhône-Alpes;Loira;Sorbiers;SORBIERS_42_AGG_CP;12.2;12.0
+05/06/17 16:00;FR1319;Eurdep;air;45.49;4.58;364.4;France;Auvergne-Rhône-Alpes;Loira;Saint-Paul-en-Jarez;ST-PAUL-EN-JAREZ_42_AGG_CP;10.3;10.0
+05/06/17 16:00;FR1000;Eurdep;air;35.65;139.73;22.6;France;Tokio;;Minato;TOKYO-JAPON_ET_AGG_CP;6.1;6.9
+05/06/17 16:00;FR1041;Eurdep;air;44.1;3.09;354.9;France;Occitanie;Aveyron;Millau;MILLAU_12_AGG_CP;7.9;8.0
+05/06/17 16:00;FR1191;Eurdep;air;49.51;-1.82;114.6;France;Normandía;Mancha;Les Pieux;LES PIEUX_50_AGG_CP;8.0;8.2
+05/06/17 16:00;FR1195;Eurdep;air;49.67;-1.4;68.6;France;Normandía;Mancha;Saint-Pierre-Église;ST-PIERRE-EGLISE_50_AGG_CP;9.2;9.5
+05/06/17 16:00;FR2261;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS801MA_07_SIT_GM;7.5;8.0
+05/06/17 16:00;FR2262;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS802MA_07_SIT_GM;6.9;7.0
+05/06/17 16:00;FR2263;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS803MA_07_SIT_GM;8.0;8.8
+05/06/17 16:00;FR2264;Eurdep;air;44.64;4.75;79.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS804MA_07_SIT_GM;8.1;8.8
+05/06/17 16:00;FR2265;Eurdep;air;44.64;4.75;79.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS805MA_07_SIT_GM;8.2;8.6
+05/06/17 16:00;FR2266;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS806MA_07_SIT_GM;8.4;8.7
+05/06/17 16:00;FR2267;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS807MA_07_SIT_GM;11.2;12.0
+05/06/17 16:00;FR2268;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS808MA_07_SIT_GM;7.8;8.4
+05/06/17 16:00;FR2269;Eurdep;air;44.63;4.76;77.6;France;Auvergne-Rhône-Alpes;Drôme;La Coucourde;CS0KRS809MA_07_SIT_GM;7.9;8.4
+05/06/17 16:00;FR2270;Eurdep;air;44.63;4.76;77.6;France;Auvergne-Rhône-Alpes;Drôme;La Coucourde;CS0KRS810MA_07_SIT_GM;8.8;9.0
+05/06/17 16:00;FR2271;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS921MA_07_SIT_GM;7.2;7.0
+05/06/17 16:00;FR2272;Eurdep;air;44.63;4.75;77.1;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS922MA_07_SIT_GM;7.1;7.4
+05/06/17 16:00;FR2273;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS923MA_07_SIT_GM;8.1;8.3
+05/06/17 16:00;FR2274;Eurdep;air;44.64;4.76;78.5;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS924MA_07_SIT_GM;6.3;6.6
+05/06/17 16:00;FR2275;Eurdep;air;44.66;4.76;199.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CS0KRS911MA_07_SIT_GM;7.4;7.9
+05/06/17 16:00;FR2276;Eurdep;air;44.7;4.8;107.3;France;Auvergne-Rhône-Alpes;Drôme;Saulce-sur-Rhône;CS0KRS912MA_26_SIT_GM;7.7;8.4
+05/06/17 16:00;FR2277;Eurdep;air;44.57;4.77;146.7;France;Auvergne-Rhône-Alpes;Drôme;Montélimar;CS0KRS913MA_26_SIT_GM;7.9;8.5
+05/06/17 16:00;FR2278;Eurdep;air;44.61;4.72;87.8;France;Auvergne-Rhône-Alpes;Ardèche;Meysse;CS0KRS914MA_07_SIT_GM;10.2;10.0
+05/06/17 16:00;FR2281;Eurdep;air;44.7;4.84;186.9;France;Auvergne-Rhône-Alpes;Drôme;Mirmande;CS0KRS931MA_26_SIT_GM;6.7;7.0
+05/06/17 15:00;FR2282;Eurdep;air;44.64;4.88;220.4;France;Auvergne-Rhône-Alpes;Drôme;Marsanne;CS0KRS932MA_26_SIT_GM;6.6;7.0
+05/06/17 16:00;FR2283;Eurdep;air;44.59;4.88;148.0;France;Auvergne-Rhône-Alpes;Drôme;Bonlieu-sur-Roubion;CS0KRS933MA_26_SIT_GM;7.0;7.0
+05/06/17 16:00;FR2284;Eurdep;air;44.55;4.81;0.0;France;0;0;0;CS0KRS934MA_07_SIT_GM;7.6;8.0
+05/06/17 16:00;FR2285;Eurdep;air;44.54;4.76;93.2;France;Auvergne-Rhône-Alpes;Drôme;Montélimar;CS0KRS935MA_07_SIT_GM;8.6;8.0
+05/06/17 16:00;FR2286;Eurdep;air;44.55;4.68;89.9;France;Auvergne-Rhône-Alpes;Ardèche;Le Teil;CS0KRS936MA_07_SIT_GM;8.0;8.0
+05/06/17 16:00;FR2288;Eurdep;air;44.65;4.62;453.5;France;Auvergne-Rhône-Alpes;Ardèche;Saint-Pierre-la-Roche;CS0KRS938MA_26_SIT_GM;10.4;11.0
 02/06/17 22:00;FR2289;Eurdep;air;44.71;4.66;0.0;France;0;0;0;CS0KRS939MA_26_SIT_GM;0.0;0.0
-05/06/17 03:00;FR2290;Eurdep;air;44.71;4.76;205.6;France;Auvergne-Rhône-Alpes;Ardèche;Baix;CS0KRS940MA_26_SIT_GM;7.5;8.0
-05/06/17 03:00;FR2361;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS801MA_50_SIT_GM;10.9;11.0
-05/06/17 03:00;FR2362;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS802MA_50_SIT_GM;9.6;10.0
-05/06/17 03:00;FR2363;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS803MA_50_SIT_GM;10.0;10.0
-05/06/17 03:00;FR2364;Eurdep;air;49.53;-1.89;0.0;France;0;0;0;FA0KRS804MA_50_SIT_GM;10.7;11.0
-05/06/17 03:00;FR2365;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS805MA_50_SIT_GM;10.2;10.0
-05/06/17 03:00;FR2366;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS806MA_50_SIT_GM;6.9;7.3
-05/06/17 03:00;FR2368;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS808MA_50_SIT_GM;11.5;12.0
-05/06/17 03:00;FR2369;Eurdep;air;49.54;-1.87;51.2;France;Normandía;Mancha;Flamanville;FA0KRS809MA_50_SIT_GM;9.2;10.0
-05/06/17 03:00;FR2370;Eurdep;air;49.54;-1.87;51.2;France;Normandía;Mancha;Flamanville;FA0KRS810MA_50_SIT_GM;12.2;12.0
-05/06/17 03:00;FR2371;Eurdep;air;49.53;-1.86;0.0;France;0;0;0;FA0KRS921MA_50_SIT_GM;9.1;9.4
-05/06/17 03:00;FR2372;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS922MA_50_SIT_GM;10.2;11.0
-05/06/17 03:00;FR2373;Eurdep;air;49.55;-1.86;0.0;France;0;0;0;FA0KRS923MA_50_SIT_GM;8.6;9.0
-05/06/17 03:00;FR2374;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS924MA_50_SIT_GM;7.4;7.6
-05/06/17 03:00;FR2375;Eurdep;air;49.56;-1.84;0.0;France;0;0;0;FA0KRS911MA_50_SIT_GM;8.3;8.8
-05/06/17 03:00;FR2376;Eurdep;air;49.53;-1.81;36.5;France;Normandía;Mancha;Tréauville;FA0KRS912MA_50_SIT_GM;24.0;24.0
-05/06/17 03:00;FR2378;Eurdep;air;49.45;-1.81;6.8;France;Normandía;Mancha;Surtainville;FA0KRS937MA_50_SIT_GM;7.3;7.0
-05/06/17 03:00;FR2381;Eurdep;air;49.61;-1.82;113.2;France;Normandía;Mancha;Biville;FA0KRS931MA_50_SIT_GM;8.7;9.0
-05/06/17 02:00;FR2382;Eurdep;air;49.6;-1.77;93.9;France;Normandía;Mancha;Vasteville;FA0KRS932MA_50_SIT_GM;7.9;8.0
-05/06/17 02:00;FR2384;Eurdep;air;49.54;-1.75;70.0;France;Normandía;Mancha;Sotteville;FA0KRS934MA_50_SIT_GM;8.8;9.0
-05/06/17 03:00;FR2385;Eurdep;air;49.51;-1.74;113.1;France;Normandía;Mancha;Grosville;FA0KRS935MA_50_SIT_GM;10.0;10.0
-05/06/17 03:00;FR2386;Eurdep;air;49.49;-1.78;109.0;France;Normandía;Mancha;Saint-Germain-le-Gaillard;FA0KRS936MA_50_SIT_GM;12.3;13.0
-05/06/17 03:00;FR2402;Eurdep;air;44.1;0.85;55.4;France;Occitanie;Tarn y Garona;Golfech;GF0KRS802MA_82_SIT_GM;7.8;8.3
-05/06/17 03:00;FR2635;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS805MA_26_SIT_GM;17.7;18.0
-05/06/17 03:00;FR1323;Eurdep;air;45.29;4.82;158.4;France;Auvergne-Rhône-Alpes;Drôme;Saint-Rambert-d'Albon;ST-RAMBERT-D'ALBON_26_AGG_CP;6.9;7.5
-05/06/17 03:00;FR1334;Eurdep;air;43.2;5.81;0.0;France;0;0;0;LE BEAUSSET_83_AGG_CP;6.6;6.7
-05/06/17 03:00;FR1330;Eurdep;air;43.13;6.11;89.1;France;Provenza-Alpes-Costa Azul;Var;Hyères;HYERES_83_AGG_CP;6.8;7.0
-05/06/17 03:00;FR1332;Eurdep;air;43.16;6.04;77.3;France;Provenza-Alpes-Costa Azul;Var;La Farlède;LA FARLEDE_83_AGG_CP;6.6;6.8
-05/06/17 03:00;FR1132;Eurdep;air;43.56;6.0;0.0;France;0;0;0;BARJOLS_83_AGG_CP;8.4;8.5
-05/06/17 03:00;FR1095;Eurdep;air;45.57;-0.67;40.3;France;Nouvelle-Aquitaine;Charente Marítimo;Gémozac;GEMOZAC_17_AGG_CP;6.5;6.8
+05/06/17 16:00;FR2290;Eurdep;air;44.71;4.76;205.6;France;Auvergne-Rhône-Alpes;Ardèche;Baix;CS0KRS940MA_26_SIT_GM;7.5;7.0
+05/06/17 16:00;FR2361;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS801MA_50_SIT_GM;10.9;11.0
+05/06/17 16:00;FR2362;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS802MA_50_SIT_GM;9.7;10.0
+05/06/17 16:00;FR2363;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS803MA_50_SIT_GM;10.0;10.0
+05/06/17 16:00;FR2364;Eurdep;air;49.53;-1.89;0.0;France;0;0;0;FA0KRS804MA_50_SIT_GM;10.7;11.0
+05/06/17 16:00;FR2365;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS805MA_50_SIT_GM;10.2;11.0
+05/06/17 16:00;FR2366;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS806MA_50_SIT_GM;6.9;7.6
+05/06/17 16:00;FR2368;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS808MA_50_SIT_GM;11.5;12.0
+05/06/17 16:00;FR2369;Eurdep;air;49.54;-1.87;51.2;France;Normandía;Mancha;Flamanville;FA0KRS809MA_50_SIT_GM;9.3;10.0
+05/06/17 16:00;FR2370;Eurdep;air;49.54;-1.87;51.2;France;Normandía;Mancha;Flamanville;FA0KRS810MA_50_SIT_GM;12.1;12.0
+05/06/17 16:00;FR2371;Eurdep;air;49.53;-1.86;0.0;France;0;0;0;FA0KRS921MA_50_SIT_GM;9.2;9.5
+05/06/17 16:00;FR2372;Eurdep;air;49.53;-1.88;68.4;France;Normandía;Mancha;Flamanville;FA0KRS922MA_50_SIT_GM;9.8;10.0
+05/06/17 16:00;FR2373;Eurdep;air;49.55;-1.86;0.0;France;0;0;0;FA0KRS923MA_50_SIT_GM;8.7;9.0
+05/06/17 16:00;FR2374;Eurdep;air;49.54;-1.88;12.6;France;Normandía;Mancha;Flamanville;FA0KRS924MA_50_SIT_GM;7.5;7.8
+05/06/17 16:00;FR2375;Eurdep;air;49.56;-1.84;0.0;France;0;0;0;FA0KRS911MA_50_SIT_GM;8.3;8.8
+05/06/17 16:00;FR2376;Eurdep;air;49.53;-1.81;36.5;France;Normandía;Mancha;Tréauville;FA0KRS912MA_50_SIT_GM;23.8;24.0
+05/06/17 15:00;FR2378;Eurdep;air;49.45;-1.81;6.8;France;Normandía;Mancha;Surtainville;FA0KRS937MA_50_SIT_GM;7.3;7.0
+05/06/17 15:00;FR2381;Eurdep;air;49.61;-1.82;113.2;France;Normandía;Mancha;Biville;FA0KRS931MA_50_SIT_GM;8.7;9.0
+05/06/17 16:00;FR2382;Eurdep;air;49.6;-1.77;93.9;France;Normandía;Mancha;Vasteville;FA0KRS932MA_50_SIT_GM;7.9;8.0
+05/06/17 15:00;FR2384;Eurdep;air;49.54;-1.75;70.0;France;Normandía;Mancha;Sotteville;FA0KRS934MA_50_SIT_GM;8.9;9.0
+05/06/17 16:00;FR2385;Eurdep;air;49.51;-1.74;113.1;France;Normandía;Mancha;Grosville;FA0KRS935MA_50_SIT_GM;9.9;10.0
+05/06/17 16:00;FR2386;Eurdep;air;49.49;-1.78;109.0;France;Normandía;Mancha;Saint-Germain-le-Gaillard;FA0KRS936MA_50_SIT_GM;12.1;13.0
+05/06/17 16:00;FR2402;Eurdep;air;44.1;0.85;55.4;France;Occitanie;Tarn y Garona;Golfech;GF0KRS802MA_82_SIT_GM;8.0;8.8
+05/06/17 16:00;FR2635;Eurdep;air;44.33;4.73;58.0;France;Auvergne-Rhône-Alpes;Drôme;Saint-Paul-Trois-Châteaux;TN0KRS805MA_26_SIT_GM;17.7;18.0
+05/06/17 16:00;FR1323;Eurdep;air;45.29;4.82;158.4;France;Auvergne-Rhône-Alpes;Drôme;Saint-Rambert-d'Albon;ST-RAMBERT-D'ALBON_26_AGG_CP;6.8;6.9
+05/06/17 16:00;FR1334;Eurdep;air;43.2;5.81;0.0;France;0;0;0;LE BEAUSSET_83_AGG_CP;6.6;6.7
+05/06/17 16:00;FR1330;Eurdep;air;43.13;6.11;89.1;France;Provenza-Alpes-Costa Azul;Var;Hyères;HYERES_83_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1332;Eurdep;air;43.16;6.04;77.3;France;Provenza-Alpes-Costa Azul;Var;La Farlède;LA FARLEDE_83_AGG_CP;6.6;6.8
+05/06/17 16:00;FR1132;Eurdep;air;43.56;6.0;0.0;France;0;0;0;BARJOLS_83_AGG_CP;8.4;8.0
+05/06/17 16:00;FR1095;Eurdep;air;45.57;-0.67;40.3;France;Nouvelle-Aquitaine;Charente Marítimo;Gémozac;GEMOZAC_17_AGG_CP;6.6;6.8
 01/06/17 22:00;FR2287;Eurdep;air;44.59;4.63;0.0;France;0;0;0;CS0KRS937MA_07_SIT_GM;0.0;0.0
-05/06/17 03:00;FR1126;Eurdep;air;45.73;5.25;226.7;France;Auvergne-Rhône-Alpes;Isère;Crémieu;CREMIEU_38_AGG_CP;8.0;9.0
-05/06/17 03:00;FR1121;Eurdep;air;45.63;5.57;231.5;France;Auvergne-Rhône-Alpes;Isère;Les Avenières;LES AVENIERES_38_AGG_CP;8.9;9.2
-05/06/17 03:00;FR1116;Eurdep;air;45.6;5.27;230.8;France;Auvergne-Rhône-Alpes;Isère;Bourgoin-Jallieu;BOURGOIN-JALLIEU_38_AGG_CP;7.0;7.6
-05/06/17 03:00;FR1129;Eurdep;air;45.62;5.14;288.3;France;Auvergne-Rhône-Alpes;Isère;Villefontaine;VILLEFONTAINE_38_AGG_CP;6.2;6.7
-05/06/17 03:00;FR1326;Eurdep;air;45.5;4.85;158.0;France;Auvergne-Rhône-Alpes;Isère;Reventin-Vaugris;VIENNE_38_AGG_CP;7.6;8.2
-05/06/17 03:00;FR1141;Eurdep;air;43.61;5.76;376.3;France;Provenza-Alpes-Costa Azul;Var;Rians;RIANS_83_AGG_CP;8.0;8.1
-05/06/17 03:00;FR1316;Eurdep;air;45.5;5.13;367.8;France;Auvergne-Rhône-Alpes;Isère;Saint-Jean-de-Bournay;ST-JEAN-DE-BOURNAY_38_AGG_CP;6.9;7.0
-05/06/17 03:00;FR1437;Eurdep;air;43.13;5.92;21.9;France;Provenza-Alpes-Costa Azul;Var;Tolón;TOULON-ARSENAL-BSL_83_SIT_CP;7.2;7.4
-05/06/17 03:00;FR1430;Eurdep;air;45.41;4.76;145.3;France;Auvergne-Rhône-Alpes;Isère;Saint-Maurice-l'Exil;ST-MAURICE-L'EXIL_38_SIT_CP;7.4;7.9
-05/06/17 03:00;FR1312;Eurdep;air;45.33;5.06;256.6;France;Auvergne-Rhône-Alpes;Isère;Beaurepaire;BEAUREPAIRE_38_AGG_CP;9.9;10.0
-05/06/17 03:00;FR1322;Eurdep;air;45.3;4.56;0.0;France;0;0;0;BOURG-ARGENTAL_42_AGG_CP;14.3;14.0
-05/06/17 03:00;FR1324;Eurdep;air;45.34;4.42;968.5;France;Auvergne-Rhône-Alpes;Loira;Saint-Genest-Malifaux;ST-GENEST-MALIFAUX_42_AGG_CP;19.0;19.0
-05/06/17 03:00;FR1310;Eurdep;air;45.81;5.4;224.4;France;Auvergne-Rhône-Alpes;Isère;Montalieu-Vercieu;MONTALIEU-VERCIEU_38_AGG_CP;6.3;6.4
-05/06/17 03:00;FR1187;Eurdep;air;44.56;4.51;310.9;France;Auvergne-Rhône-Alpes;Ardèche;Villeneuve-de-Berg;VILLENEUVE-DE-BERG_07_AGG_CP;10.1;10.0
-05/06/17 03:00;FR1236;Eurdep;air;43.9;4.68;52.4;France;Occitanie;Gard;Aramon;ARAMON_30_AGG_CP;6.8;7.0
-05/06/17 03:00;FR1241;Eurdep;air;43.98;4.68;119.4;France;Occitanie;Gard;Rochefort-du-Gard;ROCHEFORT-DU-GARD_30_AGG_CP;6.7;6.8
-05/06/17 03:00;FR1246;Eurdep;air;44.13;4.4;246.9;France;Occitanie;Gard;Lussan;LUSSAN_30_AGG_CP;7.9;8.0
-05/06/17 03:00;FR1249;Eurdep;air;44.01;4.41;127.8;France;Occitanie;Gard;Uzès;UZES_30_AGG_CP;6.8;6.9
-05/06/17 03:00;FR1137;Eurdep;air;43.82;5.79;329.4;France;Provenza-Alpes-Costa Azul;Alpes de Alta Provenza;Manosque;MANOSQUE_04_AGG_CP;7.0;7.2
-05/06/17 03:00;FR1136;Eurdep;air;43.76;5.89;327.2;France;Provenza-Alpes-Costa Azul;Alpes de Alta Provenza;Gréoux-les-Bains;GREOUX-LES-BAINS_04_AGG_CP;6.6;6.7
-05/06/17 03:00;FR1448;Eurdep;air;44.24;4.64;54.8;France;Occitanie;Gard;Pont-Saint-Esprit;PONT-ST-ESPRIT_30_AGG_CP;7.8;7.8
-05/06/17 03:00;FR1179;Eurdep;air;44.62;4.41;209.1;France;Auvergne-Rhône-Alpes;Ardèche;Aubenas;AUBENAS_07_AGG_CP;9.6;9.8
-05/06/17 03:00;FR1114;Eurdep;air;45.97;5.35;260.2;France;Auvergne-Rhône-Alpes;Ain;Ambérieu-en-Bugey;AMBERIEU-EN-BUGEY_01_SIT_CP;7.1;7.0
-05/06/17 03:00;FR1123;Eurdep;air;45.86;5.05;0.0;France;0;0;0;MONTLUEL_01_AGG_CP;7.5;8.2
-04/06/17 05:00;FR1118;Eurdep;air;45.85;5.79;235.6;France;Auvergne-Rhône-Alpes;Ain;Culoz;CULOZ_01_AGG_CP;7.1;7.2
-05/06/17 03:00;FR1115;Eurdep;air;45.76;5.68;309.9;France;Auvergne-Rhône-Alpes;Ain;Belley;BELLEY_01_AGG_CP;7.5;7.7
-05/06/17 03:00;FR1127;Eurdep;air;46.0;5.03;0.0;France;0;0;0;VILLARS-LES-DOMBES_01_AGG_CP;8.8;9.4
-05/06/17 03:00;FR1124;Eurdep;air;46.06;5.34;275.1;France;Auvergne-Rhône-Alpes;Ain;Pont-d'Ain;PONT-D'AIN_01_AGG_CP;6.6;7.2
-05/06/17 03:00;FR1243;Eurdep;air;44.22;4.49;152.9;France;Occitanie;Gard;Cornillon;CORNILLON_30_AGG_CP;7.2;7.3
-05/06/17 03:00;FR1186;Eurdep;air;44.81;4.62;282.8;France;Auvergne-Rhône-Alpes;Ardèche;Les Ollières-sur-Eyrieux;LES OLLIERES-SUR-EYRIEUX_07_AGG_CP;12.3;12.0
-05/06/17 03:00;FR1245;Eurdep;air;44.38;4.65;51.9;France;Auvergne-Rhône-Alpes;Ardèche;Bourg-Saint-Andéol;BOURG-ST-ANDEOL_07_AGG_CP;7.8;7.0
-05/06/17 03:00;FR1238;Eurdep;air;44.17;4.61;43.6;France;Occitanie;Gard;Bagnols-sur-Cèze;BAGNOLS-SUR-CEZE_30_AGG_CP;6.9;7.0
-05/06/17 03:00;FR1120;Eurdep;air;44.66;4.76;199.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CRUAS_07_SIT_CP;7.1;7.3
-05/06/17 03:00;FR1409;Eurdep;air;48.58;7.74;139.7;France;Grand Est;Bajo Rin;Estrasburgo;STRASBOURG_67_AGG_CP;8.6;8.9
-05/06/17 03:00;FR1183;Eurdep;air;44.55;4.66;120.6;France;Auvergne-Rhône-Alpes;Ardèche;Le Teil;LE TEIL_07_AGG_CP;7.2;7.0
-05/06/17 03:00;FR1251;Eurdep;air;44.45;4.35;133.3;France;Auvergne-Rhône-Alpes;Ardèche;Ruoms;RUOMS_07_AGG_CP;8.6;8.7
-05/06/17 03:00;FR1188;Eurdep;air;44.48;4.69;74.5;France;Auvergne-Rhône-Alpes;Ardèche;Viviers;VIVIERS_07_AGG_CP;8.4;8.6
-05/06/17 03:00;FR1311;Eurdep;air;45.25;4.67;383.3;France;Auvergne-Rhône-Alpes;Ardèche;Annonay;ANNONAY_07_AGG_CP;7.7;8.1
-05/06/17 03:00;FR1101;Eurdep;air;48.42;-4.47;88.6;France;Bretaña;Finisterre;Brest;BREST_29_AGG_CP;10.4;10.0
-05/06/17 03:00;FR1444;Eurdep;air;49.89;1.27;33.6;France;Normandía;Sena Marítimo;Envermeu;ENVERMEU_76_AGG_CP;10.3;10.0
-05/06/17 03:00;FR2242;Eurdep;air;45.76;5.47;222.1;France;Auvergne-Rhône-Alpes;Isère;Creys-Mépieu;CE0KRS922MA_38_SIT_GM;6.4;6.7
-05/06/17 03:00;FR2243;Eurdep;air;45.76;5.46;228.5;France;Auvergne-Rhône-Alpes;Isère;Creys-Mépieu;CE0KRS923MA_38_SIT_GM;7.2;7.4
-05/06/17 03:00;FR2244;Eurdep;air;45.75;5.47;228.7;France;Auvergne-Rhône-Alpes;Isère;Creys-Mépieu;CE0KRS924MA_38_SIT_GM;7.6;8.2
-05/06/17 03:00;FR2241;Eurdep;air;45.76;5.48;0.0;France;0;0;0;CE0KRS921MA_38_SIT_GM;6.3;6.5
-05/06/17 03:00;FR1356;Eurdep;air;49.18;-0.36;5.7;France;Normandía;Calvados;Caen;CAEN_14_AGG_CP;7.2;7.4
-05/06/17 03:00;FR1410;Eurdep;air;43.24;0.07;305.2;France;Occitanie;Altos Pirineos;Tarbes;TARBES_65_AGG_CP;9.4;9.6
-05/06/17 03:00;FR1357;Eurdep;air;44.45;1.44;144.1;France;Occitanie;Lot;Cahors;CAHORS_46_AGG_CP;8.4;8.6
-05/06/17 03:00;FR1355;Eurdep;air;44.9;6.64;1282.6;France;Provenza-Alpes-Costa Azul;Altos Alpes;Briançon;BRIANCON_05_AGG_CP;9.6;9.9
-05/06/17 03:00;FR1407;Eurdep;air;49.11;7.08;224.4;France;Grand Est;Mosela;Sarreguemines;SARREGUEMINES_57_AGG_CP;7.9;8.2
-05/06/17 03:00;FR1395;Eurdep;air;43.31;-0.37;209.6;France;Nouvelle-Aquitaine;Pirineos Atlánticos;Pau;PAU_64_AGG_CP;9.8;10.0
-05/06/17 03:00;FR1381;Eurdep;air;45.6;5.91;340.9;France;Auvergne-Rhône-Alpes;Saboya;Chambéry;CHAMBERY_73_AGG_CP;6.7;7.0
-05/06/17 03:00;FR1339;Eurdep;air;48.43;0.09;136.1;France;Normandía;Orne;Alenzón;ALENCON_61_AGG_CP;6.4;6.7
-05/06/17 03:00;FR1131;Eurdep;air;43.53;5.45;203.4;France;Provenza-Alpes-Costa Azul;Bocas del Ródano;Aix-en-Provence;AIX-EN-PROVENCE_13_AGG_CP;6.7;6.8
-05/06/17 03:00;FR1349;Eurdep;air;47.64;6.86;361.0;France;Bourgogne-Franche-Comté;Territorio de Belfort;Belfort;BELFORT_90_AGG_CP;7.1;7.4
-05/06/17 03:00;FR1439;Eurdep;air;49.93;1.61;0.0;France;0;0;0;BLANGY-SUR-BRESLE_76_AGG_CP;7.7;7.9
-05/06/17 03:00;FR1007;Eurdep;air;50.45;30.51;0.0;France;0;0;0;KIEV-UKRAINE_ET_AGG_CP;8.5;8.6
-05/06/17 03:00;FR1163;Eurdep;air;49.92;4.52;385.5;France;Grand Est;Árdenas;Rocroi;ROCROI_08_AGG_CP;6.5;6.6
-05/06/17 03:00;FR1345;Eurdep;air;44.92;2.43;647.2;France;Auvergne-Rhône-Alpes;Cantal;Aurillac;AURILLAC_15_AGG_CP;9.4;9.7
-05/06/17 03:00;FR2513;Eurdep;air;49.85;0.63;70.5;France;Normandía;Sena Marítimo;Paluel;PA0KRS923MA_76_SIT_GM;6.1;6.2
-05/06/17 03:00;FR1365;Eurdep;air;48.82;2.33;77.6;France;Isla de Francia;París;París;MONTROUGE_92_ILE_CP;6.2;6.3
-05/06/17 03:00;FR1196;Eurdep;air;49.59;-1.27;3.4;France;Normandía;Mancha;Saint-Vaast-la-Hougue;ST-VAAST-LA-HOUGUE_50_AGG_CP;7.5;7.6
+05/06/17 16:00;FR1126;Eurdep;air;45.73;5.25;226.7;France;Auvergne-Rhône-Alpes;Isère;Crémieu;CREMIEU_38_AGG_CP;8.8;9.0
+05/06/17 16:00;FR1121;Eurdep;air;45.63;5.57;231.5;France;Auvergne-Rhône-Alpes;Isère;Les Avenières;LES AVENIERES_38_AGG_CP;9.0;9.2
+05/06/17 16:00;FR1116;Eurdep;air;45.6;5.27;230.8;France;Auvergne-Rhône-Alpes;Isère;Bourgoin-Jallieu;BOURGOIN-JALLIEU_38_AGG_CP;7.0;7.1
+05/06/17 16:00;FR1129;Eurdep;air;45.62;5.14;288.3;France;Auvergne-Rhône-Alpes;Isère;Villefontaine;VILLEFONTAINE_38_AGG_CP;6.1;6.0
+05/06/17 16:00;FR1326;Eurdep;air;45.5;4.85;158.0;France;Auvergne-Rhône-Alpes;Isère;Reventin-Vaugris;VIENNE_38_AGG_CP;7.5;7.7
+05/06/17 16:00;FR1141;Eurdep;air;43.61;5.76;376.3;France;Provenza-Alpes-Costa Azul;Var;Rians;RIANS_83_AGG_CP;8.0;8.1
+05/06/17 16:00;FR1316;Eurdep;air;45.5;5.13;367.8;France;Auvergne-Rhône-Alpes;Isère;Saint-Jean-de-Bournay;ST-JEAN-DE-BOURNAY_38_AGG_CP;6.8;7.0
+05/06/17 16:00;FR1437;Eurdep;air;43.13;5.92;21.9;France;Provenza-Alpes-Costa Azul;Var;Tolón;TOULON-ARSENAL-BSL_83_SIT_CP;7.3;7.4
+05/06/17 16:00;FR1430;Eurdep;air;45.41;4.76;145.3;France;Auvergne-Rhône-Alpes;Isère;Saint-Maurice-l'Exil;ST-MAURICE-L'EXIL_38_SIT_CP;7.0;7.5
+05/06/17 16:00;FR1312;Eurdep;air;45.33;5.06;256.6;France;Auvergne-Rhône-Alpes;Isère;Beaurepaire;BEAUREPAIRE_38_AGG_CP;9.9;10.0
+05/06/17 16:00;FR1322;Eurdep;air;45.3;4.56;0.0;France;0;0;0;BOURG-ARGENTAL_42_AGG_CP;14.4;14.0
+05/06/17 16:00;FR1324;Eurdep;air;45.34;4.42;968.5;France;Auvergne-Rhône-Alpes;Loira;Saint-Genest-Malifaux;ST-GENEST-MALIFAUX_42_AGG_CP;19.4;19.0
+05/06/17 16:00;FR1310;Eurdep;air;45.81;5.4;224.4;France;Auvergne-Rhône-Alpes;Isère;Montalieu-Vercieu;MONTALIEU-VERCIEU_38_AGG_CP;6.5;8.3
+05/06/17 16:00;FR1187;Eurdep;air;44.56;4.51;310.9;France;Auvergne-Rhône-Alpes;Ardèche;Villeneuve-de-Berg;VILLENEUVE-DE-BERG_07_AGG_CP;10.1;10.0
+05/06/17 16:00;FR1236;Eurdep;air;43.9;4.68;52.4;France;Occitanie;Gard;Aramon;ARAMON_30_AGG_CP;6.8;7.0
+05/06/17 16:00;FR1241;Eurdep;air;43.98;4.68;119.4;France;Occitanie;Gard;Rochefort-du-Gard;ROCHEFORT-DU-GARD_30_AGG_CP;6.7;6.7
+05/06/17 16:00;FR1246;Eurdep;air;44.13;4.4;246.9;France;Occitanie;Gard;Lussan;LUSSAN_30_AGG_CP;7.8;8.0
+05/06/17 16:00;FR1249;Eurdep;air;44.01;4.41;127.8;France;Occitanie;Gard;Uzès;UZES_30_AGG_CP;6.7;6.8
+05/06/17 16:00;FR1137;Eurdep;air;43.82;5.79;329.4;France;Provenza-Alpes-Costa Azul;Alpes de Alta Provenza;Manosque;MANOSQUE_04_AGG_CP;7.1;7.4
+05/06/17 16:00;FR1136;Eurdep;air;43.76;5.89;327.2;France;Provenza-Alpes-Costa Azul;Alpes de Alta Provenza;Gréoux-les-Bains;GREOUX-LES-BAINS_04_AGG_CP;6.6;6.8
+05/06/17 16:00;FR1448;Eurdep;air;44.24;4.64;54.8;France;Occitanie;Gard;Pont-Saint-Esprit;PONT-ST-ESPRIT_30_AGG_CP;7.7;7.8
+05/06/17 16:00;FR1179;Eurdep;air;44.62;4.41;209.1;France;Auvergne-Rhône-Alpes;Ardèche;Aubenas;AUBENAS_07_AGG_CP;9.7;9.8
+05/06/17 16:00;FR1114;Eurdep;air;45.97;5.35;260.2;France;Auvergne-Rhône-Alpes;Ain;Ambérieu-en-Bugey;AMBERIEU-EN-BUGEY_01_SIT_CP;7.0;7.2
+05/06/17 16:00;FR1123;Eurdep;air;45.86;5.05;0.0;France;0;0;0;MONTLUEL_01_AGG_CP;7.5;7.6
+05/06/17 13:00;FR1118;Eurdep;air;45.85;5.79;235.6;France;Auvergne-Rhône-Alpes;Ain;Culoz;CULOZ_01_AGG_CP;7.3;7.5
+05/06/17 16:00;FR1115;Eurdep;air;45.76;5.68;309.9;France;Auvergne-Rhône-Alpes;Ain;Belley;BELLEY_01_AGG_CP;7.6;7.7
+05/06/17 16:00;FR1127;Eurdep;air;46.0;5.03;0.0;France;0;0;0;VILLARS-LES-DOMBES_01_AGG_CP;8.7;9.0
+05/06/17 16:00;FR1124;Eurdep;air;46.06;5.34;275.1;France;Auvergne-Rhône-Alpes;Ain;Pont-d'Ain;PONT-D'AIN_01_AGG_CP;6.6;6.0
+05/06/17 16:00;FR1243;Eurdep;air;44.22;4.49;152.9;France;Occitanie;Gard;Cornillon;CORNILLON_30_AGG_CP;7.2;7.3
+05/06/17 16:00;FR1186;Eurdep;air;44.81;4.62;282.8;France;Auvergne-Rhône-Alpes;Ardèche;Les Ollières-sur-Eyrieux;LES OLLIERES-SUR-EYRIEUX_07_AGG_CP;12.3;12.0
+05/06/17 16:00;FR1245;Eurdep;air;44.38;4.65;51.9;France;Auvergne-Rhône-Alpes;Ardèche;Bourg-Saint-Andéol;BOURG-ST-ANDEOL_07_AGG_CP;7.8;7.9
+05/06/17 16:00;FR1238;Eurdep;air;44.17;4.61;43.6;France;Occitanie;Gard;Bagnols-sur-Cèze;BAGNOLS-SUR-CEZE_30_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1120;Eurdep;air;44.66;4.76;199.4;France;Auvergne-Rhône-Alpes;Ardèche;Cruas;CRUAS_07_SIT_CP;7.1;7.3
+05/06/17 16:00;FR1409;Eurdep;air;48.58;7.74;139.7;France;Grand Est;Bajo Rin;Estrasburgo;STRASBOURG_67_AGG_CP;8.6;8.7
+05/06/17 16:00;FR1183;Eurdep;air;44.55;4.66;120.6;France;Auvergne-Rhône-Alpes;Ardèche;Le Teil;LE TEIL_07_AGG_CP;7.2;7.3
+05/06/17 16:00;FR1251;Eurdep;air;44.45;4.35;133.3;France;Auvergne-Rhône-Alpes;Ardèche;Ruoms;RUOMS_07_AGG_CP;8.6;8.7
+05/06/17 16:00;FR1188;Eurdep;air;44.48;4.69;74.5;France;Auvergne-Rhône-Alpes;Ardèche;Viviers;VIVIERS_07_AGG_CP;8.4;8.5
+05/06/17 16:00;FR1311;Eurdep;air;45.25;4.67;383.3;France;Auvergne-Rhône-Alpes;Ardèche;Annonay;ANNONAY_07_AGG_CP;7.7;7.9
+05/06/17 16:00;FR1101;Eurdep;air;48.42;-4.47;88.6;France;Bretaña;Finisterre;Brest;BREST_29_AGG_CP;10.0;10.0
+05/06/17 16:00;FR1444;Eurdep;air;49.89;1.27;33.6;France;Normandía;Sena Marítimo;Envermeu;ENVERMEU_76_AGG_CP;10.4;10.0
+05/06/17 16:00;FR2242;Eurdep;air;45.76;5.47;222.1;France;Auvergne-Rhône-Alpes;Isère;Creys-Mépieu;CE0KRS922MA_38_SIT_GM;6.4;6.7
+05/06/17 16:00;FR2243;Eurdep;air;45.76;5.46;228.5;France;Auvergne-Rhône-Alpes;Isère;Creys-Mépieu;CE0KRS923MA_38_SIT_GM;7.4;7.6
+05/06/17 16:00;FR2244;Eurdep;air;45.75;5.47;228.7;France;Auvergne-Rhône-Alpes;Isère;Creys-Mépieu;CE0KRS924MA_38_SIT_GM;7.8;8.7
+05/06/17 16:00;FR2241;Eurdep;air;45.76;5.48;0.0;France;0;0;0;CE0KRS921MA_38_SIT_GM;6.4;6.6
+05/06/17 16:00;FR1356;Eurdep;air;49.18;-0.36;5.7;France;Normandía;Calvados;Caen;CAEN_14_AGG_CP;7.2;7.4
+05/06/17 16:00;FR1410;Eurdep;air;43.24;0.07;305.2;France;Occitanie;Altos Pirineos;Tarbes;TARBES_65_AGG_CP;9.4;9.6
+05/06/17 16:00;FR1357;Eurdep;air;44.45;1.44;144.1;France;Occitanie;Lot;Cahors;CAHORS_46_AGG_CP;8.4;8.6
+05/06/17 16:00;FR1355;Eurdep;air;44.9;6.64;1282.6;France;Provenza-Alpes-Costa Azul;Altos Alpes;Briançon;BRIANCON_05_AGG_CP;9.6;10.0
+05/06/17 16:00;FR1407;Eurdep;air;49.11;7.08;224.4;France;Grand Est;Mosela;Sarreguemines;SARREGUEMINES_57_AGG_CP;8.0;8.2
+05/06/17 16:00;FR1395;Eurdep;air;43.31;-0.37;209.6;France;Nouvelle-Aquitaine;Pirineos Atlánticos;Pau;PAU_64_AGG_CP;9.7;10.0
+05/06/17 16:00;FR1381;Eurdep;air;45.6;5.91;340.9;France;Auvergne-Rhône-Alpes;Saboya;Chambéry;CHAMBERY_73_AGG_CP;6.7;7.0
+05/06/17 16:00;FR1339;Eurdep;air;48.43;0.09;136.1;France;Normandía;Orne;Alenzón;ALENCON_61_AGG_CP;6.5;6.7
+05/06/17 16:00;FR1131;Eurdep;air;43.53;5.45;203.4;France;Provenza-Alpes-Costa Azul;Bocas del Ródano;Aix-en-Provence;AIX-EN-PROVENCE_13_AGG_CP;6.7;6.0
+05/06/17 16:00;FR1349;Eurdep;air;47.64;6.86;361.0;France;Bourgogne-Franche-Comté;Territorio de Belfort;Belfort;BELFORT_90_AGG_CP;7.2;7.4
+05/06/17 16:00;FR1439;Eurdep;air;49.93;1.61;0.0;France;0;0;0;BLANGY-SUR-BRESLE_76_AGG_CP;7.8;7.0
+05/06/17 16:00;FR1007;Eurdep;air;50.45;30.51;0.0;France;0;0;0;KIEV-UKRAINE_ET_AGG_CP;8.6;9.3
+05/06/17 16:00;FR1163;Eurdep;air;49.92;4.52;385.5;France;Grand Est;Árdenas;Rocroi;ROCROI_08_AGG_CP;6.5;6.6
+05/06/17 16:00;FR1345;Eurdep;air;44.92;2.43;647.2;France;Auvergne-Rhône-Alpes;Cantal;Aurillac;AURILLAC_15_AGG_CP;9.5;9.8
+05/06/17 16:00;FR2513;Eurdep;air;49.85;0.63;70.5;France;Normandía;Sena Marítimo;Paluel;PA0KRS923MA_76_SIT_GM;6.2;6.5
+05/06/17 16:00;FR1365;Eurdep;air;48.82;2.33;77.6;France;Isla de Francia;París;París;MONTROUGE_92_ILE_CP;6.3;6.3
+05/06/17 16:00;FR1196;Eurdep;air;49.59;-1.27;3.4;France;Normandía;Mancha;Saint-Vaast-la-Hougue;ST-VAAST-LA-HOUGUE_50_AGG_CP;7.5;7.7
 21/05/17 22:00;FR2043;Eurdep;air;45.26;-0.69;0.0;France;0;0;0;BA0KRS923MA_33_SIT_GM;0.0;0.0
-05/06/17 03:00;FR2345;Eurdep;air;47.98;7.6;192.8;France;Grand Est;Alto Rin;Geiswasser;FS0KRS911MA_68_SIT_GM;9.5;10.0
-05/06/17 03:00;FR1140;Eurdep;air;43.18;5.7;11.9;France;Provenza-Alpes-Costa Azul;Var;Saint-Cyr-sur-Mer;ST-CYR-SUR-MER_83_AGG_CP;6.4;6.6
-05/06/17 03:00;FR1001;Eurdep;air;14.62;-61.06;117.4;France;Fort-de-France;;Fort-de-France;FORT-DE-FRANCE-MARTINIQUE_972_AGG_CP;6.9;7.0
-05/06/17 03:00;FR1003;Eurdep;air;-20.89;55.49;0.0;France;0;0;0;STE-CLOTILDE-LA-REUNION_974_AGG_CP;6.2;6.3
-05/06/17 03:00;FR1134;Eurdep;air;45.15;1.47;0.0;France;0;0;0;BRIVE_19_AGG_CP;8.2;8.5
-05/06/17 03:00;FR1285;Eurdep;air;47.8;3.57;0.0;France;0;0;0;AUXERRE_89_AGG_CP;7.8;8.1
-05/06/17 03:00;FR1292;Eurdep;air;44.35;2.57;0.0;France;0;0;0;RODEZ_12_AGG_CP;6.7;6.9
-05/06/17 03:00;FR1435;Eurdep;air;49.57;3.64;0.0;France;0;0;0;LAON_02_AGG_CP;6.0;6.0
-05/06/17 03:00;FR1338;Eurdep;air;43.9;1.91;0.0;France;0;0;0;GAILLAC_81_AGG_CP;7.4;7.5
-05/06/17 03:00;FR1420;Eurdep;air;46.78;-56.17;0.0;France;0;0;0;ST-PIERRE_975_AGG_CP;7.2;7.4
-05/06/17 03:00;FR2367;Eurdep;air;49.54;-1.89;12.6;France;Normandía;Mancha;Flamanville;FA0KRS807MA_50_SIT_GM;13.8;14.0
-05/06/17 03:00;FR2377;Eurdep;air;49.51;-1.81;77.0;France;Normandía;Mancha;Les Pieux;FA0KRS913MA_50_SIT_GM;8.8;9.3
-05/06/17 03:00;FR2383;Eurdep;air;49.55;-1.74;74.5;France;Normandía;Mancha;Sotteville;FA0KRS933MA_50_SIT_GM;8.7;9.0
-05/06/17 03:00;FR1002;Eurdep;air;16.03;-61.69;604.3;France;Basse-Terre;Saint-Claude;Distrito de Basse-Terre;ST-CLAUDE-GUADELOUPE_971_AGG_CP;5.8;6.0
-05/06/17 03:00;FR1336;Eurdep;air;44.2;0.61;39.0;France;Nouvelle-Aquitaine;Lot y Garona;Agen;AGEN_47_AGG_CP;7.8;8.0
-05/06/17 03:00;FR1227;Eurdep;air;49.46;6.19;0.0;France;0;0;0;ROUSSY-LE-VILLAGE_57_ET_CP;8.2;8.6
-05/06/17 03:00;FR1254;Eurdep;air;43.17;2.99;0.0;France;0;0;0;NARBONNE_11_AGG_CP;6.9;7.2
-05/06/17 03:00;FR1488;Eurdep;air;14.77;-60.99;0.0;France;0;0;0;STE-MARIE-MARTINIQUE_972_AGG_CP;5.6;5.8
-05/06/17 03:00;FR1489;Eurdep;air;16.25;-61.28;0.0;France;0;0;0;ST-FRANCOIS-GUADELOUPE_971_AGG_CP;5.5;5.6
-05/06/17 03:00;FR1490;Eurdep;air;-21.28;55.4;0.0;France;0;0;0;ST-LOUIS-LA-REUNION_974_AGG_CP;6.6;6.8
-05/06/17 03:00;FR1493;Eurdep;air;-17.69;-149.58;0.0;France;0;0;0;PAEA-TAHITI_987_AGG_CP;5.7;5.0
-05/06/17 03:00;FR1494;Eurdep;air;-12.91;45.08;0.0;France;0;0;0;MZOUAZIA-MAYOTTE_976_AGG_CP;8.3;8.4
-05/06/17 03:00;FR1495;Eurdep;air;47.1;-56.38;0.0;France;0;0;0;MIQUELON_975_AGG_CP;8.6;8.7
+05/06/17 16:00;FR2345;Eurdep;air;47.98;7.6;192.8;France;Grand Est;Alto Rin;Geiswasser;FS0KRS911MA_68_SIT_GM;9.4;10.0
+05/06/17 16:00;FR1140;Eurdep;air;43.18;5.7;11.9;France;Provenza-Alpes-Costa Azul;Var;Saint-Cyr-sur-Mer;ST-CYR-SUR-MER_83_AGG_CP;6.5;6.6
+05/06/17 16:00;FR1001;Eurdep;air;14.62;-61.06;117.4;France;Fort-de-France;;Fort-de-France;FORT-DE-FRANCE-MARTINIQUE_972_AGG_CP;6.9;7.0
+05/06/17 16:00;FR1003;Eurdep;air;-20.89;55.49;0.0;France;0;0;0;STE-CLOTILDE-LA-REUNION_974_AGG_CP;6.2;6.3
+05/06/17 16:00;FR1134;Eurdep;air;45.15;1.47;0.0;France;0;0;0;BRIVE_19_AGG_CP;8.3;8.5
+05/06/17 16:00;FR1285;Eurdep;air;47.8;3.57;0.0;France;0;0;0;AUXERRE_89_AGG_CP;7.9;8.1
+05/06/17 16:00;FR1292;Eurdep;air;44.35;2.57;0.0;France;0;0;0;RODEZ_12_AGG_CP;6.7;6.9
+05/06/17 16:00;FR1435;Eurdep;air;49.57;3.64;0.0;France;0;0;0;LAON_02_AGG_CP;6.1;6.0
+05/06/17 16:00;FR1338;Eurdep;air;43.9;1.91;0.0;France;0;0;0;GAILLAC_81_AGG_CP;7.4;7.5
+05/06/17 16:00;FR1420;Eurdep;air;46.78;-56.17;0.0;France;0;0;0;ST-PIERRE_975_AGG_CP;7.0;7.4
+05/06/17 16:00;FR2367;Eurdep;air;49.54;-1.89;12.6;France;Normandía;Mancha;Flamanville;FA0KRS807MA_50_SIT_GM;13.6;14.0
+05/06/17 16:00;FR2377;Eurdep;air;49.51;-1.81;77.0;France;Normandía;Mancha;Les Pieux;FA0KRS913MA_50_SIT_GM;8.8;9.4
+05/06/17 16:00;FR2383;Eurdep;air;49.55;-1.74;74.5;France;Normandía;Mancha;Sotteville;FA0KRS933MA_50_SIT_GM;8.8;9.0
+05/06/17 16:00;FR1002;Eurdep;air;16.03;-61.69;604.3;France;Basse-Terre;Saint-Claude;Distrito de Basse-Terre;ST-CLAUDE-GUADELOUPE_971_AGG_CP;5.8;5.9
+05/06/17 16:00;FR1336;Eurdep;air;44.2;0.61;39.0;France;Nouvelle-Aquitaine;Lot y Garona;Agen;AGEN_47_AGG_CP;7.8;8.0
+05/06/17 16:00;FR1227;Eurdep;air;49.46;6.19;0.0;France;0;0;0;ROUSSY-LE-VILLAGE_57_ET_CP;8.3;8.6
+05/06/17 16:00;FR1254;Eurdep;air;43.17;2.99;0.0;France;0;0;0;NARBONNE_11_AGG_CP;6.9;7.2
+05/06/17 16:00;FR1488;Eurdep;air;14.77;-60.99;0.0;France;0;0;0;STE-MARIE-MARTINIQUE_972_AGG_CP;5.6;5.8
+05/06/17 16:00;FR1489;Eurdep;air;16.25;-61.28;0.0;France;0;0;0;ST-FRANCOIS-GUADELOUPE_971_AGG_CP;5.5;5.6
+05/06/17 16:00;FR1490;Eurdep;air;-21.28;55.4;0.0;France;0;0;0;ST-LOUIS-LA-REUNION_974_AGG_CP;6.7;6.8
+05/06/17 16:00;FR1493;Eurdep;air;-17.69;-149.58;0.0;France;0;0;0;PAEA-TAHITI_987_AGG_CP;5.7;5.8
+05/06/17 16:00;FR1494;Eurdep;air;-12.91;45.08;0.0;France;0;0;0;MZOUAZIA-MAYOTTE_976_AGG_CP;8.3;8.5
+05/06/17 16:00;FR1495;Eurdep;air;47.1;-56.38;0.0;France;0;0;0;MIQUELON_975_AGG_CP;8.5;8.6
