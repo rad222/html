@@ -1,114 +1,114 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-12/06/17 04:00;RU22019;Eurdep;air;69.2;33.48;40.0;Russia;Óblast de Múrmansk;gorod Polyarnyy;Polyarny;Polyarnoe;10;10
-12/06/17 04:00;RU22212;Eurdep;air;67.97;32.87;133.7;Russia;Óblast de Múrmansk;gorod Monchegorsk;;Monchegorsk;10;10
-12/06/17 04:00;RU22214;Eurdep;air;67.4;32.55;134.6;Russia;Óblast de Múrmansk;gorod Apatity;;Zasheek;7;7
-12/06/17 04:00;RU22217;Eurdep;air;67.15;32.35;0.1;Russia;;;;Kandalaksha;9;9
-12/06/17 04:00;RU22546;Eurdep;air;64.58;39.78;1.0;Russia;Óblast de Arcángel;gorod Severodvinsk;Severodvinsk;Severodvinsk;10;10
-12/06/17 04:00;RU22550;Eurdep;air;64.62;40.5;1.0;Russia;Óblast de Arcángel;Arcangel;Arcánge;Arkhangelsk;9;9
-08/06/17 22:00;RU26062;Eurdep;air;59.92;30.25;0.0;Russia;0;0;0.0;Nevskaya;0;0
-12/06/17 04:00;RU26063;Eurdep;air;59.97;30.3;14.3;Russia;San Petersburgo;gorod Sankt-Peterburg;San Petersburgo;Leningrad ICP;13;13
-12/06/17 04:00;RU26701;Eurdep;air;54.65;19.88;0.1;Russia;;;;Baltiisk;12;12
-12/06/17 04:00;RU26702;Eurdep;air;54.72;20.55;14.6;Russia;Óblast de Kaliningrado;gorod Kaliningrad;Kaliningrado;Kaliningrad;10;10
-12/06/17 04:00;RU27459;Eurdep;air;56.27;44.0;0.0;Russia;0;0;0;Nizhni Novgorod;15;15
-08/06/17 22:00;RU28440;Eurdep;air;56.83;60.63;0.0;Russia;0;0;0.0;Ekaterinburg-Uktus;0;0
-08/06/17 22:00;RU28445;Eurdep;air;56.73;61.07;0.0;Russia;0;0;0.0;Ekaterinburg (Dubr.);0;0
-08/06/17 22:00;RU28900;Eurdep;air;53.25;50.45;0.0;Russia;0;0;0.0;Samara;0;0
-12/06/17 04:00;RU34009;Eurdep;air;51.77;36.17;237.6;Russia;Óblast de Kursk;gorod Kursk;Kursk;Kursk;12;12
-12/06/17 04:00;RU34646;Eurdep;air;47.65;42.12;;Russia;Óblast de Rostov;Tsimlyansky District;;Tsimlyansk;9;9
-12/06/17 04:00;RU34730;Eurdep;air;47.25;39.82;78.2;Russia;Óblast de Rostov;gorod Rostov-na-Donu;Rostov del Don;Rostov-on-Don;16;16
-12/06/17 04:00;RU22018;Eurdep;air;69.28;32.8;37.4;Russia;Óblast de Múrmansk;Kolsky District;;Ura-Guba;10;10
-12/06/17 04:00;RU22204;Eurdep;air;67.57;30.38;261.5;Russia;Óblast de Múrmansk;Kovdorskiy rayon;;Kovdor;8;8
-12/06/17 04:00;RU22213;Eurdep;air;67.55;33.35;129.6;Russia;Óblast de Múrmansk;gorod Apatity;;Apatity;10;10
-12/06/17 04:00;RU22302;Eurdep;air;66.68;31.43;59.6;Russia;Óblast de Múrmansk;gorod Kandalaksha;Zarechensk;Zarechensk;10;10
-12/06/17 04:00;RU22312;Eurdep;air;66.68;32.9;10.2;Russia;Óblast de Múrmansk;gorod Kandalaksha;;Kovda;7;7
-12/06/17 04:00;RU22541;Eurdep;air;64.83;38.4;-5.9;Russia;;;;Unski Mayak;9;9
-12/06/17 04:00;RU22551;Eurdep;air;64.85;40.28;-0.8;Russia;;;;Mud'ug;9;9
-12/06/17 04:00;RU22559;Eurdep;air;64.22;41.67;1.0;Russia;Óblast de Arcángel;Kholmogorsky District;;Kholmogory;10;10
-12/06/17 04:00;RU22641;Eurdep;air;63.9;38.12;16.0;Russia;Óblast de Arcángel;Onezhsky District;Onega;Onega;9;9
-12/06/17 04:00;RU22820;Eurdep;air;61.03;34.27;115.6;Russia;Óblast de Leningrado;Podporozhsky District;;Petrozavodsk;8;8
-12/06/17 04:00;RU22891;Eurdep;air;60.55;30.32;70.6;Russia;Óblast de Leningrado;Priozersky District;;Sosnovo;10;10
-12/06/17 04:00;RU22892;Eurdep;air;60.72;28.72;7.1;Russia;Óblast de Leningrado;Vyborgsky District;Víborg;Vyborg;13;13
-12/06/17 04:00;RU22897;Eurdep;air;60.22;29.0;0.0;Russia;0;0;0;Ozerki;17;17
-12/06/17 04:00;RU26059;Eurdep;air;59.37;28.6;0.0;Russia;0;0;0.0;Kingisepp;10;10
-08/06/17 22:00;RU26060;Eurdep;air;59.98;29.77;0.0;Russia;0;0;0.0;Kronshtadt;0;0
-12/06/17 04:00;RU26069;Eurdep;air;59.35;30.13;93.3;Russia;Óblast de Leningrado;Gatchinsky District;Belogorka;Belogorka;11;11
-12/06/17 04:00;RU26179;Eurdep;air;58.52;31.25;29.9;Russia;Óblast de Nóvgorod;gorod Velikiy Novgorod;Nóvgorod;Novgorod;18;18
-12/06/17 04:00;RU26258;Eurdep;air;57.8;28.42;48.6;Russia;Óblast de Pskov;gorod Pskov;Pskov;Pskov;12;12
-12/06/17 04:00;RU26298;Eurdep;air;57.9;34.05;186.1;Russia;Óblast de Tver;Bologovsky District;Bologoye;Bologoe;11;11
-12/06/17 04:00;RU26389;Eurdep;air;57.13;33.12;207.8;Russia;Óblast de Tver;Ostashkovsky District;;Ostashkov;10;10
-12/06/17 04:00;RU26393;Eurdep;air;57.58;34.57;159.9;Russia;Óblast de Tver;gorod Vyshniy Volochek;Vyshni Volochok;Vyshni Volochek;9;9
-12/06/17 04:00;RU26499;Eurdep;air;56.5;34.93;178.5;Russia;;;;Staritsa;10;10
-12/06/17 04:00;RU26585;Eurdep;air;55.85;32.95;195.0;Russia;Óblast de Tver;Belsky District;Bely;Belyi;11;11
-12/06/17 04:00;RU26607;Eurdep;air;54.95;20.15;0.0;Russia;;;;Pionerski;12;12
-12/06/17 04:00;RU26614;Eurdep;air;55.08;21.93;1.9;Russia;Provincia de Tauragė;Pagėgiai Municipality;;Sovetsk;14;14
-12/06/17 04:00;RU26686;Eurdep;air;55.1;33.23;215.3;Russia;Óblast de Smolensk;Safonovsky District;Safonovo;Safonovo;14;14
-12/06/17 04:00;RU26695;Eurdep;air;55.23;34.4;222.5;Russia;Óblast de Smolensk;Vyazemsky District;;Vyaz'ma;12;12
-12/06/17 04:00;RU26706;Eurdep;air;54.37;21.3;23.9;Russia;Óblast de Kaliningrado;Pravdinsky District;;Zheleznodorozhnyi;12;12
-12/06/17 04:00;RU26711;Eurdep;air;54.63;21.77;30.4;Russia;Óblast de Kaliningrado;Chernyakhovsky District;Chernyakhovsk;Chernyakhovsk;13;13
-12/06/17 04:00;RU26781;Eurdep;air;54.75;32.07;232.0;Russia;Óblast de Smolensk;gorod Smolensk;Smolensk;Smolensk;10;10
-12/06/17 04:00;RU26783;Eurdep;air;54.57;33.17;227.3;Russia;Óblast de Smolensk;Yelninsky District;Yelnia;El'nya;12;12
-12/06/17 04:00;RU26882;Eurdep;air;53.97;32.88;174.0;Russia;Óblast de Smolensk;Roslavlsky District;Roslavl;Roslavl';12;12
-12/06/17 04:00;RU27108;Eurdep;air;58.57;35.63;140.8;Russia;Óblast de Nóvgorod;Pestovsky District;Okhona;Okhony;14;14
-12/06/17 04:00;RU27208;Eurdep;air;57.8;35.88;139.0;Russia;Óblast de Tver;Maksatikhinsky District;Maksatikha;Maksatikha;13;13
-12/06/17 04:00;RU27217;Eurdep;air;57.8;36.7;146.7;Russia;Óblast de Tver;Bezhetsk;Bezhetsk;Bezhetsk;14;14
-12/06/17 04:00;RU27316;Eurdep;air;57.35;37.58;129.8;Russia;Óblast de Tver;Kashinsky District;Glazatovo;Kashin;12;12
-12/06/17 04:00;RU27369;Eurdep;air;57.13;45.17;76.2;Russia;Óblast de Nizhni Nóvgorod;Krasnobakovsky District;Krasnye Baki;Krasnye Baki;11;11
-12/06/17 04:00;RU27401;Eurdep;air;57.03;35.02;162.0;Russia;Óblast de Tver;Torzhoksky District;;Torzhok;10;10
-12/06/17 04:00;RU27402;Eurdep;air;56.9;35.88;133.0;Russia;Óblast de Tver;Kalininsky District;;Tver;9;9
-12/06/17 04:00;RU27453;Eurdep;air;56.68;43.43;78.7;Russia;Óblast de Nizhni Nóvgorod;Gorodetsky District;;Volzhskaya GMO;9;9
-12/06/17 04:00;RU27458;Eurdep;air;56.23;43.43;0.0;Russia;0;0;0.0;Dzerzhinsk;13;13
-12/06/17 04:00;RU27463;Eurdep;air;56.82;45.43;71.1;Russia;Óblast de Nizhni Nóvgorod;Voskresensky District;Kalinikha;Voskresenskoe;9;9
-12/06/17 04:00;RU27511;Eurdep;air;55.9;36.82;145.7;Russia;Óblast de Moscú;Istrinsky District;;Novo-Ierusalim;11;11
-12/06/17 04:00;RU27555;Eurdep;air;55.95;43.03;112.4;Russia;Óblast de Nizhni Nóvgorod;Pavlovsky District;;Pavlovo;11;11
-12/06/17 04:00;RU27563;Eurdep;air;56.02;45.03;105.7;Russia;Óblast de Nizhni Nóvgorod;Lyskovsky District;Lyskovo;Lyskovo;10;10
-12/06/17 04:00;RU27565;Eurdep;air;55.8;44.08;134.5;Russia;Óblast de Nizhni Nóvgorod;Dalnekonstantinovsky District;Dalnee Konstantinovo;Dal'nee Konstantinovo;10;10
-12/06/17 04:00;RU27612;Eurdep;air;55.83;37.62;161.2;Russia;Moscú;gorod Moskva;Moscú;Moscow VDNH;11;11
-12/06/17 04:00;RU27618;Eurdep;air;54.93;37.47;142.7;Russia;Óblast de Moscú;gorod Serpukhov;Sérpujov;Serpukhov;10;10
-12/06/17 04:00;RU27643;Eurdep;air;55.33;42.12;109.3;Russia;Óblast de Nizhni Nóvgorod;Vyksunskiy rayon;;Vyksa;10;10
-12/06/17 04:00;RU27653;Eurdep;air;55.37;43.78;119.4;Russia;Óblast de Nizhni Nóvgorod;Arzamassky District;;Arzamas;10;10
-12/06/17 04:00;RU27665;Eurdep;air;55.03;44.5;170.1;Russia;Óblast de Nizhni Nóvgorod;Lukoyanovsky District;Lukoyánov;Lukoyanov;10;10
-12/06/17 04:00;RU27697;Eurdep;air;54.93;48.83;168.8;Russia;Tartaristán;Tetyushsky District;Tetiushi;Tetustchi;12;12
-12/06/17 04:00;RU27752;Eurdep;air;54.63;43.23;137.7;Russia;Mordovia;Temnikovsky District;Temnikov;Temnikov;9;9
-12/06/17 04:00;RU27756;Eurdep;air;54.43;43.77;168.9;Russia;Mordovia;Krasnoslobodsky District;Krasnoslobodsk;Krasnoslobodsk;8;8
-08/06/17 22:00;RU27799;Eurdep;air;54.23;49.6;0.0;Russia;0;0;0.0;Dimirtovgrad;0;0
-08/06/17 22:00;RU27890;Eurdep;air;53.47;49.47;0.0;Russia;0;0;0.0;Toliyattinskaya;0;0
-08/06/17 22:00;RU27891;Eurdep;air;53.97;48.8;0.0;Russia;0;0;0.0;Sengilei;0;0
-08/06/17 22:00;RU27894;Eurdep;air;53.62;48.8;0.0;Russia;0;0;0.0;Novodevichie;0;0
-12/06/17 04:00;RU28202;Eurdep;air;58.35;51.57;172.6;Russia;Óblast de Kírov;Falyonsky District;;Falenki;11;11
-12/06/17 04:00;RU28214;Eurdep;air;58.13;52.58;165.8;Russia;Udmurtia;Glazovsky District;;Glazov;10;10
-12/06/17 04:00;RU28309;Eurdep;air;57.28;52.23;192.9;Russia;Udmurtia;Seltinskiy rayon;;Selty;12;12
-12/06/17 04:00;RU28312;Eurdep;air;57.63;53.77;166.8;Russia;Udmurtia;Debyossky District;;Debesy;11;11
-08/06/17 22:00;RU28441;Eurdep;air;56.67;60.88;0.0;Russia;0;0;0.0;Istok;0;0
-08/06/17 22:00;RU28448;Eurdep;air;56.5;60.82;0.0;Russia;0;0;0.0;Sysert;0;0
-08/06/17 22:00;RU28449;Eurdep;air;56.43;61.87;0.0;Russia;0;0;0.0;Kamensk-Ural'ski;0;0
-08/06/17 22:00;RU28451;Eurdep;air;56.85;62.72;0.0;Russia;0;0;0.0;Kamyshlov;0;0
-08/06/17 22:00;RU28533;Eurdep;air;56.05;59.58;0.0;Russia;0;0;0.0;Nyazepetrovsk;0;0
-08/06/17 22:00;RU28541;Eurdep;air;56.08;60.3;0.0;Russia;0;0;0.0;Ufalei;0;0
-08/06/17 22:00;RU28548;Eurdep;air;55.55;60.9;0.0;Russia;0;0;0.0;Argayash;0;0
-08/06/17 22:00;RU28549;Eurdep;air;55.58;62.07;0.0;Russia;0;0;0.0;Brodokalmak;0;0
-12/06/17 04:00;RU28622;Eurdep;air;55.42;56.55;275.5;Russia;Baskortostán;Nurimanovsky District;Pavlovka;Pavlovka;9;9
-12/06/17 04:00;RU28624;Eurdep;air;55.35;55.13;107.7;Russia;Baskortostán;Birsky District;;Kushnarenkovo;8;8
-08/06/17 22:00;RU28630;Eurdep;air;55.2;59.67;0.0;Russia;0;0;0.0;Zlatoust;0;0
-08/06/17 22:00;RU28645;Eurdep;air;55.2;61.37;0.0;Russia;0;0;0.0;Chelyabinsk;0;0
-08/06/17 22:00;RU28647;Eurdep;air;55.0;60.1;0.0;Russia;0;0;0.0;Miass;0;0
-12/06/17 04:00;RU28704;Eurdep;air;54.5;50.42;65.4;Russia;Tartaristán;Nurlatsky District;;Chulpanovo;8;8
-08/06/17 22:00;RU28705;Eurdep;air;54.42;51.1;0.0;Russia;0;0;0.0;Chelno-Vershiny;0;0
-12/06/17 04:00;RU28721;Eurdep;air;54.57;55.38;96.0;Russia;Baskortostán;Chishminsky District;Chishmy;Chishmy;10;10
-12/06/17 04:00;RU28722;Eurdep;air;54.72;55.83;92.9;Russia;Baskortostán;Ufimsky District;Ufá;Ufa;9;9
-08/06/17 22:00;RU34063;Eurdep;air;52.28;45.4;0.0;Russia;0;0;0.0;Petrovsk;0;0
-08/06/17 22:00;RU34072;Eurdep;air;52.33;46.37;0.0;Russia;0;0;0.0;Karabulak;0;0
-08/06/17 22:00;RU34083;Eurdep;air;52.5;48.08;0.0;Russia;0;0;0.0;Khvalynsk;0;0
-08/06/17 22:00;RU34098;Eurdep;air;52.03;48.83;0.0;Russia;0;0;0.0;Pugachyov;0;0
-08/06/17 22:00;RU34173;Eurdep;air;51.7;46.73;0.0;Russia;0;0;0.0;Marks;0;0
-08/06/17 22:00;RU34186;Eurdep;air;51.37;48.3;0.0;Russia;0;0;0.0;Ershov;0;0
-12/06/17 04:00;RU34461;Eurdep;air;49.3;44.0;0.0;Russia;0;0;0;Ilovlya;8;8
-12/06/17 04:00;RU34625;Eurdep;air;47.57;38.88;51.5;Russia;Óblast de Rostov;Matveyevo-Kurgansky District;Matveev Kurgan;Matveev-Kurgan;14;14
-12/06/17 04:00;RU34635;Eurdep;air;47.7;40.27;97.3;Russia;Óblast de Rostov;gorod Shakhty;Shajty;Shakhty;10;10
-12/06/17 04:00;RU34636;Eurdep;air;47.52;40.77;7.0;Russia;Óblast de Rostov;Semikarakorsky District;;Semikarakorsk;15;15
-12/06/17 04:00;RU34720;Eurdep;air;47.2;38.95;0.0;Russia;;;;Taganrog;15;15
-12/06/17 04:00;RU37047;Eurdep;air;44.23;42.05;530.1;Russia;Karacháyevo-Cherkesia;gorod Cherkessk;Cherkesk;Cherkessk;12;12
-12/06/17 04:00;RU37054;Eurdep;air;44.22;43.1;309.5;Russia;Krai de Stávropol;gorod Mineralnye Vody;Mineralnye Vody;Mineral'nye Vody;13;13
-12/06/17 04:00;RU37144;Eurdep;air;43.75;44.05;205.6;Russia;Kabardia-Balkaria;Prokhladnensky District;Prokhladny;Prokhladnaya;12;12
-12/06/17 04:00;RU37212;Eurdep;air;43.5;43.62;462.5;Russia;Kabardia-Balkaria;gorod Nalchik;Nálchik;Nal'chik;11;11
-12/06/17 04:00;RU27507;Eurdep;air;55.52;35.03;192.9;Russia;Óblast de Smolensk;Gagarinsky District;;GAGARIN;9;9
+13/06/17 04:00;RU22019;Eurdep;air;69.2;33.48;40.0;Russia;Óblast de Múrmansk;gorod Polyarnyy;Polyarny;Polyarnoe;11;11
+13/06/17 04:00;RU22212;Eurdep;air;67.97;32.87;133.7;Russia;Óblast de Múrmansk;gorod Monchegorsk;;Monchegorsk;9;9
+13/06/17 04:00;RU22214;Eurdep;air;67.4;32.55;134.6;Russia;Óblast de Múrmansk;gorod Apatity;;Zasheek;7;7
+13/06/17 04:00;RU22217;Eurdep;air;67.15;32.35;0.1;Russia;;;;Kandalaksha;9;9
+13/06/17 04:00;RU22546;Eurdep;air;64.58;39.78;1.0;Russia;Óblast de Arcángel;gorod Severodvinsk;Severodvinsk;Severodvinsk;10;10
+13/06/17 04:00;RU22550;Eurdep;air;64.62;40.5;1.0;Russia;Óblast de Arcángel;Arcangel;Arcánge;Arkhangelsk;10;10
+13/06/17 04:00;RU26062;Eurdep;air;59.92;30.25;0.0;Russia;0;0;0.0;Nevskaya;12;12
+13/06/17 04:00;RU26063;Eurdep;air;59.97;30.3;14.3;Russia;San Petersburgo;gorod Sankt-Peterburg;San Petersburgo;Leningrad ICP;13;13
+13/06/17 04:00;RU26701;Eurdep;air;54.65;19.88;0.1;Russia;;;;Baltiisk;13;13
+13/06/17 04:00;RU26702;Eurdep;air;54.72;20.55;14.6;Russia;Óblast de Kaliningrado;gorod Kaliningrad;Kaliningrado;Kaliningrad;12;12
+13/06/17 04:00;RU27459;Eurdep;air;56.27;44.0;0.0;Russia;0;0;0;Nizhni Novgorod;14;14
+13/06/17 04:00;RU28440;Eurdep;air;56.83;60.63;0.0;Russia;0;0;0.0;Ekaterinburg-Uktus;11;11
+13/06/17 04:00;RU28445;Eurdep;air;56.73;61.07;0.0;Russia;0;0;0.0;Ekaterinburg (Dubr.);12;12
+13/06/17 04:00;RU28900;Eurdep;air;53.25;50.45;0.0;Russia;0;0;0.0;Samara;15;15
+13/06/17 04:00;RU34009;Eurdep;air;51.77;36.17;237.6;Russia;Óblast de Kursk;gorod Kursk;Kursk;Kursk;12;12
+13/06/17 04:00;RU34646;Eurdep;air;47.65;42.12;;Russia;Óblast de Rostov;Tsimlyansky District;;Tsimlyansk;10;10
+13/06/17 04:00;RU34730;Eurdep;air;47.25;39.82;78.2;Russia;Óblast de Rostov;gorod Rostov-na-Donu;Rostov del Don;Rostov-on-Don;15;15
+13/06/17 04:00;RU22018;Eurdep;air;69.28;32.8;37.4;Russia;Óblast de Múrmansk;Kolsky District;;Ura-Guba;9;9
+13/06/17 04:00;RU22204;Eurdep;air;67.57;30.38;261.5;Russia;Óblast de Múrmansk;Kovdorskiy rayon;;Kovdor;8;8
+13/06/17 04:00;RU22213;Eurdep;air;67.55;33.35;129.6;Russia;Óblast de Múrmansk;gorod Apatity;;Apatity;11;11
+13/06/17 04:00;RU22302;Eurdep;air;66.68;31.43;59.6;Russia;Óblast de Múrmansk;gorod Kandalaksha;Zarechensk;Zarechensk;12;12
+13/06/17 04:00;RU22312;Eurdep;air;66.68;32.9;10.2;Russia;Óblast de Múrmansk;gorod Kandalaksha;;Kovda;11;11
+13/06/17 04:00;RU22541;Eurdep;air;64.83;38.4;-5.9;Russia;;;;Unski Mayak;9;9
+13/06/17 04:00;RU22551;Eurdep;air;64.85;40.28;-0.8;Russia;;;;Mud'ug;8;8
+13/06/17 04:00;RU22559;Eurdep;air;64.22;41.67;1.0;Russia;Óblast de Arcángel;Kholmogorsky District;;Kholmogory;10;10
+13/06/17 04:00;RU22641;Eurdep;air;63.9;38.12;16.0;Russia;Óblast de Arcángel;Onezhsky District;Onega;Onega;10;10
+13/06/17 04:00;RU22820;Eurdep;air;61.03;34.27;115.6;Russia;Óblast de Leningrado;Podporozhsky District;;Petrozavodsk;9;9
+13/06/17 04:00;RU22891;Eurdep;air;60.55;30.32;70.6;Russia;Óblast de Leningrado;Priozersky District;;Sosnovo;10;10
+13/06/17 04:00;RU22892;Eurdep;air;60.72;28.72;7.1;Russia;Óblast de Leningrado;Vyborgsky District;Víborg;Vyborg;15;15
+13/06/17 04:00;RU22897;Eurdep;air;60.22;29.0;0.0;Russia;0;0;0;Ozerki;13;13
+13/06/17 04:00;RU26059;Eurdep;air;59.37;28.6;0.0;Russia;0;0;0.0;Kingisepp;9;9
+13/06/17 04:00;RU26060;Eurdep;air;59.98;29.77;0.0;Russia;0;0;0.0;Kronshtadt;12;12
+13/06/17 04:00;RU26069;Eurdep;air;59.35;30.13;93.3;Russia;Óblast de Leningrado;Gatchinsky District;Belogorka;Belogorka;10;10
+13/06/17 04:00;RU26179;Eurdep;air;58.52;31.25;29.9;Russia;Óblast de Nóvgorod;gorod Velikiy Novgorod;Nóvgorod;Novgorod;18;18
+13/06/17 04:00;RU26258;Eurdep;air;57.8;28.42;48.6;Russia;Óblast de Pskov;gorod Pskov;Pskov;Pskov;10;10
+13/06/17 04:00;RU26298;Eurdep;air;57.9;34.05;186.1;Russia;Óblast de Tver;Bologovsky District;Bologoye;Bologoe;11;11
+13/06/17 04:00;RU26389;Eurdep;air;57.13;33.12;207.8;Russia;Óblast de Tver;Ostashkovsky District;;Ostashkov;10;10
+13/06/17 04:00;RU26393;Eurdep;air;57.58;34.57;159.9;Russia;Óblast de Tver;gorod Vyshniy Volochek;Vyshni Volochok;Vyshni Volochek;10;10
+13/06/17 04:00;RU26499;Eurdep;air;56.5;34.93;178.5;Russia;;;;Staritsa;11;11
+13/06/17 04:00;RU26585;Eurdep;air;55.85;32.95;195.0;Russia;Óblast de Tver;Belsky District;Bely;Belyi;11;11
+13/06/17 04:00;RU26607;Eurdep;air;54.95;20.15;0.0;Russia;;;;Pionerski;11;11
+13/06/17 04:00;RU26614;Eurdep;air;55.08;21.93;1.9;Russia;Provincia de Tauragė;Pagėgiai Municipality;;Sovetsk;15;15
+13/06/17 04:00;RU26686;Eurdep;air;55.1;33.23;215.3;Russia;Óblast de Smolensk;Safonovsky District;Safonovo;Safonovo;13;13
+13/06/17 04:00;RU26695;Eurdep;air;55.23;34.4;222.5;Russia;Óblast de Smolensk;Vyazemsky District;;Vyaz'ma;13;13
+13/06/17 04:00;RU26706;Eurdep;air;54.37;21.3;23.9;Russia;Óblast de Kaliningrado;Pravdinsky District;;Zheleznodorozhnyi;12;12
+13/06/17 04:00;RU26711;Eurdep;air;54.63;21.77;30.4;Russia;Óblast de Kaliningrado;Chernyakhovsky District;Chernyakhovsk;Chernyakhovsk;14;14
+13/06/17 04:00;RU26781;Eurdep;air;54.75;32.07;232.0;Russia;Óblast de Smolensk;gorod Smolensk;Smolensk;Smolensk;14;14
+13/06/17 04:00;RU26783;Eurdep;air;54.57;33.17;227.3;Russia;Óblast de Smolensk;Yelninsky District;Yelnia;El'nya;13;13
+13/06/17 04:00;RU26882;Eurdep;air;53.97;32.88;174.0;Russia;Óblast de Smolensk;Roslavlsky District;Roslavl;Roslavl';13;13
+13/06/17 04:00;RU27108;Eurdep;air;58.57;35.63;140.8;Russia;Óblast de Nóvgorod;Pestovsky District;Okhona;Okhony;17;17
+13/06/17 04:00;RU27208;Eurdep;air;57.8;35.88;139.0;Russia;Óblast de Tver;Maksatikhinsky District;Maksatikha;Maksatikha;10;10
+13/06/17 04:00;RU27217;Eurdep;air;57.8;36.7;146.7;Russia;Óblast de Tver;Bezhetsk;Bezhetsk;Bezhetsk;14;14
+13/06/17 04:00;RU27316;Eurdep;air;57.35;37.58;129.8;Russia;Óblast de Tver;Kashinsky District;Glazatovo;Kashin;12;12
+13/06/17 04:00;RU27369;Eurdep;air;57.13;45.17;76.2;Russia;Óblast de Nizhni Nóvgorod;Krasnobakovsky District;Krasnye Baki;Krasnye Baki;9;9
+13/06/17 04:00;RU27401;Eurdep;air;57.03;35.02;162.0;Russia;Óblast de Tver;Torzhoksky District;;Torzhok;10;10
+13/06/17 04:00;RU27402;Eurdep;air;56.9;35.88;133.0;Russia;Óblast de Tver;Kalininsky District;;Tver;9;9
+13/06/17 04:00;RU27453;Eurdep;air;56.68;43.43;78.7;Russia;Óblast de Nizhni Nóvgorod;Gorodetsky District;;Volzhskaya GMO;10;10
+13/06/17 04:00;RU27458;Eurdep;air;56.23;43.43;0.0;Russia;0;0;0.0;Dzerzhinsk;13;13
+13/06/17 04:00;RU27463;Eurdep;air;56.82;45.43;71.1;Russia;Óblast de Nizhni Nóvgorod;Voskresensky District;Kalinikha;Voskresenskoe;9;9
+13/06/17 04:00;RU27511;Eurdep;air;55.9;36.82;145.7;Russia;Óblast de Moscú;Istrinsky District;;Novo-Ierusalim;11;11
+13/06/17 04:00;RU27555;Eurdep;air;55.95;43.03;112.4;Russia;Óblast de Nizhni Nóvgorod;Pavlovsky District;;Pavlovo;11;11
+13/06/17 04:00;RU27563;Eurdep;air;56.02;45.03;105.7;Russia;Óblast de Nizhni Nóvgorod;Lyskovsky District;Lyskovo;Lyskovo;10;10
+13/06/17 04:00;RU27565;Eurdep;air;55.8;44.08;134.5;Russia;Óblast de Nizhni Nóvgorod;Dalnekonstantinovsky District;Dalnee Konstantinovo;Dal'nee Konstantinovo;11;11
+13/06/17 04:00;RU27612;Eurdep;air;55.83;37.62;161.2;Russia;Moscú;gorod Moskva;Moscú;Moscow VDNH;10;10
+13/06/17 04:00;RU27618;Eurdep;air;54.93;37.47;142.7;Russia;Óblast de Moscú;gorod Serpukhov;Sérpujov;Serpukhov;11;11
+13/06/17 04:00;RU27643;Eurdep;air;55.33;42.12;109.3;Russia;Óblast de Nizhni Nóvgorod;Vyksunskiy rayon;;Vyksa;9;9
+13/06/17 04:00;RU27653;Eurdep;air;55.37;43.78;119.4;Russia;Óblast de Nizhni Nóvgorod;Arzamassky District;;Arzamas;10;10
+13/06/17 04:00;RU27665;Eurdep;air;55.03;44.5;170.1;Russia;Óblast de Nizhni Nóvgorod;Lukoyanovsky District;Lukoyánov;Lukoyanov;11;11
+13/06/17 04:00;RU27697;Eurdep;air;54.93;48.83;168.8;Russia;Tartaristán;Tetyushsky District;Tetiushi;Tetustchi;12;12
+13/06/17 04:00;RU27752;Eurdep;air;54.63;43.23;137.7;Russia;Mordovia;Temnikovsky District;Temnikov;Temnikov;8;8
+13/06/17 04:00;RU27756;Eurdep;air;54.43;43.77;168.9;Russia;Mordovia;Krasnoslobodsky District;Krasnoslobodsk;Krasnoslobodsk;10;10
+13/06/17 04:00;RU27799;Eurdep;air;54.23;49.6;0.0;Russia;0;0;0.0;Dimirtovgrad;9;9
+13/06/17 04:00;RU27890;Eurdep;air;53.47;49.47;0.0;Russia;0;0;0.0;Toliyattinskaya;10;10
+13/06/17 04:00;RU27891;Eurdep;air;53.97;48.8;0.0;Russia;0;0;0.0;Sengilei;15;15
+13/06/17 04:00;RU27894;Eurdep;air;53.62;48.8;0.0;Russia;0;0;0.0;Novodevichie;9;9
+13/06/17 04:00;RU28202;Eurdep;air;58.35;51.57;172.6;Russia;Óblast de Kírov;Falyonsky District;;Falenki;12;12
+13/06/17 04:00;RU28214;Eurdep;air;58.13;52.58;165.8;Russia;Udmurtia;Glazovsky District;;Glazov;10;10
+13/06/17 04:00;RU28309;Eurdep;air;57.28;52.23;192.9;Russia;Udmurtia;Seltinskiy rayon;;Selty;11;11
+13/06/17 04:00;RU28312;Eurdep;air;57.63;53.77;166.8;Russia;Udmurtia;Debyossky District;;Debesy;12;12
+13/06/17 04:00;RU28441;Eurdep;air;56.67;60.88;0.0;Russia;0;0;0.0;Istok;8;8
+13/06/17 04:00;RU28448;Eurdep;air;56.5;60.82;0.0;Russia;0;0;0.0;Sysert;11;11
+13/06/17 04:00;RU28449;Eurdep;air;56.43;61.87;0.0;Russia;0;0;0.0;Kamensk-Ural'ski;11;11
+13/06/17 04:00;RU28451;Eurdep;air;56.85;62.72;0.0;Russia;0;0;0.0;Kamyshlov;9;9
+13/06/17 04:00;RU28533;Eurdep;air;56.05;59.58;0.0;Russia;0;0;0.0;Nyazepetrovsk;10;10
+13/06/17 04:00;RU28541;Eurdep;air;56.08;60.3;0.0;Russia;0;0;0.0;Ufalei;12;12
+13/06/17 04:00;RU28548;Eurdep;air;55.55;60.9;0.0;Russia;0;0;0.0;Argayash;10;10
+13/06/17 04:00;RU28549;Eurdep;air;55.58;62.07;0.0;Russia;0;0;0.0;Brodokalmak;9;9
+13/06/17 04:00;RU28622;Eurdep;air;55.42;56.55;275.5;Russia;Baskortostán;Nurimanovsky District;Pavlovka;Pavlovka;7;7
+13/06/17 04:00;RU28624;Eurdep;air;55.35;55.13;107.7;Russia;Baskortostán;Birsky District;;Kushnarenkovo;12;12
+13/06/17 04:00;RU28630;Eurdep;air;55.2;59.67;0.0;Russia;0;0;0.0;Zlatoust;13;13
+13/06/17 04:00;RU28645;Eurdep;air;55.2;61.37;0.0;Russia;0;0;0.0;Chelyabinsk;10;10
+13/06/17 04:00;RU28647;Eurdep;air;55.0;60.1;0.0;Russia;0;0;0.0;Miass;11;11
+13/06/17 04:00;RU28704;Eurdep;air;54.5;50.42;65.4;Russia;Tartaristán;Nurlatsky District;;Chulpanovo;9;9
+13/06/17 04:00;RU28705;Eurdep;air;54.42;51.1;0.0;Russia;0;0;0.0;Chelno-Vershiny;10;10
+13/06/17 04:00;RU28721;Eurdep;air;54.57;55.38;96.0;Russia;Baskortostán;Chishminsky District;Chishmy;Chishmy;10;10
+13/06/17 04:00;RU28722;Eurdep;air;54.72;55.83;92.9;Russia;Baskortostán;Ufimsky District;Ufá;Ufa;9;9
+13/06/17 04:00;RU34063;Eurdep;air;52.28;45.4;0.0;Russia;0;0;0.0;Petrovsk;13;13
+13/06/17 04:00;RU34072;Eurdep;air;52.33;46.37;0.0;Russia;0;0;0.0;Karabulak;13;13
+13/06/17 04:00;RU34083;Eurdep;air;52.5;48.08;0.0;Russia;0;0;0.0;Khvalynsk;10;10
+13/06/17 04:00;RU34098;Eurdep;air;52.03;48.83;0.0;Russia;0;0;0.0;Pugachyov;13;13
+13/06/17 04:00;RU34173;Eurdep;air;51.7;46.73;0.0;Russia;0;0;0.0;Marks;15;15
+13/06/17 04:00;RU34186;Eurdep;air;51.37;48.3;0.0;Russia;0;0;0.0;Ershov;14;14
+13/06/17 04:00;RU34461;Eurdep;air;49.3;44.0;0.0;Russia;0;0;0;Ilovlya;9;9
+13/06/17 04:00;RU34625;Eurdep;air;47.57;38.88;51.5;Russia;Óblast de Rostov;Matveyevo-Kurgansky District;Matveev Kurgan;Matveev-Kurgan;14;14
+13/06/17 04:00;RU34635;Eurdep;air;47.7;40.27;97.3;Russia;Óblast de Rostov;gorod Shakhty;Shajty;Shakhty;7;7
+13/06/17 04:00;RU34636;Eurdep;air;47.52;40.77;7.0;Russia;Óblast de Rostov;Semikarakorsky District;;Semikarakorsk;13;13
+13/06/17 04:00;RU34720;Eurdep;air;47.2;38.95;0.0;Russia;;;;Taganrog;13;13
+13/06/17 04:00;RU37047;Eurdep;air;44.23;42.05;530.1;Russia;Karacháyevo-Cherkesia;gorod Cherkessk;Cherkesk;Cherkessk;12;12
+13/06/17 04:00;RU37054;Eurdep;air;44.22;43.1;309.5;Russia;Krai de Stávropol;gorod Mineralnye Vody;Mineralnye Vody;Mineral'nye Vody;16;16
+13/06/17 04:00;RU37144;Eurdep;air;43.75;44.05;205.6;Russia;Kabardia-Balkaria;Prokhladnensky District;Prokhladny;Prokhladnaya;13;13
+13/06/17 04:00;RU37212;Eurdep;air;43.5;43.62;462.5;Russia;Kabardia-Balkaria;gorod Nalchik;Nálchik;Nal'chik;12;12
+13/06/17 04:00;RU27507;Eurdep;air;55.52;35.03;192.9;Russia;Óblast de Smolensk;Gagarinsky District;;GAGARIN;9;9
 28/05/17 22:00;RU28629;Eurdep;air;54.9;56.95;138.5;Russia;Baskortostán;Iglinsky District;;ULU-TELYAK;0;0
