@@ -308,6 +308,12 @@ def gencat(network):
   
     return
 
+def wunder(network):
+    #static network
+    file_name = os.path.join(home, 'webcams_' + network + '.csv')
+    #nothing
+    return
+
 def test():
     network = sys.argv[1]
     if network in ['metcli', 'DGT', 'tiempovistazo', 'munimadrid', 'gencat']:
@@ -321,6 +327,8 @@ def test():
             munimadrid(network)
 	elif network == 'gencat':
             gencat(network)
+	elif network == 'wunder':
+	    wunder(network)
         else:
             None
         return
