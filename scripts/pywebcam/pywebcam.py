@@ -308,6 +308,30 @@ def gencat(network):
   
     return
 
+def eitb(network):
+    url = 'http://www.eitb.eus/es/trafico/camaras/'
+    file_name = os.path.join(home, 'webcams_' + network + '.csv')
+    try:
+        infile = urllib2.urlopen(url).readlines()
+        logger.info('#### START PYWEBCAM FROM #### %s' % network)
+    except:
+        logger.error('Not available %s' % url)
+        return
+
+    with open(file_name, 'w') as fp:
+        fp.write("%s^%s^%s^%s\n" % ('id', 'lon', 'lat', 'img'))
+        k = 0
+        for i in infile:
+            if "cam_url" in i:
+                k = k + 1
+                img = find_between(i, '"cam_file_url":"', '","').replace('\/', '/')
+                lon = find_between(i, '"longitude"', ',"').replace(':', '')
+                lat = find_between(i, '"latitude"', '}').replace(':', '')
+                id = network + '_' + str(k)
+                logger.info('Get data from webcam %s' % id)
+                fp.write("%s^%s^%s^%s\n" % (id, lon, lat, img))
+    return
+
 def wunder(network):
     #static network
     file_name = os.path.join(home, 'webcams_' + network + '.csv')
@@ -327,6 +351,8 @@ def test():
             munimadrid(network)
 	elif network == 'gencat':
             gencat(network)
+	elif network == 'eitb':
+	    eitb(network)
 	elif network == 'wunder':
 	    wunder(network)
         else:
