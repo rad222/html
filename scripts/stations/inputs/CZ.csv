@@ -1,55 +1,55 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-13/06/17 11:00;CZ0002;Eurdep;air;48.96;14.47;393.3;Czech Republic;Región de Bohemia Meridional;České Budějovice District;České Budějovice;Č. BUDĚJOVICE - SÚJB;15.3;15
-13/06/17 11:00;CZ0003;Eurdep;air;49.73;13.36;349.2;Czech Republic;Región de Pilsen;Plzeň-City District;Pilsen;PLZEŇ;10.5;11
-13/06/17 11:00;CZ0004;Eurdep;air;50.67;14.03;215.7;Czech Republic;Región de Ústí nad Labem;Ústí nad Labem District;Ústí nad Labem;ÚSTÍ NAD LABEM - SÚJB;10.0;10
-13/06/17 11:00;CZ0005;Eurdep;air;50.24;15.87;235.6;Czech Republic;Región de Hradec Králové;Hradec Králové District;Hradec Králové;HRADEC KRÁLOVÉ - SÚJB;11.0;12
-13/06/17 11:00;CZ0006;Eurdep;air;49.21;16.62;242.6;Czech Republic;Región de Moravia Meridional;Brno-City District;Brno;BRNO;12.0;12
-13/06/17 11:00;CZ0007;Eurdep;air;49.83;18.28;214.4;Czech Republic;Región de Moravia-Silesia;Ostrava-City District;Ostrava;OSTRAVA;11.0;11
-13/06/17 11:00;CZ0011;Eurdep;air;50.09;14.43;0.0;Czech Republic;0;0;0;PRAHA - SÚJB;8.9;9
-13/06/17 11:00;CZ0013;Eurdep;air;50.06;14.45;210.2;Czech Republic;Praga;Hlavní město Praha;Praga;PRAHA - SÚRO;10.7;11
-13/06/17 11:00;CZ0020;Eurdep;air;49.62;13.99;524.2;Czech Republic;Región de Bohemia Central;Příbram District;Milín;KAMENNÁ;17.6;18
-13/06/17 11:00;CZ1015;Eurdep;air;50.97;14.51;0.0;Czech Republic;0;0;0;VALDEK;12.1;12
-13/06/17 11:00;CZ1033;Eurdep;air;50.37;12.61;911.9;Czech Republic;Región de Karlovy Vary;Sokolov District;Přebuz;PŘEBUZ;14.3;14
-13/06/17 11:00;CZ1080;Eurdep;air;50.24;17.19;617.1;Czech Republic;Región de Olomouc;Jeseník District;Jesenik;JESENÍK;9.5;9
-13/06/17 11:00;CZ1103;Eurdep;air;48.72;14.73;883.3;Czech Republic;Región de Bohemia Meridional;České Budějovice District;Horní Stropnice;HOJNÁ VODA;13.6;14
-13/06/17 11:00;CZ1110;Eurdep;air;50.66;15.85;0.0;Czech Republic;0;0;0;RÝCHORY;10.3;10
-13/06/17 11:00;CZ1134;Eurdep;air;49.05;18.01;573.7;Czech Republic;Región de Zlín;Zlín District;Brumov-Bylnice;ŠTÍTNÁ VLÁŘÍ;10.1;10
-13/06/17 11:00;CZ1135;Eurdep;air;48.79;16.73;234.5;Czech Republic;Región de Moravia Meridional;Břeclav District;Sedlec;VALTICE - SEDLEC;10.4;11
-13/06/17 11:00;CZ1186;Eurdep;air;49.94;17.91;252.0;Czech Republic;Región de Moravia-Silesia;Opava District;Opava;OPAVA;10.0;11
-13/06/17 11:00;CZ1214;Eurdep;air;49.54;18.54;676.1;Czech Republic;Región de Moravia-Silesia;Frýdek-Místek District;Morávka;BÍLÝ KŘÍŽ;9.1;9
-13/06/17 11:00;CZ1406;Eurdep;air;50.08;12.4;466.9;Czech Republic;Región de Karlovy Vary;Cheb District;Cheb;CHEB;10.8;11
-13/06/17 11:00;CZ1414;Eurdep;air;50.2;12.92;604.0;Czech Republic;Región de Karlovy Vary;Karlovy Vary District;Kolová;KARLOVY VARY;15.5;16
-13/06/17 11:00;CZ1423;Eurdep;air;49.67;12.68;716.6;Czech Republic;Región de Pilsen;Tachov District;Přimda;PŘIMDA;12.6;13
-13/06/17 11:00;CZ1438;Eurdep;air;50.38;13.33;303.2;Czech Republic;Región de Ústí nad Labem;Chomutov District;Kadaň;TUŠIMICE;10.4;11
-13/06/17 11:00;CZ1457;Eurdep;air;49.07;13.61;1081.5;Czech Republic;Región de Bohemia Meridional;Prachatice District;Stachy;CHURÁŇOV;16.0;17
-13/06/17 11:00;CZ1487;Eurdep;air;49.47;13.83;487.2;Czech Republic;Región de Bohemia Meridional;Strakonice District;Kocelovice;KOCELOVICE;17.1;17
-13/06/17 11:00;CZ1502;Eurdep;air;50.68;14.04;331.1;Czech Republic;Región de Ústí nad Labem;Ústí nad Labem District;Ústí nad Labem;ÚSTÍ NAD LABEM;11.5;12
-13/06/17 11:00;CZ1509;Eurdep;air;50.46;14.17;156.3;Czech Republic;Región de Ústí nad Labem;Litoměřice District;Doksany;DOKSANY;11.7;12
-13/06/17 11:00;CZ1518;Eurdep;air;50.1;14.25;363.0;Czech Republic;Región de Bohemia Central;Prague-West District;Hostivice;PRAHA - RUZYNĚ;12.6;13
-13/06/17 11:00;CZ1520;Eurdep;air;50.01;14.45;297.4;Czech Republic;Praga;Hlavní město Praha;Praga;PRAHA - LIBUŠ;11.7;12
-13/06/17 11:00;CZ1538;Eurdep;air;49.2;14.34;503.3;Czech Republic;Región de Bohemia Meridional;České Budějovice District;Temelín;TEMELÍN;14.0;15
-13/06/17 11:00;CZ1546;Eurdep;air;48.95;14.47;395.2;Czech Republic;Región de Bohemia Meridional;České Budějovice District;České Budějovice;ČESKÉ BUDĚJOVICE;14.4;14
-13/06/17 11:00;CZ1603;Eurdep;air;50.77;15.02;397.4;Czech Republic;Región de Liberec;Liberec District;Liberec;LIBEREC - LETIŠTĚ;12.8;13
-13/06/17 11:00;CZ1628;Eurdep;air;49.57;15.08;518.2;Czech Republic;Región de Vysočina;Pelhřimov District;Křešín;KRAMOLÍN - KOŠETICE;13.7;14
-13/06/17 11:00;CZ1636;Eurdep;air;49.17;15.43;522.1;Czech Republic;Región de Vysočina;Jihlava District;Horní Myslová;KOSTELNÍ MYSLOVÁ;14.4;14
-13/06/17 11:00;CZ1643;Eurdep;air;50.69;15.73;823.5;Czech Republic;Región de Hradec Králové;Trutnov District;Pec pod Sněžkou;PEC POD SNĚŽKOU;12.7;13
-13/06/17 11:00;CZ1649;Eurdep;air;50.18;15.84;257.5;Czech Republic;Región de Hradec Králové;Hradec Králové District;Hradec Králové;HRADEC KRÁLOVÉ;8.5;9
-13/06/17 11:00;CZ1659;Eurdep;air;49.58;15.77;520.3;Czech Republic;Región de Vysočina;Havlíčkův Brod District;Přibyslav;PŘIBYSLAV;13.8;14
-13/06/17 11:00;CZ1679;Eurdep;air;49.98;16.42;391.8;Czech Republic;Región de Pardubice;Ústí nad Orlicí District;Ústí nad Orlicí;ÚSTÍ NAD ORLICÍ;12.6;12
-13/06/17 11:00;CZ1683;Eurdep;air;49.73;16.03;682.2;Czech Republic;Región de Pardubice;Chrudim District;Svratouch;SVRATOUCH;13.2;14
-13/06/17 11:00;CZ1693;Eurdep;air;49.1;16.13;396.3;Czech Republic;Región de Vysočina;Třebíč District;Dukovany;DUKOVANY;8.6;9
-13/06/17 11:00;CZ1698;Eurdep;air;48.88;16.08;316.4;Czech Republic;Región de Moravia Meridional;Znojmo District;Kuchařovice;KUCHAŘOVICE;10.7;11
-13/06/17 11:00;CZ1710;Eurdep;air;49.65;16.95;490.3;Czech Republic;Región de Olomouc;Olomouc District;Luká;LUKÁ;12.9;13
-13/06/17 11:00;CZ1723;Eurdep;air;49.15;16.69;233.0;Czech Republic;Región de Moravia Meridional;Brno-City District;Brno;BRNO - TUŘANY;11.9;12
-13/06/17 11:00;CZ1766;Eurdep;air;49.77;17.55;686.0;Czech Republic;Región de Moravia-Silesia;Opava District;Budišov nad Budišovkou;ČERVENÁ U LIBAVÉ;14.0;14
-13/06/17 11:00;CZ1774;Eurdep;air;49.32;17.57;222.7;Czech Republic;Región de Zlín;Kroměříž District;Holešov;HOLEŠOV;11.9;12
-13/06/17 11:00;CZ1782;Eurdep;air;49.7;18.12;0.0;Czech Republic;0;0;0;OSTRAVA - MOŠNOV;12.3;13
-13/06/17 11:00;CZ1787;Eurdep;air;49.55;18.45;1181.8;Czech Republic;Región de Moravia-Silesia;Frýdek-Místek District;Krásná;LYSÁ HORA;12.2;13
-13/06/17 11:00;CZ1959;Eurdep;air;50.35;16.32;715.7;Czech Republic;Región de Hradec Králové;Rychnov nad Kněžnou District;Sedloňov;POLOM;8.9;9
-13/06/17 11:00;CZZS02;Eurdep;air;49.54;18.24;438.2;Czech Republic;Región de Moravia-Silesia;Nový Jičín District;Frenstat;FRENŠTÁT POD RADHOŠTĚM;11.1;11
-13/06/17 11:00;CZZS04;Eurdep;air;49.34;16.44;0.0;Czech Republic;0;0;0;TIŠNOV;13.9;14
-13/06/17 11:00;CZZS05;Eurdep;air;49.9;14.58;371.9;Czech Republic;Región de Bohemia Central;Prague-East District;Kamenice;KAMENICE;12.8;13
-13/06/17 11:00;CZZS06;Eurdep;air;49.6;17.3;222.0;Czech Republic;Región de Olomouc;Olomouc District;Olomouc;OLOMOUC - SÚJB;12.2;13
-13/06/17 11:00;CZZS08;Eurdep;air;49.22;17.7;270.2;Czech Republic;Región de Zlín;Zlín District;Zlín;ZLÍN;13.2;13
-13/06/17 11:00;CZZS09;Eurdep;air;49.4;15.6;527.8;Czech Republic;Región de Vysočina;Jihlava District;Jihlava;JIHLAVA;15.5;16
-13/06/17 11:00;CZZS10;Eurdep;air;48.85;17.12;161.2;Czech Republic;Región de Moravia Meridional;Hodonín District;Hódonin;HODONÍN;9.8;10
+14/06/17 00:00;CZ0002;Eurdep;air;48.96;14.47;393.3;Czech Republic;Región de Bohemia Meridional;České Budějovice District;České Budějovice;Č. BUDĚJOVICE - SÚJB;16.0;16
+14/06/17 00:00;CZ0003;Eurdep;air;49.73;13.36;349.2;Czech Republic;Región de Pilsen;Plzeň-City District;Pilsen;PLZEŇ;10.4;10
+14/06/17 00:00;CZ0004;Eurdep;air;50.67;14.03;215.7;Czech Republic;Región de Ústí nad Labem;Ústí nad Labem District;Ústí nad Labem;ÚSTÍ NAD LABEM - SÚJB;10.0;10
+14/06/17 00:00;CZ0005;Eurdep;air;50.24;15.87;235.6;Czech Republic;Región de Hradec Králové;Hradec Králové District;Hradec Králové;HRADEC KRÁLOVÉ - SÚJB;11.5;11
+14/06/17 00:00;CZ0006;Eurdep;air;49.21;16.62;242.6;Czech Republic;Región de Moravia Meridional;Brno-City District;Brno;BRNO;12.1;12
+14/06/17 00:00;CZ0007;Eurdep;air;49.83;18.28;214.4;Czech Republic;Región de Moravia-Silesia;Ostrava-City District;Ostrava;OSTRAVA;10.9;11
+14/06/17 00:00;CZ0011;Eurdep;air;50.09;14.43;0.0;Czech Republic;0;0;0;PRAHA - SÚJB;9.2;9
+14/06/17 00:00;CZ0013;Eurdep;air;50.06;14.45;210.2;Czech Republic;Praga;Hlavní město Praha;Praga;PRAHA - SÚRO;10.9;11
+14/06/17 00:00;CZ0020;Eurdep;air;49.62;13.99;524.2;Czech Republic;Región de Bohemia Central;Příbram District;Milín;KAMENNÁ;17.7;18
+14/06/17 00:00;CZ1015;Eurdep;air;50.97;14.51;0.0;Czech Republic;0;0;0;VALDEK;12.0;13
+14/06/17 00:00;CZ1033;Eurdep;air;50.37;12.61;911.9;Czech Republic;Región de Karlovy Vary;Sokolov District;Přebuz;PŘEBUZ;14.6;15
+14/06/17 00:00;CZ1080;Eurdep;air;50.24;17.19;617.1;Czech Republic;Región de Olomouc;Jeseník District;Jesenik;JESENÍK;9.4;10
+14/06/17 00:00;CZ1103;Eurdep;air;48.72;14.73;883.3;Czech Republic;Región de Bohemia Meridional;České Budějovice District;Horní Stropnice;HOJNÁ VODA;13.5;14
+14/06/17 00:00;CZ1110;Eurdep;air;50.66;15.85;0.0;Czech Republic;0;0;0;RÝCHORY;10.4;10
+14/06/17 00:00;CZ1134;Eurdep;air;49.05;18.01;573.7;Czech Republic;Región de Zlín;Zlín District;Brumov-Bylnice;ŠTÍTNÁ VLÁŘÍ;9.0;10
+14/06/17 00:00;CZ1135;Eurdep;air;48.79;16.73;234.5;Czech Republic;Región de Moravia Meridional;Břeclav District;Sedlec;VALTICE - SEDLEC;10.5;11
+14/06/17 00:00;CZ1186;Eurdep;air;49.94;17.91;252.0;Czech Republic;Región de Moravia-Silesia;Opava District;Opava;OPAVA;11.0;11
+14/06/17 00:00;CZ1214;Eurdep;air;49.54;18.54;676.1;Czech Republic;Región de Moravia-Silesia;Frýdek-Místek District;Morávka;BÍLÝ KŘÍŽ;9.1;10
+14/06/17 00:00;CZ1406;Eurdep;air;50.08;12.4;466.9;Czech Republic;Región de Karlovy Vary;Cheb District;Cheb;CHEB;10.6;11
+14/06/17 00:00;CZ1414;Eurdep;air;50.2;12.92;604.0;Czech Republic;Región de Karlovy Vary;Karlovy Vary District;Kolová;KARLOVY VARY;15.9;16
+14/06/17 00:00;CZ1423;Eurdep;air;49.67;12.68;716.6;Czech Republic;Región de Pilsen;Tachov District;Přimda;PŘIMDA;12.7;13
+14/06/17 00:00;CZ1438;Eurdep;air;50.38;13.33;303.2;Czech Republic;Región de Ústí nad Labem;Chomutov District;Kadaň;TUŠIMICE;10.0;10
+14/06/17 00:00;CZ1457;Eurdep;air;49.07;13.61;1081.5;Czech Republic;Región de Bohemia Meridional;Prachatice District;Stachy;CHURÁŇOV;16.2;17
+14/06/17 00:00;CZ1487;Eurdep;air;49.47;13.83;487.2;Czech Republic;Región de Bohemia Meridional;Strakonice District;Kocelovice;KOCELOVICE;17.1;17
+14/06/17 00:00;CZ1502;Eurdep;air;50.68;14.04;331.1;Czech Republic;Región de Ústí nad Labem;Ústí nad Labem District;Ústí nad Labem;ÚSTÍ NAD LABEM;0.0;0
+14/06/17 00:00;CZ1509;Eurdep;air;50.46;14.17;156.3;Czech Republic;Región de Ústí nad Labem;Litoměřice District;Doksany;DOKSANY;11.7;12
+14/06/17 00:00;CZ1518;Eurdep;air;50.1;14.25;363.0;Czech Republic;Región de Bohemia Central;Prague-West District;Hostivice;PRAHA - RUZYNĚ;12.5;13
+14/06/17 00:00;CZ1520;Eurdep;air;50.01;14.45;297.4;Czech Republic;Praga;Hlavní město Praha;Praga;PRAHA - LIBUŠ;11.7;12
+14/06/17 00:00;CZ1538;Eurdep;air;49.2;14.34;503.3;Czech Republic;Región de Bohemia Meridional;České Budějovice District;Temelín;TEMELÍN;14.9;15
+14/06/17 00:00;CZ1546;Eurdep;air;48.95;14.47;395.2;Czech Republic;Región de Bohemia Meridional;České Budějovice District;České Budějovice;ČESKÉ BUDĚJOVICE;14.7;15
+14/06/17 00:00;CZ1603;Eurdep;air;50.77;15.02;397.4;Czech Republic;Región de Liberec;Liberec District;Liberec;LIBEREC - LETIŠTĚ;13.2;13
+14/06/17 00:00;CZ1628;Eurdep;air;49.57;15.08;518.2;Czech Republic;Región de Vysočina;Pelhřimov District;Křešín;KRAMOLÍN - KOŠETICE;0.0;0
+14/06/17 00:00;CZ1636;Eurdep;air;49.17;15.43;522.1;Czech Republic;Región de Vysočina;Jihlava District;Horní Myslová;KOSTELNÍ MYSLOVÁ;14.3;14
+14/06/17 00:00;CZ1643;Eurdep;air;50.69;15.73;823.5;Czech Republic;Región de Hradec Králové;Trutnov District;Pec pod Sněžkou;PEC POD SNĚŽKOU;12.7;13
+14/06/17 00:00;CZ1649;Eurdep;air;50.18;15.84;257.5;Czech Republic;Región de Hradec Králové;Hradec Králové District;Hradec Králové;HRADEC KRÁLOVÉ;8.4;8
+14/06/17 00:00;CZ1659;Eurdep;air;49.58;15.77;520.3;Czech Republic;Región de Vysočina;Havlíčkův Brod District;Přibyslav;PŘIBYSLAV;13.8;14
+14/06/17 00:00;CZ1679;Eurdep;air;49.98;16.42;391.8;Czech Republic;Región de Pardubice;Ústí nad Orlicí District;Ústí nad Orlicí;ÚSTÍ NAD ORLICÍ;12.3;13
+14/06/17 00:00;CZ1683;Eurdep;air;49.73;16.03;682.2;Czech Republic;Región de Pardubice;Chrudim District;Svratouch;SVRATOUCH;13.0;13
+14/06/17 00:00;CZ1693;Eurdep;air;49.1;16.13;396.3;Czech Republic;Región de Vysočina;Třebíč District;Dukovany;DUKOVANY;8.7;9
+14/06/17 00:00;CZ1698;Eurdep;air;48.88;16.08;316.4;Czech Republic;Región de Moravia Meridional;Znojmo District;Kuchařovice;KUCHAŘOVICE;10.5;11
+14/06/17 00:00;CZ1710;Eurdep;air;49.65;16.95;490.3;Czech Republic;Región de Olomouc;Olomouc District;Luká;LUKÁ;0.0;0
+14/06/17 00:00;CZ1723;Eurdep;air;49.15;16.69;233.0;Czech Republic;Región de Moravia Meridional;Brno-City District;Brno;BRNO - TUŘANY;11.8;12
+14/06/17 00:00;CZ1766;Eurdep;air;49.77;17.55;686.0;Czech Republic;Región de Moravia-Silesia;Opava District;Budišov nad Budišovkou;ČERVENÁ U LIBAVÉ;14.1;15
+14/06/17 00:00;CZ1774;Eurdep;air;49.32;17.57;222.7;Czech Republic;Región de Zlín;Kroměříž District;Holešov;HOLEŠOV;12.0;12
+14/06/17 00:00;CZ1782;Eurdep;air;49.7;18.12;0.0;Czech Republic;0;0;0;OSTRAVA - MOŠNOV;12.4;12
+14/06/17 00:00;CZ1787;Eurdep;air;49.55;18.45;1181.8;Czech Republic;Región de Moravia-Silesia;Frýdek-Místek District;Krásná;LYSÁ HORA;12.1;12
+14/06/17 00:00;CZ1959;Eurdep;air;50.35;16.32;715.7;Czech Republic;Región de Hradec Králové;Rychnov nad Kněžnou District;Sedloňov;POLOM;8.0;9
+14/06/17 00:00;CZZS02;Eurdep;air;49.54;18.24;438.2;Czech Republic;Región de Moravia-Silesia;Nový Jičín District;Frenstat;FRENŠTÁT POD RADHOŠTĚM;11.1;11
+14/06/17 00:00;CZZS04;Eurdep;air;49.34;16.44;0.0;Czech Republic;0;0;0;TIŠNOV;14.1;14
+14/06/17 00:00;CZZS05;Eurdep;air;49.9;14.58;371.9;Czech Republic;Región de Bohemia Central;Prague-East District;Kamenice;KAMENICE;12.0;13
+14/06/17 00:00;CZZS06;Eurdep;air;49.6;17.3;222.0;Czech Republic;Región de Olomouc;Olomouc District;Olomouc;OLOMOUC - SÚJB;12.0;12
+14/06/17 00:00;CZZS08;Eurdep;air;49.22;17.7;270.2;Czech Republic;Región de Zlín;Zlín District;Zlín;ZLÍN;13.3;14
+14/06/17 00:00;CZZS09;Eurdep;air;49.4;15.6;527.8;Czech Republic;Región de Vysočina;Jihlava District;Jihlava;JIHLAVA;15.5;16
+14/06/17 00:00;CZZS10;Eurdep;air;48.85;17.12;161.2;Czech Republic;Región de Moravia Meridional;Hodonín District;Hódonin;HODONÍN;9.8;10
