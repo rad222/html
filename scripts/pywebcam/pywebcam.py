@@ -340,7 +340,7 @@ def wunder(network):
 
 def test():
     network = sys.argv[1]
-    if network in ['metcli', 'DGT', 'tiempovistazo', 'munimadrid', 'gencat']:
+    if network in ['metcli', 'DGT', 'tiempovistazo', 'munimadrid', 'gencat', 'eitb']:
         if network == 'metcli':
             metcli(network)
         elif network == 'DGT':
