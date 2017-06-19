@@ -278,9 +278,69 @@ def DGT(network):
 
     return
 
+def gencat(network):
+    '''
+    :param network:
+    :return:
+    '''
+    url = 'http://www.gencat.cat/transit/opendata/cameres.xml'
+    file_name = os.path.join(home, 'webcams_' + network + '.csv')
+    try:
+        infile = urllib2.urlopen(url)
+        logger.info('#### START PYWEBCAM FROM #### %s' % network)
+    except:
+        logger.error('Not available %s' % url)
+        return
+    contents = infile.read().replace('gml:', '').replace('cite:', '').replace('decimal="." cs="," ts=" "', '').replace('xmlns:gml="http://www.opengis.net/gml"', '')
+    soup = BeautifulSoup(contents)
+
+    with open(file_name, 'w') as fp:
+        fp.write("%s^%s^%s^%s\n" % ('id', 'lon', 'lat', 'img'))
+        k = 0
+        for message in soup.find_all('featuremember'):  
+            k = k + 1
+            img_str = str((message.text.encode("utf8"))).replace(' ', '').replace('SCT', '')
+            img = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', img_str)[0]
+            id = network + '_' + str(k)
+            lon, lat = map(str, message.find('coordinates').contents)[0].split(',')
+            logger.info('Get data from webcam %s' % id)
+            fp.write("%s^%s^%s^%s\n" % (id, lon, lat, img))
+  
+    return
+
+def eitb(network):
+    url = 'http://www.eitb.eus/es/trafico/camaras/'
+    file_name = os.path.join(home, 'webcams_' + network + '.csv')
+    try:
+        infile = urllib2.urlopen(url).readlines()
+        logger.info('#### START PYWEBCAM FROM #### %s' % network)
+    except:
+        logger.error('Not available %s' % url)
+        return
+
+    with open(file_name, 'w') as fp:
+        fp.write("%s^%s^%s^%s\n" % ('id', 'lon', 'lat', 'img'))
+        k = 0
+        for i in infile:
+            if "cam_url" in i:
+                k = k + 1
+                img = find_between(i, '"cam_file_url":"', '","').replace('\/', '/')
+                lon = find_between(i, '"longitude"', ',"').replace(':', '')
+                lat = find_between(i, '"latitude"', '}').replace(':', '')
+                id = network + '_' + str(k)
+                logger.info('Get data from webcam %s' % id)
+                fp.write("%s^%s^%s^%s\n" % (id, lon, lat, img))
+    return
+
+def wunder(network):
+    #static network
+    file_name = os.path.join(home, 'webcams_' + network + '.csv')
+    #nothing
+    return
+
 def test():
     network = sys.argv[1]
-    if network in ['metcli', 'DGT', 'tiempovistazo', 'munimadrid']:
+    if network in ['metcli', 'DGT', 'tiempovistazo', 'munimadrid', 'gencat', 'eitb']:
         if network == 'metcli':
             metcli(network)
         elif network == 'DGT':
@@ -289,6 +349,12 @@ def test():
             tiempovistazo(network)
         elif network == 'munimadrid':
             munimadrid(network)
+	elif network == 'gencat':
+            gencat(network)
+	elif network == 'eitb':
+	    eitb(network)
+	elif network == 'wunder':
+	    wunder(network)
         else:
             None
         return
