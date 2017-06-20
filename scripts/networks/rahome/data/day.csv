@@ -1,1 +1,216 @@
-#
+ 2017-06-16 11:30:26;RaHome6;RaHome;air;51.803020;19.753744;0;0;0;0;0;Team BOINC@Poland Nick: TJM';0.1;0.11
+ 2017-06-16 11:15:20;RaHome51;RaHome;air;49.919102;18.998129;0;0;0;0;0;Team BOINC@Poland Nick: AL ADIM';0.08;0.09
+ 2017-06-16 11:18:56;RaHome73;RaHome;air;59.918877;30.305490;0;0;0;0;0;Team Nick: hidden';0.14;0.12
+ 2017-06-16 11:32:16;RaHome611;RaHome;air;37.336315;-121.890480;0;0;0;0;0;Team BOINC Synergy Nick: [B^S]ABoskovich';0.07;0.09
+ 2017-06-15 21:37:00;RaHome635;RaHome;air;49.975899;19.129429;0;0;0;0;0;Team BOINC@Poland Nick: Kret_polny';0.12;0.13
+ 2017-06-16 11:35:01;RaHome914;RaHome;air;51.802967;19.752922;0;0;0;0;0;Team BOINC@Poland Nick: TJM';0.09;0.09
+ 2017-06-15 18:26:38;RaHome1435;RaHome;air;47.399040;8.621350;0;0;0;0;0;Nick: Toby Broom';0.11;0.11
+ 2017-06-16 08:32:35;RaHome1711;RaHome;air;53.129078;23.175241;0;0;0;0;0;Team BOINC@Poland Nick: AndO';0.1;0.09
+ 2017-06-16 11:20:20;RaHome1875;RaHome;air;45.406940;11.855666;0;0;0;0;0;Team BOINC.Italy Nick: [VENETO] Wizard83';0.12;0.12
+ 2017-06-16 11:20:15;RaHome1887;RaHome;air;42.753063;-108.802002;0;0;0;0;0;Nick: Bikermatt';0.13;0.15
+ 2017-06-16 11:20:49;RaHome1935;RaHome;air;49.453510;17.445564;0;0;0;0;0;Team Nick: hidden';0.1;0.12
+ 2017-06-16 11:37:50;RaHome1956;RaHome;air;51.297928;12.389413;0;0;0;0;0;Team Nick: hidden';0.13;0.12
+ 2017-06-16 11:27:29;RaHome1974;RaHome;air;47.057186;-122.818558;0;0;0;0;0;Nick: apotheca';0.1;0.09
+ 2017-06-16 11:35:04;RaHome2027;RaHome;air;51.033340;7.030692;0;0;0;0;0;Team Nick: hidden';0.09;0.12
+ 2017-06-16 03:20:37;RaHome2116;RaHome;air;49.506947;16.538822;0;0;0;0;0;Team Czech National Team Nick: haer';0.1;0.11
+ 2017-06-16 11:34:01;RaHome2127;RaHome;air;48.810158;7.700472;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Kirass>MPF] Kikiphil';0.08;0.1
+ 2017-06-16 11:15:14;RaHome2145;RaHome;air;43.032509;-88.081512;0;0;0;0;0;Team USA Nick: Herb';0.12;0.1
+ 2017-06-16 11:20:48;RaHome2894;RaHome;air;51.353737;12.419436;0;0;0;0;0;Team Nick: hidden';0.14;0.16
+ 2017-06-16 11:34:28;RaHome4137;RaHome;air;43.519428;1.490278;0;0;0;0;0;Team L\'Alliance Francophone Nick: Cocagne';0.11;0.12
+ 2017-06-16 11:20:24;RaHome4556;RaHome;air;49.055614;11.788679;0;0;0;0;0;Team SETI.Germany Nick: Yeti45';0.13;0.11
+ 2017-06-16 11:16:33;RaHome4887;RaHome;air;-35.134369;139.269394;0;0;0;0;0;Team BOINC@AUSTRALIA Nick: Scott';0.1;0.12
+ 2017-06-16 11:36:35;RaHome4942;RaHome;air;46.786877;-0.835744;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>EDLS]_Damien';0.15;0.15
+ 2017-06-16 11:31:54;RaHome5278;RaHome;air;48.251995;11.393538;0;0;0;0;0;Team Nick: hidden';0.14;0.12
+ 2017-06-16 11:28:47;RaHome5313;RaHome;air;48.930790;2.285019;0;0;0;0;0;Team L\'Alliance Francophone Nick: fzs600';0.1;0.09
+ 2017-06-16 11:14:47;RaHome5378;RaHome;air;48.167175;11.805611;0;0;0;0;0;Team Nick: hidden';0.11;0.1
+ 2017-06-16 11:24:48;RaHome5379;RaHome;air;51.471962;7.870846;0;0;0;0;0;Team SETI.Germany Nick: [SG]McCarron';0.1;0.1
+ 2017-06-16 11:37:12;RaHome5438;RaHome;air;48.186176;11.275964;0;0;0;0;0;Team Nick: hidden';0.1;0.09
+ 2017-06-16 11:20:24;RaHome5439;RaHome;air;49.197720;12.090994;0;0;0;0;0;Team Nick: hidden';0.1;0.11
+ 2017-06-16 11:32:10;RaHome5494;RaHome;air;44.428940;8.819897;0;0;0;0;0;Team Nick: hidden';0.13;0.12
+ 2017-06-16 04:28:49;RaHome5586;RaHome;air;50.407986;16.155811;0;0;0;0;0;Team Czech National Team Nick: Martin Skoda';0.11;0.11
+ 2017-06-16 11:32:24;RaHome5587;RaHome;air;49.057529;11.786450;0;0;0;0;0;Team SETI.Germany Nick: Yeti45';0.08;0.08
+ 2017-06-16 11:25:33;RaHome5879;RaHome;air;50.701534;6.409686;0;0;0;0;0;Team Wetter-Board Nick: Heinrich Gras';0.14;0.15
+ 2017-06-16 05:57:18;RaHome5884;RaHome;air;48.410175;11.470263;0;0;0;0;0;Team SETI.Germany Nick: SG Bonsaiman';0.1;0.11
+ 2017-06-16 11:16:10;RaHome5885;RaHome;air;51.549343;9.934371;0;0;0;0;0;Team SETI.Germany Nick: pschoefer';0.18;0.15
+ 2017-06-16 11:33:19;RaHome5949;RaHome;air;52.175236;22.285669;0;0;0;0;0;Team BOINC@Poland Nick: Szopler';0.11;0.1
+ 2017-06-16 11:18:50;RaHome5970;RaHome;air;49.049522;11.782952;0;0;0;0;0;Team SETI.Germany Nick: Yeti45';0.1;0.11
+ 2017-06-16 11:17:53;RaHome6110;RaHome;air;49.832363;18.283813;0;0;0;0;0;Team Nick: hidden';0.11;0.14
+ 2017-06-16 11:18:47;RaHome6239;RaHome;air;52.432453;16.935339;0;0;0;0;0;Team BOINC@Poland Nick: Hubert Kozinski';0.12;0.12
+ 2017-06-16 11:33:04;RaHome6311;RaHome;air;50.074615;19.918825;0;0;0;0;0;Nick: mkowalik';0.13;0.13
+ 2017-06-16 11:34:08;RaHome6314;RaHome;air;50.233887;19.986404;0;0;0;0;0;Nick: mkowalik';0.11;0.12
+ 2017-06-16 11:26:07;RaHome6462;RaHome;air;51.454807;13.861957;0;0;0;0;0;Team Wetter-Board Nick: kniffo';0.11;0.11
+ 2017-06-16 11:29:02;RaHome6825;RaHome;air;51.367924;12.364576;0;0;0;0;0;Team Wetter-Board Nick: Leipzig-Wetter';0.14;0.13
+ 2017-06-16 11:15:20;RaHome6845;RaHome;air;48.181194;11.511990;0;0;0;0;0;Nick: Kvedulv';0.1;0.09
+ 2017-06-16 11:37:42;RaHome6876;RaHome;air;49.210979;11.450329;0;0;0;0;0;Team SETI.Germany Nick: aendgraend';0.08;0.09
+ 2017-06-16 11:24:46;RaHome7024;RaHome;air;50.032543;14.373871;0;0;0;0;0;Team BOINC.SK Nick: PavolR';0.1;0.1
+ 2017-06-16 11:29:12;RaHome7333;RaHome;air;54.506645;18.546989;0;0;0;0;0;Team BOINC@Poland Nick: tito';0.16;0.14
+ 2017-06-16 11:30:59;RaHome7386;RaHome;air;52.371838;9.761905;0;0;0;0;0;Team SETI.Germany Nick: TBone';0.07;0.08
+ 2017-06-16 11:21:17;RaHome7660;RaHome;air;46.531982;15.678003;0;0;0;0;0;Nick: Viljem Muhic';0.12;0.13
+ 2017-06-16 11:02:44;RaHome7703;RaHome;air;53.451534;14.570296;0;0;0;0;0;Nick: www.weber-systems.pl';0.09;0.08
+ 2017-06-16 11:33:59;RaHome7865;RaHome;air;50.023415;14.225514;0;0;0;0;0;Team Nick: hidden';0.11;0.09
+ 2017-06-16 11:21:14;RaHome7883;RaHome;air;37.583427;127.066200;0;0;0;0;0;Team SETIKAH@KOREA Nick: SETIKAH';0.21;0.2
+ 2017-06-16 11:27:31;RaHome8010;RaHome;air;51.712105;10.257314;0;0;0;0;0;Team SETI.Germany Nick: pschoefer';0.14;0.14
+ 2017-06-16 11:33:36;RaHome8131;RaHome;air;51.241791;22.299894;0;0;0;0;0;Team BOINC@Poland Nick: gaballus';0.11;0.12
+ 2017-06-16 11:32:09;RaHome8444;RaHome;air;51.454845;13.861932;0;0;0;0;0;Team Wetter-Board Nick: kniffo';0.09;0.1
+ 2017-06-16 11:20:05;RaHome8527;RaHome;air;51.045689;14.817995;0;0;0;0;0;Team Planet 3DNow! Nick: brezel';0.12;0.12
+ 2017-06-16 11:23:06;RaHome8889;RaHome;air;54.302555;10.164694;0;0;0;0;0;Team SETI.Germany Nick: [SG]ATA-Rolf';0.13;0.12
+ 2017-06-16 11:32:55;RaHome9686;RaHome;air;51.317711;6.202340;0;0;0;0;0;Team Wetter-Board Nick: Nettetal-Kaldenkirchen';0.13;0.14
+ 2017-06-16 11:18:46;RaHome9818;RaHome;air;50.987816;6.315087;0;0;0;0;0;Team Wetter-Board Nick: Unimatrix';0.11;0.1
+ 2017-06-16 11:18:04;RaHome10015;RaHome;air;39.196308;-96.597702;0;0;0;0;0;Team BOINC Fools Nick: The Dreamer';0.1;0.1
+ 2017-06-16 11:20:05;RaHome10032;RaHome;air;51.873177;10.687265;0;0;0;0;0;Team Rechenkraft.net Nick: Andreas38871';0.11;0.11
+ 2017-06-16 11:28:32;RaHome10062;RaHome;air;51.376640;8.071019;0;0;0;0;0;Team Wetter-Board Nick: uwe-arnsberg';0.14;0.13
+ 2017-06-16 11:22:16;RaHome10128;RaHome;air;48.072453;11.365407;0;0;0;0;0;Team Nick: hidden';0.11;0.12
+ 2017-06-16 11:17:18;RaHome10226;RaHome;air;50.959332;5.482414;0;0;0;0;0;Team Team Belgium Nick: ON1DQD';0.15;0.16
+ 2017-06-16 11:29:01;RaHome10464;RaHome;air;63.016644;23.653418;0;0;0;0;0;Team BOINC@Finland Nick: Antti';0.1;0.08
+ 2017-06-16 11:35:52;RaHome10529;RaHome;air;48.232819;16.363216;0;0;0;0;0;Team DSKAG Austria Nick: dskagcommunity';0.14;0.15
+ 2017-06-16 11:27:20;RaHome10559;RaHome;air;49.315956;13.924739;0;0;0;0;0;Team Czech National Team Nick: Petr.350';0.19;0.18
+ 2017-06-16 10:16:40;RaHome10626;RaHome;air;45.767380;3.066916;0;0;0;0;0;Team L\'Alliance Francophone Nick: TBirdTheYuri';0.15;0.15
+ 2017-06-16 01:57:11;RaHome10946;RaHome;air;52.172535;20.803238;0;0;0;0;0;Team Nick: hidden';0.1;0.1
+ 2017-06-16 11:37:29;RaHome10998;RaHome;air;45.462105;9.190418;0;0;0;0;0;Team BOINC.Italy Nick: Daniele [lombardia]';0.12;0.13
+ 2017-06-16 11:15:54;RaHome11449;RaHome;air;44.386433;8.044162;0;0;0;0;0;Team BOINC.Italy Nick: Marco Plassio';0.15;0.15
+ 2017-06-16 10:33:41;RaHome11512;RaHome;air;47.482292;9.734144;0;0;0;0;0;Team Gridcoin Nick: philjfry';0.1;0.11
+ 2017-06-16 11:36:04;RaHome11559;RaHome;air;50.575790;12.659295;0;0;0;0;0;Team Wetter-Board Nick: tiefdrucktommy';0.14;0.13
+ 2017-06-16 11:25:52;RaHome11560;RaHome;air;51.450790;13.870510;0;0;0;0;0;Team Wetter-Board Nick: kniffo';0.12;0.1
+ 2017-06-16 07:53:07;RaHome11562;RaHome;air;51.106701;13.691025;0;0;0;0;0;Nick: blaugrau';0.02;0.02
+ 2017-06-16 11:34:28;RaHome11593;RaHome;air;51.806286;19.755793;0;0;0;0;0;Team BOINC@Poland Nick: TJM';0.08;0.1
+ 2017-06-15 21:39:24;RaHome11668;RaHome;air;52.255760;8.005068;0;0;0;0;0;Team Nick: hidden';0.1;0.14
+ 2017-06-16 11:25:18;RaHome11785;RaHome;air;51.403488;-0.519104;0;0;0;0;0;Nick: ChertseyAl';0.1;0.1
+ 2017-06-16 11:23:14;RaHome11827;RaHome;air;49.197720;12.090995;0;0;0;0;0;Team Nick: hidden';0.1;0.1
+ 2017-06-16 05:09:21;RaHome11905;RaHome;air;51.088322;13.733382;0;0;0;0;0;Team Planet 3DNow! Nick: L@MiR';0.15;0.14
+ 2017-06-16 11:36:10;RaHome12091;RaHome;air;51.361172;22.250082;0;0;0;0;0;Team BOINC@Poland Nick: zablociak';0.11;0.09
+ 2017-06-16 11:32:37;RaHome12190;RaHome;air;37.621655;15.045687;0;0;0;0;0;Nick: Fabio Tomaselli (Sicilia)';0.12;0.13
+ 2035-10-16 13:46:10;RaHome12322;RaHome;air;51.809490;15.720301;0;0;0;0;0;Team BOINC@Poland Nick: JaRa';0.12;0.1
+ 2017-06-16 11:12:42;RaHome12333;RaHome;air;52.523399;17.610893;0;0;0;0;0;Team BOINC@Poland Nick: kawiary';0.1;0.1
+ 2017-06-16 11:33:13;RaHome12521;RaHome;air;50.695698;17.909609;0;0;0;0;0;Team BOINC@Poland Nick: krzyszp';0.11;0.12
+ 2017-06-15 22:27:48;RaHome12523;RaHome;air;50.124989;18.978018;0;0;0;0;0;Team BOINC@Poland Nick: mimeq';0.09;0.11
+ 2017-06-16 11:21:57;RaHome12708;RaHome;air;50.727570;6.173330;0;0;0;0;0;Team Nick: hidden';0.18;0.19
+ 2017-06-16 11:35:29;RaHome12929;RaHome;air;45.777863;3.085841;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Libristes] erik';0.14;0.14
+ 2017-06-16 11:38:22;RaHome12944;RaHome;air;48.975765;2.031894;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Libristes]Excelsior';0.07;0.08
+ 2017-06-16 11:31:56;RaHome13040;RaHome;air;48.937485;7.665955;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Kirass>MPF] Nafrayou';0.14;0.14
+ 2017-06-15 21:41:46;RaHome13083;RaHome;air;49.206348;15.843769;0;0;0;0;0;Team Czech National Team Nick: dalt';0.13;0.13
+ 2017-06-16 11:20:14;RaHome13199;RaHome;air;45.960938;8.444246;0;0;0;0;0;Team Nick: hidden';0.17;0.16
+ 2017-06-16 11:22:07;RaHome13203;RaHome;air;49.883049;19.207998;0;0;0;0;0;Team BOINC@Poland Nick: ryszard.korczyk';0;0
+ 2017-06-16 11:37:48;RaHome13208;RaHome;air;47.964897;7.955106;0;0;0;0;0;Team Nick: hidden';0.11;0.1
+ 2017-06-16 11:25:34;RaHome13229;RaHome;air;49.880684;19.243361;0;0;0;0;0;Team BOINC@Poland Nick: ryszard.korczyk';0.1;0.11
+ 2017-06-16 11:29:38;RaHome13401;RaHome;air;52.267231;21.179626;0;0;0;0;0;Team BOINC@Poland Nick: Bzzz';0.12;0.13
+ 2017-06-16 11:37:29;RaHome13496;RaHome;air;35.738117;-80.209595;0;0;0;0;0;Team BOINCstats Nick: computerguy09';0.13;0.11
+ 2017-06-16 11:19:34;RaHome13606;RaHome;air;55.730747;37.424316;0;0;0;0;0;Nick: Dmitry A. Grechka';0.07;0.09
+ 2017-06-16 11:35:32;RaHome13638;RaHome;air;49.170990;16.359028;0;0;0;0;0;Team Czech National Team Nick: haer';0.12;0.13
+ 2017-06-16 11:24:40;RaHome13660;RaHome;air;49.541878;5.677909;0;0;0;0;0;Team L\'Alliance Francophone Nick: Phil1966';0.21;0.19
+ 2017-06-16 11:34:13;RaHome13706;RaHome;air;54.683357;25.256134;0;0;0;0;0;Team Altairo Vejai;0.1;0.11
+ 2017-06-16 11:22:41;RaHome13710;RaHome;air;52.605450;13.361368;0;0;0;0;0;Nick: Martin';0.09;0.12
+ 2017-06-16 11:16:14;RaHome13815;RaHome;air;48.232670;13.023554;0;0;0;0;0;Team Nick: hidden';0.08;0.09
+ 2017-06-16 11:25:23;RaHome13997;RaHome;air;49.200039;16.641041;0;0;0;0;0;Team Czech National Team Nick: HA-SOFT;0.15;0.13
+ 2017-06-16 10:17:29;RaHome14041;RaHome;air;49.314621;7.161793;0;0;0;0;0;Team Wetterbase Nick: Private Wetterstation Spiesen-Elversberg';0.19;0.17
+ 2017-06-16 09:58:35;RaHome14186;RaHome;air;44.362736;11.701582;0;0;0;0;0;Team BOINC.Italy Nick: Marco8869 [E.R.]';0.07;0.09
+ 2017-06-16 11:22:24;RaHome14187;RaHome;air;50.825069;6.530691;0;0;0;0;0;Team Planet 3DNow! Nick: count0';0.15;0.14
+ 2017-06-16 11:23:41;RaHome14210;RaHome;air;49.867451;2.325909;0;0;0;0;0;Team L\'Alliance Francophone Nick: Clairet Herve Thomas Francoise';0.09;0.09
+ 2017-06-16 11:31:40;RaHome14237;RaHome;air;50.034496;14.524690;0;0;0;0;0;Team Nick: hidden';0.08;0.1
+ 2017-06-16 11:25:20;RaHome14288;RaHome;air;43.773121;12.924511;0;0;0;0;0;Team BOINC.Italy Nick: sorcrosc';0.12;0.13
+ 2017-06-16 11:26:41;RaHome14364;RaHome;air;48.777115;9.235487;0;0;0;0;0;Team BOINC@Poland Nick: shack';0.09;0.1
+ 2017-06-16 04:41:12;RaHome14386;RaHome;air;35.871601;139.845490;0;0;0;0;0;Team Team 2ch Nick: Ta-duck@hrhm@lounge';0.08;0.08
+ 2017-06-16 11:35:15;RaHome14404;RaHome;air;44.422993;8.861056;0;0;0;0;0;Team Nick: hidden';0.08;0.08
+ 2017-06-16 11:27:16;RaHome14447;RaHome;air;51.373066;16.953278;0;0;0;0;0;Team BOINC@Poland Nick: gregre';0.1;0.11
+ 2017-06-16 11:37:50;RaHome14498;RaHome;air;46.527603;18.964216;0;0;0;0;0;Team BOINC@Poland Nick: Flaisz Gábor';0.13;0.11
+ 2017-06-16 11:28:54;RaHome14549;RaHome;air;50.585670;-118.871010;0;0;0;0;0;Team BOINC@AUSTRALIA Nick: Dingo';0.11;0.12
+ 2017-06-16 11:21:22;RaHome14776;RaHome;air;52.593987;18.036850;0;0;0;0;0;Nick: .jaca.';0.14;0.14
+ 2017-06-16 11:32:13;RaHome14834;RaHome;air;51.753803;19.450775;0;0;0;0;0;Team BOINC@Poland Nick: stiven';0.09;0.08
+ 2017-06-16 11:26:28;RaHome14886;RaHome;air;50.859238;13.465035;0;0;0;0;0;Nick: mittelsachsenwetter';0.13;0.14
+ 2017-06-16 11:22:03;RaHome14930;RaHome;air;54.176250;15.549774;0;0;0;0;0;Team BOINC@Poland Nick: tito';0.12;0.1
+ 2017-06-16 11:33:59;RaHome14972;RaHome;air;49.197971;12.033615;0;0;0;0;0;Nick: Robert-1';0.11;0.12
+ 2017-06-16 09:23:40;RaHome14983;RaHome;air;46.166012;6.123290;0;0;0;0;0;Team L\'Alliance Francophone Nick: Ousermaatre';0.11;0.12
+ 2017-06-16 11:24:58;RaHome14992;RaHome;air;50.817741;6.138309;0;0;0;0;0;Team AMD Users Nick: Chris Skull';0.11;0.11
+ 2017-06-16 11:28:54;RaHome15066;RaHome;air;51.226021;16.164089;0;0;0;0;0;Team Nick: hidden';0.12;0.11
+ 2017-06-16 11:30:14;RaHome15122;RaHome;air;49.108372;16.735867;0;0;0;0;0;Team Czech National Team Nick: Forest';0.14;0.14
+ 2017-06-16 11:35:06;RaHome15158;RaHome;air;49.697807;18.226753;0;0;0;0;0;Team Nick: hidden';0.12;0.13
+ 2017-06-16 11:38:20;RaHome15181;RaHome;air;51.413425;21.965279;0;0;0;0;0;Team BOINC@Poland Nick: zablociak';0.09;0.08
+ 2017-06-16 11:33:21;RaHome15185;RaHome;air;51.028633;6.991521;0;0;0;0;0;Team Nick: hidden';0.13;0.12
+ 2017-06-16 11:23:50;RaHome15201;RaHome;air;52.173084;4.500433;0;0;0;0;0;Team AMD Users Nick: Dirk Broer';0.08;0.1
+ 2017-06-16 11:31:43;RaHome15227;RaHome;air;50.572578;8.704201;0;0;0;0;0;Team Nick: hidden';0.08;0.07
+ 2017-06-16 11:32:16;RaHome15229;RaHome;air;50.069069;21.972240;0;0;0;0;0;Team BOINC@Poland Nick: kriu';0.13;0.13
+ 2017-06-16 10:51:40;RaHome15283;RaHome;air;44.429058;8.819723;0;0;0;0;0;Team Nick: hidden';0.12;0.12
+ 2017-06-16 11:24:14;RaHome15422;RaHome;air;50.115250;14.562709;0;0;0;0;0;Team Czech National Team Nick: Overtonesinger';0.09;0.12
+ 2017-06-16 10:51:18;RaHome15516;RaHome;air;51.460106;7.143731;0;0;0;0;0;Team SETI.Germany Nick: sgw703';0.1;0.12
+ 2017-06-16 11:34:45;RaHome15525;RaHome;air;35.225147;-89.859756;0;0;0;0;0;Team USA Nick: Tom';0.09;0.1
+ 2017-06-16 11:36:58;RaHome15585;RaHome;air;48.800926;9.224921;0;0;0;0;0;Team SETI.Germany Nick: pons66';0.08;0.09
+ 2017-06-16 11:30:26;RaHome15617;RaHome;air;36.859604;-4.154911;0;0;0;0;0;Team Wetter-Board Nick: Harry # www.meteomalaga.es';0.11;0.13
+ 2017-06-16 11:35:05;RaHome15618;RaHome;air;48.491444;7.948234;0;0;0;0;0;Team SETI.Germany Nick: georg70';0.15;0.12
+ 2017-06-16 11:33:58;RaHome15620;RaHome;air;49.171638;16.679617;0;0;0;0;0;Team Nick: hidden';0.12;0.13
+ 2017-06-16 11:20:49;RaHome15662;RaHome;air;53.095467;10.650644;0;0;0;0;0;Team Planet 3DNow! Nick: Landjunge';0.12;0.11
+ 2017-06-16 11:34:44;RaHome15705;RaHome;air;49.262344;11.340656;0;0;0;0;0;Team SETI.Germany Nick: aendgraend';0.12;0.12
+ 2017-06-16 11:15:09;RaHome15711;RaHome;air;47.123169;15.291043;0;0;0;0;0;Nick: WMMEDV';0.11;0.1
+ 2017-06-16 11:20:30;RaHome15753;RaHome;air;53.448170;14.574866;0;0;0;0;0;Team BOINC@Poland Nick: metalic';0.11;0.11
+ 2017-06-16 11:37:39;RaHome15834;RaHome;air;43.625549;1.437994;0;0;0;0;0;Team L\'Alliance Francophone Nick: al@ON';0.17;0.15
+ 2017-06-16 11:31:28;RaHome15858;RaHome;air;50.868160;-1.405796;0;0;0;0;0;Team BOINCstats Nick: Lazarus-uk';0.11;0.11
+ 2017-06-16 10:11:11;RaHome15862;RaHome;air;43.056847;11.600189;0;0;0;0;0;Team BOINC.Italy Nick: Erotavlas [Toscana]';0.1;0.12
+ 2017-06-16 11:25:41;RaHome15895;RaHome;air;49.345234;13.925410;0;0;0;0;0;Team Czech National Team Nick: Slava.7';0.16;0.18
+ 2017-06-16 11:33:18;RaHome15909;RaHome;air;52.514088;13.328624;0;0;0;0;0;Nick: Martin';0.12;0.09
+ 2017-06-16 11:23:06;RaHome15923;RaHome;air;50.805447;4.423954;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Belgique] bill1170';0.1;0.11
+ 2017-06-16 10:01:15;RaHome16031;RaHome;air;49.171413;16.689362;0;0;0;0;0;Team Nick: hidden';0.11;0.12
+ 2017-06-16 11:35:07;RaHome16187;RaHome;air;51.916512;10.468426;0;0;0;0;0;Team Planet 3DNow! Nick: joe carnivore';0.17;0.15
+ 2017-06-16 11:19:29;RaHome16397;RaHome;air;49.680737;21.736107;0;0;0;0;0;Team BOINC@Poland Nick: Jerzy_Przytocki';0.07;0.1
+ 2017-06-16 11:10:44;RaHome16486;RaHome;air;48.560654;16.068798;0;0;0;0;0;Nick: Andreas64';0.06;0.08
+ 2017-06-16 11:30:59;RaHome16555;RaHome;air;51.365887;11.297017;0;0;0;0;0;Team Wetter-Board Nick: Wetter-Artern';0.12;0.13
+ 2017-06-16 11:34:37;RaHome16567;RaHome;air;54.305161;13.092927;0;0;0;0;0;Team Planet 3DNow! Nick: olsen_gg';0.13;0.12
+ 2017-06-16 11:30:21;RaHome16733;RaHome;air;43.118992;5.949169;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Libristes] Pascal';0.14;0.11
+ 2017-06-16 11:26:48;RaHome16753;RaHome;air;49.304634;16.530088;0;0;0;0;0;Team Nick: hidden';0.08;0.09
+ 2017-06-16 11:26:20;RaHome16890;RaHome;air;47.367893;0.728813;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Amis des Lapins] Nabz37';0.1;0.1
+ 2017-06-16 11:17:59;RaHome16905;RaHome;air;48.167431;15.070585;0;0;0;0;0;Nick: WetterYbbs';0.09;0.09
+ 2017-06-15 21:36:09;RaHome16950;RaHome;air;48.216022;16.226261;0;0;0;0;0;Team Ham-Radio OP Nick: OE1TKS';0.12;0.11
+ 2017-06-16 11:35:38;RaHome16971;RaHome;air;35.903316;128.512573;0;0;0;0;0;Team SETIKAH@KOREA Nick: Chu Minkyun';0.13;0.13
+ 2017-06-16 11:24:56;RaHome17058;RaHome;air;51.980545;9.231029;0;0;0;0;0;Team Nick: hidden';0.11;0.12
+ 2017-06-16 11:29:56;RaHome17070;RaHome;air;45.359352;11.866664;0;0;0;0;0;Team BOINC.Italy Nick: matteo';0.11;0.12
+ 2017-06-16 11:26:16;RaHome17077;RaHome;air;50.777271;19.136211;0;0;0;0;0;Team BOINC@Poland Nick: Cyfron';0.09;0.09
+ 2017-06-16 11:28:16;RaHome18268;RaHome;air;-33.760620;150.836670;0;0;0;0;0;Team BOINC@AUSTRALIA Nick: JugNut';0.1;0.12
+ 2017-06-16 11:34:00;RaHome18373;RaHome;air;47.051746;28.871605;0;0;0;0;0;Team Russia Nick: Aidjek';0.11;0.12
+ 2017-06-16 11:30:27;RaHome18433;RaHome;air;49.683102;18.343437;0;0;0;0;0;Team Nick: hidden';0.11;0.13
+ 2017-06-16 11:29:37;RaHome18469;RaHome;air;52.135227;21.033373;0;0;0;0;0;Team Nick: hidden';0.08;0.08
+ 2017-06-16 11:25:17;RaHome18491;RaHome;air;50.176235;14.422327;0;0;0;0;0;Team Czech National Team Nick: Burgy';0.16;0.16
+ 2017-06-16 06:51:49;RaHome18512;RaHome;air;-23.483791;-46.379578;0;0;0;0;0;Nick: PY2RPD';0.21;0.19
+ 2017-06-16 11:36:30;RaHome18527;RaHome;air;52.135963;11.608438;0;0;0;0;0;Team SETI.Germany Nick: cpuid';0.12;0.13
+ 2017-06-15 14:35:10;RaHome18554;RaHome;air;50.315826;18.765366;0;0;0;0;0;Team BOINC@Poland Nick: Liquidator88';0.08;0.08
+ 2017-06-16 11:31:52;RaHome18584;RaHome;air;48.944332;14.583299;0;0;0;0;0;Team Czech National Team Nick: 329CZE001';0.11;0.12
+ 2017-06-16 11:18:30;RaHome18617;RaHome;air;50.682140;17.936588;0;0;0;0;0;Team BOINC@Poland Nick: ksysju';0.11;0.09
+ 2017-06-16 11:34:27;RaHome18648;RaHome;air;49.288158;4.115815;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Libristes] Elorak';0.07;0.09
+ 2017-06-16 11:33:30;RaHome19372;RaHome;air;54.320187;9.663064;0;0;0;0;0;Team Wetter-Board Nick: BDFWetter';0.11;0.1
+ 2017-06-16 08:47:44;RaHome19435;RaHome;air;52.394505;16.861673;0;0;0;0;0;Team BOINC@Poland Nick: PanStaszek';0.09;0.1
+ 2017-06-16 11:23:56;RaHome19613;RaHome;air;53.061794;8.810791;0;0;0;0;0;Team SETI.Germany Nick: Saenger';0.08;0.09
+ 2017-06-16 11:16:27;RaHome19659;RaHome;air;50.802437;8.806958;0;0;0;0;0;Team Nick: hidden';0.09;0.09
+ 2017-06-16 11:18:11;RaHome19712;RaHome;air;53.132973;8.760205;0;0;0;0;0;Team Nordlichter Nick: hcoors';0.09;0.09
+ 2017-06-16 11:37:13;RaHome19815;RaHome;air;53.885864;11.438119;0;0;0;0;0;Team SETI.Germany Nick: Sh4D!nG';0.14;0.13
+ 2017-06-16 11:31:35;RaHome19843;RaHome;air;48.876953;15.136068;0;0;0;0;0;Nick: LoneWolf-HD';0.2;0.18
+ 2017-06-16 11:16:27;RaHome19855;RaHome;air;49.617996;8.760781;0;0;0;0;0;Nick: wetter-rimbach_de';0.12;0.12
+ 2017-06-16 11:18:28;RaHome19883;RaHome;air;48.185547;11.281586;0;0;0;0;0;Team Nick: hidden';0.13;0.12
+ 2017-06-16 11:35:06;RaHome20001;RaHome;air;50.069115;21.972134;0;0;0;0;0;Team BOINC@Poland Nick: kriu';0.12;0.12
+ 2017-06-16 11:27:20;RaHome20166;RaHome;air;19.566212;-155.963135;0;0;0;0;0;Team BOINC@Poland Nick: ericjwolfe';0.09;0.07
+ 2017-06-16 11:21:59;RaHome20601;RaHome;air;46.791885;4.420394;0;0;0;0;0;Team L\'Alliance Francophone Nick: [AF>Libristes>Jip] Elgrande71';0.18;0.19
+ 2017-06-16 11:25:51;RaHome20647;RaHome;air;47.516239;12.090843;0;0;0;0;0;Team Wetter-Board Nick: Hanspeter Rainer';0.1;0.09
+ 2017-06-16 11:29:53;RaHome20726;RaHome;air;52.260250;21.161280;0;0;0;0;0;Team BOINC@Poland Nick: mordi';0.12;0.11
+ 2017-06-16 11:15:41;RaHome20730;RaHome;air;37.378616;-121.852089;0;0;0;0;0;Team Sicituradastra. Nick: Steve Hawker*';0.1;0.1
+ 2017-06-16 11:26:16;RaHome20753;RaHome;air;51.347301;12.449201;0;0;0;0;0;Team Nick: hidden';0.12;0.11
+ 2017-06-16 11:30:03;RaHome20847;RaHome;air;52.268986;20.973661;0;0;0;0;0;Nick: nza';0.08;0.11
+ 2017-06-16 10:23:01;RaHome21095;RaHome;air;-38.066929;145.484619;0;0;0;0;0;Team BOINC@AUSTRALIA Nick: Bunteck';0.1;0.11
+ 2017-06-16 11:26:02;RaHome21178;RaHome;air;42.389053;-85.998993;0;0;0;0;0;Nick: Jerry';0.1;0.09
+ 2017-06-16 11:06:35;RaHome21463;RaHome;air;53.036232;8.529575;0;0;0;0;0;Team SETI.Germany Nick: Crazy-Sonic';0.1;0.1
+ 2017-06-16 11:25:56;RaHome21492;RaHome;air;49.171665;16.679596;0;0;0;0;0;Team Nick: hidden';0.15;0.14
+ 2017-06-16 11:26:45;RaHome21842;RaHome;air;54.166328;-4.479329;0;0;0;0;0;Nick: tonel';0.11;0.11
+ 2017-06-16 11:24:40;RaHome22337;RaHome;air;47.615330;8.267432;0;0;0;0;0;Team Nick: hidden';0.14;0.14
+ 2017-06-16 11:25:37;RaHome22674;RaHome;air;52.573540;19.896044;0;0;0;0;0;Team Polish National Team Nick: Peciak';0.13;0.11
+ 2017-06-16 11:27:33;RaHome22728;RaHome;air;51.708763;8.766792;0;0;0;0;0;Team Planet 3DNow! Nick: dawe';0.09;0.08
+ 2017-06-16 11:35:42;RaHome22801;RaHome;air;37.178917;-3.602204;0;0;0;0;0;Team BOINC Synergy Nick: Kenneth Larsen';0.11;0.11
+ 2017-06-15 18:57:01;RaHome23065;RaHome;air;49.755222;16.465429;0;0;0;0;0;Team Czech National Team Nick: Rendo';0.1;0.12
+ 2017-06-16 11:33:13;RaHome23161;RaHome;air;46.408733;3.444367;0;0;0;0;0;Team L\'Alliance Francophone Nick: modesti';0.13;0.13
+ 2017-06-15 18:54:14;RaHome23303;RaHome;air;53.546986;14.573035;0;0;0;0;0;Team BOINC@Poland Nick: Svistak';0.15;0.14
+ 2017-06-16 11:38:22;RaHome23420;RaHome;air;51.492512;7.310788;0;0;0;0;0;Team SETI.Germany Nick: [SGa]HeNiNnG';0.16;0.14
+ 2017-06-15 16:26:45;RaHome23469;RaHome;air;48.872898;16.671680;0;0;0;0;0;Team Czech National Team Nick: Jura';0.13;0.14
+ 2017-06-16 11:33:19;RaHome23506;RaHome;air;53.990047;-1.023249;0;0;0;0;0;Team AMD Users Nick: KarmannGaz';0.09;0.11
+ 2017-06-16 11:22:51;RaHome23830;RaHome;air;35.670258;129.171371;0;0;0;0;0;Team SETIKAH@KOREA Nick: Ha Seok woo';0.12;0.13
+ 2017-06-16 11:19:14;RaHome24172;RaHome;air;50.746563;13.084470;0;0;0;0;0;Team SETI.Germany Nick: schensi';0.16;0.16
+ 2017-06-16 11:28:51;RaHome24801;RaHome;air;44.958633;11.246419;0;0;0;0;0;Nick: Nicola LFRNCL';0.13;0.15
+ 2017-06-16 11:33:38;RaHome24962;RaHome;air;49.802822;19.403650;0;0;0;0;0;Nick: nieczesany';0.13;0.15
+ 2017-06-16 11:29:49;RaHome25201;RaHome;air;49.593754;11.013496;0;0;0;0;0;Team GMP Nick: Solneman';0.15;0.16
+ 2017-06-16 11:34:47;RaHome25585;RaHome;air;51.764977;19.507118;0;0;0;0;0;Team BOINC@Poland Nick: Paudys';0.12;0.11
+ 2017-06-16 11:17:34;RaHome25618;RaHome;air;49.972420;8.837066;0;0;0;0;0;Team Wetter-Board Nick: Michael Laupichler';0.18;0.16
+ 2017-06-16 07:00:32;RaHome25706;RaHome;air;51.947544;-3.393745;0;0;0;0;0;Team AMD Users Nick: Euphoriabuzz';0.1;0.08
+ 2017-06-16 11:26:21;RaHome26192;RaHome;air;50.020466;19.898087;0;0;0;0;0;Team BOINC@Poland Nick: sirzooro';0.13;0.12
+ 2017-06-16 11:34:49;RaHome26287;RaHome;air;51.875645;-8.491745;0;0;0;0;0;Nick: CzYsTy';0.1;0.09
