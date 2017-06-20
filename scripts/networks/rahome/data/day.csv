@@ -1,3 +1,4 @@
+ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
  2017-06-16 11:30:26;RaHome6;RaHome;air;51.803020;19.753744;0;0;0;0;0;Team BOINC@Poland Nick: TJM';0.1;0.11
  2017-06-16 11:15:20;RaHome51;RaHome;air;49.919102;18.998129;0;0;0;0;0;Team BOINC@Poland Nick: AL ADIM';0.08;0.09
  2017-06-16 11:18:56;RaHome73;RaHome;air;59.918877;30.305490;0;0;0;0;0;Team Nick: hidden';0.14;0.12
