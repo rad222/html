@@ -17,7 +17,7 @@ class myClass(object):
 
 
     def __init__(self):
-        home = '/spred/sti/desarrollo/meteoclim_calidad/'
+        self.home = os.path.realpath(os.path.dirname(__file__))
         self.logger = logging.getLogger("Rotating Log")
         format = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
         self.logger.setLevel(logging.INFO)
@@ -25,7 +25,7 @@ class myClass(object):
         ch = logging.StreamHandler(sys.stdout)
         ch.setFormatter(format)
         self.logger.addHandler(ch)
-        handler = RotatingFileHandler(os.path.join(os.path.join(home, 'log'), 'log.log'), maxBytes=1000000, backupCount=1)
+        handler = RotatingFileHandler(os.path.join(os.path.join(self.home, 'log'), 'log.log'), maxBytes=1000000, backupCount=1)
         handler.setFormatter(format)
         self.logger.addHandler(handler)
 
@@ -79,7 +79,7 @@ class myClass(object):
         network = path_data.split('/')[-3]
         if os.path.isfile(path_data) is True:
             self.logger.info('Updating data from network %s' % network)
-            df_data_old = pd.DataFrame(columns=cols_data)
+            df_data_old = pd.read_csv(path_data, sep=';')
             df_data_old.set_index(['id_station', 'date'], inplace=True)
             df_data_new = pd.concat([df_data_new, df_data_old])
             df_data_new = df_data_new.reset_index().drop_duplicates(subset=['id_station', 'date'], keep='last').set_index(['id_station', 'date'])
@@ -89,9 +89,8 @@ class myClass(object):
         #to remove older data (those values measured > 24 hours)
         df_data_new = df_data_new.iloc[df_data_new.index.get_level_values('date') > datetime.now()-timedelta(hours=24)]
         #to remove false data
-        df_data_new = df_data_new.iloc[df_data_new.index.get_level_values('date') < datetime.now()+timedelta(hours=24)]
-
         df_data_new.to_csv(path_data, sep=';', encoding='utf-8', date_format='%y/%m/%d %H:%M')
+
 
         return
 
@@ -106,7 +105,7 @@ class myClass(object):
         network = path_meta.split('/')[-3]
         if os.path.isfile(path_meta) is True:
             self.logger.info('Updating meta from network %s' % network)
-            df_data_old = pd.DataFrame(columns=cols_metas)
+            df_data_old = pd.read_csv(path_meta, sep=';')
             df_data_old.set_index('id_station', inplace=True)
             df_data_new = pd.concat([df_data_new, df_data_old])
             df_data_new = df_data_new.reset_index().drop_duplicates(subset='id_station', keep='last').set_index('id_station')
@@ -120,8 +119,8 @@ class RaHome(myClass):
 
 
     def get_data(self):
-        cols_data = ['date', 'id_station', 'id_network', 'type', 'latitude', 'longitude', 'altitude', 'country', 'area_adm_1', 'area_adm_2', 'area_adm_3', 'name', 'value', 'value_max']
-        cols_metas = ['id_station', 'latitude', 'longitude', 'name', 'country', 'area_adm_1', 'area_adm_2', 'area_adm_3']
+        cols_data = ['date', 'id_station', 'value', 'value_max']
+        cols_metas = ['id_station', 'id_network', 'latitude', 'longitude', 'name', 'type']
         datas, metas = self.get_data_files()
 
         if not datas:
@@ -160,9 +159,9 @@ class RaHome(myClass):
                                 name = name.replace('Team  ', '').replace('hidden ', '')
                             value = float(str(self.find_between(values[3], 'Last sample:', 'uSv')).strip())*100
                             value_max = float(str(self.find_between(values[3], 'average:', 'uSv')).strip())*100 #average value last 24 hours
-                            cols = [date, id, network, type, lat, lon, 0, 0, 0, 0, 0, name, value,value_max]
+                            cols = [date, id, value, value_max]
                             datas.append(cols)
-                            metas.append([id, lat, lon, name, None, None, None, None])  # Not country, area_adm_1, area_adm_2, area_adm_3
+                            metas.append([id, network, lat, lon, name, type])  # Not country, area_adm_1, area_adm_2, area_adm_3
 
         return datas, metas
 
