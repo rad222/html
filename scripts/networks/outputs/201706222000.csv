@@ -1,0 +1,179 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+22/06/17 20:01;RaHome_16486;RaHome;air;48.560654;16.068798;226.2;Austria;Baja Austria;Distrito de Hollabrunn;Hollabrunn;Nick: Andreas64;8.0;8.0
+22/06/17 20:03;RaHome_11559;RaHome;air;50.57579;12.659295;495.6;Alemania;Sajonia;Chemnitz;Zschorlau;Team Wetter-Board Nick: tiefdrucktommy;15.0;14.0
+22/06/17 20:07;RaHome_16031;RaHome;air;49.171413;16.689362;256.9;Chequia;Región de Moravia Meridional;Brno-City District;Brno;Team Nick: hidden;12.0;12.0
+22/06/17 20:08;RaHome_7660;RaHome;air;46.531982;15.678003;260.7;Eslovenia;Administrative unit Maribor;Maribor;Máribor;Nick: Viljem Muhic;12.0;13.0
+22/06/17 20:09;RaHome_5439;RaHome;air;49.19772;12.090994;416.0;Alemania;Baviera;Alto Palatinado;Maxhütte-Haidhof;Team Nick: hidden;10.0;11.0
+22/06/17 20:09;RaHome_15895;RaHome;air;49.345234;13.92541;488.3;Chequia;Región de Bohemia Meridional;Strakonice District;Radomyšl;Team Czech National Team Nick: Slava.7;16.0;18.0
+22/06/17 20:09;RaHome_4942;RaHome;air;46.786877;-0.835744;256.7;Francia;Países del Loira;Vendée;Pouzauges;Team L\'Alliance Francophone Nick: [AF>EDLS]_Damien;14.0;15.0
+22/06/17 20:09;RaHome_16905;RaHome;air;48.167431;15.070585;224.5;Austria;Baja Austria;Distrito de Melk;Ybbs an der Donau;Nick: WetterYbbs;8.0;9.0
+22/06/17 20:09;RaHome_15215;RaHome;air;61.605328;5.067063;0.3;Noruega;Sogn og Fjordane;Flora;Florø;Team Team Norway Nick: Asbjørn Aamot;8.0;10.0
+22/06/17 20:10;RaHome_20601;RaHome;air;46.791885;4.420394;334.9;Francia;Borgoña-Franco Condado;Saona y Loira;Le Creusot;Team L\'Alliance Francophone Nick: [AF>Libristes>Jip] Elgrande71;19.0;19.0
+22/06/17 20:10;RaHome_11449;RaHome;air;44.386433;8.044162;402.7;Italia;Piamonte;Cuneo;Ceva;Team BOINC.Italy Nick: Marco Plassio;18.0;15.0
+22/06/17 20:10;RaHome_15516;RaHome;air;51.460106;7.143731;103.3;Alemania;Renania del Norte-Westfalia;Región de Arnsberg;Bochum;Team SETI.Germany Nick: sgw703;8.0;12.0
+22/06/17 20:10;RaHome_14930;RaHome;air;54.17625;15.549774;3.0;Polonia;Voivodato de Pomerania Occidental;Kołobrzeg County;Kołobrzeg;Team BOINC@Poland Nick: tito;10.0;10.0
+22/06/17 20:10;RaHome_6825;RaHome;air;51.367924;12.364576;122.9;Alemania;Sajonia;Leipzig;Leipzig;Team Wetter-Board Nick: Leipzig-Wetter;14.0;13.0
+22/06/17 20:10;RaHome_23303;RaHome;air;53.546986;14.573035;12.5;;;Police County;Police;Team BOINC@Poland Nick: Svistak;13.0;14.0
+22/06/17 20:10;RaHome_15662;RaHome;air;53.095467;10.650644;46.3;Alemania;Baja Sajonia;;Römstedt;Team Planet 3DNow! Nick: Landjunge;9.0;10.0
+22/06/17 20:11;RaHome_14972;RaHome;air;49.197971;12.033615;;Alemania;Baviera;Alto Palatinado;Burglengenfeld;Nick: Robert-1;13.0;12.0
+22/06/17 20:11;RaHome_11560;RaHome;air;51.45079;13.87051;100.1;Alemania;Brandeburgo;;Ruhland;Team Wetter-Board Nick: kniffo;10.0;10.0
+22/06/17 20:11;RaHome_5278;RaHome;air;48.251995;11.393538;490.5;Alemania;Baviera;Alta Baviera;Bergkirchen;Team Nick: hidden;12.0;12.0
+22/06/17 20:11;RaHome_5438;RaHome;air;48.186176;11.275964;520.5;Alemania;Baviera;Alta Baviera;Emmering;Team Nick: hidden;12.0;9.0
+22/06/17 20:11;RaHome_15229;RaHome;air;50.069069;21.97224;219.6;;Voivodato de Subcarpacia;Rzeszów County;Rzeszów;Team BOINC@Poland Nick: kriu;12.0;13.0
+22/06/17 20:12;RaHome_1974;RaHome;air;47.057186;-122.818558;41.3;Estados Unidos;Washington;Condado de Thurston;Lacey;Nick: apotheca;11.0;9.0
+22/06/17 20:12;RaHome_9686;RaHome;air;51.317711;6.20234;48.2;Alemania;Renania del Norte-Westfalia;Región de Düsseldorf;Nettetal;Team Wetter-Board Nick: Nettetal-Kaldenkirchen;14.0;14.0
+22/06/17 20:12;RaHome_18469;RaHome;air;52.135227;21.033373;;;;Warszawa;Varsovia;Team Nick: hidden;7.0;8.0
+22/06/17 20:12;RaHome_8131;RaHome;air;51.241791;22.299894;;Polonia;Voivodato de Lublin;lubelski;;Team BOINC@Poland Nick: gaballus;10.0;11.0
+22/06/17 20:12;RaHome_5379;RaHome;air;51.471962;7.870846;170.2;Alemania;Renania del Norte-Westfalia;Región de Arnsberg;Wickede;Team SETI.Germany Nick: [SG]McCarron;12.0;11.0
+22/06/17 20:12;RaHome_15711;RaHome;air;47.123169;15.291043;;Austria;Estiria;Distrito de Graz-Umgebung;;Nick: WMMEDV;10.0;10.0
+22/06/17 20:12;RaHome_15676;RaHome;air;50.87851;7.026285;49.5;Alemania;Renania del Norte-Westfalia;Región de Colonia;Colonia;Team Nick: hidden;9.0;11.0
+22/06/17 20:12;RaHome_21178;RaHome;air;42.389053;-85.998993;214.0;Estados Unidos;Míchigan;Condado de Van Buren;;Nick: Jerry;9.0;9.0
+22/06/17 20:12;RaHome_22337;RaHome;air;47.61533;8.267432;323.6;Alemania;Baden-Wurtemberg;Región de Friburgo;Küssaberg;Team Nick: hidden;13.0;15.0
+22/06/17 20:13;RaHome_19435;RaHome;air;52.394505;16.861673;82.4;;;;Poznań;Team BOINC@Poland Nick: PanStaszek;10.0;10.0
+22/06/17 20:13;RaHome_15181;RaHome;air;51.413425;21.965279;137.6;Polonia;Voivodato de Lublin;Puławy County;Puławy;Team BOINC@Poland Nick: zablociak;10.0;8.0
+22/06/17 20:13;RaHome_11785;RaHome;air;51.403488;-0.519104;12.5;Reino Unido;Inglaterra;Surrey;;Nick: ChertseyAl;9.0;10.0
+22/06/17 20:13;RaHome_16753;RaHome;air;49.304634;16.530088;293.8;Chequia;Región de Moravia Meridional;Brno-Country District;Kuřim;Team Nick: hidden;10.0;9.0
+22/06/17 20:13;RaHome_20166;RaHome;air;19.566212;-155.963135;10.9;Estados Unidos;Hawái;Condado de Hawái;Kahaluu-Keauhou;Team BOINC@Poland Nick: ericjwolfe;6.0;7.0
+22/06/17 20:13;RaHome_6110;RaHome;air;49.832363;18.283813;213.5;Chequia;Región de Moravia-Silesia;Ostrava-City District;Ostrava;Team Nick: hidden;13.0;14.0
+22/06/17 20:14;RaHome_19883;RaHome;air;48.185547;11.281586;513.7;Alemania;Baviera;Alta Baviera;Emmering;Team Nick: hidden;13.0;12.0
+22/06/17 20:14;RaHome_10128;RaHome;air;48.072453;11.365407;586.6;Alemania;Baviera;Alta Baviera;Gauting;Team Nick: hidden;13.0;12.0
+22/06/17 20:14;RaHome_16397;RaHome;air;49.680737;21.736107;281.0;Polonia;Voivodato de Subcarpacia;Krosno County;Krosno;Team BOINC@Poland Nick: Jerzy_Przytocki;9.0;10.0
+22/06/17 20:14;RaHome_18648;RaHome;air;49.288158;4.115815;138.8;Francia;Gran Este;Marne;Witry-lès-Reims;Team L\'Alliance Francophone Nick: [AF>Libristes] Elorak;7.0;9.0
+22/06/17 20:15;RaHome_13496;RaHome;air;35.738117;-80.209595;239.6;Estados Unidos;Carolina del Norte;Condado de Davidson;;Team BOINCstats Nick: computerguy09;12.0;11.0
+22/06/17 20:15;RaHome_23830;RaHome;air;35.670258;129.171371;166.5;Corea del Sur;Ulsan;;Ulsan;Team SETIKAH@KOREA Nick: Ha Seok woo;14.0;13.0
+22/06/17 20:15;RaHome_14187;RaHome;air;50.825069;6.530691;132.8;Alemania;Renania del Norte-Westfalia;Región de Colonia;Merzenich;Team Planet 3DNow! Nick: count0;15.0;14.0
+22/06/17 20:15;RaHome_10564;RaHome;air;54.178185;15.600135;7.6;Polonia;Voivodato de Pomerania Occidental;Kołobrzeg County;Kołobrzeg;Team BOINC@Poland Nick: tito;13.0;11.0
+22/06/17 20:15;RaHome_21463;RaHome;air;53.036232;8.529575;37.3;Alemania;Baja Sajonia;;Ganderkesee;Team SETI.Germany Nick: Crazy-Sonic;10.0;10.0
+22/06/17 20:15;RaHome_14992;RaHome;air;50.817741;6.138309;;Alemania;Renania del Norte-Westfalia;Región de Colonia;Würselen;Team AMD Users Nick: Chris Skull;10.0;11.0
+22/06/17 20:15;RaHome_1935;RaHome;air;49.45351;17.445564;211.2;Chequia;Región de Olomouc;Přerov District;Přerov;Team Nick: hidden;12.0;12.0
+22/06/17 20:15;RaHome_10015;RaHome;air;39.196308;-96.597702;339.5;Estados Unidos;Kansas;Condado de Riley;Manhattan;Team BOINC Fools Nick: The Dreamer;10.0;10.0
+22/06/17 20:15;RaHome_22674;RaHome;air;52.57354;19.896044;145.6;Polonia;Voivodato de Mazovia;płocki;;Team Polish National Team Nick: Peciak;10.0;11.0
+22/06/17 20:16;RaHome_11827;RaHome;air;49.19772;12.090995;416.0;Alemania;Baviera;Alto Palatinado;Maxhütte-Haidhof;Team Nick: hidden;11.0;10.0
+22/06/17 20:16;RaHome_19613;RaHome;air;53.061794;8.810791;7.8;Alemania;Bremen;;Bremen;Team SETI.Germany Nick: Saenger;8.0;9.0
+22/06/17 20:16;RaHome_10946;RaHome;air;52.172535;20.803238;90.7;;;Pruszków County;Pruszków;Team Nick: hidden;9.0;10.0
+22/06/17 20:16;RaHome_6311;RaHome;air;50.074615;19.918825;210.6;;;Kraków County;Cracovia;Nick: mkowalik;14.0;13.0
+22/06/17 20:16;RaHome_4887;RaHome;air;-35.134369;139.269394;31.5;Australia;Australia Meridional;The Rural City of Murray Bridge;Murray Bridge;Team BOINC@AUSTRALIA Nick: Scott;11.0;12.0
+22/06/17 20:16;RaHome_10559;RaHome;air;49.315956;13.924739;457.5;Chequia;Región de Bohemia Meridional;Strakonice District;Radomyšl;Team Czech National Team Nick: Petr.350;18.0;18.0
+22/06/17 20:17;RaHome_14886;RaHome;air;50.859238;13.465035;437.7;Alemania;Sajonia;Chemnitz;Bobritzsch-Hilbersdorf;Nick: mittelsachsenwetter;18.0;14.0
+22/06/17 20:17;RaHome_12523;RaHome;air;50.124989;18.978018;263.2;Polonia;Silesia;Tychy;Tychy;Team BOINC@Poland Nick: mimeq;11.0;11.0
+22/06/17 20:17;RaHome_5970;RaHome;air;49.049522;11.782952;506.8;Alemania;Baviera;Alto Palatinado;Hemau;Team SETI.Germany Nick: Yeti45;10.0;11.0
+22/06/17 20:17;RaHome_23161;RaHome;air;46.408733;3.444367;269.2;Francia;Auvernia-Ródano-Alpes;Allier;Gouise;Team L\'Alliance Francophone Nick: modesti;15.0;12.0
+22/06/17 20:17;RaHome_1875;RaHome;air;45.40694;11.855666;13.3;Italia;Véneto;Padua;Padua;Team BOINC.Italy Nick: [VENETO] Wizard83;13.0;12.0
+22/06/17 20:18;RaHome_22728;RaHome;air;51.708763;8.766792;162.0;Alemania;Renania del Norte-Westfalia;Región de Detmold;Paderborn;Team Planet 3DNow! Nick: dawe;4.0;9.0
+22/06/17 20:18;RaHome_12190;RaHome;air;37.621655;15.045687;703.0;Italia;Sicilia;Catania;Nicolosi-pedara;Nick: Fabio Tomaselli (Sicilia);10.0;13.0
+22/06/17 20:18;RaHome_18584;RaHome;air;48.944332;14.583299;534.5;Chequia;Región de Bohemia Meridional;České Budějovice District;Ledenice;Team Czech National Team Nick: 329CZE001;14.0;12.0
+22/06/17 20:18;RaHome_15617;RaHome;air;36.859604;-4.154911;273.2;España;Andalucía;Málaga;;Team Wetter-Board Nick: Harry # www.meteomalaga.es;13.0;13.0
+22/06/17 20:18;RaHome_19311;RaHome;air;45.132008;-92.096901;309.0;Estados Unidos;Wisconsin;Condado de Dunn;;Nick: scubaroboto;11.0;9.0
+22/06/17 20:18;RaHome_19843;RaHome;air;48.876953;15.136068;566.5;Austria;Baja Austria;Distrito de Gmünd;;Nick: LoneWolf-HD;18.0;18.0
+22/06/17 20:18;RaHome_73;RaHome;air;59.918877;30.30549;10.5;Rusia;San Petersburgo;Sankt-Peterburg;San Petersburgo;Team Nick: hidden;14.0;13.0
+22/06/17 20:19;RaHome_6314;RaHome;air;50.233887;19.986404;282.7;Polonia;Voivodato de Pequeña Polonia;krakowski;;Nick: mkowalik;9.0;12.0
+22/06/17 20:19;RaHome_2318;RaHome;air;51.810276;10.224562;377.5;Alemania;Baja Sajonia;;Bad Grund (Harz);Team SETI.Germany Nick: TBone;10.0;10.0
+22/06/17 20:19;RaHome_15122;RaHome;air;49.108372;16.735867;209.6;Chequia;Región de Moravia Meridional;Brno-Country District;Újezd u Brna;Team Czech National Team Nick: Forest;12.0;14.0
+22/06/17 20:19;RaHome_14186;RaHome;air;44.362736;11.701582;45.1;Italia;Emilia-Romaña;Bolonia;Imola;Team BOINC.Italy Nick: Marco8869 [E.R.];8.0;9.0
+22/06/17 20:19;RaHome_25618;RaHome;air;49.97242;8.837066;;Alemania;Hesse;Región de Darmstadt;Rödermark;Team Wetter-Board Nick: Michael Laupichler;16.0;16.0
+22/06/17 20:19;RaHome_15834;RaHome;air;43.625549;1.437994;139.5;Francia;Occitania;Alto Garona;Toulouse;Team L\'Alliance Francophone Nick: al@ON;14.0;15.0
+22/06/17 20:19;RaHome_19815;RaHome;air;53.885864;11.438119;26.0;Alemania;Mecklemburgo-Pomerania Occidental;;Wismar;Team SETI.Germany Nick: Sh4D!nG;13.0;13.0
+22/06/17 20:19;RaHome_15858;RaHome;air;50.86816;-1.405796;11.5;Reino Unido;Inglaterra;Hampshire;Hythe;Team BOINCstats Nick: Lazarus-uk;10.0;11.0
+22/06/17 20:19;RaHome_6;RaHome;air;51.80302;19.753744;187.1;Polonia;Voivodato de Łódź;Distrito de Brzeziny;Brzeziny;Team BOINC@Poland Nick: TJM;12.0;11.0
+22/06/17 20:19;RaHome_5586;RaHome;air;50.407986;16.155811;347.7;Chequia;Región de Hradec Králové;Náchod District;Náchod;Team Czech National Team Nick: Martin Skoda;13.0;11.0
+22/06/17 20:19;RaHome_20847;RaHome;air;52.268986;20.973661;99.7;;;;Varsovia;Nick: nza;10.0;11.0
+22/06/17 20:20;RaHome_10032;RaHome;air;51.873177;10.687265;229.6;Alemania;Sajonia-Anhalt;;Ilsenburg;Team Rechenkraft.net Nick: Andreas38871;8.0;11.0
+22/06/17 20:20;RaHome_15909;RaHome;air;52.514088;13.328624;34.0;Alemania;Berlín;;Berlín;Nick: Martin;10.0;9.0
+22/06/17 20:20;RaHome_11905;RaHome;air;51.088322;13.733382;115.3;Alemania;Sajonia;Dresde;Dresde;Team Planet 3DNow! Nick: L@MiR;14.0;14.0
+22/06/17 20:20;RaHome_16187;RaHome;air;51.916512;10.468426;348.7;Alemania;Baja Sajonia;;Goslar;Team Planet 3DNow! Nick: joe carnivore;18.0;15.0
+22/06/17 20:21;RaHome_26326;RaHome;air;47.398907;8.62157;;Suiza;Zúrich;Distrito de Uster;Dübendorf;Nick: Toby Broom;11.0;11.0
+22/06/17 20:21;RaHome_13208;RaHome;air;47.964897;7.955106;389.0;Alemania;Baden-Wurtemberg;Región de Friburgo;Kirchzarten;Team Nick: hidden;8.0;10.0
+22/06/17 20:21;RaHome_14288;RaHome;air;43.773121;12.924511;80.1;Italia;Marcas;Pesaro y Urbino;Lucrezia;Team BOINC.Italy Nick: sorcrosc;14.0;12.0
+22/06/17 20:21;RaHome_15753;RaHome;air;53.44817;14.574866;;;;;Szczecin;Team BOINC@Poland Nick: metalic;13.0;11.0
+22/06/17 20:21;RaHome_5949;RaHome;air;52.175236;22.285669;147.0;Polonia;Voivodato de Mazovia;Siedlce County;Siedlce;Team BOINC@Poland Nick: Szopler;10.0;10.0
+22/06/17 20:21;RaHome_14386;RaHome;air;35.871601;139.84549;6.0;;Prefectura de Saitama;;Yoshikawa;Team Team 2ch Nick: Ta-duck@hrhm@lounge;8.0;8.0
+22/06/17 20:21;RaHome_16555;RaHome;air;51.365887;11.297017;149.8;Alemania;Turingia;;Artern;Team Wetter-Board Nick: Wetter-Artern;12.0;13.0
+22/06/17 20:21;RaHome_21842;RaHome;air;54.166328;-4.479329;77.4;Isla de Man;;;Douglas;Nick: tonel;8.0;11.0
+22/06/17 20:21;RaHome_7333;RaHome;air;54.506645;18.546989;27.8;;;;Gdynia;Team BOINC@Poland Nick: tito;14.0;13.0
+22/06/17 20:22;RaHome_19659;RaHome;air;50.802437;8.806958;330.7;Alemania;Hesse;Distrito de Gießen;Marburgo;Team Nick: hidden;11.0;9.0
+22/06/17 20:22;RaHome_25585;RaHome;air;51.764977;19.507118;;;;;Łódź;Team BOINC@Poland Nick: Paudys;13.0;11.0
+22/06/17 20:22;RaHome_2127;RaHome;air;48.810158;7.700472;174.3;Francia;Gran Este;Bajo Rin;Ohlungen;Team L\'Alliance Francophone Nick: [AF>Kirass>MPF] Kikiphil;11.0;10.0
+22/06/17 20:22;RaHome_18617;RaHome;air;50.68214;17.936588;175.1;;;Opole County;Opole;Team BOINC@Poland Nick: ksysju;9.0;9.0
+22/06/17 20:22;RaHome_10226;RaHome;air;50.959332;5.482414;58.4;Bélgica;Región Flamenca;Limburgo;Genk;Team Team Belgium Nick: ON1DQD;18.0;16.0
+22/06/17 20:22;RaHome_18491;RaHome;air;50.176235;14.422327;270.0;Chequia;Región de Bohemia Central;Prague-East District;Klecany;Team Czech National Team Nick: Burgy;16.0;16.0
+22/06/17 20:22;RaHome_8444;RaHome;air;51.454845;13.861932;100.0;Alemania;Brandeburgo;;Ruhland;Team Wetter-Board Nick: kniffo;10.0;10.0
+22/06/17 20:22;RaHome_11593;RaHome;air;51.806286;19.755793;;Polonia;Voivodato de Łódź;Distrito de Brzeziny;Brzeziny;Team BOINC@Poland Nick: TJM;13.0;10.0
+22/06/17 20:22;RaHome_13710;RaHome;air;52.60545;13.361368;;Alemania;Berlín;;Berlín;Nick: Martin;12.0;12.0
+22/06/17 20:22;RaHome_19372;RaHome;air;54.320187;9.663064;11.8;Alemania;Schleswig-Holstein;;Büdelsdorf;Team Wetter-Board Nick: BDFWetter;9.0;10.0
+22/06/17 20:23;RaHome_11668;RaHome;air;52.25576;8.005068;;Alemania;Baja Sajonia;;Osnabrück;Team Nick: hidden;15.0;14.0
+22/06/17 20:23;RaHome_23506;RaHome;air;53.990047;-1.023249;16.6;Reino Unido;Inglaterra;York;;Team AMD Users Nick: KarmannGaz;11.0;11.0
+22/06/17 20:23;RaHome_4137;RaHome;air;43.519428;1.490278;209.9;Francia;Occitania;Alto Garona;Castanet-Tolosan;Team L\'Alliance Francophone Nick: Cocagne;15.0;12.0
+22/06/17 20:23;RaHome_13083;RaHome;air;49.206348;15.843769;443.7;Chequia;Región de Vysočina;Třebíč District;Třebíč;Team Czech National Team Nick: dalt;11.0;13.0
+22/06/17 20:23;RaHome_5494;RaHome;air;44.42894;8.819897;12.8;Italia;Liguria;Génova;Génova;Team Nick: hidden;13.0;12.0
+22/06/17 20:23;RaHome_7883;RaHome;air;37.583427;127.0662;51.0;Corea del Sur;Seúl;;Seúl;Team SETIKAH@KOREA Nick: SETIKAH;17.0;20.0
+22/06/17 20:23;RaHome_14237;RaHome;air;50.034496;14.52469;300.1;Chequia;Praga;Hlavní město Praha;Praga;Team Nick: hidden;10.0;10.0
+22/06/17 20:23;RaHome_5587;RaHome;air;49.057529;11.78645;532.5;Alemania;Baviera;Alto Palatinado;Hemau;Team SETI.Germany Nick: Yeti45;7.0;8.0
+22/06/17 20:23;RaHome_12521;RaHome;air;50.695698;17.909609;151.8;;;Opole County;Opole;Team BOINC@Poland Nick: krzyszp;12.0;12.0
+22/06/17 20:24;RaHome_18373;RaHome;air;47.051746;28.871605;;Moldavia;Chisinau;;Chisináu;Team Russia Nick: Aidjek;11.0;12.0
+22/06/17 20:24;RaHome_4556;RaHome;air;49.055614;11.788679;521.6;Alemania;Baviera;Alto Palatinado;Hemau;Team SETI.Germany Nick: Yeti45;12.0;11.0
+22/06/17 20:24;RaHome_8010;RaHome;air;51.712105;10.257314;233.9;Alemania;Baja Sajonia;;Osterode am Harz;Team SETI.Germany Nick: pschoefer;16.0;14.0
+22/06/17 20:24;RaHome_20726;RaHome;air;52.26025;21.16128;;;;;Varsovia;Team BOINC@Poland Nick: mordi;10.0;12.0
+22/06/17 20:24;RaHome_14498;RaHome;air;46.527603;18.964216;89.2;Hungría;Bács-Kiskun;Kalocsa District;Kalocsa;Team BOINC@Poland Nick: Flaisz Gábor;12.0;12.0
+22/06/17 20:24;RaHome_23420;RaHome;air;51.492512;7.310788;112.3;Alemania;Renania del Norte-Westfalia;Región de Arnsberg;Bochum;Team SETI.Germany Nick: [SGa]HeNiNnG;13.0;14.0
+22/06/17 20:24;RaHome_6876;RaHome;air;49.210979;11.450329;410.0;Alemania;Baviera;Alto Palatinado;Sengenthal;Team SETI.Germany Nick: aendgraend;8.0;8.0
+22/06/17 20:24;RaHome_18512;RaHome;air;-23.483791;-46.379578;743.4;;;;São Paulo;Nick: PY2RPD;20.0;19.0
+22/06/17 20:24;RaHome_22801;RaHome;air;37.178917;-3.602204;686.4;España;Andalucía;Granada;Granada;Team BOINC Synergy Nick: Kenneth Larsen;10.0;11.0
+22/06/17 20:25;RaHome_51;RaHome;air;49.919102;18.998129;256.0;Polonia;Silesia;Bielsko County;Czechowice-Dziedzice;Team BOINC@Poland Nick: AL ADIM;10.0;8.0
+22/06/17 20:25;RaHome_5378;RaHome;air;48.167175;11.805611;515.0;Alemania;Baviera;Alta Baviera;Poing;Team Nick: hidden;11.0;10.0
+22/06/17 20:25;RaHome_14834;RaHome;air;51.753803;19.450775;196.5;;;;Łódź;Team BOINC@Poland Nick: stiven;7.0;8.0
+22/06/17 20:25;RaHome_26383;RaHome;air;47.296474;-122.64196;88.9;Estados Unidos;Washington;Condado de Pierce;Artondale;Nick: Per;9.0;8.0
+22/06/17 20:25;RaHome_25201;RaHome;air;49.593754;11.013496;284.1;Alemania;Baviera;Franconia Media;Erlangen;Team GMP Nick: Solneman;16.0;16.0
+22/06/17 20:25;RaHome_5884;RaHome;air;48.410175;11.470263;462.8;Alemania;Baviera;Alta Baviera;Petershausen;Team SETI.Germany Nick: SG Bonsaiman;10.0;11.0
+22/06/17 20:26;RaHome_15923;RaHome;air;50.805447;4.423954;76.0;Bélgica;Región de Bruselas-Capital;;Watermael-Boitsfort;Team L\'Alliance Francophone Nick: [AF>Belgique] bill1170;11.0;11.0
+22/06/17 20:26;RaHome_23065;RaHome;air;49.755222;16.465429;440.9;Chequia;Región de Pardubice;Svitavy District;Svitavy;Team Czech National Team Nick: Rendo;10.0;12.0
+22/06/17 20:26;RaHome_17058;RaHome;air;51.980545;9.231029;110.1;Alemania;Baja Sajonia;;Bad Pyrmont;Team Nick: hidden;12.0;12.0
+22/06/17 20:26;RaHome_26192;RaHome;air;50.020466;19.898087;;;;Kraków County;Cracovia;Team BOINC@Poland Nick: sirzooro;12.0;12.0
+22/06/17 20:26;RaHome_13815;RaHome;air;48.23267;13.023554;;Austria;Alta Austria;Braunau am Inn District;Braunau am Inn;Team Nick: hidden;8.0;9.0
+22/06/17 20:26;RaHome_6845;RaHome;air;48.181194;11.51199;507.0;Alemania;Baviera;Alta Baviera;Múnich;Nick: Kvedulv;7.0;9.0
+22/06/17 20:26;RaHome_18527;RaHome;air;52.135963;11.608438;57.0;Alemania;Sajonia-Anhalt;;Magdeburgo;Team SETI.Germany Nick: cpuid;14.0;13.0
+22/06/17 20:26;RaHome_14447;RaHome;air;51.373066;16.953278;113.5;Polonia;Voivodato de Baja Silesia;Distrito de Trzebnica;;Team BOINC@Poland Nick: gregre;11.0;11.0
+22/06/17 20:27;RaHome_15158;RaHome;air;49.697807;18.226753;247.2;Chequia;Región de Moravia-Silesia;Distrito de Frýdek-Místek;Brušperk;Team Nick: hidden;12.0;13.0
+22/06/17 20:27;RaHome_20730;RaHome;air;37.378616;-121.852089;;;;Condado de Santa Clara;San José;Team Sicituradastra. Nick: Steve Hawker*;10.0;10.0
+22/06/17 20:27;RaHome_14404;RaHome;air;44.422993;8.861056;87.6;Italia;Liguria;Génova;Génova;Team Nick: hidden;7.0;8.0
+22/06/17 20:27;RaHome_13401;RaHome;air;52.267231;21.179626;96.6;;;Warszawa;Varsovia;Team BOINC@Poland Nick: Bzzz;15.0;13.0
+22/06/17 20:27;RaHome_8889;RaHome;air;54.302555;10.164694;40.8;Alemania;Schleswig-Holstein;;Kiel;Team SETI.Germany Nick: [SG]ATA-Rolf;13.0;12.0
+22/06/17 20:27;RaHome_14133;RaHome;air;53.604698;19.567772;109.4;Polonia;Voivodato de Varmia y Masuria;Iława County;Iława;Team BOINC@Poland Nick: Krzysztof;10.0;11.0
+22/06/17 20:27;RaHome_21095;RaHome;air;-38.066929;145.484619;;Australia;Victoria;Cardinia Shire;Pakenham;Team BOINC@AUSTRALIA Nick: Bunteck;11.0;11.0
+22/06/17 20:27;RaHome_25418;RaHome;air;48.196674;16.412699;161.0;Austria;Viena;;Viena;Team DSKAG Austria Nick: dskagcommunity;8.0;8.0
+22/06/17 20:28;RaHome_13638;RaHome;air;49.17099;16.359028;376.4;Chequia;Región de Moravia Meridional;Brno-Country District;Babice u Rosic;Team Czech National Team Nick: haer;12.0;13.0
+22/06/17 20:28;RaHome_15705;RaHome;air;49.262344;11.340656;428.1;Alemania;Baviera;Alto Palatinado;Postbauer-Heng;Team SETI.Germany Nick: aendgraend;10.0;12.0
+22/06/17 20:28;RaHome_13706;RaHome;air;54.683357;25.256134;;Lituania;Provincia de Vilna;Vilnius city municipality;Vilna;Team Altairo Veja;11.0;11.0
+22/06/17 20:28;RaHome_17077;RaHome;air;50.777271;19.136211;263.1;;;Częstochowa County;Częstochowa;Team BOINC@Poland Nick: Cyfron;9.0;9.0
+22/06/17 20:28;RaHome_611;RaHome;air;37.336315;-121.89048;26.5;;California;Condado de Santa Clara;San José;Team BOINC Synergy Nick: [B^S]ABoskovich;8.0;9.0
+22/06/17 20:28;RaHome_13229;RaHome;air;49.880684;19.243361;292.6;Polonia;Voivodato de Pequeña Polonia;Oświęcim County;Kęty;Team BOINC@Poland Nick: ryszard.korczyk;10.0;11.0
+22/06/17 20:28;RaHome_11562;RaHome;air;51.106701;13.691025;138.6;Alemania;Sajonia;Dresde;Radebeul;Nick: blaugrau;2.0;2.0
+22/06/17 20:29;RaHome_10529;RaHome;air;48.232819;16.363216;163.2;Austria;Viena;;Viena;Team DSKAG Austria Nick: dskagcommunity;18.0;15.0
+22/06/17 20:29;RaHome_19855;RaHome;air;49.617996;8.760781;186.1;Alemania;Hesse;Región de Darmstadt;Rimbach;Nick: wetter-rimbach_de;15.0;12.0
+22/06/17 20:29;RaHome_635;RaHome;air;49.975899;19.129429;247.5;Polonia;Voivodato de Pequeña Polonia;Oświęcim County;Brzeszcze;Team BOINC@Poland Nick: Kret_polny;16.0;14.0
+22/06/17 20:29;RaHome_26287;RaHome;air;51.875645;-8.491745;;;;;Cork;Nick: CzYsTy;11.0;9.0
+22/06/17 20:29;RaHome_16733;RaHome;air;43.118992;5.949169;10.9;Francia;Provenza-Alpes-Costa Azul;Var;Tolón;Team L\'Alliance Francophone Nick: [AF>Libristes] Pascal;12.0;11.0
+22/06/17 20:29;RaHome_21492;RaHome;air;49.171665;16.679596;245.9;Chequia;Región de Moravia Meridional;Brno-City District;Brno;Team Nick: hidden;13.0;14.0
+22/06/17 20:29;RaHome_19712;RaHome;air;53.132973;8.760205;1.7;Alemania;Bremen;;Bremen;Team Nordlichter Nick: hcoors;10.0;9.0
+22/06/17 20:29;RaHome_14776;RaHome;air;52.593987;18.03685;88.5;Polonia;Voivodato de Cuyavia y Pomerania;Distrito de Mogilno;;Nick: .jaca.;15.0;13.0
+22/06/17 20:29;RaHome_914;RaHome;air;51.802967;19.752922;185.3;Polonia;Voivodato de Łódź;Distrito de Brzeziny;Brzeziny;Team BOINC@Poland Nick: TJM;11.0;9.0
+22/06/17 20:29;RaHome_13199;RaHome;air;45.960938;8.444246;205.9;Italia;Piamonte;Verbano-Cusio-Ossola;Mergozzo;Team Nick: hidden;14.0;16.0
+22/06/17 20:30;RaHome_15185;RaHome;air;51.028633;6.991521;49.0;Alemania;Renania del Norte-Westfalia;Región de Colonia;Leverkusen;Team Nick: hidden;14.0;12.0
+22/06/17 20:30;RaHome_18433;RaHome;air;49.683102;18.343437;;Chequia;Región de Moravia-Silesia;Distrito de Frýdek-Místek;Frýdek-Místek;Team Nick: hidden;14.0;13.0
+22/06/17 20:30;RaHome_24172;RaHome;air;50.746563;13.08447;325.9;Alemania;Sajonia;Chemnitz;Zschopau;Team SETI.Germany Nick: schensi;18.0;16.0
+22/06/17 20:30;RaHome_15620;RaHome;air;49.171638;16.679617;245.8;Chequia;Región de Moravia Meridional;Brno-City District;Brno;Team Nick: hidden;11.0;13.0
+22/06/17 20:30;RaHome_13040;RaHome;air;48.937485;7.665955;186.1;Francia;Gran Este;Bajo Rin;Reichshoffen;Team L\'Alliance Francophone Nick: [AF>Kirass>MPF] Nafrayou;14.0;14.0
+22/06/17 20:30;RaHome_14210;RaHome;air;49.867451;2.325909;64.7;Francia;Alta Francia;Somme;Amiens;Team L\'Alliance Francophone Nick: Clairet Herve Thomas Francoise;9.0;9.0
+22/06/17 20:30;RaHome_20001;RaHome;air;50.069115;21.972134;219.6;;Voivodato de Subcarpacia;Rzeszów County;Rzeszów;Team BOINC@Poland Nick: kriu;13.0;12.0
+22/06/17 20:31;RaHome_10998;RaHome;air;45.462105;9.190418;120.5;;;Milán;Milán;Team BOINC.Italy Nick: Daniele [lombardia];13.0;13.0
+22/06/17 20:31;RaHome_9818;RaHome;air;50.987816;6.315087;104.0;Alemania;Renania del Norte-Westfalia;Región de Colonia;Linnich;Team Wetter-Board Nick: Unimatrix;10.0;11.0
+22/06/17 20:31;RaHome_18268;RaHome;air;-33.76062;150.83667;;Australia;Nueva Gales del Sur;Blacktown City Council;Rooty Hill;Team BOINC@AUSTRALIA Nick: JugNut;11.0;12.0
+22/06/17 20:31;RaHome_16567;RaHome;air;54.305161;13.092927;7.5;Alemania;Mecklemburgo-Pomerania Occidental;;Stralsund;Team Planet 3DNow! Nick: olsen_gg;11.0;12.0
+22/06/17 20:31;RaHome_24988;RaHome;air;49.546318;22.217962;;Polonia;Voivodato de Subcarpacia;Sanok County;Sanok;Team BOINC@Poland Nick: Jim;13.0;12.0
+22/06/17 20:31;RaHome_12929;RaHome;air;45.777863;3.085841;408.9;Francia;Auvernia-Ródano-Alpes;Puy-de-Dôme;Clermont-Ferrand;Team L\'Alliance Francophone Nick: [AF>Libristes] erik;12.0;14.0
+22/06/17 20:31;RaHome_16971;RaHome;air;35.903316;128.512573;44.0;Corea del Sur;Daegu;;Daegu (Taegu);Team SETIKAH@KOREA Nick: Chu Minkyun;16.0;13.0
+22/06/17 20:31;RaHome_15066;RaHome;air;51.226021;16.164089;122.4;Polonia;Voivodato de Baja Silesia;Distrito de Legnica;Legnica;Team Nick: hidden;12.0;11.0
+22/06/17 20:32;RaHome_10464;RaHome;air;63.016644;23.653418;69.7;Finlandia;Ostrobotnia del Sur;Järviseutu;;Team BOINC@Finland Nick: Antti;9.0;8.0
+22/06/17 20:32;RaHome_5313;RaHome;air;48.93079;2.285019;31.7;Francia;Isla de Francia;Altos del Sena;Gennevilliers;Team L\'Alliance Francophone Nick: fzs600;10.0;9.0
+22/06/17 20:33;RaHome_10062;RaHome;air;51.37664;8.071019;224.4;Alemania;Renania del Norte-Westfalia;Región de Arnsberg;Arnsberg;Team Wetter-Board Nick: uwe-arnsberg;12.0;13.0
+22/06/17 20:33;RaHome_14364;RaHome;air;48.777115;9.235487;222.8;Alemania;Baden-Wurtemberg;Región Administrativa de Stuttgart;Stuttgart;Team BOINC@Poland Nick: shack;10.0;10.0
+22/06/17 20:33;RaHome_7386;RaHome;air;52.371838;9.761905;56.7;Alemania;Baja Sajonia;;Hannover;Team SETI.Germany Nick: TBone;9.0;8.0

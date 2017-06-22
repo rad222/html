@@ -1,6 +1,8 @@
 #!/usr/bin/python2.7
 import pandas as pd
+import urllib
 import urllib2
+import json
 import sys
 import os
 import logging
@@ -8,13 +10,13 @@ import pandas as pd
 from datetime import datetime, timedelta
 from logging.handlers import RotatingFileHandler
 from bs4 import BeautifulSoup
+import time
 
 # encoding=utf8
 reload(sys)
 sys.setdefaultencoding('utf8')
 
 class myClass(object):
-
 
     def __init__(self):
         self.home = os.path.realpath(os.path.dirname(__file__))
@@ -30,19 +32,6 @@ class myClass(object):
         self.logger.addHandler(handler)
 
     def get_url(self, url, timeout=10):
-        """
-        Get's the URL with a default timeout of 10s.
-
-        param url: string
-        :return:
-        """
-        try:
-            return urllib2.urlopen(url, timeout=timeout).read()
-        except Exception as e:
-            self.logger.error(str(e)+" "+str(url))
-        return None
-
-    def get_url2(self, url, timeout=10):
         """
         Get's the URL with a default timeout of 10s.
 
@@ -73,24 +62,21 @@ class myClass(object):
         :return:
         '''
         df_data_new = pd.DataFrame(datas, columns=cols_data)
-        df_data_new.sort_values(by='date', inplace=True)
+        #df_data_new.sort_values(by='date', inplace=True)        
         df_data_new['date'] = pd.to_datetime(df_data_new['date'], format="%Y-%m-%d %H:%M:%S")
-        df_data_new.set_index(['id_station', 'date'], inplace=True)
-        network = path_data.split('/')[-3]
+        df_data_new.set_index(['id_station', 'date'], inplace=True)        
         if os.path.isfile(path_data) is True:
-            self.logger.info('Updating data from network %s' % network)
+            self.logger.info('Updating data from network')
             df_data_old = pd.read_csv(path_data, sep=';')
             df_data_old.set_index(['id_station', 'date'], inplace=True)
             df_data_new = pd.concat([df_data_new, df_data_old])
-            df_data_new = df_data_new.reset_index().drop_duplicates(subset=['id_station', 'date'], keep='last').set_index(['id_station', 'date'])
+            df_data_new = df_data_new.reset_index().drop_duplicates(subset=['id_station', 'date']).set_index(['id_station', 'date'])
         else:
-            self.logger.info('Making new data file from network %s' % network)
-
+            self.logger.info('Making new data file from network')
         #to remove older data (those values measured > 24 hours)
         df_data_new = df_data_new.iloc[df_data_new.index.get_level_values('date') > datetime.now()-timedelta(hours=24)]
-        #to remove false data
-        df_data_new.to_csv(path_data, sep=';', encoding='utf-8', date_format='%y/%m/%d %H:%M')
-
+        #to remove false data    
+        df_data_new.to_csv(path_data, sep=';', encoding='utf-8', date_format='%y/%m/%d %H:%M:%S')
 
         return
 
@@ -100,27 +86,122 @@ class myClass(object):
         :return:
         '''
         df_data_new = pd.DataFrame(metas, columns=cols_metas)
-        df_data_new.sort_values(by='id_station', inplace=True)
-        df_data_new.set_index('id_station', inplace=True)
-        network = path_meta.split('/')[-3]
-        if os.path.isfile(path_meta) is True:
-            self.logger.info('Updating meta from network %s' % network)
+        #df_data_new.sort_values(by='id_station', inplace=True)
+        
+        if os.path.isfile(path_meta) is True:            
             df_data_old = pd.read_csv(path_meta, sep=';')
-            df_data_old.set_index('id_station', inplace=True)
-            df_data_new = pd.concat([df_data_new, df_data_old])
-            df_data_new = df_data_new.reset_index().drop_duplicates(subset='id_station', keep='last').set_index('id_station')
-        else:
-            self.logger.info('Making new meta file from network %s' % network)
-        df_data_new.to_csv(path_meta, sep=';', encoding='utf-8')
+            set1 = set(df_data_old['id_station'].tolist())
+            set2 = set(df_data_new['id_station'].tolist())
 
+            unmatched = list(set2.symmetric_difference(set1)) 
+            print unmatched, len(unmatched)           
+            df_data_old.set_index('id_station', inplace=True)
+            df_data_new.set_index('id_station', inplace=True) 
+            df_data_new = pd.concat([df_data_new, df_data_old])
+            df_data_new = df_data_new.reset_index().drop_duplicates(subset='id_station').set_index('id_station')
+            if len(unmatched) != 0: #if no changes, not updated meta
+                self.logger.info('Updating meta from network')
+                df_data_new.to_csv(path_meta, sep=';', encoding='utf-8')
+                self.get_alt_area(path_meta) #to fill altitude and area administrative
+        else:
+            self.logger.info('Making new meta file from network')
+            df_data_new.set_index('id_station', inplace=True) 
+            df_data_new.to_csv(path_meta, sep=';', encoding='utf-8')
+            self.get_alt_area(path_meta)
+       
+        
         return
 
+    def get_alt_file(self, file):
+        '''
+        A method to add area to meta from longitude and latitude
+        :param meta_in: csv
+        :param meta_out: csv
+        :param url_json: json
+        :return:
+        '''
+        elevation = None
+
+        with open(file, "rb") as infile:
+            for meta in json.load(infile)['results']:
+                elevation = float(meta['elevation'])
+                a = float(meta['location']['lat'])
+                b = float(meta['location']['lng'])
+           
+        return elevation
+    
+    def get_area_file(self, file):
+        '''
+        A method to add area to meta from longitude and latitude
+        :param meta_in: csv
+        :param meta_out: csv
+        :param url_json: json
+        :return:
+        '''
+        elevation = None
+        area1 = None
+        area2 = None
+        area3 = None
+        area0 = None
+        country = None
+        with open(file, "rb") as infile:
+
+            for meta in json.load(infile)['results']:                       
+                description = meta['address_components'][0]
+                if str(description['types'][0]) == 'locality':                  
+                    area3 = description['long_name'].encode('utf-8')
+                if str(description['types'][0]) == 'administrative_area_level_2':                  
+                    area2 = description['long_name'].encode('utf-8')           
+                if str(description['types'][0]) == 'administrative_area_level_1':                  
+                    area1 = description['long_name'].encode('utf-8')             
+                if str(description['types'][0]) == 'country':                  
+                    area0 = description['long_name'].encode('utf-8')  
+        return area1, area2, area3, area0
+    
+       
+    def get_alt_area(self, f):
+  
+        df = pd.read_csv(f,sep=';')
+   
+        df['index'] = df.latitude.astype(str).str.cat(df.longitude.astype(str), sep=',')
+        list = df['index'].tolist()
+        for i in list: 
+            latlng = str(i)            
+            #altitude                    
+            url = 'https://maps.googleapis.com/maps/api/elevation/json?locations=' + latlng     
+            url_out = latlng + '.alt'          
+            file_folder = os.path.join('data_json/alt/', url_out)      
+            if os.path.exists('data_json/alt/'+url_out) is False:
+                time.sleep(2)
+                urllib.urlretrieve(url, file_folder)
+                    
+            #elevation
+            url2 = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=' + latlng + '&language=es'  
+            url_out2 = latlng + '.area'          
+            file_folder2 = os.path.join('data_json/area/', url_out2)      
+            if os.path.exists('data_json/area/'+url_out2) is False:
+                time.sleep(1)
+                urllib.urlretrieve(url2, file_folder2)  
+ 
+            #get elevation 
+            ans = self.get_area_file(file_folder2)
+            df.loc[df['index'] == str(latlng), 'altitude'] = self.get_alt_file(file_folder)
+            df.loc[df['index'] == str(latlng), 'area_adm_1'] = ans[0]
+            df.loc[df['index'] == str(latlng), 'area_adm_2'] = ans[1]
+            df.loc[df['index'] == str(latlng), 'area_adm_3'] = ans[2]
+            df.loc[df['index'] == str(latlng), 'country'] = ans[3]
+        df = df.set_index(['index']) #not appear in the csv file
+        df.altitude = df.altitude.round(1)
+        df.to_csv(f, sep=';',  index=False, encoding='utf-8')
+
+        return
+    
 class RaHome(myClass):
 
 
     def get_data(self):
         cols_data = ['date', 'id_station', 'value', 'value_max']
-        cols_metas = ['id_station', 'id_network', 'latitude', 'longitude', 'name', 'type']
+        cols_metas = ['id_station', 'id_network', 'latitude', 'longitude', 'name', 'type', 'country', 'altitude', 'area_adm_1', 'area_adm_2', 'area_adm_3']
         datas, metas = self.get_data_files()
 
         if not datas:
@@ -139,7 +220,8 @@ class RaHome(myClass):
         type = 'air'
         datas = []
         metas = []
-        response = self.get_url2('http://radioactiveathome.org/map/', timeout=30)
+        response = self.get_url('http://radioactiveathome.org/map/', timeout=30)
+           
         for line in response:
             if str(line).startswith('map.addOverlay(createMarker(new GLatLng('):
                 data = line.split('GLatLng')
@@ -152,7 +234,7 @@ class RaHome(myClass):
                             lon = values[1].replace(')', '').strip()
                             id = network + '_' + values[2].strip()
                             self.logger.info('Get data from station %s' % id)
-                            date = self.find_between(values[3], 'Last contact:', '<br/>')
+                            date = self.find_between(values[3], 'Last contact:', '<br/>').strip()
                             name = 'Team' + values[3].split('Team:')[1].replace('<br />Nick:', ' Nick:')[0:-1]
                             if ('Team  Nick' in name) or ('Team hidden Nick' in name):
                                 #user without Team
@@ -161,11 +243,12 @@ class RaHome(myClass):
                             value_max = float(str(self.find_between(values[3], 'average:', 'uSv')).strip())*100 #average value last 24 hours
                             cols = [date, id, value, value_max]
                             datas.append(cols)
-                            metas.append([id, network, lat, lon, name, type])  # Not country, area_adm_1, area_adm_2, area_adm_3
+                            metas.append([id, network, lat, lon, name, type, 0, -9999.0, 0, 0,0])  #There are not: country, altitude, area_adm_1, area_adm_2, area_adm_3
 
         return datas, metas
 
 def main():
+    print 'hola'
     rahome = RaHome()
     ans = rahome.get_data()
     return

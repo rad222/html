@@ -1,0 +1,3 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+22/06/17 17:22;RaHome_15554;RaHome;air;48.872456;9.228873;286.4;Alemania;Baden-Wurtemberg;Región Administrativa de Stuttgart;Remseck;Team Planet 3DNow! Nick: Ali;8.0;8.0
+22/06/17 17:44;RaHome_15201;RaHome;air;52.173084;4.500433;0.9;Países Bajos;Holanda Meridional;Leiden;Leiden;Team AMD Users Nick: Dirk Broer;8.0;10.0

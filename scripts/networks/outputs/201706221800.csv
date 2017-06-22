@@ -1,0 +1,7 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+22/06/17 18:05;RaHome_20753;RaHome;air;51.347301;12.449201;;Alemania;Sajonia;Leipzig;Leipzig;Team Nick: hidden;12.0;11.0
+22/06/17 18:06;RaHome_6239;RaHome;air;52.432453;16.935339;90.7;;;;Poznań;Team BOINC@Poland Nick: Hubert Kozinski;11.0;12.0
+22/06/17 18:35;RaHome_24801;RaHome;air;44.958633;11.246419;7.9;Italia;Lombardía;Mantua;Malcantone;Nick: Nicola LFRNCL;16.0;15.0
+22/06/17 18:42;RaHome_25706;RaHome;air;51.947544;-3.393745;;Reino Unido;Gales;Powys;Brecon;Team AMD Users Nick: Euphoriabuzz;10.0;9.0
+22/06/17 18:47;RaHome_15862;RaHome;air;43.056847;11.600189;414.9;Italia;Toscana;Siena;San Quirico d'Orcia;Team BOINC.Italy Nick: Erotavlas [Toscana];11.0;12.0
+22/06/17 18:49;RaHome_14041;RaHome;air;49.314621;7.161793;324.4;Alemania;Sarre;;Spiesen-Elversberg;Team Wetterbase Nick: Private Wetterstation Spiesen-Elversberg;17.0;16.0

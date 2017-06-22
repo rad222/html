@@ -1,0 +1,10 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+22/06/17 19:01;RaHome_12091;RaHome;air;51.361172;22.250082;177.0;Polonia;Voivodato de Lublin;Puławy County;;Team BOINC@Poland Nick: zablociak;11.0;9.0
+22/06/17 19:21;RaHome_24962;RaHome;air;49.802822;19.40365;456.3;Polonia;Voivodato de Pequeña Polonia;Wadowice County;;Nick: nieczesany;14.0;15.0
+22/06/17 19:23;RaHome_10626;RaHome;air;45.76738;3.066916;424.8;Francia;Auvernia-Ródano-Alpes;Puy-de-Dôme;Chamalières;Team L\'Alliance Francophone Nick: TBirdTheYuri;14.0;16.0
+22/06/17 19:34;RaHome_11512;RaHome;air;47.482292;9.734144;411.2;Austria;Vorarlberg;Bregenz District;Lauterach;Team Gridcoin Nick: philjfry;12.0;11.0
+22/06/17 19:34;RaHome_12333;RaHome;air;52.523399;17.610893;114.0;Polonia;Gran Polonia;Distrito de Gniezno;Gniezno;Team BOINC@Poland Nick: kawiary;8.0;10.0
+22/06/17 19:35;RaHome_20647;RaHome;air;47.516239;12.090843;513.1;Austria;Tirol;Distrito de Kufstein;Kirchbichl;Team Wetter-Board Nick: Hanspeter Rainer;11.0;9.0
+22/06/17 19:39;RaHome_7865;RaHome;air;50.023415;14.225514;370.8;Chequia;Región de Bohemia Central;Prague-West District;Nučice;Team Nick: hidden;9.0;9.0
+22/06/17 19:45;RaHome_5879;RaHome;air;50.701534;6.409686;380.5;Alemania;Renania del Norte-Westfalia;Región de Colonia;Hürtgenwald;Team Wetter-Board Nick: Heinrich Gras;16.0;15.0
+22/06/17 19:47;RaHome_15283;RaHome;air;44.429058;8.819723;13.7;Italia;Liguria;Génova;Génova;Team Nick: hidden;12.0;12.0

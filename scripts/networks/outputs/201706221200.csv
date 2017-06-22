@@ -1,0 +1,3 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+22/06/17 12:15;RaHome_8527;RaHome;air;51.045689;14.817995;238.5;Alemania;Sajonia;Dresde;Bernstadt auf dem Eigen;Team Planet 3DNow! Nick: brezel;10.0;12.0
+22/06/17 12:19;RaHome_2145;RaHome;air;43.032509;-88.081512;250.6;Estados Unidos;Wisconsin;Condado de Waukesha;Brookfield;Team USA Nick: Herb;9.0;10.0
