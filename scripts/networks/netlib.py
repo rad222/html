@@ -121,13 +121,19 @@ class myClass(object):
         :return:
         '''
         elevation = None
-
+        status = None
         with open(file, "rb") as infile:
-            for meta in json.load(infile)['results']:
+            ans = json.load(infile)
+            status = ans['status']          
+          
+            for meta in ans['results']:
                 elevation = float(meta['elevation'])
                 a = float(meta['location']['lat'])
                 b = float(meta['location']['lng'])
-           
+
+        if (status == 'OVER_QUERY_LIMIT') is True:
+            myfile = os.path.join(self.home, file)
+            os.remove(myfile)
         return elevation
     
     def get_area_file(self, file):
@@ -145,7 +151,6 @@ class myClass(object):
         area0 = None
         country = None
         with open(file, "rb") as infile:
-
             for meta in json.load(infile)['results']:                       
                 description = meta['address_components'][0]
                 if str(description['types'][0]) == 'locality':                  
@@ -170,11 +175,11 @@ class myClass(object):
             #altitude                    
             url = 'https://maps.googleapis.com/maps/api/elevation/json?locations=' + latlng     
             url_out = latlng + '.alt'          
-            file_folder = os.path.join('data_json/alt/', url_out)      
+            file_folder = os.path.join('data_json/alt/', url_out)            
             if os.path.exists('data_json/alt/'+url_out) is False:
-                time.sleep(2)
+                time.sleep(0)
                 urllib.urlretrieve(url, file_folder)
-                    
+
             #elevation
             url2 = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=' + latlng + '&language=es'  
             url_out2 = latlng + '.area'          
