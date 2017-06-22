@@ -34,7 +34,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 21/06/17 04:00;RU26069;Eurdep;air;59.35;30.13;93.3;Russia;Óblast de Leningrado;Gatchinsky District;Belogorka;Belogorka;11;11
 21/06/17 04:00;RU26179;Eurdep;air;58.52;31.25;29.9;Russia;Óblast de Nóvgorod;gorod Velikiy Novgorod;Nóvgorod;Novgorod;17;17
 21/06/17 04:00;RU26258;Eurdep;air;57.8;28.42;48.6;Russia;Óblast de Pskov;gorod Pskov;Pskov;Pskov;12;12
-21/06/17 04:00;RU26298;Eurdep;air;57.9;34.05;186.1;Russia;Óblast de Tver;Bologovsky District;Bologoye;Bologoe;12;12
+21/06/17 04:00;RU26298;Eurdep;air;57.9;34.05;186.1;Russia;Óblast de Tver;Bologovsky District;Bologoye;Bologoe;0;0
 21/06/17 04:00;RU26389;Eurdep;air;57.13;33.12;207.8;Russia;Óblast de Tver;Ostashkovsky District;;Ostashkov;9;9
 21/06/17 04:00;RU26393;Eurdep;air;57.58;34.57;159.9;Russia;Óblast de Tver;gorod Vyshniy Volochek;Vyshni Volochok;Vyshni Volochek;9;9
 21/06/17 04:00;RU26499;Eurdep;air;56.5;34.93;178.5;Russia;;;;Staritsa;10;10
