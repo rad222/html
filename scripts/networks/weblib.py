@@ -109,16 +109,18 @@ def get_csv():
             try:
                 dfgr.reset_index(inplace=True)
                 dfgr.set_index(['id_station','date'], inplace=True)
-                dfold = pd.read_csv(file_name, parse_dates=['date'])
+                dfold = pd.read_csv(file_name, sep=";", parse_dates=['date']) 
                 dfold.set_index(['id_station','date'], inplace=True)
                 logger.info('  old: ' + str(dfold.shape))
-                dfgr = dfgr.combine_first(dfold)
+                dfgr = dfgr.combine_first(dfold) 
             except Exception as e:
                 logger.info('  Problem combining...' + str(e))
                 pass
             
-        dfgr.reset_index(inplace=True)
-        dfgr.drop_duplicates(subset='id_station').set_index(['id_station'], inplace=True)
+        dfgr.reset_index(inplace=True) 
+        #dfgr.drop_duplicates(subset='id_station').set_index(['id_station'], inplace=True)           
+        dfgr.drop_duplicates()
+
         #dfgr = dfgr[cols_web[1:]]
         logger.info('  com: ' + str(dfgr.shape))
         #order of columns

@@ -11,6 +11,9 @@ from datetime import datetime, timedelta
 from logging.handlers import RotatingFileHandler
 from bs4 import BeautifulSoup
 import time
+import re
+from datetime import datetime
+
 
 # encoding=utf8
 reload(sys)
@@ -181,7 +184,7 @@ class myClass(object):
                 urllib.urlretrieve(url, file_folder)
 
             #elevation
-            url2 = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=' + latlng + '&language=es'  
+            url2 = 'https://maps.googleapis.com/maps/api/geocode/json?latlng=' + latlng #+ '&language=es'  
             url_out2 = latlng + '.area'          
             file_folder2 = os.path.join('data_json/area/', url_out2)      
             if os.path.exists('data_json/area/'+url_out2) is False:
@@ -252,11 +255,77 @@ class RaHome(myClass):
 
         return datas, metas
 
+class GMC(myClass):
+
+    def get_data(self):
+        cols_data = ['date', 'id_station', 'value', 'value_max']
+        cols_metas = ['id_station', 'id_network', 'latitude', 'longitude', 'name', 'type', 'country', 'altitude', 'area_adm_1', 'area_adm_2', 'area_adm_3']
+        datas, metas = self.get_data_files()
+
+        if not datas:
+            logging.error('No data at all!')
+            return
+
+        path_data = os.path.join('gmc/data', 'day.csv')
+        path_meta = os.path.join('gmc/meta', 'meta.csv')
+        self.check_meta(metas, cols_metas, path_meta)
+        self.check_data(datas, cols_data, path_data)
+
+    def get_data_files(self):
+        #Greenwich Mean Time (GMT), UTC +0
+        network = 'GMC'
+        type = 'air'
+        datas = []
+        metas = []
+        format = '%Y-%m-%d %H:%M:%S'        
+        response = self.get_url('http://www.gmcmap.com/AJAX_load.asp?timeZone=0', timeout=30)
+        for enum, line in enumerate(response):         
+            date_str = self.find_between(line, 'Data uploaded on:', 'GMT').strip()
+            try:
+                date = datetime.strptime(date_str, format)
+            except:
+                pass
+            if date < (datetime.now() - timedelta(hours=48)):
+                #not old measurements
+                continue
+            else:
+                value = self.find_between(line, '<BR>', '&nbsp;uSv/h').split('<BR>')
+                if (len(value)>1) and not '-' in value[-1]:
+                    if ' ' in value[-1]:
+                        continue
+                    try:             
+                        value = float(value[-1].replace(',', '.'))*100
+                    except:
+                        pass
+                    try:
+                        id_str = self.find_between(line, 'href', ' target').split('ID=')[-1]                        
+                    except:
+                        pass
+                    if 'www.' in id_str:
+                        continue
+                    id = 'GMC_' + id_str                   
+                    lat, lon = line.split('Contact</a>')[-1].split(",")[1:3]
+                    metas.append([id, network, lat, lon, id, type, 0, -9999.0, 0, 0,0])  #There are not: country, altitude, area_adm_1, area_adm_2, area_adm_3
+                    cols = [date, id, value, -9999.0]
+                    datas.append(cols)
+                    
+        return datas, metas
+                    
+                    
+                    
+                    
+
 def main():
     print 'hola'
     rahome = RaHome()
     ans = rahome.get_data()
     return
 
+def test():
+    print 'hola'
+    gmc = GMC()
+    ans = gmc.get_data()
+    return
+
 if __name__ == "__main__":
-    main()
+    test()
