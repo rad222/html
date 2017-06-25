@@ -3,3 +3,4 @@ bower_components
 scripts/stations/inputs/
 scripts/stations/outputs/
 scripts/pywebcam/log/
+app/data/stations.db
