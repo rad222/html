@@ -1,0 +1,3 @@
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+22/06/17 14:22;RaHome_15227;RaHome;air;50.572578;8.704201;171.8;Alemania;Hesse;Distrito de Gießen;Gießen;Team Nick: hidden;8.0;8.0
+22/06/17 14:55;RaHome_14983;RaHome;air;46.166012;6.12329;;Suiza;Ginebra;Genève;Plan-les-Ouates;Team L\'Alliance Francophone Nick: Ousermaatre;13.0;13.0

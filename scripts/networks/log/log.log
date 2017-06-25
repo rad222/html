@@ -1,0 +1,72 @@
+2017-06-22 22:43:12,733 - INFO - saving web file: 201706220100.csv
+2017-06-22 22:43:12,733 - INFO -   new: (1, 13)
+2017-06-22 22:43:12,733 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,733 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,733 - INFO -   com: (1, 14)
+2017-06-22 22:43:12,750 - INFO - Skipping empty group for 2017-06-22 02:00:00
+2017-06-22 22:43:12,750 - INFO - saving web file: 201706220300.csv
+2017-06-22 22:43:12,750 - INFO -   new: (2, 13)
+2017-06-22 22:43:12,750 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,750 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,750 - INFO -   com: (2, 14)
+2017-06-22 22:43:12,765 - INFO - Skipping empty group for 2017-06-22 04:00:00
+2017-06-22 22:43:12,765 - INFO - saving web file: 201706220500.csv
+2017-06-22 22:43:12,765 - INFO -   new: (1, 13)
+2017-06-22 22:43:12,765 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,765 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,765 - INFO -   com: (1, 14)
+2017-06-22 22:43:12,780 - INFO - Skipping empty group for 2017-06-22 06:00:00
+2017-06-22 22:43:12,780 - INFO - Skipping empty group for 2017-06-22 07:00:00
+2017-06-22 22:43:12,780 - INFO - Skipping empty group for 2017-06-22 08:00:00
+2017-06-22 22:43:12,780 - INFO - Skipping empty group for 2017-06-22 09:00:00
+2017-06-22 22:43:12,780 - INFO - saving web file: 201706221000.csv
+2017-06-22 22:43:12,780 - INFO -   new: (1, 13)
+2017-06-22 22:43:12,780 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,780 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,796 - INFO -   com: (1, 14)
+2017-06-22 22:43:12,796 - INFO - saving web file: 201706221100.csv
+2017-06-22 22:43:12,796 - INFO -   new: (1, 13)
+2017-06-22 22:43:12,796 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,796 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,812 - INFO -   com: (1, 14)
+2017-06-22 22:43:12,812 - INFO - saving web file: 201706221200.csv
+2017-06-22 22:43:12,812 - INFO -   new: (2, 13)
+2017-06-22 22:43:12,812 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,812 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,812 - INFO -   com: (2, 14)
+2017-06-22 22:43:12,828 - INFO - saving web file: 201706221300.csv
+2017-06-22 22:43:12,828 - INFO -   new: (1, 13)
+2017-06-22 22:43:12,828 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,828 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,828 - INFO -   com: (1, 14)
+2017-06-22 22:43:12,842 - INFO - saving web file: 201706221400.csv
+2017-06-22 22:43:12,842 - INFO -   new: (2, 13)
+2017-06-22 22:43:12,842 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,842 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,842 - INFO -   com: (2, 14)
+2017-06-22 22:43:12,858 - INFO - Skipping empty group for 2017-06-22 15:00:00
+2017-06-22 22:43:12,858 - INFO - saving web file: 201706221600.csv
+2017-06-22 22:43:12,858 - INFO -   new: (1, 13)
+2017-06-22 22:43:12,858 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,858 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,858 - INFO -   com: (1, 14)
+2017-06-22 22:43:12,874 - INFO - saving web file: 201706221700.csv
+2017-06-22 22:43:12,874 - INFO -   new: (2, 13)
+2017-06-22 22:43:12,874 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,874 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,874 - INFO -   com: (2, 14)
+2017-06-22 22:43:12,890 - INFO - saving web file: 201706221800.csv
+2017-06-22 22:43:12,890 - INFO -   new: (6, 13)
+2017-06-22 22:43:12,890 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,890 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,905 - INFO -   com: (6, 14)
+2017-06-22 22:43:12,921 - INFO - saving web file: 201706221900.csv
+2017-06-22 22:43:12,921 - INFO -   new: (9, 13)
+2017-06-22 22:43:12,921 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,921 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,921 - INFO -   com: (9, 14)
+2017-06-22 22:43:12,937 - INFO - saving web file: 201706222000.csv
+2017-06-22 22:43:12,937 - INFO -   new: (178, 13)
+2017-06-22 22:43:12,937 - INFO -   Combining with previous web file
+2017-06-22 22:43:12,937 - INFO -   Problem combining...'date' is not in list
+2017-06-22 22:43:12,951 - INFO -   com: (178, 14)
