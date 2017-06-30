@@ -22,6 +22,7 @@ GUID_CAM_22^-5.064^41.536^http://infocar.dgt.es/etraffic/data/camaras/22.jpg^DGT
 GUID_CAM_23^-5.199^41.6702^http://infocar.dgt.es/etraffic/data/camaras/23.jpg^DGT
 GUID_CAM_24^-5.2289^41.7043^http://infocar.dgt.es/etraffic/data/camaras/24.jpg^DGT
 GUID_CAM_25^-5.4225^41.8562^http://infocar.dgt.es/etraffic/data/camaras/25.jpg^DGT
+GUID_CAM_26^-5.616^41.9809^http://infocar.dgt.es/etraffic/data/camaras/26.jpg^DGT
 GUID_CAM_27^-5.6665^42.0167^http://infocar.dgt.es/etraffic/data/camaras/27.jpg^DGT
 GUID_CAM_28^-5.6806^42.0581^http://infocar.dgt.es/etraffic/data/camaras/28.jpg^DGT
 GUID_CAM_29^-5.8626^42.2716^http://infocar.dgt.es/etraffic/data/camaras/29.jpg^DGT
@@ -143,6 +144,7 @@ GUID_CAM_153^-0.9670889^38.122784^http://infocar.dgt.es/etraffic/data/camaras/15
 GUID_CAM_154^-1.0591389^38.09419^http://infocar.dgt.es/etraffic/data/camaras/154.jpg^DGT
 GUID_CAM_155^-1.1887167^37.999767^http://infocar.dgt.es/etraffic/data/camaras/155.jpg^DGT
 GUID_CAM_156^-1.1204473^38.049145^http://infocar.dgt.es/etraffic/data/camaras/156.jpg^DGT
+GUID_CAM_157^-1.1550806^38.03036^http://infocar.dgt.es/etraffic/data/camaras/157.jpg^DGT
 GUID_CAM_158^-0.5446111^38.339863^http://infocar.dgt.es/etraffic/data/camaras/158.jpg^DGT
 GUID_CAM_159^-0.5766639^38.306896^http://infocar.dgt.es/etraffic/data/camaras/159.jpg^DGT
 GUID_CAM_167^-0.34130555^39.4287^http://infocar.dgt.es/etraffic/data/camaras/167.jpg^DGT
@@ -223,6 +225,7 @@ GUID_CAM_244^-4.44849^36.8163^http://infocar.dgt.es/etraffic/data/camaras/244.jp
 GUID_CAM_245^-4.44347^36.8542^http://infocar.dgt.es/etraffic/data/camaras/245.jpg^DGT
 GUID_CAM_246^-4.43576^36.8652^http://infocar.dgt.es/etraffic/data/camaras/246.jpg^DGT
 GUID_CAM_247^-4.43325^36.874^http://infocar.dgt.es/etraffic/data/camaras/247.jpg^DGT
+GUID_CAM_248^-4.42442^36.8807^http://infocar.dgt.es/etraffic/data/camaras/248.jpg^DGT
 GUID_CAM_249^-4.42102^36.8903^http://infocar.dgt.es/etraffic/data/camaras/249.jpg^DGT
 GUID_CAM_250^-4.43439^36.8984^http://infocar.dgt.es/etraffic/data/camaras/250.jpg^DGT
 GUID_CAM_251^-4.44432^36.9115^http://infocar.dgt.es/etraffic/data/camaras/251.jpg^DGT
@@ -901,12 +904,12 @@ GUID_CAM_1221^-0.12234722^39.865044^http://infocar.dgt.es/etraffic/data/camaras/
 GUID_CAM_1222^-0.16668889^39.81595^http://infocar.dgt.es/etraffic/data/camaras/1222.jpg^DGT
 GUID_CAM_1223^-0.15776667^39.811275^http://infocar.dgt.es/etraffic/data/camaras/1223.jpg^DGT
 GUID_CAM_1224^-0.2651889^39.70109^http://infocar.dgt.es/etraffic/data/camaras/1224.jpg^DGT
+GUID_CAM_1225^-0.3006028^39.672894^http://infocar.dgt.es/etraffic/data/camaras/1225.jpg^DGT
 GUID_CAM_1226^-0.30060834^39.648697^http://infocar.dgt.es/etraffic/data/camaras/1226.jpg^DGT
 GUID_CAM_1228^-1.1653^38.019524^http://infocar.dgt.es/etraffic/data/camaras/1228.jpg^DGT
 GUID_CAM_1229^-1.2295694^38.0004^http://infocar.dgt.es/etraffic/data/camaras/1229.jpg^DGT
 GUID_CAM_1230^-1.2455611^37.980583^http://infocar.dgt.es/etraffic/data/camaras/1230.jpg^DGT
 GUID_CAM_1232^-1.2579445^37.95133^http://infocar.dgt.es/etraffic/data/camaras/1232.jpg^DGT
-GUID_CAM_1239^-1.3986695^37.859783^http://infocar.dgt.es/etraffic/data/camaras/1239.jpg^DGT
 GUID_CAM_1246^-1.1674^38.006535^http://infocar.dgt.es/etraffic/data/camaras/1246.jpg^DGT
 GUID_CAM_1251^-5.6823^43.5328^http://infocar.dgt.es/etraffic/data/camaras/1251.jpg^DGT
 GUID_CAM_1252^-5.636^42.156^http://infocar.dgt.es/etraffic/data/camaras/1252.jpg^DGT
@@ -1054,7 +1057,6 @@ GUID_CAM_1464^-0.6536389^38.350803^http://infocar.dgt.es/etraffic/data/camaras/1
 GUID_CAM_1466^-0.67365277^38.298096^http://infocar.dgt.es/etraffic/data/camaras/1466.jpg^DGT
 GUID_CAM_1467^-0.3343222^39.69262^http://infocar.dgt.es/etraffic/data/camaras/1467.jpg^DGT
 GUID_CAM_1468^-0.3891361^39.7665^http://infocar.dgt.es/etraffic/data/camaras/1468.jpg^DGT
-GUID_CAM_1470^-0.32966667^39.685677^http://infocar.dgt.es/etraffic/data/camaras/1470.jpg^DGT
 GUID_CAM_1471^-0.30873612^39.535408^http://infocar.dgt.es/etraffic/data/camaras/1471.jpg^DGT
 GUID_CAM_1472^-0.30032223^39.62945^http://infocar.dgt.es/etraffic/data/camaras/1472.jpg^DGT
 GUID_CAM_1473^-0.41580278^39.458275^http://infocar.dgt.es/etraffic/data/camaras/1473.jpg^DGT
@@ -1278,6 +1280,7 @@ ESICA3500000135360B^-15.6147222222^27.9997222222^http://www.meteoclimatic.net/we
 ESCAT1700000017528A^1.90638888889^42.4433333333^http://www.meteoclimatic.net/webcams/g_ESCAT1700000017528A^metcli
 ESPVA0300000003801B^-0.498611111111^38.6758333333^http://www.meteoclimatic.net/webcams/g_ESPVA0300000003801B^metcli
 ESCAT1700000017405A^2.41555555556^41.8688888889^http://www.meteoclimatic.net/webcams/g_ESCAT1700000017405A^metcli
+ESMAD2800000028814A^-3.46166666667^40.5475^http://www.meteoclimatic.net/webcams/g_ESMAD2800000028814A^metcli
 ESCAT0800000008450A^2.40583333333^41.6425^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008450A^metcli
 ESCAT2500000025518A^0.990277777778^42.225^http://www.meteoclimatic.net/webcams/g_ESCAT2500000025518A^metcli
 ESCAT0800000008506A^2.28555555556^41.9275^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008506A^metcli
@@ -1309,7 +1312,6 @@ ESMAD2800000028600A^-4.01805555556^40.2913888889^http://www.meteoclimatic.net/we
 ESCAT0800000008330B^2.36611111111^41.4922222222^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008330B^metcli
 ESMAD2800000028028B^-3.66305555556^40.4375^http://www.meteoclimatic.net/webcams/g_ESMAD2800000028028B^metcli
 ESCAT4300000043720F^1.59444444444^41.2658333333^http://www.meteoclimatic.net/webcams/g_ESCAT4300000043720F^metcli
-ESCAT0800000008330E^2.37222222222^41.4944444444^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008330E^metcli
 ESPVA0300000003730B^0.18^38.7936111111^http://www.meteoclimatic.net/webcams/g_ESPVA0300000003730B^metcli
 ESCAT1700000017400A^2.56083333333^41.7488888889^http://www.meteoclimatic.net/webcams/g_ESCAT1700000017400A^metcli
 ESCAT0800000008035A^2.1175^41.4208333333^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008035A^metcli
@@ -1321,8 +1323,8 @@ ESPVA4600000046680B^-0.436666666667^39.1886111111^http://www.meteoclimatic.net/w
 ESCLM1600000016214A^-2.01583333333^39.5533333333^http://www.meteoclimatic.net/webcams/g_ESCLM1600000016214A^metcli
 ESCAT0800000008912A^2.2475^41.4458333333^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008912A^metcli
 ESAND1800000018817A^-2.66111111111^37.6936111111^http://www.meteoclimatic.net/webcams/g_ESAND1800000018817A^metcli
-ESEUS0100000001430A^-2.88555555556^42.8669444444^http://www.meteoclimatic.net/webcams/g_ESEUS0100000001430A^metcli
 ESPVA0300000003802D^-0.379166666667^38.7533333333^http://www.meteoclimatic.net/webcams/g_ESPVA0300000003802D^metcli
+ESCLM1600000016317B^-1.59166666667^40.21^http://www.meteoclimatic.net/webcams/g_ESCLM1600000016317B^metcli
 ESCAT0800000008830D^2.03305555556^41.3469444444^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008830D^metcli
 ESPVA0300000003801D^-0.472222222222^38.6966666667^http://www.meteoclimatic.net/webcams/g_ESPVA0300000003801D^metcli
 ESCAT0800000008470A^2.48055555556^41.6833333333^http://www.meteoclimatic.net/webcams/g_ESCAT0800000008470A^metcli
@@ -1576,6 +1578,7 @@ gencat_saint_joan_lerm^1.286978^42.417716^http://www.santjoandelerm.com/camara/S
 tiempovistazo_3691347^-3.470242^36.919189^http://www.spanishhighs.co.uk/capture2.jpg^tiempovistazo
 tiempovistazo_42241973^1.973708^42.244297^http://webcam.lillet.net/captura/foto.jpg^tiempovistazo
 tiempovistazo_42221945^1.94575^42.227222^http://webcam.lillet.net/falgars/falgars.jpg^tiempovistazo
+tiempovistazo_4271795^-7.955132^42.711121^http://meteo-rodeiro.webcindario.com/webcamimage.jpg^tiempovistazo
 tiempovistazo_3863115^-1.150024^38.633331^http://www.meteoyecla.com/webcam.jpg^tiempovistazo
 tiempovistazo_41812100^2.100631^41.810452^http://www.elmoianes.net/images/capture1.jpg^tiempovistazo
 tiempovistazo_3730611^-6.113951^37.309032^http://www.elbribon.com:82/axis-cgi/jpg/image.cgi?resolution4CIF&amp;camera1^tiempovistazo
@@ -1588,6 +1591,7 @@ tiempovistazo_42391921^1.921036^42.398533^http://www.meteoqueixans.com/cam/cam03
 tiempovistazo_4326406^-4.067591^43.2626^http://www.valledebuelnafm.com/images/webcam/vbfm00.jpg^tiempovistazo
 tiempovistazo_4035070^-0.7000405^40.3576761^http://estacion.meteoalcaladelaselva.com/web_cam/devisionnetwork.jpg^tiempovistazo
 tiempovistazo_4259556^-5.566925^42.598911^http://www3.leon.es/webcam/catedral.jpg^tiempovistazo
+tiempovistazo_4302505^-5.0509^43.0247648^http://saucelle.quickddns.com:9989/^tiempovistazo
 tiempovistazo_4278484^-4.844488^42.789787^http://80.38.183.149:2000/jpg/image.jpg^tiempovistazo
 tiempovistazo_4165087^-0.878307^41.656017^http://webcam.abaco-digital.es/pilar/image2.jpg^tiempovistazo
 tiempovistazo_4165088^-0.881621^41.657677^http://webcam.abaco-digital.es/zuda/image2.jpg^tiempovistazo
@@ -1607,6 +1611,7 @@ tiempovistazo_42600522^0.522537^42.603027^http://www.barrabes.com/actualidad/web
 tiempovistazo_4233370^-3.702181^42.338203^http://37.35.189.15:8080/axis-cgi/jpg/image.cgi?resolution640x480&amp;clock1&amp;date1^tiempovistazo
 tiempovistazo_4305480^-4.800307^43.054066^http://www.sanglorio.net/Webcam/webcam.jpg^tiempovistazo
 tiempovistazo_4293357^-3.572788^42.938282^http://ayunvillarcayo.cctvuser.com:9000/jpg/1/image.jpg^tiempovistazo
+tiempovistazo_4278485^-4.856815^42.788944^http://80.32.179.162:8080/goform/capture^tiempovistazo
 tiempovistazo_41331362^1.362197^41.331356^http://www.turismet.com/santesaj/M5/current5.jpg^tiempovistazo
 tiempovistazo_4150500^-5.000281^41.500801^http://80.28.217.156:90/axis-cgi/jpg/image.cgi?resolution640x480^tiempovistazo
 tiempovistazo_38931236^1.236742^38.939262^http://213.96.90.110:8080/axis-cgi/jpg/image.cgi?resolution640x480^tiempovistazo
@@ -1632,6 +1637,7 @@ tiempovistazo_4215319^-3.1975204^42.1515112^http://riocavadodelasierra.esy.es/we
 tiempovistazo_4299641^-6.411488^42.993614^http://www.dipuleon.es/img/leitariegos/webcam/Base.jpg^tiempovistazo
 tiempovistazo_41582577^2.577453^41.58709^http://www.tempscanet.cat/cam/canetdemarnord.jpg^tiempovistazo
 tiempovistazo_41331111^1.111465^41.337872^http://www.meteoprades.net/img/meteoprades_rojals_export.jpg^tiempovistazo
+tiempovistazo_3797067^-0.677703^37.97435^http://www.torrelamata.com/webcam/image.jpg^tiempovistazo
 tiempovistazo_4164472^-4.7259705^41.648611^http://www10.ava.es/infotrafico/rlt/images/camara07.jpg^tiempovistazo
 tiempovistazo_3636618^-6.180534^36.369328^http://159.147.212.176:8085/axis-cgi/jpg/image.cgi?resolution640x480^tiempovistazo
 tiempovistazo_4329197^-1.979105^43.294685^http://www.eitb.eus/multimedia/images/webcams/wcam2.jpg^tiempovistazo
@@ -1645,6 +1651,7 @@ tiempovistazo_3660453^-4.531297^36.601334^http://www.meteobenalmadena.com/jpgweb
 tiempovistazo_41300987^0.9876645^41.3095979^http://www.meteoprades.net/img/meteoprades_pradesmajor_export.jpg^tiempovistazo
 tiempovistazo_3678426^-4.261166^36.787155^http://www.aud.dk/images/webcam/casakofoed.jpg^tiempovistazo
 tiempovistazo_42441906^1.906182^42.443169^http://88.26.181.76:85/jpg/file.jpg^tiempovistazo
+tiempovistazo_41161464^1.464229^41.169933^http://80.32.75.72:85/jpg/1/image.jpg^tiempovistazo
 tiempovistazo_4026446^-4.462767^40.265079^http://www.naturameteo.es/meteo/foto.jpg^tiempovistazo
 tiempovistazo_3743604^-6.047821^37.435619^http://www.meteowebcams.com/webcamssevilla1.jpg^tiempovistazo
 tiempovistazo_42243194^3.194983^42.247936^http://www.ampuriabrava.com/webcam/casacaliente.jpg^tiempovistazo
@@ -1669,7 +1676,6 @@ tiempovistazo_41862284^2.284754^41.868034^http://pereespinet.net/camara/Taradell
 tiempovistazo_4030632^-6.327771^40.303314^http://meteopino.es/cam_1.jpg^tiempovistazo
 tiempovistazo_3886108^-1.088794^38.864731^http://www.tvalmansa.es/images/meteoalmansa/foto.jpg^tiempovistazo
 tiempovistazo_4286269^-2.696119^42.866867^http://meteogasteiz.dyndns.org:1025/record/current.jpg^tiempovistazo
-tiempovistazo_4199568^-5.683343^41.999989^http://cienciascolegiovirgendelavega.es/camara11/capture11.jpg^tiempovistazo
 tiempovistazo_3790300^-3.00328^37.908398^http://www.turismoencazorla.com/webcam/imagen/cazorla.jpg^tiempovistazo
 tiempovistazo_4040144^-1.443442^40.407803^http://212.170.22.153:8080/axis-cgi/jpg/image.cgi?resolution640x480^tiempovistazo
 tiempovistazo_42590984^0.98465^42.596645^http://www.amitges.com/webcam/image.jpg^tiempovistazo
@@ -1678,7 +1684,6 @@ tiempovistazo_41492367^2.367253^41.490482^http://portpremia.axiscam.net:8030/axi
 tiempovistazo_41560528^0.528057^41.564148^http://www.meteoalcarras.com/webcam/cam_1.jpg^tiempovistazo
 tiempovistazo_42500800^0.800736^42.50351^http://www.cdavallboi.cat/edumet/webcam/vista_m.jpg^tiempovistazo
 tiempovistazo_42182488^2.488339^42.187702^http://meteolot.com/mobotix/image.jpg^tiempovistazo
-tiempovistazo_41501186^1.186754^41.503536^http://www.bellcam.cat/bcr/recent1.jpg^tiempovistazo
 tiempovistazo_41552461^2.46141^41.5536^http://www.tempsmataro.net/images/kabcam.jpg^tiempovistazo
 tiempovistazo_40990922^0.922776^40.992489^http://meteohospitalet.zapto.org/meteo/webcamimage.jpg^tiempovistazo
 tiempovistazo_42440068^0.0683695^42.4448245^http://webcam.boltana.net/img/lcdb-webcam_1.jpg^tiempovistazo
@@ -1691,7 +1696,6 @@ tiempovistazo_41391444^1.444702^41.396385^http://www.meteoquerol.com/image.jpg^t
 tiempovistazo_4335584^-5.848224^43.359417^http://85.152.47.134:5253/cam_1.jpg^tiempovistazo
 tiempovistazo_42671219^1.219273^42.677898^http://tavascan.net/wp-content/uploads/coses-webcam/webcam.jpg^tiempovistazo
 tiempovistazo_41281245^1.245886^41.284126^http://www.turismet.com/webcams/valls/current2.jpg^tiempovistazo
-tiempovistazo_41341224^1.224546^41.34882^http://www.turismet.com/M1/current.jpg^tiempovistazo
 tiempovistazo_4281541^-5.410616^42.812302^http://climajpc.sytes.net/sopena/foto.jpg^tiempovistazo
 tiempovistazo_3852016^-0.164725^38.523884^http://www.apartmentsspain.co.uk/webcam1.jpg^tiempovistazo
 tiempovistazo_3692417^-4.173743^36.924355^http://www.cantueso.net/cantueso.jpg^tiempovistazo
@@ -1732,17 +1736,15 @@ tiempovistazo_41632358^2.3580399^41.6369112^http://jdservervpn.sytes.net:9003/jp
 tiempovistazo_4202375^-3.756509^42.026337^http://www.casabrigante.com/webcam/webcam.jpg^tiempovistazo
 tiempovistazo_4332197^-1.972738^43.326202^http://www.lazurriola.com/img/zurri00001.jpg^tiempovistazo
 tiempovistazo_2845164^-16.465101^28.451017^http://www.faisan-azul-teneriffa.de/faisan/camera/VALLE.jpg^tiempovistazo
+tiempovistazo_2892136^-13.6504094^28.9204598^http://www.lanzamedic.com/images/webcam/PUERTODELCARMEN.jpg^tiempovistazo
 tiempovistazo_39792691^2.691532^39.797962^http://www.clubnauticsoller.es/imag/webcam.jpg^tiempovistazo
 tiempovistazo_42361191^1.191625^42.369759^http://wifillag.mooo.com/cam/camaranova.jpg^tiempovistazo
-tiempovistazo_2814154^-15.432884^28.148216^http://webcampuntilla.dyndns-ip.com:8080/axis-cgi/jpg/image.cgi?resolution450x330&amp;compression50^tiempovistazo
 tiempovistazo_42331940^1.940444^42.335148^http://media.turismefgc.cat/lamolina/tubbing.jpg^tiempovistazo
 tiempovistazo_42341915^1.915011^42.345715^http://www.masella.com/cam1/platmp.jpg^tiempovistazo
-tiempovistazo_4303526^-5.2674723^43.0319921^http://meteoporma.es/ipcamera/webcam/webcamdatos.jpg^tiempovistazo
 tiempovistazo_41610854^0.8540154^41.6116482^http://146.66.244.93:85/jpg/image.jpg^tiempovistazo
 tiempovistazo_4045385^-3.8598061^40.4535316^http://www.viewonmadrid.com/current.jpg^tiempovistazo
 tiempovistazo_42550467^0.467026^42.559528^http://arnaldet.com/webcam/arnaldet.jpg^tiempovistazo
 tiempovistazo_3674515^-5.157781^36.748596^http://www.rondatiempo.es/photo.jpg^tiempovistazo
-tiempovistazo_3699277^-2.774418^36.998203^http://www.aytopadules.com/capturas/foscam_sierra_nevada.jpg^tiempovistazo
 tiempovistazo_3882059^-0.598412^38.823086^http://turiscam.gva.es/webcams/ontinyent.jpg^tiempovistazo
 tiempovistazo_4279426^-4.26218^42.793335^http://www.radioaguilar.com/images/stories/wcam2/image01.jpg^tiempovistazo
 tiempovistazo_41572509^2.509303^41.578472^http://www.jdserver.es/mar.jpg^tiempovistazo
@@ -1763,7 +1765,6 @@ tiempovistazo_4354564^-5.643432^43.5411^http://85.152.41.31:8008/axis-cgi/jpg/im
 tiempovistazo_41310987^0.9875089^41.312206^http://www.meteoprades.net/img/meteoprades_prades_export.jpg^tiempovistazo
 tiempovistazo_2845164^-16.450834^28.455557^http://www.meteolamatanza.es/webcams/camplug/cam2.jpg^tiempovistazo
 tiempovistazo_4035369^-3.693997^40.358704^http://www.meteovillaverde.es/webcam.jpg^tiempovistazo
-tiempovistazo_41672783^2.783897^41.678322^http://meteoblanes.molner.com/currentbl.jpg^tiempovistazo
 tiempovistazo_40880804^0.804790999999^40.883335^http://telecentre.ametllamar.cat:8000/jpg/image.jpg?date1&amp;clock1^tiempovistazo
 tiempovistazo_3818056^-0.562652^38.186775^http://158.255.239.139:8088/jpg/image.jpg^tiempovistazo
 tiempovistazo_2845163^-16.365583^28.451618^http://www.meteolaesperanza.es/webcam2.jpg^tiempovistazo
@@ -1797,7 +1798,6 @@ tiempovistazo_42222614^2.6142526^42.2263684^http://tapioles.eu:85/jpg/image.jpg^
 tiempovistazo_3870046^-0.466543399999999^38.7013029^http://5.40.185.20/actual_al.jpg^tiempovistazo
 tiempovistazo_3874042^-0.4266322^38.7404943^http://5.40.185.20/actual_1.jpg^tiempovistazo
 tiempovistazo_41581652^1.6525572^41.5868328^http://83.175.230.49:35/jpg/image.jpg^tiempovistazo
-tiempovistazo_4276329^-3.2946432^42.7624133^http://www.solarcam.fr/Meteo_Frias/last.jpg^tiempovistazo
 tiempovistazo_41681406^1.4068615^41.6812698^http://lasegarra.axiscam.net:85/jpg/image.jpg^tiempovistazo
 tiempovistazo_4035517^-5.175472^40.3554^http://www.restaurantebarlabodeguilla.com/camara/gredos.jpg^tiempovistazo
 tiempovistazo_42551534^1.534621^42.55611^http://www.ordinoesviu.com/cam2_webcams.jpg^tiempovistazo
@@ -1813,17 +1813,17 @@ tiempovistazo_4303389^-3.894224^43.038857^http://restauranteconchita.com/camara/
 tiempovistazo_3870047^-0.473745^38.707615^http://www.jdserver.es/sinc.jpg^tiempovistazo
 tiempovistazo_4090338^-3.38741^40.908068^http://valdesierra.webcindario.com/valde.jpg^tiempovistazo
 tiempovistazo_3861065^-0.657495^38.61586^http://www.meteonil.es/OnilCP.jpg^tiempovistazo
-tiempovistazo_3651499^-4.9943215^36.5134562^http://api.deckchair.com/v1/viewer/camera/5739ab1b76495a616dc9b1d8?width960&amp;height540&amp;resizeModefill&amp;gravityAuto&amp;quality90&amp;panelModefalse&amp;formatjpg^tiempovistazo
+tiempovistazo_3651499^-4.9943215^36.5134562^http://api.deckchair.com/v1/viewer/camera/5739ab1b76495a616dc9b1d8?width960&amp;height540&amp;resizeModefill&amp;gravityAuto&amp;quality90&amp;panelModefalse^tiempovistazo
 tiempovistazo_41381081^1.0818448^41.3808076^http://www.meteoprades.net/img/meteoprades_pobletmonestir_export.jpg^tiempovistazo
 tiempovistazo_3718360^-3.601456^37.182762^http://www.movilidadgranada.com/images/camaras/3_15.jpg^tiempovistazo
 tiempovistazo_3717359^-3.598366^37.177055^http://www.movilidadgranada.com/images/camaras/4_16.jpg^tiempovistazo
 tiempovistazo_4331201^-2.0109701^43.3129696^http://havenida.no-ip.org:8081/axis-cgi/jpg/image.cgi?resolution640x480^tiempovistazo
 tiempovistazo_41241563^1.5633524^41.2437559^http://87.111.199.123:85/jpg/image.jpg^tiempovistazo
 tiempovistazo_3870046^-0.4624611^38.7082658^http://www.jdserver.es/alcoi1.jpg^tiempovistazo
+tiempovistazo_39572390^2.390572^39.577396^http://www.flexas.es/flexas010.jpg^tiempovistazo
 tiempovistazo_4028277^-2.7733505^40.2894247^http://meteojabalera.webcindario.com/out.jpg^tiempovistazo
 tiempovistazo_41371264^1.264796^41.371475^http://www.turismet.com/webcams/figuerola/current.jpg^tiempovistazo
 tiempovistazo_2876179^-17.9822561^28.7635574^http://deffner.es/webcam/puntagorda/stream.jpg^tiempovistazo
-tiempovistazo_42143053^3.053309^42.143639^http://viladamat.axiscam.net:85/jpg/image.jpg^tiempovistazo
 tiempovistazo_3936045^-0.456719^39.366749^http://quiquepl51.dyndns.org:51515/jpg/image.jpg^tiempovistazo
 tiempovistazo_4289038^-0.3881854^42.8978648^http://films.viewsurf.com/artouste01/p1/media.jpg^tiempovistazo
 tiempovistazo_41161087^1.0873944^41.1669076^http://www.webcamturistica.com/panell/cams/reus02/990_actual.jpg^tiempovistazo
@@ -1877,6 +1877,7 @@ tiempovistazo_39532566^2.566863^39.531681^http://livecam-pro.com/fileadmin/templ
 tiempovistazo_42461785^1.785962^42.464355^http://www.guiesmeranges.com/camara-refugio/image.jpg^tiempovistazo
 tiempovistazo_39703461^3.461136^39.709156^http://livecam-pro.com/fileadmin/templates/assets/_pics/018_000M.jpg^tiempovistazo
 tiempovistazo_39733274^3.274505^39.731853^http://livecam-pro.com/fileadmin/templates/assets/_pics/016_000M.jpg^tiempovistazo
+tiempovistazo_39713456^3.456488^39.719604^http://livecam-pro.com/fileadmin/templates/assets/_pics/020_000M.jpg^tiempovistazo
 tiempovistazo_41311174^1.174738^41.315914^http://www.meteoprades.net/img/meteoprades_lariba_export.jpg^tiempovistazo
 tiempovistazo_2865177^-17.760601^28.652111^http://deffner.es/webcam/cancajos/stream.jpg^tiempovistazo
 tiempovistazo_3722254^-2.546092^37.223114^http://150.214.222.103/axis-cgi/jpg/image.cgi?resolution1024x768&amp;compression30^tiempovistazo
@@ -1911,6 +1912,7 @@ tiempovistazo_4277035^-0.355822^42.778046^http://isaro.com/img/camara/foto2.jpg^
 tiempovistazo_42590334^0.334504^42.590752^http://www.baldechistau.net/camaras/chisten000.jpg^tiempovistazo
 tiempovistazo_42550257^0.257868^42.554359^http://www.baldechistau.net/camaras/saravillo000.jpg^tiempovistazo
 tiempovistazo_42343201^3.201852^42.34193^http://217.126.89.102:8020/jpg/image.jpg^tiempovistazo
+tiempovistazo_2886138^-13.8302006^28.864515^http://www.lanzamedic.com/images/webcam/PLAYABLANCA.jpg^tiempovistazo
 tiempovistazo_3897334^-3.34199^38.974976^http://www.meteomembrilla.es/ciel0.jpg^tiempovistazo
 tiempovistazo_41372188^2.188865^41.37339^http://lasantasurfsitges.es/webcam/cam-bcn000M.jpg^tiempovistazo
 tiempovistazo_3927260^-2.6066351^39.2708819^http://webcam.meteovillarrobledo.com/villarrobledo_1.jpg^tiempovistazo
@@ -1922,12 +1924,13 @@ tiempovistazo_42243204^3.204546^42.241688^http://www.ampuriabrava.com/webcam/pla
 tiempovistazo_41281013^1.013317^41.289337^http://www.meteoprades.net/img/meteoprades_picorandan_export.jpg^tiempovistazo
 tiempovistazo_39593384^3.384604^39.599594^http://www.balearsmeteo.com/bahia_cala_millor/gw/webcam.png^tiempovistazo
 tiempovistazo_38700161^0.161995^38.708797^http://www.hubertuhl.de/WebcamCumbre.jpg^tiempovistazo
+tiempovistazo_39642779^2.779444^39.64362^http://balearsmeteo.com/santa_maria/gw/webcam.jpg^tiempovistazo
 tiempovistazo_3740215^-2.152146^37.405579^http://www.astrosurf.com/maestre/webcam/cam.jpg^tiempovistazo
 tiempovistazo_4311158^-1.581366^43.11248^http://www.valledebaztan.com/webcam/jauregia.jpg^tiempovistazo
 tiempovistazo_4042025^-0.258104^40.427727^http://www.ajuntamentdevilafranca.es/novaweb/eltemps/Widget/Webc2.jpg^tiempovistazo
 tiempovistazo_4055482^-4.822639^40.554863^http://mironcillo.info/mironcillo.jpg^tiempovistazo
+tiempovistazo_2899134^-13.4916656^28.9966903^http://www.lanzamedic.com/images/webcam/panoramic-view-playa-blanca.jpg^tiempovistazo
 tiempovistazo_41913206^3.206715^41.917328^http://www.tamariu.eu/costabrava-tamariu.jpg^tiempovistazo
-tiempovistazo_41912190^2.190109^41.912632^http://www.scxman.com/camara/riu1er.jpg^tiempovistazo
 tiempovistazo_4346378^-3.789511^43.462864^http://livecam-pro.com/fileadmin/templates/assets/_pics/009_000M.jpg^tiempovistazo
 tiempovistazo_4041450^-4.504521^40.415318^http://eltiemblo.es/meteo/foto.jpg^tiempovistazo
 tiempovistazo_4294348^-3.483031^42.944908^http://www.zunegas.com/snapshot.jpg^tiempovistazo
@@ -1950,6 +1953,8 @@ tiempovistazo_3679389^-3.8982609^36.7925315^http://www.frigiliana.es/wc/wc.jpg^t
 tiempovistazo_41422137^2.1376991^41.4270677^http://www.santgenismeteo.org/weewx/webcam/webcam.jpg^tiempovistazo
 tiempovistazo_42102779^2.779761^42.1039061^http://meteoporqueres.com/upload/webcam/webcam.jpg^tiempovistazo
 tiempovistazo_42152444^2.4440396^42.1522251^http://meteoporqueres.com/upload/Mallol/mllcam.jpg^tiempovistazo
+tiempovistazo_39592693^2.6935279^39.5995876^http://www.balearsmeteo.com/pont_inca/gw/webcam.jpg^tiempovistazo
+tiempovistazo_39563085^3.0856428^39.5660588^http://www.balearsmeteo.com/vilafranca/gw/webcam.jpg^tiempovistazo
 tiempovistazo_3649480^-4.8094475^36.4982697^http://marbella365.one/2webcam/Marbella1_000.jpg^tiempovistazo
 tiempovistazo_4271029^-0.2992916^42.7194145^http://casaescolano.com/camara/Webcam000M.jpg^tiempovistazo
 tiempovistazo_38700125^0.1254711^38.707034^http://185.6.6.98:5002/axis-cgi/jpg/image.cgi?resolution1024x768^tiempovistazo
@@ -2181,7 +2186,7 @@ munimadrid_3676^-3.77648916927^40.3748481454^http://informo.munimadrid.es/inform
 munimadrid_3692^-3.71212517244^40.3851229554^http://informo.munimadrid.es/informo/Camaras/Camara00235.jpg^munimadrid
 munimadrid_3708^-3.71346296015^40.4149435113^http://informo.munimadrid.es/informo/Camaras/Camara00236.jpg^munimadrid
 munimadrid_3724^-3.67657138724^40.472862849^http://informo.munimadrid.es/informo/Camaras/Camara00237.jpg^munimadrid
-munimadrid_3740^-3.6203319711^40.3967398867^http://informo.munimadrid.es/informo/Camaras/Camara00151.jpg^munimadrid
+munimadrid_3740^-3.6701582614^40.4294595234^http://informo.munimadrid.es/informo/Camaras/Camara00151.jpg^munimadrid
 munimadrid_3756^-3.68833688201^40.3824416227^http://informo.munimadrid.es/informo/Camaras/Camara00238.jpg^munimadrid
 munimadrid_3772^-3.68534471467^40.5073268568^http://informo.munimadrid.es/informo/Camaras/Camara00240.jpg^munimadrid
 munimadrid_3788^-3.66740456741^40.3974126027^http://informo.munimadrid.es/informo/Camaras/Camara00239.jpg^munimadrid
@@ -2193,4 +2198,4 @@ munimadrid_3868^-3.6863722511^40.5172542996^http://informo.munimadrid.es/informo
 munimadrid_3884^-3.77921575902^40.4628904176^http://informo.munimadrid.es/informo/Camaras/Camara00248.jpg^munimadrid
 munimadrid_3900^-3.771418577^40.393820008^http://informo.munimadrid.es/informo/Camaras/Camara00247.jpg^munimadrid
 munimadrid_3916^-3.67968247896^40.3717514333^http://informo.munimadrid.es/informo/Camaras/Camara00255.jpg^munimadrid
-munimadrid_3932^-3.61603109313^40.4634694797^http://informo.munimadrid.es/informo/Camaras/Camara00256.jpg^munimadrid
+munimadrid_3932^-3.65582099062^40.4320905055^http://informo.munimadrid.es/informo/Camaras/Camara00256.jpg^munimadrid
