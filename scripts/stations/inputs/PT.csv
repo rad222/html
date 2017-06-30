@@ -1,14 +1,14 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-29/06/17 12:00;PT0101;Eurdep;air;38.76;-9.13;73.0;Portugal;Distrito de Lisboa;Lisboa;Lisboa;Lisboa;10.3;10.6
-29/06/17 12:00;PT0102;Eurdep;air;37.95;-8.84;88.3;Portugal;Distrito de Setúbal;Sines;Sines;SINES;8.7;9.0
-29/06/17 12:00;PT0103;Eurdep;air;37.04;-7.95;10.1;Portugal;Distrito de Faro;Faro;Faro;FARO;7.8;8.0
-29/06/17 12:00;PT0104;Eurdep;air;38.02;-7.87;254.3;Portugal;Distrito de Beja;Beja;Beja;BEJA;5.6;5.7
-29/06/17 12:00;PT0105;Eurdep;air;39.29;-7.42;537.7;Portugal;Distrito de Portalegre;Portalegre;Portalegre;PORTALEGRE;16.1;16.3
-29/06/17 12:00;PT0106;Eurdep;air;39.84;-7.48;377.0;Portugal;Distrito de Castelo Branco;Castelo Branco;Castelo Branco;CASTELO BRANCO;17.3;17.6
-29/06/17 12:00;PT0107;Eurdep;air;40.41;-7.56;0.0;Portugal;0;0;0;PENHAS DOURADAS;21.3;21.0
-29/06/17 12:00;PT0108;Eurdep;air;41.8;-6.74;604.8;Portugal;Distrito de Braganza;Braganza;Bragança;BRAGANCA;8.0;8.3
-29/06/17 12:00;PT0109;Eurdep;air;41.14;-8.6;29.0;Portugal;Distrito de Oporto;Vila Nova de Gaia;Vila Nova de Gaia;PORTO;16.7;17.0
-29/06/17 12:00;PT0110;Eurdep;air;40.21;-8.41;127.9;Portugal;Distrito de Coímbra;Coímbra;Coímbra;COIMBRA;12.0;12.3
-29/06/17 12:00;PT0111;Eurdep;air;37.74;-25.66;2.8;Portugal;;;;PONTA DELGADA;13.1;13.4
-29/06/17 12:00;PT0112;Eurdep;air;32.64;-16.89;0.0;Portugal;;;;Funchal;6.9;7.2
-29/06/17 12:00;PT0113;Eurdep;air;38.89;-7.15;257.1;Portugal;Distrito de Portalegre;Elvas;Elvas;ELVAS;15.0;15.3
+29/06/17 23:00;PT0101;Eurdep;air;38.76;-9.13;73.0;Portugal;Distrito de Lisboa;Lisboa;Lisboa;Lisboa;10.3;10.0
+29/06/17 23:00;PT0102;Eurdep;air;37.95;-8.84;88.3;Portugal;Distrito de Setúbal;Sines;Sines;SINES;8.8;9.0
+29/06/17 23:00;PT0103;Eurdep;air;37.04;-7.95;10.1;Portugal;Distrito de Faro;Faro;Faro;FARO;7.8;8.0
+29/06/17 23:00;PT0104;Eurdep;air;38.02;-7.87;254.3;Portugal;Distrito de Beja;Beja;Beja;BEJA;5.6;5.7
+29/06/17 23:00;PT0105;Eurdep;air;39.29;-7.42;537.7;Portugal;Distrito de Portalegre;Portalegre;Portalegre;PORTALEGRE;16.0;16.2
+29/06/17 23:00;PT0106;Eurdep;air;39.84;-7.48;377.0;Portugal;Distrito de Castelo Branco;Castelo Branco;Castelo Branco;CASTELO BRANCO;17.4;17.6
+29/06/17 23:00;PT0107;Eurdep;air;40.41;-7.56;0.0;Portugal;0;0;0;PENHAS DOURADAS;21.4;21.8
+29/06/17 23:00;PT0108;Eurdep;air;41.8;-6.74;604.8;Portugal;Distrito de Braganza;Braganza;Bragança;BRAGANCA;8.0;8.3
+29/06/17 23:00;PT0109;Eurdep;air;41.14;-8.6;29.0;Portugal;Distrito de Oporto;Vila Nova de Gaia;Vila Nova de Gaia;PORTO;16.7;17.0
+29/06/17 23:00;PT0110;Eurdep;air;40.21;-8.41;127.9;Portugal;Distrito de Coímbra;Coímbra;Coímbra;COIMBRA;12.0;12.3
+29/06/17 23:00;PT0111;Eurdep;air;37.74;-25.66;2.8;Portugal;;;;PONTA DELGADA;13.2;13.4
+29/06/17 23:00;PT0112;Eurdep;air;32.64;-16.89;0.0;Portugal;;;;Funchal;6.8;7.2
+29/06/17 23:00;PT0113;Eurdep;air;38.89;-7.15;257.1;Portugal;Distrito de Portalegre;Elvas;Elvas;ELVAS;15.0;15.3
