@@ -1,19 +1,19 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-30/06/17 14:00;LU0066;Eurdep;air;49.66;5.91;320.3;Luxembourg;Luxemburgo;Cantón de Capellen;Steinfort;STEINFORT;13.1;15.7
-30/06/17 14:00;LU0067;Eurdep;air;49.8;6.43;197.2;Luxembourg;Grevenmacher;Cantón de Echternach;Echternach;ECHTERNACH;9.7;11.0
+01/07/17 01:00;LU0066;Eurdep;air;49.66;5.91;320.3;Luxembourg;Luxemburgo;Cantón de Capellen;Steinfort;STEINFORT;13.8;14.9
+01/07/17 01:00;LU0067;Eurdep;air;49.8;6.43;197.2;Luxembourg;Grevenmacher;Cantón de Echternach;Echternach;ECHTERNACH;9.0;10.7
 26/06/17 22:00;LU0068;Eurdep;air;50.12;6.0;0.0;Luxembourg;0;0;0;TROISVIERGES;0.0;0.0
-30/06/17 14:00;LU0069;Eurdep;air;49.93;5.79;428.2;Luxembourg;Diekirch;Wiltz;Lac de la Haute-Sûre;HARLANGE;12.3;14.5
-30/06/17 14:00;LU0070;Eurdep;air;49.5;6.27;212.2;Luxembourg;Grand Est;Mosela;Mondorff;MONDORF;11.6;13.5
-30/06/17 14:00;LU0071;Eurdep;air;49.51;6.19;251.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Frisange;FRISANGE;11.2;13.0
-30/06/17 14:00;Lu0072;Eurdep;air;49.49;6.35;165.7;Luxembourg;Grevenmacher;Cantón de Remich;Schengen;REMERSCHEN;10.4;12.0
-30/06/17 14:00;LU0073;Eurdep;air;49.61;6.4;218.2;Luxembourg;Grevenmacher;Grevenmacher;Wormeldange;WORMELDANGE;12.4;14.0
-30/06/17 14:00;LU0074;Eurdep;air;49.61;6.12;300.9;Luxembourg;Luxemburgo;Luxemburgo;Luxemburgo;LUXEMBOURG;14.3;15.0
-30/06/17 14:00;LU0075;Eurdep;air;49.5;5.98;297.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Esch-sur-Alzette;ESCH-ALZETTE;14.9;17.0
-30/06/17 14:00;LU0076;Eurdep;air;49.48;6.09;303.9;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Dudelange;DUDELANGE;10.4;12.4
-30/06/17 14:00;LU0077;Eurdep;air;49.53;6.09;0.0;Luxembourg;0;0;0;BETTEMBOURG;15.9;20.0
+01/07/17 01:00;LU0069;Eurdep;air;49.93;5.79;428.2;Luxembourg;Diekirch;Wiltz;Lac de la Haute-Sûre;HARLANGE;11.6;14.3
+01/07/17 01:00;LU0070;Eurdep;air;49.5;6.27;212.2;Luxembourg;Grand Est;Mosela;Mondorff;MONDORF;11.4;12.0
+01/07/17 01:00;LU0071;Eurdep;air;49.51;6.19;251.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Frisange;FRISANGE;10.7;12.0
+01/07/17 01:00;Lu0072;Eurdep;air;49.49;6.35;165.7;Luxembourg;Grevenmacher;Cantón de Remich;Schengen;REMERSCHEN;10.8;11.3
+01/07/17 01:00;LU0073;Eurdep;air;49.61;6.4;218.2;Luxembourg;Grevenmacher;Grevenmacher;Wormeldange;WORMELDANGE;11.2;13.3
+01/07/17 01:00;LU0074;Eurdep;air;49.61;6.12;300.9;Luxembourg;Luxemburgo;Luxemburgo;Luxemburgo;LUXEMBOURG;15.2;16.8
+01/07/17 01:00;LU0075;Eurdep;air;49.5;5.98;297.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Esch-sur-Alzette;ESCH-ALZETTE;13.0;17.0
+01/07/17 01:00;LU0076;Eurdep;air;49.48;6.09;303.9;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Dudelange;DUDELANGE;10.0;10.7
+01/07/17 01:00;LU0077;Eurdep;air;49.53;6.09;0.0;Luxembourg;0;0;0;BETTEMBOURG;15.4;19.0
 09/06/17 22:00;LU0078;Eurdep;air;49.85;6.1;201.2;Luxembourg;Diekirch;Diekirch;Ettelbruck;ETTELBRUCK;0.0;0.0
-30/06/17 14:00;Lu0079;Eurdep;air;49.7;6.25;341.9;Luxembourg;Grevenmacher;Grevenmacher;;JUNGLINSTER;8.8;10.0
-30/06/17 14:00;Lu0080;Eurdep;air;49.97;6.05;464.7;Luxembourg;Diekirch;Cantón de Clervaux;Parc Hosingen;CONSTHUM;17.8;21.2
-30/06/17 14:00;Lu0082;Eurdep;air;49.62;6.27;0.0;Luxembourg;0;0;0;SCHUTTRANGE;15.8;19.1
-30/06/17 14:00;Lu0083;Eurdep;air;49.58;5.96;335.1;Luxembourg;Luxemburgo;Cantón de Capellen;Dippach;DIPPACH;18.3;21.5
-30/06/17 13:00;LU7288;Eurdep;air;49.95;6.17;0.0;Luxembourg;0;0;0;AGS421_7288;11.0;11.0
+30/06/17 21:00;Lu0079;Eurdep;air;49.7;6.25;341.9;Luxembourg;Grevenmacher;Grevenmacher;;JUNGLINSTER;8.7;10.0
+01/07/17 01:00;Lu0080;Eurdep;air;49.97;6.05;464.7;Luxembourg;Diekirch;Cantón de Clervaux;Parc Hosingen;CONSTHUM;16.8;17.0
+01/07/17 01:00;Lu0082;Eurdep;air;49.62;6.27;0.0;Luxembourg;0;0;0;SCHUTTRANGE;16.4;18.0
+01/07/17 01:00;Lu0083;Eurdep;air;49.58;5.96;335.1;Luxembourg;Luxemburgo;Cantón de Capellen;Dippach;DIPPACH;19.2;20.3
+01/07/17 01:00;LU7288;Eurdep;air;49.95;6.17;0.0;Luxembourg;0;0;0;AGS421_7288;11.0;11.0
