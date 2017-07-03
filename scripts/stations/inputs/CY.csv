@@ -1,9 +1,9 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-03/07/17 02:00;CY0037;Eurdep;air;35.16;33.35;165.8;Cyprus;Distrito de Nicosia;;Nicosia;NICOSIA;5.1;5.2
-03/07/17 02:00;CY0433;Eurdep;air;35.03;33.98;77.1;Cyprus;Famagusta;;Paralimni;PARALIMNI;5.3;5.4
-03/07/17 02:00;CY0434;Eurdep;air;35.04;32.43;17.4;Cyprus;Distrito de Pafos;;Poli Crysochous;POLIS;5.0;5.2
-03/07/17 02:00;CY0435;Eurdep;air;34.77;32.43;61.4;Cyprus;Distrito de Pafos;;Paphos;PAFOS;5.5;5.0
-03/07/17 02:00;CY0436;Eurdep;air;34.67;33.03;7.9;Cyprus;Limassol;;Limasol;LIMASSOL;5.1;5.2
-02/07/17 03:00;CY0437;Eurdep;air;35.16;33.35;165.8;Cyprus;Distrito de Nicosia;;Nicosia;NICOSIA;0.0;0.0
-03/07/17 02:00;CY0438;Eurdep;air;35.04;32.9;439.5;Cyprus;Distrito de Nicosia;;Evrychou;EVRYCHOU;5.7;5.8
-03/07/17 02:00;CY0439;Eurdep;air;34.92;33.64;0.9;Cyprus;Distrito de Lárnaca;;Lárnaca;LARNACA;5.1;5.3
+03/07/17 15:00;CY0037;Eurdep;air;35.16;33.35;165.8;Cyprus;Distrito de Nicosia;;Nicosia;NICOSIA;5.1;5.3
+03/07/17 15:00;CY0433;Eurdep;air;35.03;33.98;77.1;Cyprus;Famagusta;;Paralimni;PARALIMNI;5.3;5.4
+03/07/17 15:00;CY0434;Eurdep;air;35.04;32.43;17.4;Cyprus;Distrito de Pafos;;Poli Crysochous;POLIS;5.0;5.2
+03/07/17 15:00;CY0435;Eurdep;air;34.77;32.43;61.4;Cyprus;Distrito de Pafos;;Paphos;PAFOS;5.5;5.6
+03/07/17 15:00;CY0436;Eurdep;air;34.67;33.03;7.9;Cyprus;Limassol;;Limasol;LIMASSOL;5.1;5.2
+03/07/17 15:00;CY0437;Eurdep;air;35.16;33.35;165.8;Cyprus;Distrito de Nicosia;;Nicosia;NICOSIA;5.4;5.4
+03/07/17 15:00;CY0438;Eurdep;air;35.04;32.9;439.5;Cyprus;Distrito de Nicosia;;Evrychou;EVRYCHOU;5.6;5.7
+03/07/17 15:00;CY0439;Eurdep;air;34.92;33.64;0.9;Cyprus;Distrito de Lárnaca;;Lárnaca;LARNACA;5.1;5.2
