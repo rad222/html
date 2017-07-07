@@ -1,33 +1,33 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-07/07/17 05:00;HR2003;Eurdep;air;45.9;15.7;303.0;Croatia;Condado de Zagreb;Općina Marija Gorica;Sveti Križ;#03 Sveti Kriz;8.2;8.2
-07/07/17 05:00;HR2010;Eurdep;air;45.85;18.84;138.6;Croatia;Condado de Osijek-Baranja;Općina Draž;Batina;#10 Batina;7.1;7.3
-07/07/17 04:00;HR1002;Eurdep;air;45.83;15.68;274.2;Croatia;Condado de Zagreb;Grad Samobor;Podvrh;#02 Bregana;14.0;15.0
-07/07/17 04:00;HR1004;Eurdep;air;45.95;15.73;154.8;Croatia;Condado de Zagreb;Općina Dubravica;Rozga;#04 Dubravica;9.5;10.0
-07/07/17 04:00;HR1005;Eurdep;air;46.05;15.74;250.7;Croatia;Krapina-zagorje;Općina Klanjec;Klanjec;#05 Klanjec;8.5;8.8
+07/07/17 18:00;HR2003;Eurdep;air;45.9;15.7;303.0;Croatia;Condado de Zagreb;Općina Marija Gorica;Sveti Križ;#03 Sveti Kriz;8.2;8.2
+07/07/17 18:00;HR2010;Eurdep;air;45.85;18.84;138.6;Croatia;Condado de Osijek-Baranja;Općina Draž;Batina;#10 Batina;7.1;7.0
+07/07/17 18:00;HR1002;Eurdep;air;45.83;15.68;274.2;Croatia;Condado de Zagreb;Grad Samobor;Podvrh;#02 Bregana;14.7;15.0
+07/07/17 18:00;HR1004;Eurdep;air;45.95;15.73;154.8;Croatia;Condado de Zagreb;Općina Dubravica;Rozga;#04 Dubravica;9.7;10.0
+07/07/17 18:00;HR1005;Eurdep;air;46.05;15.74;250.7;Croatia;Krapina-zagorje;Općina Klanjec;Klanjec;#05 Klanjec;8.6;9.2
 14/06/17 00:00;HR1006;Eurdep;air;46.11;15.61;185.2;Croatia;Krapina-zagorje;Općina Zagorska Sela;Plavić;#06 Plavic;0.0;0.0
-07/07/17 04:00;HR1007;Eurdep;air;46.2;17.04;119.2;Croatia;Condado de Koprivnica-Križevci;Općina Gola;Gola;#07 Gola;10.7;11.0
-07/07/17 04:00;HR1008;Eurdep;air;45.88;17.2;228.7;Croatia;Condado de Virovitica-Podravina;Općina Pitomača;Sedlarica;#08 Bilogora;7.9;8.0
-07/07/17 04:00;HR1009;Eurdep;air;45.78;17.97;90.7;Croatia;Condado de Osijek-Baranja;Općina Podravska Moslavina;Podravska Moslavina;#09 Drava;8.2;8.4
-07/07/17 04:00;HR1011;Eurdep;air;45.58;14.64;875.9;Croatia;Primorje-Gorski;Općina Čabar;Gornji Žagari;#11 Parg;9.8;11.0
-07/07/17 04:00;HR1012;Eurdep;air;45.76;15.32;1158.8;Croatia;Novo mesto;Municipality of Šentjernej;Cerov Log;#12 Sveta Gera;7.3;7.4
-07/07/17 04:00;HR1013;Eurdep;air;46.5;16.27;212.9;Croatia;Condado de Međimurje;Općina Štrigova;Banfi;#13 Strigova;10.1;10.0
-07/07/17 04:00;HR1014;Eurdep;air;45.15;18.0;0.0;Croatia;0;0;0;#14 Slavonski Brod;8.6;9.3
-06/07/17 16:00;HR1015;Eurdep;air;45.19;19.42;190.4;Croatia;Vukovar-Srijem;Distrito de Bačka del Sur;Ilok;#15 Ilok;10.1;10.0
-07/07/17 04:00;HR1016;Eurdep;air;45.49;13.5;6.8;Croatia;Istria;Općina Umag;Bašanija;#16 Savudrija;10.0;10.0
-07/07/17 04:00;HR1017;Eurdep;air;44.79;13.91;17.3;Croatia;Istria;Općina Medulin;Premantura;#17 Premantura;7.2;7.3
-07/07/17 04:00;HR1018;Eurdep;air;44.14;14.86;0.0;Croatia;0;0;0;#18 Verunic;8.0;8.2
-07/07/17 04:00;HR1019;Eurdep;air;43.03;16.17;179.0;Croatia;Split-Dalmacia;Općina Vis;Marinje Zemlje;#19 Stiniva;7.2;7.4
-07/07/17 04:00;HR1020;Eurdep;air;42.65;18.09;52.8;Croatia;Condado de Dubrovnik-Neretva;Općina Dubrovnik;Dubrovnik (Ragusa);#20 Dubrovnik;7.5;8.0
-07/07/17 04:00;HR1021;Eurdep;air;45.33;14.44;33.8;Croatia;Primorje-Gorski;Općina Rijeka;Rijeka;#21 Rijeka;13.1;13.0
-07/07/17 04:00;HR1022;Eurdep;air;45.49;15.57;106.5;Croatia;Condado de Karlovac;Općina Karlovac;Karlovac;#22 Karlovac;11.8;13.0
-07/07/17 04:00;HR1023;Eurdep;air;45.82;15.98;142.3;Croatia;Zagreb;;Zagreb;#23 Zagreb-IRB;8.4;8.6
-07/07/17 04:00;HR1024;Eurdep;air;43.51;16.45;46.2;Croatia;Split-Dalmacia;Općina Split;Split;#24 Split;6.2;6.4
-07/07/17 04:00;HR1025;Eurdep;air;45.48;18.53;84.0;Croatia;Condado de Osijek-Baranja;Općina Čepin;Ovčara;#25 Osijek;11.0;11.0
-07/07/17 05:00;HR3008;Eurdep;air;44.13;15.21;0.0;Croatia;;Općina Zadar;;Zadar;12.0;12.0
-07/07/17 05:00;HR3007;Eurdep;air;44.04;16.21;218.7;Croatia;Condado de Šibenik-Knin;Općina Knin;Kovačić;Knin;11.1;12.0
-07/07/17 05:00;HR3003;Eurdep;air;45.5;16.37;96.4;Croatia;Condado de Sisak-Moslavina;Općina Sisak;Sisak;Sisak;12.0;12.0
-07/07/17 05:00;HR3005;Eurdep;air;45.82;17.4;121.3;Croatia;Condado de Virovitica-Podravina;Općina Virovitica;Virovitica;Virovitica;12.0;12.0
-07/07/17 05:00;HR3004;Eurdep;air;46.28;16.37;163.1;Croatia;Condado de Varaždin;Općina Varaždin;Gornji Kućan;Varaždin;9.7;10.0
-07/07/17 05:00;HR3006;Eurdep;air;45.78;18.6;84.3;Croatia;Condado de Osijek-Baranja;Općina Beli Manastir;Beli Manastir;Beli Manastir;13.0;14.0
-07/07/17 05:00;HR3002;Eurdep;air;45.65;16.1;104.7;Croatia;Condado de Zagreb;Općina Velika Gorica;Lazi Turopoljski;Velika Gorica;12.6;13.0
-07/07/17 05:00;HR3001;Eurdep;air;43.05;17.45;0.0;Croatia;Condado de Dubrovnik-Neretva;Općina Ploče;Ploče;Ploèe;8.7;9.3
+07/07/17 18:00;HR1007;Eurdep;air;46.2;17.04;119.2;Croatia;Condado de Koprivnica-Križevci;Općina Gola;Gola;#07 Gola;11.0;13.0
+07/07/17 18:00;HR1008;Eurdep;air;45.88;17.2;228.7;Croatia;Condado de Virovitica-Podravina;Općina Pitomača;Sedlarica;#08 Bilogora;8.2;10.0
+07/07/17 18:00;HR1009;Eurdep;air;45.78;17.97;90.7;Croatia;Condado de Osijek-Baranja;Općina Podravska Moslavina;Podravska Moslavina;#09 Drava;8.3;9.0
+07/07/17 18:00;HR1011;Eurdep;air;45.58;14.64;875.9;Croatia;Primorje-Gorski;Općina Čabar;Gornji Žagari;#11 Parg;9.6;9.9
+07/07/17 18:00;HR1012;Eurdep;air;45.76;15.32;1158.8;Croatia;Novo mesto;Municipality of Šentjernej;Cerov Log;#12 Sveta Gera;7.4;7.8
+07/07/17 18:00;HR1013;Eurdep;air;46.5;16.27;212.9;Croatia;Condado de Međimurje;Općina Štrigova;Banfi;#13 Strigova;10.3;11.0
+07/07/17 18:00;HR1014;Eurdep;air;45.15;18.0;0.0;Croatia;0;0;0;#14 Slavonski Brod;8.6;9.3
+07/07/17 16:00;HR1015;Eurdep;air;45.19;19.42;190.4;Croatia;Vukovar-Srijem;Distrito de Bačka del Sur;Ilok;#15 Ilok;10.1;10.0
+07/07/17 18:00;HR1016;Eurdep;air;45.49;13.5;6.8;Croatia;Istria;Općina Umag;Bašanija;#16 Savudrija;10.1;10.0
+07/07/17 18:00;HR1017;Eurdep;air;44.79;13.91;17.3;Croatia;Istria;Općina Medulin;Premantura;#17 Premantura;7.2;7.0
+07/07/17 18:00;HR1018;Eurdep;air;44.14;14.86;0.0;Croatia;0;0;0;#18 Verunic;8.0;8.2
+07/07/17 18:00;HR1019;Eurdep;air;43.03;16.17;179.0;Croatia;Split-Dalmacia;Općina Vis;Marinje Zemlje;#19 Stiniva;7.2;7.4
+07/07/17 18:00;HR1020;Eurdep;air;42.65;18.09;52.8;Croatia;Condado de Dubrovnik-Neretva;Općina Dubrovnik;Dubrovnik (Ragusa);#20 Dubrovnik;7.4;7.7
+07/07/17 18:00;HR1021;Eurdep;air;45.33;14.44;33.8;Croatia;Primorje-Gorski;Općina Rijeka;Rijeka;#21 Rijeka;13.0;13.0
+07/07/17 18:00;HR1022;Eurdep;air;45.49;15.57;106.5;Croatia;Condado de Karlovac;Općina Karlovac;Karlovac;#22 Karlovac;12.0;13.0
+07/07/17 18:00;HR1023;Eurdep;air;45.82;15.98;142.3;Croatia;Zagreb;;Zagreb;#23 Zagreb-IRB;8.5;8.8
+07/07/17 18:00;HR1024;Eurdep;air;43.51;16.45;46.2;Croatia;Split-Dalmacia;Općina Split;Split;#24 Split;6.2;6.0
+07/07/17 18:00;HR1025;Eurdep;air;45.48;18.53;84.0;Croatia;Condado de Osijek-Baranja;Općina Čepin;Ovčara;#25 Osijek;11.1;11.0
+07/07/17 18:00;HR3008;Eurdep;air;44.13;15.21;0.0;Croatia;;Općina Zadar;;Zadar;12.0;12.0
+07/07/17 18:00;HR3007;Eurdep;air;44.04;16.21;218.7;Croatia;Condado de Šibenik-Knin;Općina Knin;Kovačić;Knin;11.1;12.0
+07/07/17 18:00;HR3003;Eurdep;air;45.5;16.37;96.4;Croatia;Condado de Sisak-Moslavina;Općina Sisak;Sisak;Sisak;12.5;17.0
+07/07/17 18:00;HR3005;Eurdep;air;45.82;17.4;121.3;Croatia;Condado de Virovitica-Podravina;Općina Virovitica;Virovitica;Virovitica;12.3;16.0
+07/07/17 18:00;HR3004;Eurdep;air;46.28;16.37;163.1;Croatia;Condado de Varaždin;Općina Varaždin;Gornji Kućan;Varaždin;10.2;13.0
+07/07/17 18:00;HR3006;Eurdep;air;45.78;18.6;84.3;Croatia;Condado de Osijek-Baranja;Općina Beli Manastir;Beli Manastir;Beli Manastir;13.5;14.0
+07/07/17 18:00;HR3002;Eurdep;air;45.65;16.1;104.7;Croatia;Condado de Zagreb;Općina Velika Gorica;Lazi Turopoljski;Velika Gorica;12.7;13.0
+07/07/17 18:00;HR3001;Eurdep;air;43.05;17.45;0.0;Croatia;Condado de Dubrovnik-Neretva;Općina Ploče;Ploče;Ploèe;8.7;9.5
