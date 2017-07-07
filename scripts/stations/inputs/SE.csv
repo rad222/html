@@ -1,27 +1,27 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-06/07/17 03:00;SE0040;Eurdep;air;58.58;16.15;41.7;Sweden;Provincia de Östergötland;Norrköping;Norrköping;NORRKOPING;14.4;14.6
-06/07/17 03:00;SE0042;Eurdep;air;59.91;16.69;59.3;Sweden;Provincia de Västmanland;Sala;;SALA;15.1;15.0
-06/07/17 03:00;SE0043;Eurdep;air;60.96;14.51;180.8;Sweden;Provincia de Dalarna;Mora;;MORA;10.3;10.0
-06/07/17 03:00;SE0044;Eurdep;air;62.45;12.67;766.2;Sweden;Provincia de Jämtland;Härjedalen;;TANNAS;10.1;10.3
-06/07/17 03:00;SE0045;Eurdep;air;63.15;16.17;170.5;Sweden;Provincia de Jämtland;Ragunda Municipality;;KRANGEDE;12.6;12.0
-06/07/17 03:00;SE0046;Eurdep;air;63.44;19.68;4.1;Sweden;Provincia de Västerbotten;Nordmaling;;JARNASKLUBB;17.7;17.0
-06/07/17 03:00;SE0047;Eurdep;air;62.22;17.74;6.1;Sweden;Provincia de Västernorrland;Sundsvall;;BRAMON;17.2;17.4
-06/07/17 03:00;SE0048;Eurdep;air;60.72;17.16;16.0;Sweden;Provincia de Gävleborg;Gävle;Gävle;GAVLE;17.3;17.0
-06/07/17 03:00;SE0050;Eurdep;air;67.2;23.39;160.0;Sweden;Provincia de Norrbotten;Pajala;;PAJALA;8.8;9.2
-06/07/17 03:00;SE0051;Eurdep;air;68.44;22.44;329.0;Sweden;Provincia de Norrbotten;Kiruna;;KARESUANDO;8.6;8.0
-06/07/17 03:00;SE0052;Eurdep;air;67.73;17.47;601.7;Sweden;Provincia de Norrbotten;Gällivare;;RITSEM;19.4;19.0
-06/07/17 03:00;SE0053;Eurdep;air;57.92;18.96;0.0;Sweden;;;;FAROSUND;5.3;5.6
-06/07/17 03:00;SE0054;Eurdep;air;56.85;14.83;177.7;Sweden;Provincia de Kronoberg;Växjö;Växjö;VAXSJO;10.7;10.8
-06/07/17 03:00;SE0055;Eurdep;air;57.37;17.1;0.0;Sweden;;;;OLANDSNORRAUDDE;8.7;9.0
-06/07/17 03:00;SE0056;Eurdep;air;56.2;16.4;0.0;Sweden;Provincia de Kalmar;Mörbylånga;;OLANDSSODRAUDDE;10.5;10.7
-06/07/17 03:00;SE0057;Eurdep;air;55.49;14.32;0.0;Sweden;Provincia de Escania;Simrishamn;;SKILLINGE;8.1;8.2
-06/07/17 03:00;SE0059;Eurdep;air;65.15;18.6;361.4;Sweden;Provincia de Västerbotten;Malå;;MALA;11.9;12.0
-06/07/17 03:00;SE0060;Eurdep;air;65.33;15.07;569.1;Sweden;Provincia de Västerbotten;Vilhelmina;;GIELAS;10.3;10.0
-06/07/17 03:00;SE0061;Eurdep;air;58.1;14.41;88.0;Sweden;Provincia de Jönköping;Jönköping;;VISINGSO;13.6;14.0
-06/07/17 03:00;SE0062;Eurdep;air;57.72;11.99;0.3;Sweden;Provincia de Västra Götaland;Göteborg;Gotemburgo;GOTEBORG;15.4;15.0
-06/07/17 03:00;SE0063;Eurdep;air;56.45;12.55;7.5;Sweden;Provincia de Escania;Båstad;;HALLANDSVADERO;9.3;9.5
-06/07/17 03:00;SE0064;Eurdep;air;55.57;13.07;19.3;Sweden;Provincia de Escania;Malmö;Malmö;MALMO;9.3;9.5
-06/07/17 03:00;SE0065;Eurdep;air;59.86;13.12;116.6;Sweden;Provincia de Värmland;Sunne;;SUNNE;12.8;13.0
-06/07/17 03:00;SE0066;Eurdep;air;59.3;14.9;199.2;Sweden;Provincia de Örebro;Örebro;;KILSBERGEN;12.8;13.0
-06/07/17 03:00;SE0067;Eurdep;air;58.32;13.04;71.0;Sweden;Provincia de Västra Götaland;Vara;;HALLUM;14.5;15.0
-06/07/17 03:00;SE0068;Eurdep;air;59.3;18.7;0.5;Sweden;Provincia de Estocolmo;Värmdö;;STAVSNAS;11.3;11.5
+06/07/17 14:00;SE0040;Eurdep;air;58.58;16.15;41.7;Sweden;Provincia de Östergötland;Norrköping;Norrköping;NORRKOPING;14.1;14.4
+06/07/17 14:00;SE0042;Eurdep;air;59.91;16.69;59.3;Sweden;Provincia de Västmanland;Sala;;SALA;15.0;15.2
+06/07/17 14:00;SE0043;Eurdep;air;60.96;14.51;180.8;Sweden;Provincia de Dalarna;Mora;;MORA;10.3;10.6
+06/07/17 14:00;SE0044;Eurdep;air;62.45;12.67;766.2;Sweden;Provincia de Jämtland;Härjedalen;;TANNAS;10.1;10.4
+06/07/17 14:00;SE0045;Eurdep;air;63.15;16.17;170.5;Sweden;Provincia de Jämtland;Ragunda Municipality;;KRANGEDE;12.5;12.0
+06/07/17 14:00;SE0046;Eurdep;air;63.44;19.68;4.1;Sweden;Provincia de Västerbotten;Nordmaling;;JARNASKLUBB;17.8;18.0
+06/07/17 14:00;SE0047;Eurdep;air;62.22;17.74;6.1;Sweden;Provincia de Västernorrland;Sundsvall;;BRAMON;17.2;17.0
+06/07/17 14:00;SE0048;Eurdep;air;60.72;17.16;16.0;Sweden;Provincia de Gävleborg;Gävle;Gävle;GAVLE;17.3;17.4
+06/07/17 14:00;SE0050;Eurdep;air;67.2;23.39;160.0;Sweden;Provincia de Norrbotten;Pajala;;PAJALA;8.7;8.0
+06/07/17 14:00;SE0051;Eurdep;air;68.44;22.44;329.0;Sweden;Provincia de Norrbotten;Kiruna;;KARESUANDO;8.3;8.5
+06/07/17 14:00;SE0052;Eurdep;air;67.73;17.47;601.7;Sweden;Provincia de Norrbotten;Gällivare;;RITSEM;19.4;19.6
+06/07/17 14:00;SE0053;Eurdep;air;57.92;18.96;0.0;Sweden;;;;FAROSUND;5.4;5.7
+06/07/17 14:00;SE0054;Eurdep;air;56.85;14.83;177.7;Sweden;Provincia de Kronoberg;Växjö;Växjö;VAXSJO;10.6;10.9
+06/07/17 14:00;SE0055;Eurdep;air;57.37;17.1;0.0;Sweden;;;;OLANDSNORRAUDDE;8.6;8.0
+06/07/17 14:00;SE0056;Eurdep;air;56.2;16.4;0.0;Sweden;Provincia de Kalmar;Mörbylånga;;OLANDSSODRAUDDE;10.7;10.8
+06/07/17 14:00;SE0057;Eurdep;air;55.49;14.32;0.0;Sweden;Provincia de Escania;Simrishamn;;SKILLINGE;8.0;8.2
+06/07/17 14:00;SE0059;Eurdep;air;65.15;18.6;361.4;Sweden;Provincia de Västerbotten;Malå;;MALA;11.6;11.8
+06/07/17 14:00;SE0060;Eurdep;air;65.33;15.07;569.1;Sweden;Provincia de Västerbotten;Vilhelmina;;GIELAS;10.3;10.4
+06/07/17 14:00;SE0061;Eurdep;air;58.1;14.41;88.0;Sweden;Provincia de Jönköping;Jönköping;;VISINGSO;13.5;13.8
+06/07/17 14:00;SE0062;Eurdep;air;57.72;11.99;0.3;Sweden;Provincia de Västra Götaland;Göteborg;Gotemburgo;GOTEBORG;15.4;15.0
+06/07/17 14:00;SE0063;Eurdep;air;56.45;12.55;7.5;Sweden;Provincia de Escania;Båstad;;HALLANDSVADERO;9.3;9.6
+06/07/17 14:00;SE0064;Eurdep;air;55.57;13.07;19.3;Sweden;Provincia de Escania;Malmö;Malmö;MALMO;8.7;8.0
+06/07/17 14:00;SE0065;Eurdep;air;59.86;13.12;116.6;Sweden;Provincia de Värmland;Sunne;;SUNNE;12.8;13.0
+06/07/17 14:00;SE0066;Eurdep;air;59.3;14.9;199.2;Sweden;Provincia de Örebro;Örebro;;KILSBERGEN;12.9;13.0
+06/07/17 14:00;SE0067;Eurdep;air;58.32;13.04;71.0;Sweden;Provincia de Västra Götaland;Vara;;HALLUM;14.4;14.6
+06/07/17 14:00;SE0068;Eurdep;air;59.3;18.7;0.5;Sweden;Provincia de Estocolmo;Värmdö;;STAVSNAS;11.2;11.4
