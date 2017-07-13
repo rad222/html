@@ -1,9 +1,9 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-12/07/17 18:00;ITJRC01;Eurdep;air;45.8;8.63;229.6;Italy;Lombardía;Varese;;JRC Station 1;1.6;2.4
-12/07/17 18:00;ITJRC03;Eurdep;air;45.81;8.64;223.6;Italy;Lombardía;Varese;;JRC Station 3;2.2;2.9
-12/07/17 18:00;ITJRC05;Eurdep;air;45.81;8.64;0.0;Italy;0;0;0;JRC Station 5;2.0;2.6
-12/07/17 18:00;ITJRC07;Eurdep;air;45.82;8.63;207.1;Italy;Lombardía;Varese;Ispra;JRC Station 7;2.0;2.8
-12/07/17 18:00;ITJRC09;Eurdep;air;45.81;8.62;211.8;Italy;Lombardía;Varese;Ispra;Station 9;2.1;2.9
+13/07/17 05:00;ITJRC01;Eurdep;air;45.8;8.63;229.6;Italy;Lombardía;Varese;;JRC Station 1;1.6;2.3
+13/07/17 05:00;ITJRC03;Eurdep;air;45.81;8.64;223.6;Italy;Lombardía;Varese;;JRC Station 3;2.2;2.5
+13/07/17 05:00;ITJRC05;Eurdep;air;45.81;8.64;0.0;Italy;0;0;0;JRC Station 5;2.0;2.8
+13/07/17 05:00;ITJRC07;Eurdep;air;45.82;8.63;207.1;Italy;Lombardía;Varese;Ispra;JRC Station 7;2.1;2.8
+13/07/17 05:00;ITJRC09;Eurdep;air;45.81;8.62;211.8;Italy;Lombardía;Varese;Ispra;Station 9;2.1;2.9
 11/07/17 00:00;IT0001;Eurdep;air;43.89;7.6;224.2;Italy;Liguria;Imperia;Rocchetta Nervina;Rocchetta Nervina;0.0;0.0
 11/07/17 00:00;IT0002;Eurdep;air;44.22;9.72;182.4;Italy;Liguria;La Spezia;;Borghetto di Vara;0.0;0.0
 11/07/17 00:00;IT0003;Eurdep;air;44.39;7.82;418.3;Italy;Piamonte;Cuneo;Mondovì;Mondovi;0.0;0.0
@@ -14,7 +14,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 05/07/17 00:00;IT0008;Eurdep;air;45.54;10.21;144.0;Italy;Lombardía;Brescia;Brescia;Brescia;0.0;0.0
 11/07/17 00:00;IT0009;Eurdep;air;45.72;8.69;260.4;Italy;Lombardía;Varese;Vergiate;Vergiate;0.0;0.0
 04/07/17 00:00;IT0010;Eurdep;air;46.18;9.98;630.6;Italy;Lombardía;Sondrio;;Ponte in Valtellina;0.0;0.0
-12/07/17 01:00;IT0012;Eurdep;air;46.07;12.4;1030.4;Italy;Véneto;Belluno;;PianCansiglio (Tambre);11.2;11.0
+12/07/17 00:00;IT0012;Eurdep;air;46.07;12.4;1030.4;Italy;Véneto;Belluno;;PianCansiglio (Tambre);0.0;0.0
 11/07/17 00:00;IT0014;Eurdep;air;44.42;12.2;3.7;Italy;Emilia-Romaña;Rávena;Rávena;Marina di Ravenna;0.0;0.0
 11/07/17 00:00;IT0015;Eurdep;air;43.52;11.57;149.6;Italy;Toscana;Arezzo;Pestello;Montevarchi;0.0;0.0
 11/07/17 00:00;IT0017;Eurdep;air;43.31;10.52;15.7;Italy;Toscana;Livorno;Cecina;Cecina Marina;0.0;0.0
@@ -43,9 +43,9 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 13/06/17 00:00;IT0063;Eurdep;air;44.01;10.55;152.8;Italy;Toscana;Lucca;;Bagni di Lucca;0.0;0.0
 11/07/17 00:00;IT0064;Eurdep;air;44.81;11.59;7.0;Italy;Emilia-Romaña;Ferrara;Ferrara;Ferrara;0.0;0.0
 11/07/17 00:00;IT0065;Eurdep;air;46.56;12.42;872.3;Italy;Véneto;Belluno;;Auronzo di Cadore;0.0;0.0
-12/07/17 01:00;IT0066;Eurdep;air;46.09;13.11;132.6;Italy;Friuli-Venecia Julia;Udine;;Fagagna;12.6;12.0
+12/07/17 00:00;IT0066;Eurdep;air;46.09;13.11;132.6;Italy;Friuli-Venecia Julia;Udine;;Fagagna;0.0;0.0
 07/07/17 00:00;IT0067;Eurdep;air;46.51;13.55;794.1;Italy;Friuli-Venecia Julia;Udine;Camporosso In Valcanale;Tarvisio;0.0;0.0
-12/07/17 01:00;IT0068;Eurdep;air;45.94;13.62;81.0;Italy;Friuli-Venecia Julia;Gorizia;Gorizia;Gorizia;9.5;10.0
+12/07/17 00:00;IT0068;Eurdep;air;45.94;13.62;81.0;Italy;Friuli-Venecia Julia;Gorizia;Gorizia;Gorizia;0.0;0.0
 11/07/17 00:00;IT0069;Eurdep;air;44.8;10.33;57.8;Italy;Emilia-Romaña;Parma;Parma;Parma;0.0;0.0
 11/07/17 00:00;IT0070;Eurdep;air;42.42;11.87;181.0;Italy;Lacio;Viterbo;Tuscania;Tuscania;0.0;0.0
 11/07/17 00:00;IT0071;Eurdep;air;40.12;8.82;305.1;Italy;Cerdeña;Oristán;;Abbasanta;0.0;0.0
@@ -53,7 +53,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 11/07/17 00:00;IT0074;Eurdep;air;43.32;13.43;110.5;Italy;Marcas;Macerata;Villa Potenza;Villa Potenza;0.0;0.0
 11/07/17 00:00;IT0075;Eurdep;air;42.9;13.79;128.6;Italy;Marcas;Ascoli Piceno;;Monsampolo;0.0;0.0
 11/07/17 00:00;IT0076;Eurdep;air;39.11;17.09;10.7;Italy;Calabria;Crotona;Crotone;Crotone;0.0;0.0
-12/07/17 01:00;IT0077;Eurdep;air;46.48;10.37;0.0;Italy;0;0;0;Bormio;11.9;12.0
+12/07/17 00:00;IT0077;Eurdep;air;46.48;10.37;0.0;Italy;0;0;0;Bormio;0.0;0.0
 11/07/17 00:00;IT0078;Eurdep;air;45.48;9.4;112.3;Italy;Lombardía;Milán;;Milano;0.0;0.0
 11/07/17 00:00;IT0079;Eurdep;air;45.43;12.38;0.0;Italy;;Venecia;Venecia;Venezia Lido;0.0;0.0
 11/07/17 00:00;IT0080;Eurdep;air;45.51;11.51;31.9;Italy;Véneto;Vicenza;Nogarazza;Vicenza;0.0;0.0
@@ -164,7 +164,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 07/07/17 00:00;ITVVF0032;Eurdep;air;42.4;12.85;0.0;Italy;0;0;0;Rieti1;0.0;0.0
 07/07/17 00:00;ITVVF0031;Eurdep;air;41.47;12.9;0.0;Italy;0;0;0;Latina1;0.0;0.0
 07/07/17 00:00;ITVVF0034;Eurdep;air;42.41;12.13;0.0;Italy;0;0;0;Viterbo1;0.0;0.0
-12/07/17 01:00;IT0062;Eurdep;air;45.95;12.68;24.4;Italy;Friuli-Venecia Julia;Pordenone;Pordenone;Pordenone;11.2;11.0
+12/07/17 00:00;IT0062;Eurdep;air;45.95;12.68;24.4;Italy;Friuli-Venecia Julia;Pordenone;Pordenone;Pordenone;0.0;0.0
 05/07/17 00:00;ITVVF0043;Eurdep;air;45.84;9.41;0.0;Italy;0;0;0;Lecco1;0.0;0.0
 06/07/17 00:00;ITVVF0104;Eurdep;air;45.79;13.58;0.0;Italy;0;0;0;Duino Aurisina;0.0;0.0
 06/07/17 00:00;ITVVF0105;Eurdep;air;45.6;13.78;0.0;Italy;0;0;0;Muggia;0.0;0.0
