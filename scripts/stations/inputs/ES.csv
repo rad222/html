@@ -1,46 +1,46 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-14/07/17 01:00;ES0001;Eurdep;air;42.45;-2.33;358.4;Spain;La Rioja;La Rioja;;AGONCILLO;12.3;13
-14/07/17 03:00;ES0002;Eurdep;air;40.92;0.75;108.1;Spain;Cataluña;Tarragona;;ALMADRABA;11.1;12
-14/07/17 02:00;ES0003;Eurdep;air;42.56;-6.6;541.9;Spain;Castilla y León;León;;PONFERRADA;12.0;12
-14/07/17 01:00;ES0004;Eurdep;air;38.03;-4.07;196.8;Spain;Andalucía;Jaén;;ANDUJAR;9.9;10
-14/07/17 03:00;ES0005;Eurdep;air;41.42;0.75;450.6;Spain;Cataluña;Lérida;;Ascó;12.0;12
-13/07/17 22:00;ES0006;Eurdep;air;42.0;-4.62;0.0;Spain;0;0;0;AUTILLA DEL PINO;12.0;12
-14/07/17 01:00;ES0008;Eurdep;air;39.17;-1.0;0.0;Spain;0;0;0;COFRENTES;13.4;14
-14/07/17 01:00;ES0009;Eurdep;air;39.33;-0.5;104.3;Spain;Comunidad Valenciana;Valencia;;CORTES DE PALLAS;15.9;16
-14/07/17 01:00;ES0010;Eurdep;air;39.17;-5.07;458.1;Spain;Extremadura;Badajoz;;HERRERA DEL DUQUE;18.0;18
-14/07/17 01:00;ES0011;Eurdep;air;37.28;-6.91;20.1;Spain;Andalucía;Huelva;;HUELVA;10.0;10
-14/07/17 01:00;ES0012;Eurdep;air;42.58;-0.54;831.9;Spain;Aragón;Huesca;Jaca;JACA;12.7;13
-14/07/17 01:00;ES0013;Eurdep;air;39.0;-1.01;0.0;Spain;Comunidad Valenciana;Valencia;Jalance;JALANCE;15.7;16
-14/07/17 01:00;ES0014;Eurdep;air;43.12;-7.46;428.9;Spain;Galicia;Lugo;;LUGO;12.0;12
-14/07/17 01:00;ES0015;Eurdep;air;40.4;-3.7;588.1;Spain;Comunidad de Madrid;Madrid;Madrid;MADRID-CIEMAT;19.0;19
-14/07/17 01:00;ES0016;Eurdep;air;36.7;-3.53;0.0;Spain;Andalucía;Granada;Motril;MOTRIL;12.0;12
-14/07/17 01:00;ES0017;Eurdep;air;38.0;-1.17;0.0;Spain;Murcia;Murcia;0;MURCIA;10.4;11
-14/07/17 01:00;ES0018;Eurdep;air;39.55;2.62;3.5;Spain;Islas Baleares;Islas Baleares;;PALMA MALLORCA;8.7;8
-14/07/17 01:00;ES0019;Eurdep;air;39.5;-1.17;721.8;Spain;Comunidad Valenciana;Valencia;;PEDRONES;13.0;13
-14/07/17 01:00;ES0020;Eurdep;air;42.58;-8.85;-0.8;Spain;Galicia;Pontevedra;;PONTEVEDRA;16.9;17
-13/07/17 22:00;ES0021;Eurdep;air;39.59;-3.05;685.8;Spain;Castilla-La Mancha;Toledo;Quintanar de la Orden;QUINTANAR;15.0;15
-14/07/17 01:00;ES0022;Eurdep;air;40.63;-6.63;628.3;Spain;Castilla y León;Salamanca;;SAELICES EL CHICO;16.9;18
-14/07/17 02:00;ES0023;Eurdep;air;43.32;-1.95;0.0;Spain;País Vasco;San Sebastián;0;SAN SEBASTIAN;9.8;9
-14/07/17 01:00;ES0024;Eurdep;air;43.48;-3.8;68.5;Spain;Cantabria;Cantabria;Santander;SANTANDER;11.0;11
-14/07/17 02:00;ES0025;Eurdep;air;37.4;-6.02;6.0;Spain;Andalucía;Sevilla;;SEVILLA;9.2;9
-13/07/17 22:00;ES0026;Eurdep;air;41.82;-2.37;0.0;Spain;0;0;0.0;SORIA;12.0;12
-14/07/17 01:00;ES0027;Eurdep;air;38.88;-6.75;176.1;Spain;Extremadura;Badajoz;;TALAVERA LA REAL;10.4;11
-14/07/17 01:00;ES0028;Eurdep;air;36.02;-5.6;56.2;Spain;Andalucía;Cádiz;Tarifa;TARIFA;12.0;12
-14/07/17 00:00;ES0029;Eurdep;air;28.45;-16.25;0.0;Spain;Islas Canarias;Tenerife;;TENERIFE;11.0;12
-14/07/17 01:00;ES0030;Eurdep;air;40.35;-1.12;881.1;Spain;Aragón;Teruel;;TERUEL;11.3;12
-10/07/17 00:00;ES0031;Eurdep;air;43.13;-3.0;0.0;Spain;País Vasco;Bilbao;0;BILBAO;0.0;0
-10/07/17 00:00;ES0032;Eurdep;air;42.92;-2.58;567.3;Spain;País Vasco;Álava;;VITORIA;0.0;0
-14/07/17 02:00;ES0033;Eurdep;air;43.35;-5.87;276.7;Spain;Principado de Asturias;Asturias;;OVIEDO;11.0;11
-10/07/17 00:00;ES0034;Eurdep;air;38.16;-6.65;563.4;Spain;Extremadura;Badajoz;;FREGENAL;0.0;0
-10/07/17 00:00;ES0036;Eurdep;air;39.85;-5.67;256.9;Spain;Extremadura;Cáceres;;SAUCEDILLA;0.0;0
-10/07/17 00:00;ES0037;Eurdep;air;39.82;-5.8;327.4;Spain;Extremadura;Cáceres;;Serrejón;0.0;0
-10/07/17 00:00;ES0038;Eurdep;air;39.8;-5.69;275.1;Spain;Extremadura;Cáceres;;ALMARAZ;0.0;0
-10/07/17 00:00;ES0039;Eurdep;air;39.47;-6.37;427.3;Spain;Extremadura;Cáceres;Cáceres;Cáceres;0.0;0
-10/07/17 00:00;ES0040;Eurdep;air;39.73;-5.74;0.0;Spain;0;0;0.0;MIRAVETE;0.0;0
-10/07/17 00:00;ES0041;Eurdep;air;39.89;-5.54;298.8;Spain;Extremadura;Cáceres;Navalmoral de la Mata;NAVALMORAL;0.0;0
-10/07/17 00:00;ES0042;Eurdep;air;39.74;-5.7;410.9;Spain;Extremadura;Cáceres;;ROMANGORDO;0.0;0
-10/07/17 00:00;ES0043;Eurdep;air;39.99;-5.61;302.2;Spain;Extremadura;Cáceres;Talayuela;TALAYUELA;0.0;0
-14/07/17 03:00;ES0044;Eurdep;air;41.39;2.19;5.4;Spain;Cataluña;Barcelona;Barcelona;BarcelonaH10;9.2;9
-14/07/17 03:00;ES0045;Eurdep;air;42.25;3.19;217.3;Spain;Cataluña;Girona;Roses;Roses H10;12.0;12
-14/07/17 03:00;ES0046;Eurdep;air;41.72;1.42;0.0;Spain;0;0;0.0;Pujalt;13.0;13
-10/07/17 00:00;ES0047;Eurdep;air;38.26;-5.68;588.9;Spain;Extremadura;Badajoz;Azuaga;Azuaga;0.0;0
+14/07/17 14:00;ES0001;Eurdep;air;42.45;-2.33;358.4;Spain;La Rioja;La Rioja;;AGONCILLO;12.0;12
+14/07/17 14:00;ES0002;Eurdep;air;40.92;0.75;108.1;Spain;Cataluña;Tarragona;;ALMADRABA;11.0;11
+14/07/17 13:00;ES0003;Eurdep;air;42.56;-6.6;541.9;Spain;Castilla y León;León;;PONFERRADA;12.6;13
+14/07/17 14:00;ES0004;Eurdep;air;38.03;-4.07;196.8;Spain;Andalucía;Jaén;;ANDUJAR;9.9;10
+14/07/17 14:00;ES0005;Eurdep;air;41.42;0.75;450.6;Spain;Cataluña;Lérida;;Ascó;11.9;12
+14/07/17 14:00;ES0006;Eurdep;air;42.0;-4.62;0.0;Spain;0;0;0;AUTILLA DEL PINO;11.9;12
+14/07/17 14:00;ES0008;Eurdep;air;39.17;-1.0;0.0;Spain;0;0;0;COFRENTES;13.2;14
+14/07/17 14:00;ES0009;Eurdep;air;39.33;-0.5;104.3;Spain;Comunidad Valenciana;Valencia;;CORTES DE PALLAS;15.9;16
+14/07/17 14:00;ES0010;Eurdep;air;39.17;-5.07;458.1;Spain;Extremadura;Badajoz;;HERRERA DEL DUQUE;18.2;19
+14/07/17 14:00;ES0011;Eurdep;air;37.28;-6.91;20.1;Spain;Andalucía;Huelva;;HUELVA;10.3;11
+14/07/17 14:00;ES0012;Eurdep;air;42.58;-0.54;831.9;Spain;Aragón;Huesca;Jaca;JACA;12.6;13
+14/07/17 14:00;ES0013;Eurdep;air;39.0;-1.01;0.0;Spain;Comunidad Valenciana;Valencia;Jalance;JALANCE;15.2;16
+14/07/17 14:00;ES0014;Eurdep;air;43.12;-7.46;428.9;Spain;Galicia;Lugo;;LUGO;12.0;12
+14/07/17 14:00;ES0015;Eurdep;air;40.4;-3.7;588.1;Spain;Comunidad de Madrid;Madrid;Madrid;MADRID-CIEMAT;19.0;19
+14/07/17 14:00;ES0016;Eurdep;air;36.7;-3.53;0.0;Spain;Andalucía;Granada;Motril;MOTRIL;12.0;12
+14/07/17 14:00;ES0017;Eurdep;air;38.0;-1.17;0.0;Spain;Murcia;Murcia;0;MURCIA;10.3;11
+14/07/17 14:00;ES0018;Eurdep;air;39.55;2.62;3.5;Spain;Islas Baleares;Islas Baleares;;PALMA MALLORCA;8.7;8
+14/07/17 14:00;ES0019;Eurdep;air;39.5;-1.17;721.8;Spain;Comunidad Valenciana;Valencia;;PEDRONES;13.4;14
+14/07/17 14:00;ES0020;Eurdep;air;42.58;-8.85;-0.8;Spain;Galicia;Pontevedra;;PONTEVEDRA;17.0;17
+14/07/17 14:00;ES0021;Eurdep;air;39.59;-3.05;685.8;Spain;Castilla-La Mancha;Toledo;Quintanar de la Orden;QUINTANAR;15.0;15
+14/07/17 14:00;ES0022;Eurdep;air;40.63;-6.63;628.3;Spain;Castilla y León;Salamanca;;SAELICES EL CHICO;15.4;16
+14/07/17 14:00;ES0023;Eurdep;air;43.32;-1.95;0.0;Spain;País Vasco;San Sebastián;0;SAN SEBASTIAN;9.8;9
+14/07/17 14:00;ES0024;Eurdep;air;43.48;-3.8;68.5;Spain;Cantabria;Cantabria;Santander;SANTANDER;11.0;11
+14/07/17 14:00;ES0025;Eurdep;air;37.4;-6.02;6.0;Spain;Andalucía;Sevilla;;SEVILLA;9.1;9
+14/07/17 14:00;ES0026;Eurdep;air;41.82;-2.37;0.0;Spain;0;0;0.0;SORIA;12.0;12
+14/07/17 12:00;ES0027;Eurdep;air;38.88;-6.75;176.1;Spain;Extremadura;Badajoz;;TALAVERA LA REAL;10.6;11
+14/07/17 14:00;ES0028;Eurdep;air;36.02;-5.6;56.2;Spain;Andalucía;Cádiz;Tarifa;TARIFA;12.0;12
+14/07/17 14:00;ES0029;Eurdep;air;28.45;-16.25;0.0;Spain;Islas Canarias;Tenerife;;TENERIFE;11.9;12
+14/07/17 14:00;ES0030;Eurdep;air;40.35;-1.12;881.1;Spain;Aragón;Teruel;;TERUEL;11.7;12
+14/07/17 14:00;ES0031;Eurdep;air;43.13;-3.0;0.0;Spain;País Vasco;Bilbao;0;BILBAO;7.4;7
+14/07/17 14:00;ES0032;Eurdep;air;42.92;-2.58;567.3;Spain;País Vasco;Álava;;VITORIA;7.8;7
+14/07/17 14:00;ES0033;Eurdep;air;43.35;-5.87;276.7;Spain;Principado de Asturias;Asturias;;OVIEDO;11.0;11
+14/07/17 09:00;ES0034;Eurdep;air;38.16;-6.65;563.4;Spain;Extremadura;Badajoz;;FREGENAL;8.8;9
+14/07/17 14:00;ES0036;Eurdep;air;39.85;-5.67;256.9;Spain;Extremadura;Cáceres;;SAUCEDILLA;13.1;14
+14/07/17 14:00;ES0037;Eurdep;air;39.82;-5.8;327.4;Spain;Extremadura;Cáceres;;Serrejón;10.8;11
+14/07/17 14:00;ES0038;Eurdep;air;39.8;-5.69;275.1;Spain;Extremadura;Cáceres;;ALMARAZ;13.3;14
+14/07/17 14:00;ES0039;Eurdep;air;39.47;-6.37;427.3;Spain;Extremadura;Cáceres;Cáceres;Cáceres;7.3;7
+14/07/17 14:00;ES0040;Eurdep;air;39.73;-5.74;0.0;Spain;0;0;0.0;MIRAVETE;11.7;12
+14/07/17 14:00;ES0041;Eurdep;air;39.89;-5.54;298.8;Spain;Extremadura;Cáceres;Navalmoral de la Mata;NAVALMORAL;11.7;12
+14/07/17 14:00;ES0042;Eurdep;air;39.74;-5.7;410.9;Spain;Extremadura;Cáceres;;ROMANGORDO;13.0;13
+14/07/17 14:00;ES0043;Eurdep;air;39.99;-5.61;302.2;Spain;Extremadura;Cáceres;Talayuela;TALAYUELA;13.4;14
+14/07/17 14:00;ES0044;Eurdep;air;41.39;2.19;5.4;Spain;Cataluña;Barcelona;Barcelona;BarcelonaH10;9.1;9
+14/07/17 14:00;ES0045;Eurdep;air;42.25;3.19;217.3;Spain;Cataluña;Girona;Roses;Roses H10;12.0;12
+14/07/17 14:00;ES0046;Eurdep;air;41.72;1.42;0.0;Spain;0;0;0.0;Pujalt;13.0;13
+14/07/17 14:00;ES0047;Eurdep;air;38.26;-5.68;588.9;Spain;Extremadura;Badajoz;Azuaga;Azuaga;7.7;7
