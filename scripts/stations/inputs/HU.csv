@@ -1,117 +1,117 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-15/07/17 18:00;HU0101;Eurdep;air;47.92;19.13;211.9;Hungary;Nógrád;Rétsági;Rétság;Retsag;10.1;10.3
-15/07/17 18:00;HU0104;Eurdep;air;48.22;20.27;0.0;Hungary;0;0;0;Ozd;10.0;11.8
-15/07/17 18:00;HU0109;Eurdep;air;46.35;18.71;92.6;Hungary;Tolna;Szekszárdi;Szekszárd;Szekszard;10.1;10.3
-15/07/17 18:00;HU0118;Eurdep;air;47.11;17.93;232.8;Hungary;Veszprém;Veszprémi;Veszprém;Veszprem;10.6;10.8
-15/07/17 18:00;HU0120;Eurdep;air;47.51;19.12;;Hungary;Budapest;Budapest;Budapest;Budapest okf;8.4;8.7
-15/07/17 18:00;HU0124;Eurdep;air;48.1;19.81;280.2;Hungary;Nógrád;Salgótarjáni;Salgótarján;Salgotarjan;10.7;11.0
-15/07/17 18:00;HU0130;Eurdep;air;46.94;20.84;81.5;Hungary;Békés;Szarvasi;Gyomaendrőd;Gyomaendrod;9.6;10.4
-15/07/17 18:00;HU0131;Eurdep;air;46.72;18.66;117.7;Hungary;Fejér;Sárbogárdi;Vajta;Vajta;8.8;9.0
-15/07/17 18:00;HU0132;Eurdep;air;47.44;19.25;139.7;Hungary;Budapest;Budapest;Budapest;Ferihegy;8.4;8.7
-15/07/17 18:00;HU0133;Eurdep;air;47.73;18.2;108.0;Hungary;Komárom-Esztergom;Komáromi;Komárom;Komarom;10.0;10.3
-15/07/17 18:00;HU0134;Eurdep;air;47.23;16.61;212.7;Hungary;Vas;Szombathelyi;Szombathely;Szombathely;10.6;10.8
-15/07/17 18:00;HU0135;Eurdep;air;46.8;19.01;93.1;Hungary;Bács-Kiskun;Kalocsai;Solt;Solt;8.8;8.0
-15/07/17 18:00;HU0136;Eurdep;air;46.85;16.84;150.4;Hungary;Zala;Zalaegerszegi;Zalaegerszeg;Zalaegerszeg;10.4;10.7
-15/07/17 18:00;HU0137;Eurdep;air;47.22;20.76;83.8;Hungary;Jász-Nagykun-Szolnok;Karcagi;Kisújszállás;Kisujszallas;11.0;11.7
-15/07/17 18:00;HU0138;Eurdep;air;47.21;21.54;92.4;Hungary;Hajdú-Bihar;Berettyóújfalui;Berettyóújfalu;Berettyoujfalu;11.8;12.5
-15/07/17 18:00;HU0139;Eurdep;air;47.46;21.41;98.2;Hungary;Hajdú-Bihar;Hajdúszoboszlói;Hajdúszoboszló;Hajduszoboszlo;12.1;12.5
-15/07/17 18:00;HU0140;Eurdep;air;46.65;21.28;86.0;Hungary;Békés;Gyulai;Gyula;Gyula;13.6;13.9
-15/07/17 18:00;HU0141;Eurdep;air;46.4;20.9;94.3;Hungary;Békés;Mezőkovácsházai;Mezőkovácsháza;Mezokovacshaza;11.5;13.0
-15/07/17 18:00;HU0142;Eurdep;air;46.71;19.86;95.0;Hungary;Bács-Kiskun;Kiskunfélegyházai;Kiskunfélegyháza;Kiskunfelegyhaza;9.3;9.8
-15/07/17 18:00;HU0143;Eurdep;air;47.98;18.78;117.8;Hungary;Pest;Szobi;Vámosmikola;Vamosmikola;11.7;12.1
-15/07/17 18:00;HU0144;Eurdep;air;47.38;18.21;202.3;Hungary;Fejér;Móri;Mór;Mor;12.8;13.4
-15/07/17 18:00;HU0145;Eurdep;air;46.92;18.09;112.3;Hungary;Somogy;Siófoki;Siófok;Siofok;10.6;10.8
-15/07/17 18:00;HU0146;Eurdep;air;46.39;18.15;128.1;Hungary;Tolna;Dombóvári;Dombóvár;Dombovar;10.2;10.8
-15/07/17 18:00;HU0147;Eurdep;air;46.42;16.74;140.4;Hungary;Zala;Letenyei;Letenye;Letenye;10.9;11.0
-15/07/17 18:00;HU0148;Eurdep;air;46.63;16.53;164.6;Hungary;Zala;Lenti;Lenti;Lenti;10.7;11.1
-15/07/17 18:00;HU0149;Eurdep;air;47.92;21.03;93.4;Hungary;Borsod-Abaúj-Zemplén;Tiszaújvárosi;Tiszaújváros;Tiszaujvaros;11.7;13.8
-15/07/17 18:00;HU0201;Eurdep;air;46.24;18.58;122.2;Hungary;Tolna;Bonyhádi;Cikó;Bataapati - zsibrik halasto;13.1;13.7
-15/07/17 18:00;HU0202;Eurdep;air;46.21;18.64;190.5;Hungary;Tolna;Bonyhádi;Mórágy;Bataapati - moragy;15.9;16.5
-15/07/17 18:00;HU0203;Eurdep;air;46.24;18.62;120.6;Hungary;Tolna;Bonyhádi;Mórágy;Bataapati - utelagazas;14.5;15.3
-15/07/17 18:00;HU0211;Eurdep;air;47.48;19.06;98.1;Hungary;Budapest;Budapest;Budapest;Budepest bme;8.8;9.0
-15/07/17 18:00;HU0212;Eurdep;air;47.48;19.06;98.1;Hungary;Budapest;Budapest;Budapest;Budapest elte;5.9;6.2
-15/07/17 18:00;HU0213;Eurdep;air;47.48;19.08;106.3;Hungary;Budapest;Budapest;Budapest;Budapest sote;10.1;10.3
-15/07/17 18:00;HU0214;Eurdep;air;47.54;21.62;120.6;Hungary;Hajdú-Bihar;Debreceni;Debrecen;Debrecen;9.7;9.9
-15/07/17 18:00;HU0215;Eurdep;air;47.59;19.36;208.1;Hungary;Pest;Gödöllői;Gödöllő;Godollo;9.4;9.6
-15/07/17 18:00;HU0217;Eurdep;air;46.07;18.23;129.6;Hungary;Baranya;Pécsi;Pécs;Pecs;9.5;9.6
-15/07/17 18:00;HU0218;Eurdep;air;47.68;16.58;0.0;Hungary;0;0;0;Sopron;9.4;9.8
-15/07/17 18:00;HU0219;Eurdep;air;46.25;20.15;85.8;Hungary;Csongrád;Szegedi;Szeged;Szeged-radkem tanszek;9.9;10.1
+16/07/17 05:00;HU0101;Eurdep;air;47.92;19.13;211.9;Hungary;Nógrád;Rétsági;Rétság;Retsag;10.1;10.3
+16/07/17 05:00;HU0104;Eurdep;air;48.22;20.27;0.0;Hungary;0;0;0;Ozd;9.9;11.8
+16/07/17 05:00;HU0109;Eurdep;air;46.35;18.71;92.6;Hungary;Tolna;Szekszárdi;Szekszárd;Szekszard;10.1;10.3
+16/07/17 05:00;HU0118;Eurdep;air;47.11;17.93;232.8;Hungary;Veszprém;Veszprémi;Veszprém;Veszprem;10.5;10.8
+16/07/17 05:00;HU0120;Eurdep;air;47.51;19.12;;Hungary;Budapest;Budapest;Budapest;Budapest okf;8.4;8.7
+16/07/17 05:00;HU0124;Eurdep;air;48.1;19.81;280.2;Hungary;Nógrád;Salgótarjáni;Salgótarján;Salgotarjan;10.6;11.0
+16/07/17 05:00;HU0130;Eurdep;air;46.94;20.84;81.5;Hungary;Békés;Szarvasi;Gyomaendrőd;Gyomaendrod;9.3;10.2
+16/07/17 05:00;HU0131;Eurdep;air;46.72;18.66;117.7;Hungary;Fejér;Sárbogárdi;Vajta;Vajta;8.8;9.0
+16/07/17 05:00;HU0132;Eurdep;air;47.44;19.25;139.7;Hungary;Budapest;Budapest;Budapest;Ferihegy;8.4;8.7
+16/07/17 05:00;HU0133;Eurdep;air;47.73;18.2;108.0;Hungary;Komárom-Esztergom;Komáromi;Komárom;Komarom;10.1;10.3
+16/07/17 05:00;HU0134;Eurdep;air;47.23;16.61;212.7;Hungary;Vas;Szombathelyi;Szombathely;Szombathely;10.6;10.8
+16/07/17 05:00;HU0135;Eurdep;air;46.8;19.01;93.1;Hungary;Bács-Kiskun;Kalocsai;Solt;Solt;8.8;8.9
+16/07/17 05:00;HU0136;Eurdep;air;46.85;16.84;150.4;Hungary;Zala;Zalaegerszegi;Zalaegerszeg;Zalaegerszeg;10.2;10.5
+16/07/17 05:00;HU0137;Eurdep;air;47.22;20.76;83.8;Hungary;Jász-Nagykun-Szolnok;Karcagi;Kisújszállás;Kisujszallas;10.9;11.7
+16/07/17 05:00;HU0138;Eurdep;air;47.21;21.54;92.4;Hungary;Hajdú-Bihar;Berettyóújfalui;Berettyóújfalu;Berettyoujfalu;11.8;12.5
+16/07/17 05:00;HU0139;Eurdep;air;47.46;21.41;98.2;Hungary;Hajdú-Bihar;Hajdúszoboszlói;Hajdúszoboszló;Hajduszoboszlo;12.0;12.5
+16/07/17 05:00;HU0140;Eurdep;air;46.65;21.28;86.0;Hungary;Békés;Gyulai;Gyula;Gyula;13.6;13.8
+16/07/17 05:00;HU0141;Eurdep;air;46.4;20.9;94.3;Hungary;Békés;Mezőkovácsházai;Mezőkovácsháza;Mezokovacshaza;11.4;13.0
+16/07/17 05:00;HU0142;Eurdep;air;46.71;19.86;95.0;Hungary;Bács-Kiskun;Kiskunfélegyházai;Kiskunfélegyháza;Kiskunfelegyhaza;9.3;9.8
+16/07/17 05:00;HU0143;Eurdep;air;47.98;18.78;117.8;Hungary;Pest;Szobi;Vámosmikola;Vamosmikola;11.8;12.1
+16/07/17 05:00;HU0144;Eurdep;air;47.38;18.21;202.3;Hungary;Fejér;Móri;Mór;Mor;12.8;13.4
+16/07/17 05:00;HU0145;Eurdep;air;46.92;18.09;112.3;Hungary;Somogy;Siófoki;Siófok;Siofok;10.6;10.8
+16/07/17 05:00;HU0146;Eurdep;air;46.39;18.15;128.1;Hungary;Tolna;Dombóvári;Dombóvár;Dombovar;10.1;10.8
+16/07/17 05:00;HU0147;Eurdep;air;46.42;16.74;140.4;Hungary;Zala;Letenyei;Letenye;Letenye;10.8;11.1
+16/07/17 05:00;HU0148;Eurdep;air;46.63;16.53;164.6;Hungary;Zala;Lenti;Lenti;Lenti;10.7;11.1
+16/07/17 05:00;HU0149;Eurdep;air;47.92;21.03;93.4;Hungary;Borsod-Abaúj-Zemplén;Tiszaújvárosi;Tiszaújváros;Tiszaujvaros;11.5;13.8
+16/07/17 05:00;HU0201;Eurdep;air;46.24;18.58;122.2;Hungary;Tolna;Bonyhádi;Cikó;Bataapati - zsibrik halasto;13.0;13.7
+16/07/17 05:00;HU0202;Eurdep;air;46.21;18.64;190.5;Hungary;Tolna;Bonyhádi;Mórágy;Bataapati - moragy;15.8;16.5
+16/07/17 05:00;HU0203;Eurdep;air;46.24;18.62;120.6;Hungary;Tolna;Bonyhádi;Mórágy;Bataapati - utelagazas;14.4;14.9
+16/07/17 05:00;HU0211;Eurdep;air;47.48;19.06;98.1;Hungary;Budapest;Budapest;Budapest;Budepest bme;8.8;9.0
+16/07/17 05:00;HU0212;Eurdep;air;47.48;19.06;98.1;Hungary;Budapest;Budapest;Budapest;Budapest elte;5.9;6.2
+16/07/17 05:00;HU0213;Eurdep;air;47.48;19.08;106.3;Hungary;Budapest;Budapest;Budapest;Budapest sote;10.0;10.2
+16/07/17 05:00;HU0214;Eurdep;air;47.54;21.62;120.6;Hungary;Hajdú-Bihar;Debreceni;Debrecen;Debrecen;9.7;9.9
+16/07/17 05:00;HU0215;Eurdep;air;47.59;19.36;208.1;Hungary;Pest;Gödöllői;Gödöllő;Godollo;9.4;9.6
+16/07/17 05:00;HU0217;Eurdep;air;46.07;18.23;129.6;Hungary;Baranya;Pécsi;Pécs;Pecs;9.5;9.5
+16/07/17 05:00;HU0218;Eurdep;air;47.68;16.58;0.0;Hungary;0;0;0;Sopron;9.4;9.8
+16/07/17 05:00;HU0219;Eurdep;air;46.25;20.15;85.8;Hungary;Csongrád;Szegedi;Szeged;Szeged-radkem tanszek;9.9;10.1
 01/07/17 00:00;HU0220;Eurdep;air;46.25;20.15;85.8;Hungary;Csongrád;Szegedi;Szeged;Szeged-orvostud. kar;0.0;0.0
-15/07/17 18:00;HU0221;Eurdep;air;47.09;17.9;271.2;Hungary;Veszprém;Veszprémi;Veszprém;Veszprem;7.0;8.0
+16/07/17 05:00;HU0221;Eurdep;air;47.09;17.9;271.2;Hungary;Veszprém;Veszprémi;Veszprém;Veszprem;7.8;8.0
 01/07/17 00:00;HU0223;Eurdep;air;47.23;16.61;212.7;Hungary;Vas;Szombathelyi;Szombathely;Szombathely;0.0;0.0
 28/06/17 00:00;HU0301;Eurdep;air;45.88;18.25;172.1;Hungary;Baranya;Siklósi;Siklós;Siklos;0.0;0.0
-15/07/17 15:00;HU0302;Eurdep;air;47.22;18.42;135.1;Hungary;Fejér;Székesfehérvári;Székesfehérvár;Szekesfehervar;8.3;8.8
-15/07/17 14:00;HU0303;Eurdep;air;47.12;17.92;202.2;Hungary;Veszprém;Veszprémi;Veszprém;Veszprem;7.8;7.9
-15/07/17 14:00;HU0304;Eurdep;air;47.67;18.33;135.1;Hungary;Komárom-Esztergom;Tatai;Tata;Tata;16.4;16.8
-15/07/17 15:00;HU0305;Eurdep;air;47.7;17.7;112.4;Hungary;Győr-Moson-Sopron;Győri;Győr;Gyor;8.2;8.3
-15/07/17 14:00;HU0307;Eurdep;air;47.2;18.13;193.2;Hungary;Veszprém;Várpalotai;Várpalota;Varpalota;9.2;9.5
-15/07/17 14:00;HU0310;Eurdep;air;47.53;21.6;113.0;Hungary;Hajdú-Bihar;Debreceni;Debrecen;Debrecen;9.0;9.3
-15/07/17 14:00;HU0311;Eurdep;air;47.07;19.45;125.3;Hungary;Pest;Dabasi;Táborfalva;Taborfalva;8.1;8.3
-15/07/17 12:00;HU0312;Eurdep;air;46.42;20.37;78.1;Hungary;Csongrád;Hódmezővásárhelyi;Hódmezővásárhely;Hodmezovasarhely;9.7;9.8
-15/07/17 12:00;HU0313;Eurdep;air;47.65;19.07;104.5;Hungary;Pest;Szentendrei;Szentendre;Szentendre;10.5;10.8
-15/07/17 15:00;HU0316;Eurdep;air;46.37;17.78;151.8;Hungary;Somogy;Kaposvári;Kaposvár;Kaposvar;12.5;13.1
-15/07/17 14:00;HU0322;Eurdep;air;46.47;18.62;176.7;Hungary;Tolna;Szekszárdi;Medina;Medina;9.8;9.9
-15/07/17 14:00;HU0326;Eurdep;air;47.83;19.67;153.0;Hungary;Nógrád;Pásztói;Jobbágyi;Jobbagyi;8.8;9.0
-15/07/17 14:00;HU0328;Eurdep;air;46.9;19.73;110.8;Hungary;Bács-Kiskun;Kecskeméti;Kecskemét;Kecskemet;7.9;8.1
-15/07/17 14:00;HU0329;Eurdep;air;46.67;20.25;77.3;Hungary;Csongrád;Szentesi;Szentes;Szentes;9.0;9.6
-15/07/17 12:00;HU0330;Eurdep;air;47.47;19.17;136.7;Hungary;Budapest;Budapest;Budapest;Budapest vvr;9.5;9.7
-15/07/17 14:00;HU0332;Eurdep;air;46.83;16.82;220.7;Hungary;Zala;Zalaegerszegi;Zalaegerszeg;Zalaegerszeg;10.4;10.7
-15/07/17 02:00;HU0333;Eurdep;air;48.1;20.78;0.0;Hungary;0;0;0;Miskolc;9.7;9.9
-15/07/17 14:00;HU0335;Eurdep;air;46.67;21.08;85.1;Hungary;Békés;Békéscsabai;Békéscsaba;Bekescsaba;9.8;10.1
-15/07/17 14:00;HU0337;Eurdep;air;47.35;17.48;142.6;Hungary;Veszprém;Pápai;Pápa;Papa;9.0;9.1
-15/07/17 14:00;HU0338;Eurdep;air;46.33;18.7;93.6;Hungary;Tolna;Szekszárdi;Szekszárd;Szekszard;14.6;15.1
-15/07/17 12:00;HU0339;Eurdep;air;47.43;18.95;224.2;Hungary;Pest;Budaörsi;Törökbálint;Budapest 1 (?rezred);10.1;10.3
-15/07/17 14:00;HU0344;Eurdep;air;47.51;19.05;105.7;Hungary;Budapest;Budapest;Budapest;Budapest hm i;8.3;8.9
-15/07/17 12:00;HU0346;Eurdep;air;47.52;18.94;310.4;Hungary;Budapest;Budapest;Budapest;Budakeszi;11.7;12.0
+16/07/17 03:00;HU0302;Eurdep;air;47.22;18.42;135.1;Hungary;Fejér;Székesfehérvári;Székesfehérvár;Szekesfehervar;8.1;8.4
+16/07/17 02:00;HU0303;Eurdep;air;47.12;17.92;202.2;Hungary;Veszprém;Veszprémi;Veszprém;Veszprem;7.8;7.9
+16/07/17 02:00;HU0304;Eurdep;air;47.67;18.33;135.1;Hungary;Komárom-Esztergom;Tatai;Tata;Tata;16.3;16.7
+15/07/17 20:00;HU0305;Eurdep;air;47.7;17.7;112.4;Hungary;Győr-Moson-Sopron;Győri;Győr;Gyor;8.2;8.3
+16/07/17 02:00;HU0307;Eurdep;air;47.2;18.13;193.2;Hungary;Veszprém;Várpalotai;Várpalota;Varpalota;9.2;9.5
+16/07/17 02:00;HU0310;Eurdep;air;47.53;21.6;113.0;Hungary;Hajdú-Bihar;Debreceni;Debrecen;Debrecen;9.0;9.3
+16/07/17 02:00;HU0311;Eurdep;air;47.07;19.45;125.3;Hungary;Pest;Dabasi;Táborfalva;Taborfalva;8.1;8.3
+16/07/17 00:00;HU0312;Eurdep;air;46.42;20.37;78.1;Hungary;Csongrád;Hódmezővásárhelyi;Hódmezővásárhely;Hodmezovasarhely;9.8;10.3
+16/07/17 00:00;HU0313;Eurdep;air;47.65;19.07;104.5;Hungary;Pest;Szentendrei;Szentendre;Szentendre;10.5;10.8
+16/07/17 03:00;HU0316;Eurdep;air;46.37;17.78;151.8;Hungary;Somogy;Kaposvári;Kaposvár;Kaposvar;12.6;13.1
+16/07/17 02:00;HU0322;Eurdep;air;46.47;18.62;176.7;Hungary;Tolna;Szekszárdi;Medina;Medina;9.9;10.2
+16/07/17 02:00;HU0326;Eurdep;air;47.83;19.67;153.0;Hungary;Nógrád;Pásztói;Jobbágyi;Jobbagyi;8.8;9.0
+16/07/17 02:00;HU0328;Eurdep;air;46.9;19.73;110.8;Hungary;Bács-Kiskun;Kecskeméti;Kecskemét;Kecskemet;7.9;8.1
+16/07/17 02:00;HU0329;Eurdep;air;46.67;20.25;77.3;Hungary;Csongrád;Szentesi;Szentes;Szentes;9.1;9.6
+16/07/17 00:00;HU0330;Eurdep;air;47.47;19.17;136.7;Hungary;Budapest;Budapest;Budapest;Budapest vvr;9.5;9.7
+16/07/17 02:00;HU0332;Eurdep;air;46.83;16.82;220.7;Hungary;Zala;Zalaegerszegi;Zalaegerszeg;Zalaegerszeg;10.3;10.5
+16/07/17 02:00;HU0333;Eurdep;air;48.1;20.78;0.0;Hungary;0;0;0;Miskolc;9.6;9.9
+16/07/17 02:00;HU0335;Eurdep;air;46.67;21.08;85.1;Hungary;Békés;Békéscsabai;Békéscsaba;Bekescsaba;10.0;10.8
+16/07/17 02:00;HU0337;Eurdep;air;47.35;17.48;142.6;Hungary;Veszprém;Pápai;Pápa;Papa;9.0;9.1
+16/07/17 02:00;HU0338;Eurdep;air;46.33;18.7;93.6;Hungary;Tolna;Szekszárdi;Szekszárd;Szekszard;14.6;14.9
+16/07/17 00:00;HU0339;Eurdep;air;47.43;18.95;224.2;Hungary;Pest;Budaörsi;Törökbálint;Budapest 1 (?rezred);10.1;10.3
+15/07/17 14:00;HU0344;Eurdep;air;47.51;19.05;105.7;Hungary;Budapest;Budapest;Budapest;Budapest hm i;8.4;8.9
+16/07/17 00:00;HU0346;Eurdep;air;47.52;18.94;310.4;Hungary;Budapest;Budapest;Budapest;Budakeszi;11.6;12.0
 04/07/17 00:00;HU0348;Eurdep;air;47.15;19.47;129.0;Hungary;Pest;Dabasi;Pusztavacs;Pusztavacs;0.0;0.0
-15/07/17 12:00;HU0350;Eurdep;air;47.59;19.08;105.3;Hungary;Budapest;Budapest;Budapest;Budapest thhe;9.1;9.4
-15/07/17 14:00;HU0351;Eurdep;air;47.93;20.11;185.4;Hungary;Heves;Pétervásárai;Recsk;Recsk;9.3;9.9
+15/07/17 18:00;HU0350;Eurdep;air;47.59;19.08;105.3;Hungary;Budapest;Budapest;Budapest;Budapest thhe;9.0;9.4
+15/07/17 20:00;HU0351;Eurdep;air;47.93;20.11;185.4;Hungary;Heves;Pétervásárai;Recsk;Recsk;9.7;11.4
 25/06/17 00:00;HU0355;Eurdep;air;47.12;20.23;87.9;Hungary;Jász-Nagykun-Szolnok;Szolnoki;Szolnok;Szolnok repuloter;0.0;0.0
-15/07/17 15:00;HU0356;Eurdep;air;46.91;19.75;110.4;Hungary;Bács-Kiskun;Kecskeméti;Kecskemét;Kecskemet repuloter;7.7;8.0
-15/07/17 14:00;HU0357;Eurdep;air;47.36;17.5;143.8;Hungary;Veszprém;Pápai;Nagygyimót;Papa repuloter;9.9;10.3
-15/07/17 14:00;HU0358;Eurdep;air;47.12;20.23;87.9;Hungary;Jász-Nagykun-Szolnok;Szolnoki;Szolnok;Szolnok repuloter;9.5;9.6
-15/07/17 14:00;HU0389;Eurdep;air;47.88;19.55;193.0;Hungary;Nógrád;Pásztói;Buják;Bujak;9.3;9.5
-15/07/17 14:00;HU0391;Eurdep;air;48.05;20.29;376.6;Hungary;Heves;Bélapátfalvai;Mikófalva;Bankut;9.6;9.0
-15/07/17 18:00;HU0400;Eurdep;air;47.89;17.27;118.5;Hungary;Győr-Moson-Sopron;Mosonmagyaróvári;Mosonmagyaróvár;Mosonmagyarovar;10.2;10.5
-15/07/17 18:00;HU0401;Eurdep;air;47.96;21.89;113.7;Hungary;Szabolcs-Szatmár-Bereg;Nyíregyházai;Napkor;Nyiregyhaza napkor;7.5;7.8
-15/07/17 18:00;HU0402;Eurdep;air;47.72;16.65;151.4;Hungary;Győr-Moson-Sopron;Sopron–Fertődi;Fertőrákos;Sopron;7.7;7.9
-15/07/17 18:00;HU0403;Eurdep;air;46.18;19.02;109.9;Hungary;Bács-Kiskun;Bajai;Baja;Baja;8.1;8.5
-15/07/17 18:00;HU0407;Eurdep;air;47.72;17.68;109.7;Hungary;Győr-Moson-Sopron;Győri;Győr;Gyor;8.3;8.5
-15/07/17 18:00;HU0408;Eurdep;air;46.92;16.32;313.5;Hungary;Vas;Szentgotthárdi;Szentgotthárd;Farkasfa;10.2;10.5
-15/07/17 18:00;HU0409;Eurdep;air;46.25;20.1;0.0;Hungary;0;0;0;Szeged;8.1;8.5
-15/07/17 18:00;HU0411;Eurdep;air;48.1;20.77;0.0;Hungary;0;0;0;Miskolc;7.7;7.8
-15/07/17 18:00;HU0414;Eurdep;air;48.1;19.52;150.3;Hungary;Nógrád;Szécsényi;Szécsény;Szecseny;9.9;10.5
-15/07/17 18:00;HU0415;Eurdep;air;47.76;18.6;102.0;Hungary;Región de Nitra;Distrito de Nové Zámky;Nyergesújfalu;Tat;9.2;9.6
-15/07/17 18:00;HU0417;Eurdep;air;48.4;22.18;104.0;Hungary;Szabolcs-Szatmár-Bereg;Záhonyi;Záhony;Zahony;7.3;7.5
-15/07/17 18:00;HU0418;Eurdep;air;46.45;16.97;137.6;Hungary;Zala;Nagykanizsai;Nagykanizsa;Nagykanizsa;9.4;9.6
-15/07/17 18:00;HU0419;Eurdep;air;46.1;17.53;0.0;Hungary;0;0;0;Homokszentgyorgy;8.6;8.8
-15/07/17 18:00;HU0420;Eurdep;air;47.52;20.15;0.0;Hungary;0;0;0;Jaszapati;8.9;9.3
-15/07/17 18:00;HU0421;Eurdep;air;46.2;19.61;125.4;Hungary;Bács-Kiskun;Kiskunhalasi;Kelebia;Kelebia;7.4;7.5
-15/07/17 18:00;HU0424;Eurdep;air;46.32;20.74;91.4;Hungary;Csongrád;Makói;Pitvaros;Pitvaros;10.6;11.5
-15/07/17 18:00;HU0425;Eurdep;air;48.38;21.66;97.5;Hungary;Borsod-Abaúj-Zemplén;Sátoraljaújhelyi;Sátoraljaújhely;Satoraljaujhely;9.5;9.6
-15/07/17 18:00;HU0426;Eurdep;air;46.59;19.34;103.6;Hungary;Bács-Kiskun;Kiskőrösi;Soltvadkert;Soltvadkert;7.3;7.5
-15/07/17 18:00;HU0427;Eurdep;air;48.03;18.83;121.3;Hungary;Pest;Szobi;Tésa;Tesa;8.8;9.0
-15/07/17 18:00;HU0428;Eurdep;air;46.22;18.6;177.3;Hungary;Tolna;Bonyhádi;Bátaapáti;Bataapati;13.7;14.1
-15/07/17 18:00;HU0502;Eurdep;air;46.58;18.88;86.0;Hungary;Bács-Kiskun;Kalocsai;Dunaszentbenedek;Paks a3;8.1;8.2
-15/07/17 18:00;HU0517;Eurdep;air;46.58;18.87;89.4;Hungary;Tolna;Paksi;Paks;Paks g9;8.5;8.7
-15/07/17 14:00;HU0359;Eurdep;air;48.02;21.64;107.6;Hungary;Szabolcs-Szatmár-Bereg;Nyíregyházai;Nyírtelek;Nyirtelek;10.0;10.4
-15/07/17 12:00;HU0349;Eurdep;air;47.45;19.19;0.0;Hungary;0;0;0;Budapest htek;7.7;7.8
-15/07/17 18:00;HU0406;Eurdep;air;47.43;19.18;0.0;Hungary;0;0;0;Budapest lorinc;8.4;8.6
-15/07/17 18:00;HU0500;Eurdep;air;46.59;18.85;95.0;Hungary;Tolna;Paksi;Paks;Paks a1;7.4;7.5
-15/07/17 18:00;HU0501;Eurdep;air;46.59;18.86;89.9;Hungary;Tolna;Paksi;Paks;Paks a2;7.2;7.3
-15/07/17 18:00;HU0503;Eurdep;air;46.57;18.86;97.5;Hungary;Tolna;Paksi;Paks;Paks a4;7.8;8.0
-15/07/17 18:00;HU0504;Eurdep;air;46.57;18.84;96.4;Hungary;Tolna;Paksi;Paks;Paks a5;8.6;8.7
-15/07/17 18:00;HU0505;Eurdep;air;46.57;18.83;97.2;Hungary;Tolna;Paksi;Paks;Paks a6;7.3;7.5
-15/07/17 18:00;HU0506;Eurdep;air;46.58;18.84;100.7;Hungary;Tolna;Paksi;Paks;Paks a7;7.0;7.2
-15/07/17 18:00;HU0507;Eurdep;air;46.57;18.87;86.0;Hungary;Tolna;Paksi;Paks;Paks a8;8.4;8.6
-15/07/17 18:00;HU0508;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks a9;7.3;7.6
-15/07/17 18:00;HU0509;Eurdep;air;46.59;18.85;95.0;Hungary;Tolna;Paksi;Paks;Paks g1;7.1;7.2
-15/07/17 18:00;HU0510;Eurdep;air;46.58;18.84;100.7;Hungary;Tolna;Paksi;Paks;Paks g2;6.9;7.0
-15/07/17 18:00;HU0511;Eurdep;air;46.58;18.84;100.7;Hungary;Tolna;Paksi;Paks;Paks g3;7.3;7.5
-15/07/17 18:00;HU0512;Eurdep;air;46.57;18.83;97.2;Hungary;Tolna;Paksi;Paks;Paks g4;7.8;7.9
-15/07/17 18:00;HU0513;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks g5;7.4;7.6
-15/07/17 18:00;HU0514;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks g6;7.0;7.2
-15/07/17 18:00;HU0515;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks g7;8.0;8.3
-15/07/17 18:00;HU0516;Eurdep;air;46.57;18.86;97.5;Hungary;Tolna;Paksi;Paks;Paks g8;8.5;8.8
-15/07/17 18:00;HU0518;Eurdep;air;46.58;18.87;89.4;Hungary;Tolna;Paksi;Paks;Paks g10;7.3;7.4
-15/07/17 18:00;HU0519;Eurdep;air;46.59;18.86;89.9;Hungary;Tolna;Paksi;Paks;Paks g11;7.3;7.4
+15/07/17 21:00;HU0356;Eurdep;air;46.91;19.75;110.4;Hungary;Bács-Kiskun;Kecskeméti;Kecskemét;Kecskemet repuloter;7.6;7.8
+15/07/17 21:00;HU0357;Eurdep;air;47.36;17.5;143.8;Hungary;Veszprém;Pápai;Nagygyimót;Papa repuloter;9.8;10.1
+15/07/17 14:00;HU0358;Eurdep;air;47.12;20.23;87.9;Hungary;Jász-Nagykun-Szolnok;Szolnoki;Szolnok;Szolnok repuloter;9.4;9.5
+15/07/17 22:00;HU0389;Eurdep;air;47.88;19.55;193.0;Hungary;Nógrád;Pásztói;Buják;Bujak;9.3;9.5
+16/07/17 02:00;HU0391;Eurdep;air;48.05;20.29;376.6;Hungary;Heves;Bélapátfalvai;Mikófalva;Bankut;9.5;9.6
+16/07/17 05:00;HU0400;Eurdep;air;47.89;17.27;118.5;Hungary;Győr-Moson-Sopron;Mosonmagyaróvári;Mosonmagyaróvár;Mosonmagyarovar;10.2;10.6
+16/07/17 05:00;HU0401;Eurdep;air;47.96;21.89;113.7;Hungary;Szabolcs-Szatmár-Bereg;Nyíregyházai;Napkor;Nyiregyhaza napkor;7.4;7.8
+16/07/17 05:00;HU0402;Eurdep;air;47.72;16.65;151.4;Hungary;Győr-Moson-Sopron;Sopron–Fertődi;Fertőrákos;Sopron;7.7;7.9
+16/07/17 05:00;HU0403;Eurdep;air;46.18;19.02;109.9;Hungary;Bács-Kiskun;Bajai;Baja;Baja;8.1;8.5
+16/07/17 05:00;HU0407;Eurdep;air;47.72;17.68;109.7;Hungary;Győr-Moson-Sopron;Győri;Győr;Gyor;8.3;8.4
+16/07/17 05:00;HU0408;Eurdep;air;46.92;16.32;313.5;Hungary;Vas;Szentgotthárdi;Szentgotthárd;Farkasfa;10.2;10.5
+16/07/17 05:00;HU0409;Eurdep;air;46.25;20.1;0.0;Hungary;0;0;0;Szeged;8.1;8.5
+16/07/17 05:00;HU0411;Eurdep;air;48.1;20.77;0.0;Hungary;0;0;0;Miskolc;7.7;7.8
+16/07/17 05:00;HU0414;Eurdep;air;48.1;19.52;150.3;Hungary;Nógrád;Szécsényi;Szécsény;Szecseny;9.7;10.1
+16/07/17 05:00;HU0415;Eurdep;air;47.76;18.6;102.0;Hungary;Región de Nitra;Distrito de Nové Zámky;Nyergesújfalu;Tat;9.2;9.6
+16/07/17 05:00;HU0417;Eurdep;air;48.4;22.18;104.0;Hungary;Szabolcs-Szatmár-Bereg;Záhonyi;Záhony;Zahony;7.3;7.4
+16/07/17 05:00;HU0418;Eurdep;air;46.45;16.97;137.6;Hungary;Zala;Nagykanizsai;Nagykanizsa;Nagykanizsa;9.3;9.6
+16/07/17 05:00;HU0419;Eurdep;air;46.1;17.53;0.0;Hungary;0;0;0;Homokszentgyorgy;8.5;8.6
+16/07/17 05:00;HU0420;Eurdep;air;47.52;20.15;0.0;Hungary;0;0;0;Jaszapati;8.8;9.3
+16/07/17 05:00;HU0421;Eurdep;air;46.2;19.61;125.4;Hungary;Bács-Kiskun;Kiskunhalasi;Kelebia;Kelebia;7.4;7.5
+16/07/17 05:00;HU0424;Eurdep;air;46.32;20.74;91.4;Hungary;Csongrád;Makói;Pitvaros;Pitvaros;10.6;11.5
+16/07/17 05:00;HU0425;Eurdep;air;48.38;21.66;97.5;Hungary;Borsod-Abaúj-Zemplén;Sátoraljaújhelyi;Sátoraljaújhely;Satoraljaujhely;9.5;9.6
+16/07/17 05:00;HU0426;Eurdep;air;46.59;19.34;103.6;Hungary;Bács-Kiskun;Kiskőrösi;Soltvadkert;Soltvadkert;7.3;7.4
+16/07/17 05:00;HU0427;Eurdep;air;48.03;18.83;121.3;Hungary;Pest;Szobi;Tésa;Tesa;8.7;9.0
+16/07/17 05:00;HU0428;Eurdep;air;46.22;18.6;177.3;Hungary;Tolna;Bonyhádi;Bátaapáti;Bataapati;13.6;14.1
+16/07/17 05:00;HU0502;Eurdep;air;46.58;18.88;86.0;Hungary;Bács-Kiskun;Kalocsai;Dunaszentbenedek;Paks a3;8.1;8.2
+16/07/17 05:00;HU0517;Eurdep;air;46.58;18.87;89.4;Hungary;Tolna;Paksi;Paks;Paks g9;8.5;8.6
+15/07/17 20:00;HU0359;Eurdep;air;48.02;21.64;107.6;Hungary;Szabolcs-Szatmár-Bereg;Nyíregyházai;Nyírtelek;Nyirtelek;10.2;10.5
+15/07/17 18:00;HU0349;Eurdep;air;47.45;19.19;0.0;Hungary;0;0;0;Budapest htek;7.7;7.8
+16/07/17 05:00;HU0406;Eurdep;air;47.43;19.18;0.0;Hungary;0;0;0;Budapest lorinc;8.4;8.6
+16/07/17 05:00;HU0500;Eurdep;air;46.59;18.85;95.0;Hungary;Tolna;Paksi;Paks;Paks a1;7.4;7.5
+16/07/17 05:00;HU0501;Eurdep;air;46.59;18.86;89.9;Hungary;Tolna;Paksi;Paks;Paks a2;7.1;7.2
+16/07/17 05:00;HU0503;Eurdep;air;46.57;18.86;97.5;Hungary;Tolna;Paksi;Paks;Paks a4;7.7;7.8
+16/07/17 05:00;HU0504;Eurdep;air;46.57;18.84;96.4;Hungary;Tolna;Paksi;Paks;Paks a5;8.6;8.7
+16/07/17 05:00;HU0505;Eurdep;air;46.57;18.83;97.2;Hungary;Tolna;Paksi;Paks;Paks a6;7.3;7.4
+16/07/17 05:00;HU0506;Eurdep;air;46.58;18.84;100.7;Hungary;Tolna;Paksi;Paks;Paks a7;7.0;7.1
+16/07/17 05:00;HU0507;Eurdep;air;46.57;18.87;86.0;Hungary;Tolna;Paksi;Paks;Paks a8;8.4;8.5
+16/07/17 05:00;HU0508;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks a9;7.3;7.4
+16/07/17 05:00;HU0509;Eurdep;air;46.59;18.85;95.0;Hungary;Tolna;Paksi;Paks;Paks g1;7.0;7.1
+16/07/17 05:00;HU0510;Eurdep;air;46.58;18.84;100.7;Hungary;Tolna;Paksi;Paks;Paks g2;6.8;7.0
+16/07/17 05:00;HU0511;Eurdep;air;46.58;18.84;100.7;Hungary;Tolna;Paksi;Paks;Paks g3;7.3;7.4
+16/07/17 05:00;HU0512;Eurdep;air;46.57;18.83;97.2;Hungary;Tolna;Paksi;Paks;Paks g4;7.8;7.9
+16/07/17 05:00;HU0513;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks g5;7.4;7.5
+16/07/17 05:00;HU0514;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks g6;7.0;7.1
+16/07/17 05:00;HU0515;Eurdep;air;46.57;18.85;96.4;Hungary;Tolna;Paksi;Paks;Paks g7;8.0;8.1
+16/07/17 05:00;HU0516;Eurdep;air;46.57;18.86;97.5;Hungary;Tolna;Paksi;Paks;Paks g8;8.5;8.6
+16/07/17 05:00;HU0518;Eurdep;air;46.58;18.87;89.4;Hungary;Tolna;Paksi;Paks;Paks g10;7.3;7.0
+16/07/17 05:00;HU0519;Eurdep;air;46.59;18.86;89.9;Hungary;Tolna;Paksi;Paks;Paks g11;7.3;7.4
