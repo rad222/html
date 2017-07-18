@@ -7,7 +7,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 17/07/17 07:00;UA33339;Eurdep;air;50.07;29.93;203.3;Ukraine;Óblast de Kiev;;Fastiv;Fastiv;11.0;11.0
 17/07/17 07:00;UA33342;Eurdep;air;50.59;30.52;98.0;Ukraine;Óblast de Kiev;Vyshhorods'kyi district;Vishgorod;Vyshhorod;7.8;7.8
 17/07/17 07:00;UA33464;Eurdep;air;49.83;30.11;174.9;Ukraine;Óblast de Kiev;Bilotserkivs'kyi district;;Bila Tserkva;12.0;12.0
-17/07/17 04:00;UA33466;Eurdep;air;49.65;31.08;150.0;Ukraine;Óblast de Kiev;Myronivs'kyi district;;Myronivka;12.0;12.0
+17/07/17 00:00;UA33466;Eurdep;air;49.65;31.08;150.0;Ukraine;Óblast de Kiev;Myronivs'kyi district;;Myronivka;0.0;0.0
 17/07/17 07:00;UA33354;Eurdep;air;50.36;31.34;98.5;Ukraine;Óblast de Kiev;Baryshivs'kyi district;;Baryshivka;11.0;11.0
 17/07/17 07:00;UA33356;Eurdep;air;50.23;31.79;125.0;Ukraine;Óblast de Kiev;Yahotyns'kyi district;Yahotin;Yahotyn;8.0;8.0
 17/07/17 07:00;UA34208;Eurdep;air;50.3;35.96;166.1;Ukraine;Óblast de Járkov;Zolochivs'kyi district;Zolochov;Zolochiv;9.6;9.6
@@ -25,24 +25,24 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 17/07/17 07:00;UA33067;Eurdep;air;51.48;23.85;162.1;Ukraine;Volinia;Shats'kyi district;Svityaz';Svitiaz;7.8;7.8
 17/07/17 07:00;UA33075;Eurdep;air;51.77;25.52;147.5;Ukraine;Volinia;Raión de Lyubeshiv;Lyubeshiv;Liubeshiv;7.0;7.0
 17/07/17 07:00;UA33088;Eurdep;air;51.31;26.61;153.0;Ukraine;Rovno;Sarnens'kyi district;;Sarny;10.0;10.0
-17/07/17 04:00;UA33135;Eurdep;air;51.44;31.2;107.9;Ukraine;Chernigov;Chernihivs'kyi district;;Chernihiv;11.0;11.0
+17/07/17 00:00;UA33135;Eurdep;air;51.44;31.2;107.9;Ukraine;Chernigov;Chernihivs'kyi district;;Chernihiv;0.0;0.0
 17/07/17 07:00;UA33136;Eurdep;air;51.8;31.95;118.4;Ukraine;Chernigov;Shchors'kyi district;;Snovsk;10.0;10.0
 17/07/17 07:00;UA33146;Eurdep;air;51.77;32.97;189.9;Ukraine;Chernigov;Korops'kyi district;;Pokoshychi;8.0;8.0
 17/07/17 07:00;UA33156;Eurdep;air;51.65;33.98;185.7;Ukraine;Sumi;Hlukhivs'kyi district;;Hlukhiv;14.0;14.0
-17/07/17 06:00;UA33173;Eurdep;air;51.2;24.71;171.7;Ukraine;Volinia;;Kovel;Kovel;8.0;8.0
+17/07/17 00:00;UA33173;Eurdep;air;51.2;24.71;171.7;Ukraine;Volinia;;Kovel;Kovel;0.0;0.0
 17/07/17 07:00;UA33177;Eurdep;air;50.84;24.35;188.0;Ukraine;Volinia;Raión de Volodymyr-Volynskyi;;Volodymyr-Volynsky;11.0;11.0
 17/07/17 07:00;UA33187;Eurdep;air;50.72;25.4;197.9;Ukraine;Volinia;Luts'kyi district;Pidhaitsi;Lutsk;10.0;10.0
 17/07/17 07:00;UA33203;Eurdep;air;51.22;27.63;181.1;Ukraine;Zhitomir;Olevs'kyi district;Olevs'k;Olevsk;10.0;10.0
 17/07/17 07:00;UA33215;Eurdep;air;50.96;28.61;186.3;Ukraine;Zhitomir;;Korostén;Korosten;15.0;15.0
 17/07/17 07:00;UA33246;Eurdep;air;51.04;31.9;121.6;Ukraine;Chernigov;;Nezhin;Nizhyn;9.6;9.6
-17/07/17 06:00;UA33261;Eurdep;air;51.24;33.19;142.3;Ukraine;Sumi;;Konotop;Konotop;8.0;8.0
+17/07/17 00:00;UA33261;Eurdep;air;51.24;33.19;142.3;Ukraine;Sumi;;Konotop;Konotop;0.0;0.0
 17/07/17 07:00;UA33268;Eurdep;air;50.77;33.44;163.9;Ukraine;Sumi;;;Romny;7.0;7.0
 17/07/17 07:00;UA33275;Eurdep;air;50.86;34.75;176.8;Ukraine;Sumi;;Sumy;Sumy;9.6;9.6
 17/07/17 07:00;UA33287;Eurdep;air;50.24;23.63;236.9;Ukraine;Óblast de Leópolis;Zhovkivs'kyi district;Shabel'nya;Rava-Ruska;8.0;8.0
 17/07/17 07:00;UA33288;Eurdep;air;50.12;24.35;203.5;Ukraine;Óblast de Leópolis;Kam'yanka-Buz'kyi district;;Kamianka-Buzka;9.6;9.6
 17/07/17 07:00;UA33296;Eurdep;air;50.4;25.75;191.6;Ukraine;Rovno;;;Dubno;11.0;11.0
 17/07/17 07:00;UA33297;Eurdep;air;50.1;25.15;232.8;Ukraine;Óblast de Leópolis;Brodivs'kyi district;Brody;Brody;7.8;7.8
-17/07/17 06:00;UA33299;Eurdep;air;50.13;25.73;251.8;Ukraine;Ternopol;Kremenets'kyi district;;Kremenets;11.0;11.0
+17/07/17 00:00;UA33299;Eurdep;air;50.13;25.73;251.8;Ukraine;Ternopol;Kremenets'kyi district;;Kremenets;0.0;0.0
 17/07/17 07:00;UA33301;Eurdep;air;50.6;26.15;221.8;Ukraine;Rovno;Rivnens'kyi district;;Rivne;10.0;10.0
 17/07/17 07:00;UA33312;Eurdep;air;50.6;27.61;210.0;Ukraine;Zhitomir;;Novograd-Volinski;Novohrad-Volynskyi;9.6;9.6
 17/07/17 07:00;UA33317;Eurdep;air;50.16;27.04;267.5;Ukraine;Jmelnitsky;;Shepetovka;Shepetivka;11.0;11.0
@@ -56,7 +56,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 17/07/17 07:00;UA33398;Eurdep;air;49.36;23.57;0.0;Ukraine;0;0.0;0;Drohobych;10.0;10.0
 17/07/17 07:00;UA33409;Eurdep;air;49.43;24.95;261.7;Ukraine;Ternopol;Berezhans'kyi district;;Berezhany;9.6;9.6
 17/07/17 07:00;UA33415;Eurdep;air;49.53;25.69;321.9;Ukraine;Ternopol;Ternopil's'kyi district;;Ternopil;11.0;11.0
-17/07/17 04:00;UA33421;Eurdep;air;49.95;26.2;265.6;Ukraine;Jmelnitsky;Bilohirs'kyi district;;Yampil;9.6;9.6
+17/07/17 00:00;UA33421;Eurdep;air;49.95;26.2;265.6;Ukraine;Jmelnitsky;Bilohirs'kyi district;;Yampil;0.0;0.0
 17/07/17 07:00;UA33429;Eurdep;air;49.35;26.94;346.8;Ukraine;Jmelnitsky;Khmel'nyts'kyi district;;Khmelnytskyi;11.0;11.0
 17/07/17 07:00;UA33439;Eurdep;air;49.57;27.93;275.5;Ukraine;Vinitsa;;Jmilnik;Khmilnyk;11.0;11.0
 17/07/17 07:00;UA33446;Eurdep;air;49.84;28.89;248.2;Ukraine;Vinitsa;Kozyatyns'kyi district;;Bilopillya;9.6;9.6
@@ -108,12 +108,12 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 17/07/17 07:00;UA33791;Eurdep;air;48.05;33.21;119.4;Ukraine;Óblast de Dnipropetrovsk;Kryvoriz'kyi district;;Kryvyi Rih;12.0;12.0
 17/07/17 07:00;UA33801;Eurdep;air;47.97;34.17;78.3;Ukraine;Óblast de Dnipropetrovsk;Sofiivs'kyi district;Loshkarivka;Loshkarivka;12.0;12.0
 17/07/17 07:00;UA33805;Eurdep;air;47.59;34.4;55.0;Ukraine;Óblast de Dnipropetrovsk;;Nikopol;Nikopol;12.0;12.0
-17/07/17 04:00;UA33830;Eurdep;air;46.18;30.37;5.0;Ukraine;Odesa;;Belgorod-Dniéster;Bilhorod-Dnistrovskyi;8.0;8.0
+17/07/17 00:00;UA33830;Eurdep;air;46.18;30.37;5.0;Ukraine;Odesa;;Belgorod-Dniéster;Bilhorod-Dnistrovskyi;0.0;0.0
 17/07/17 07:00;UA33833;Eurdep;air;47.01;30.75;80.6;Ukraine;Odesa;Kominternivs'kyi district;Serbka;Serbka;10.0;10.0
 17/07/17 07:00;UA33834;Eurdep;air;46.85;30.07;145.0;Ukraine;Odesa;Rozdil'nyans'kyi district;Rozdilna;Rozdilna;10.0;10.0
 17/07/17 07:00;UA33836;Eurdep;air;46.31;30.67;2.9;Ukraine;Odesa;;Chornomorsk;Chornomorsk;8.0;8.0
 17/07/17 07:00;UA33837;Eurdep;air;46.44;30.77;41.7;Ukraine;Odesa;;Odesa;Odesa;7.8;7.8
-17/07/17 04:00;UA33846;Eurdep;air;47.05;31.91;42.0;Ukraine;Óblast de Mykolaiv;Novoodes'kyi district;;Mykolaiv;10.0;10.0
+17/07/17 00:00;UA33846;Eurdep;air;47.05;31.91;42.0;Ukraine;Óblast de Mykolaiv;Novoodes'kyi district;;Mykolaiv;0.0;0.0
 17/07/17 07:00;UA33862;Eurdep;air;47.32;33.29;31.0;Ukraine;Óblast de Kherson;Velykooleksandrivs'kyi district;Velyka Oleksandrivka;Velyka Oleksandrivka;9.6;9.6
 17/07/17 07:00;UA33869;Eurdep;air;46.79;33.36;29.5;Ukraine;Óblast de Kherson;Raión de Beryslavskyi;Vesele;Nova Kakhovka;9.6;9.6
 17/07/17 07:00;UA33877;Eurdep;air;46.85;34.4;54.6;Ukraine;Óblast de Kherson;Nyzhn'osirohoz'kyi district;;Nyzhni Sirohosy;10.0;10.0
@@ -133,16 +133,16 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 17/07/17 07:00;UA34504;Eurdep;air;48.36;35.08;136.6;Ukraine;Óblast de Dnipropetrovsk;Dnipropetrovs'kyi district;;Dnipro;10.0;10.0
 17/07/17 07:00;UA34505;Eurdep;air;48.35;35.45;146.2;Ukraine;Óblast de Dnipropetrovsk;Raión de Synelnykove;;Synelnikove;11.0;11.0
 17/07/17 07:00;UA34509;Eurdep;air;48.13;36.24;170.9;Ukraine;Óblast de Dnipropetrovsk;Raión de Vasylkivka;Chaplyne;Chaplyne;9.6;9.6
-17/07/17 04:00;UA34510;Eurdep;air;48.56;38.01;122.7;Ukraine;Óblast de Donetsk;Raión de Artemivsk;;Bakhmut;11.0;11.0
+17/07/17 00:00;UA34510;Eurdep;air;48.56;38.01;122.7;Ukraine;Óblast de Donetsk;Raión de Artemivsk;;Bakhmut;0.0;0.0
 17/07/17 07:00;UA34514;Eurdep;air;48.29;37.16;0.0;Ukraine;0;0.0;0;Pokrovsk;8.0;8.0
 17/07/17 07:00;UA34601;Eurdep;air;47.88;35.08;0.0;Ukraine;0;0.0;0;Zaporizhzhia;9.6;9.6
 17/07/17 07:00;UA34606;Eurdep;air;47.65;36.27;116.0;Ukraine;Zaporozhe;Hulyaipil's'kyi district;Guliaipolé;Huliaipole;12.0;12.0
 17/07/17 07:00;UA34607;Eurdep;air;47.26;35.33;88.3;Ukraine;Zaporozhe;Mykhailivs'kyi district;Pryshyb;Pryshyb;7.8;7.8
 17/07/17 07:00;UA34609;Eurdep;air;47.33;36.33;215.9;Ukraine;Zaporozhe;Polohivs'kyi district;;Kyrylivka;10.0;10.0
 17/07/17 07:00;UA34615;Eurdep;air;47.61;37.49;256.4;Ukraine;Óblast de Donetsk;Volnovas'kyi district;Volnovaja;Volnovakha;9.6;9.6
-17/07/17 06:00;UA34704;Eurdep;air;46.83;35.36;35.9;Ukraine;Zaporozhe;;Melitópol;Melitopol;7.8;7.8
+17/07/17 00:00;UA34704;Eurdep;air;46.83;35.36;35.9;Ukraine;Zaporozhe;;Melitópol;Melitopol;0.0;0.0
 17/07/17 07:00;UA34708;Eurdep;air;46.68;35.84;12.1;Ukraine;Zaporozhe;Pryazovs'kyi district;Botijeve;Botievo;9.6;9.6
-17/07/17 04:00;UA34712;Eurdep;air;47.04;37.48;0.0;Ukraine;0;0.0;0;Mariupol;10.0;10.0
+17/07/17 00:00;UA34712;Eurdep;air;47.04;37.48;0.0;Ukraine;0;0.0;0;Mariupol;0.0;0.0
 17/07/17 07:00;UA34717;Eurdep;air;46.75;36.78;0.8;Ukraine;Zaporozhe;;Berdiansk;Berdiansk;8.0;8.0
 17/07/17 07:00;UA33182;Eurdep;air;51.28;25.52;207.3;Ukraine;Volinia;Manevyts'kyi district;;Manevychi;9.6;9.6
 17/07/17 07:00;UA33557;Eurdep;air;48.85;27.27;234.2;Ukraine;Jmelnitsky;Raión de Nova Ushytsia;;Nova Ushytsia;10.0;10.0
