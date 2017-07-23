@@ -12,7 +12,7 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 22/07/17 06:00;RU27459;Eurdep;air;56.27;44.0;0.0;Russia;0;0;0;Nizhni Novgorod;13;13
 21/07/17 00:00;RU28440;Eurdep;air;56.83;60.63;0.0;Russia;0;0;0.0;Ekaterinburg-Uktus;0;0
 21/07/17 00:00;RU28445;Eurdep;air;56.73;61.07;0.0;Russia;0;0;0.0;Ekaterinburg (Dubr.);0;0
-20/07/17 00:00;RU28900;Eurdep;air;53.25;50.45;0.0;Russia;0;0;0.0;Samara;0;0
+21/07/17 00:00;RU28900;Eurdep;air;53.25;50.45;0.0;Russia;0;0;0.0;Samara;0;0
 22/07/17 06:00;RU34009;Eurdep;air;51.77;36.17;237.6;Russia;Óblast de Kursk;gorod Kursk;Kursk;Kursk;13;13
 22/07/17 06:00;RU34646;Eurdep;air;47.65;42.12;;Russia;Óblast de Rostov;Tsimlyansky District;;Tsimlyansk;10;10
 22/07/17 06:00;RU34730;Eurdep;air;47.25;39.82;78.2;Russia;Óblast de Rostov;gorod Rostov-na-Donu;Rostov del Don;Rostov-on-Don;16;16
@@ -70,10 +70,10 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 22/07/17 06:00;RU27697;Eurdep;air;54.93;48.83;168.8;Russia;Tartaristán;Tetyushsky District;Tetiushi;Tetustchi;12;12
 22/07/17 06:00;RU27752;Eurdep;air;54.63;43.23;137.7;Russia;Mordovia;Temnikovsky District;Temnikov;Temnikov;11;11
 22/07/17 06:00;RU27756;Eurdep;air;54.43;43.77;168.9;Russia;Mordovia;Krasnoslobodsky District;Krasnoslobodsk;Krasnoslobodsk;9;9
-20/07/17 00:00;RU27799;Eurdep;air;54.23;49.6;0.0;Russia;0;0;0.0;Dimirtovgrad;0;0
-20/07/17 00:00;RU27890;Eurdep;air;53.47;49.47;0.0;Russia;0;0;0.0;Toliyattinskaya;0;0
-20/07/17 00:00;RU27891;Eurdep;air;53.97;48.8;0.0;Russia;0;0;0.0;Sengilei;0;0
-20/07/17 00:00;RU27894;Eurdep;air;53.62;48.8;0.0;Russia;0;0;0.0;Novodevichie;0;0
+21/07/17 00:00;RU27799;Eurdep;air;54.23;49.6;0.0;Russia;0;0;0.0;Dimirtovgrad;0;0
+21/07/17 00:00;RU27890;Eurdep;air;53.47;49.47;0.0;Russia;0;0;0.0;Toliyattinskaya;0;0
+21/07/17 00:00;RU27891;Eurdep;air;53.97;48.8;0.0;Russia;0;0;0.0;Sengilei;0;0
+21/07/17 00:00;RU27894;Eurdep;air;53.62;48.8;0.0;Russia;0;0;0.0;Novodevichie;0;0
 22/07/17 06:00;RU28202;Eurdep;air;58.35;51.57;172.6;Russia;Óblast de Kírov;Falyonsky District;;Falenki;9;9
 22/07/17 06:00;RU28214;Eurdep;air;58.13;52.58;165.8;Russia;Udmurtia;Glazovsky District;;Glazov;10;10
 22/07/17 06:00;RU28309;Eurdep;air;57.28;52.23;192.9;Russia;Udmurtia;Seltinskiy rayon;;Selty;12;12
@@ -92,15 +92,15 @@ date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;a
 21/07/17 00:00;RU28645;Eurdep;air;55.2;61.37;0.0;Russia;0;0;0.0;Chelyabinsk;0;0
 21/07/17 00:00;RU28647;Eurdep;air;55.0;60.1;0.0;Russia;0;0;0.0;Miass;0;0
 22/07/17 06:00;RU28704;Eurdep;air;54.5;50.42;65.4;Russia;Tartaristán;Nurlatsky District;;Chulpanovo;7;7
-20/07/17 00:00;RU28705;Eurdep;air;54.42;51.1;0.0;Russia;0;0;0.0;Chelno-Vershiny;0;0
+21/07/17 00:00;RU28705;Eurdep;air;54.42;51.1;0.0;Russia;0;0;0.0;Chelno-Vershiny;0;0
 22/07/17 06:00;RU28721;Eurdep;air;54.57;55.38;96.0;Russia;Baskortostán;Chishminsky District;Chishmy;Chishmy;10;10
 22/07/17 06:00;RU28722;Eurdep;air;54.72;55.83;92.9;Russia;Baskortostán;Ufimsky District;Ufá;Ufa;9;9
-20/07/17 00:00;RU34063;Eurdep;air;52.28;45.4;0.0;Russia;0;0;0.0;Petrovsk;0;0
-20/07/17 00:00;RU34072;Eurdep;air;52.33;46.37;0.0;Russia;0;0;0.0;Karabulak;0;0
-20/07/17 00:00;RU34083;Eurdep;air;52.5;48.08;0.0;Russia;0;0;0.0;Khvalynsk;0;0
-20/07/17 00:00;RU34098;Eurdep;air;52.03;48.83;0.0;Russia;0;0;0.0;Pugachyov;0;0
-20/07/17 00:00;RU34173;Eurdep;air;51.7;46.73;0.0;Russia;0;0;0.0;Marks;0;0
-20/07/17 00:00;RU34186;Eurdep;air;51.37;48.3;0.0;Russia;0;0;0.0;Ershov;0;0
+21/07/17 00:00;RU34063;Eurdep;air;52.28;45.4;0.0;Russia;0;0;0.0;Petrovsk;0;0
+21/07/17 00:00;RU34072;Eurdep;air;52.33;46.37;0.0;Russia;0;0;0.0;Karabulak;0;0
+21/07/17 00:00;RU34083;Eurdep;air;52.5;48.08;0.0;Russia;0;0;0.0;Khvalynsk;0;0
+21/07/17 00:00;RU34098;Eurdep;air;52.03;48.83;0.0;Russia;0;0;0.0;Pugachyov;0;0
+21/07/17 00:00;RU34173;Eurdep;air;51.7;46.73;0.0;Russia;0;0;0.0;Marks;0;0
+21/07/17 00:00;RU34186;Eurdep;air;51.37;48.3;0.0;Russia;0;0;0.0;Ershov;0;0
 22/07/17 06:00;RU34461;Eurdep;air;49.3;44.0;0.0;Russia;0;0;0;Ilovlya;6;6
 22/07/17 06:00;RU34625;Eurdep;air;47.57;38.88;51.5;Russia;Óblast de Rostov;Matveyevo-Kurgansky District;Matveev Kurgan;Matveev-Kurgan;14;14
 22/07/17 06:00;RU34635;Eurdep;air;47.7;40.27;97.3;Russia;Óblast de Rostov;gorod Shakhty;Shajty;Shakhty;10;10
