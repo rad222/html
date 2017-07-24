@@ -1,126 +1,126 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-24/07/17 04:00;BE23100;Eurdep;air;51.25;5.13;26.0;Belgium;Región Flamenca;Amberes;Dessel;Dessel 1;8.0;8.2
-24/07/17 04:00;BE23600;Eurdep;air;51.24;5.09;22.7;Belgium;Región Flamenca;Amberes;Dessel;Dessel 2;7.6;8.0
-24/07/17 04:00;BE23700;Eurdep;air;51.27;5.08;21.5;Belgium;Región Flamenca;Amberes;Retie;Retie;8.3;8.7
-24/07/17 04:00;BE23800;Eurdep;air;51.24;4.97;21.1;Belgium;Región Flamenca;Amberes;Kasterlee;Kasterlee;8.5;9.0
-24/07/17 04:00;BE25100;Eurdep;air;51.46;4.44;16.2;Belgium;Región Flamenca;Amberes;Essen;Essen;8.1;8.8
-24/07/17 04:00;BE25200;Eurdep;air;50.75;4.02;54.8;Belgium;Región Flamenca;Brabante Flamenco;Galmaarden;Galmaarden;10.4;10.0
-24/07/17 04:00;BE25300;Eurdep;air;50.85;4.26;73.8;Belgium;Región Flamenca;Brabante Flamenco;Dilbeek;Dilbeek;11.3;11.0
-24/07/17 04:00;BE25400;Eurdep;air;51.08;4.45;6.6;Belgium;Región Flamenca;Amberes;Rumst;Walem;8.5;8.8
-24/07/17 04:00;BE25500;Eurdep;air;51.22;4.57;7.9;Belgium;Región Flamenca;Amberes;Ranst;Oelegem;8.5;9.0
-24/07/17 04:00;BE25600;Eurdep;air;51.43;4.76;13.0;Belgium;Región Flamenca;Amberes;Hoogstraten;Minderhout;8.1;8.9
-23/07/17 00:00;BE25800;Eurdep;air;50.9;4.53;45.4;Belgium;Región Flamenca;Brabante Flamenco;Steenokkerzeel;Zaventem;0.0;0.0
-24/07/17 04:00;BE25900;Eurdep;air;51.09;4.72;9.1;Belgium;Región Flamenca;Amberes;Heist-op-den-Berg;Hallaar;8.9;9.4
-24/07/17 04:00;BE26000;Eurdep;air;51.08;4.91;11.4;Belgium;Región Flamenca;Amberes;Westerlo;Westerlo;8.4;8.7
-24/07/17 04:00;BE26100;Eurdep;air;51.41;5.01;29.0;Belgium;Región Flamenca;Amberes;Ravels;Weelde;9.0;10.0
-24/07/17 04:00;BE26200;Eurdep;air;50.88;4.82;96.3;Belgium;Región Flamenca;Brabante Flamenco;Lubbeek;Lubbeek;10.5;10.0
-24/07/17 04:00;BE26300;Eurdep;air;50.99;5.06;26.0;Belgium;Región Flamenca;Brabante Flamenco;Diest;Diest;7.7;8.0
-24/07/17 04:00;BE26400;Eurdep;air;51.07;5.28;42.0;Belgium;Región Flamenca;Limburgo;Beringen;Koersel;7.3;7.8
-24/07/17 04:00;BE26500;Eurdep;air;51.17;5.46;56.2;Belgium;Región Flamenca;Limburgo;Peer;Kleine Brogel;7.2;7.8
-24/07/17 04:00;BE26600;Eurdep;air;51.24;5.3;43.8;Belgium;Región Flamenca;Limburgo;Lommel;Lommel;6.2;6.6
-24/07/17 04:00;BE26800;Eurdep;air;51.02;5.52;90.8;Belgium;Región Flamenca;Limburgo;Opglabbeek;Genk;7.1;7.4
-24/07/17 04:00;BE26900;Eurdep;air;51.1;5.79;27.9;Belgium;Región Flamenca;Limburgo;Maaseik;Maaseik;8.7;9.1
-24/07/17 04:00;BE33100;Eurdep;air;50.45;4.49;157.5;Belgium;Región Valona;Provincia de Henao;Charleroi;Ransart;8.1;8.7
-24/07/17 04:00;BE33200;Eurdep;air;50.43;4.5;118.5;Belgium;Región Valona;Provincia de Henao;Charleroi;Gilly;11.1;11.0
-24/07/17 04:00;BE33300;Eurdep;air;50.44;4.53;178.8;Belgium;Región Valona;Provincia de Henao;Farciennes;Farciennes;9.3;9.9
-24/07/17 04:00;BE33400;Eurdep;air;50.45;4.53;175.2;Belgium;Región Valona;Provincia de Henao;Farciennes;Vieux-Campinaire;11.2;11.0
-24/07/17 04:00;BE33500;Eurdep;air;50.47;4.53;170.1;Belgium;Región Valona;Provincia de Henao;Fleurus;Martinroux;10.6;10.0
-24/07/17 04:00;BE33700;Eurdep;air;50.45;4.55;180.8;Belgium;Región Valona;Provincia de Henao;Fleurus;Lambusart;11.5;11.0
-24/07/17 04:00;BE33800;Eurdep;air;50.48;4.55;161.5;Belgium;Región Valona;Provincia de Henao;Fleurus;Fleurus;11.4;11.0
-24/07/17 04:00;BE34100;Eurdep;air;50.09;4.68;124.6;Belgium;Región Valona;Provincia de Namur;Viroinval;Treignes;11.8;12.0
-24/07/17 04:00;BE34300;Eurdep;air;50.14;4.74;169.5;Belgium;Región Valona;Provincia de Namur;Doische;Doische;12.5;13.0
-24/07/17 04:00;BE34500;Eurdep;air;50.16;4.83;111.9;Belgium;Región Valona;Provincia de Namur;Hastière;Heer;13.5;14.0
-24/07/17 04:00;BE34600;Eurdep;air;50.15;4.91;225.6;Belgium;Región Valona;Provincia de Namur;Beauraing;Feschaux;10.9;12.0
-24/07/17 04:00;BE34700;Eurdep;air;50.09;4.89;308.3;Belgium;Región Valona;Provincia de Namur;Beauraing;Winenne;11.5;12.0
-24/07/17 04:00;BE34800;Eurdep;air;50.07;4.86;352.4;Belgium;Región Valona;Provincia de Namur;Beauraing;Felenne;10.7;11.0
-24/07/17 04:00;BE34900;Eurdep;air;50.02;4.86;342.7;Belgium;Región Valona;Provincia de Namur;Gedinne;Bourseigne Neuve;12.5;13.0
-24/07/17 04:00;BE35100;Eurdep;air;50.68;3.33;17.4;Belgium;Región Valona;Provincia de Henao;Pecq;Pecq;9.5;9.8
-24/07/17 04:00;BE35400;Eurdep;air;50.6;4.15;97.8;Belgium;Región Valona;Provincia de Henao;Braine-le-Comte;Braine-le-Comte;11.4;12.0
-24/07/17 04:00;BE35600;Eurdep;air;50.75;4.76;107.5;Belgium;Región Valona;Brabante Valón;Beauvechain;Beauvechain;10.7;11.0
-24/07/17 04:00;BE35700;Eurdep;air;50.39;3.7;41.8;Belgium;Región Valona;Provincia de Henao;Quievrain;Baisieux;10.9;11.0
-24/07/17 04:00;BE35900;Eurdep;air;50.48;4.25;169.4;Belgium;Región Valona;Provincia de Henao;Manage;La Hestre;11.2;12.0
-24/07/17 04:00;BE36000;Eurdep;air;50.58;4.69;155.4;Belgium;Región Valona;Provincia de Namur;Gembloux;Ernage;11.1;11.0
-24/07/17 04:00;BE36100;Eurdep;air;50.16;4.23;263.5;Belgium;Región Valona;Provincia de Henao;Sivry-Rance;Sautin;11.1;11.0
-24/07/17 04:00;BE36200;Eurdep;air;50.32;4.39;141.4;Belgium;Región Valona;Provincia de Henao;Ham-sur-Heure-Nalinnes;Ham-sur-Heure;10.4;11.0
-24/07/17 04:00;BE36300;Eurdep;air;50.45;4.78;113.2;Belgium;Región Valona;Provincia de Namur;Floreffe;Floriffoux;9.5;10.0
-24/07/17 04:00;BE36400;Eurdep;air;50.49;5.07;90.9;Belgium;Región Valona;Provincia de Namur;Andenne;Andenne;9.5;10.0
-24/07/17 04:00;BE36500;Eurdep;air;50.09;4.29;249.4;Belgium;Región Valona;Provincia de Henao;Chimay;Chimay;10.1;10.0
-24/07/17 04:00;BE36600;Eurdep;air;50.23;4.65;294.1;Belgium;Región Valona;Provincia de Namur;Florennes;Florennes;11.7;12.0
-24/07/17 04:00;BE36700;Eurdep;air;50.1;4.59;220.1;Belgium;Región Valona;Provincia de Namur;Viroinval;Dourbes;9.7;10.0
-24/07/17 04:00;BE36900;Eurdep;air;50.31;5.11;267.0;Belgium;Región Valona;Provincia de Namur;Ciney;Ciney;11.2;11.0
-24/07/17 04:00;BE37000;Eurdep;air;50.36;5.28;289.9;Belgium;Región Valona;Provincia de Namur;Havelange;Buzin;11.1;11.0
-24/07/17 04:00;BE37100;Eurdep;air;49.81;4.9;360.3;Belgium;Región Valona;Provincia de Namur;Vresse-sur-Semois;Sugny;11.5;12.0
-24/07/17 04:00;BE37200;Eurdep;air;50.14;5.21;271.0;Belgium;Región Valona;Provincia de Namur;Rochefort;Rochefort;11.6;12.0
-24/07/17 04:00;BE43200;Eurdep;air;51.3;4.31;6.7;Belgium;Región Flamenca;Amberes;Amberes;Lillo 1;7.2;7.6
-24/07/17 04:00;BE43300;Eurdep;air;51.32;4.28;0.0;Belgium;Región Flamenca;Amberes;Amberes;Lillo 2;8.6;9.0
-24/07/17 04:00;BE43400;Eurdep;air;51.36;4.26;6.5;Belgium;Región Flamenca;Amberes;Amberes;Zandvliet 1;8.6;10.0
-24/07/17 04:00;BE43500;Eurdep;air;51.29;4.17;2.6;Belgium;Región Flamenca;Flandes Oriental;Beveren;Kieldrecht;8.5;9.0
-24/07/17 04:00;BE43600;Eurdep;air;51.26;4.27;1.1;Belgium;Región Flamenca;Flandes Oriental;Beveren;Kallo;8.8;9.8
-24/07/17 04:00;BE43700;Eurdep;air;51.31;4.39;1.4;Belgium;Región Flamenca;Amberes;Stabroek;Hoevenen;6.5;7.0
-24/07/17 04:00;BE43800;Eurdep;air;51.34;4.37;4.3;Belgium;Región Flamenca;Amberes;Stabroek;Stabroek;7.4;8.2
-24/07/17 04:00;BE43900;Eurdep;air;51.37;4.3;0.0;Belgium;Región Flamenca;Amberes;Amberes;Zandvliet 2;7.2;8.6
-24/07/17 04:00;BE45100;Eurdep;air;51.09;2.65;1.1;Belgium;Región Flamenca;Provincia de Flandes Occidental;Koksijde;Koksijde;8.2;8.5
-24/07/17 04:00;BE45200;Eurdep;air;51.2;2.85;1.2;Belgium;Región Flamenca;Provincia de Flandes Occidental;Ostende;Oostende;9.1;9.5
-24/07/17 04:00;BE45300;Eurdep;air;51.26;3.03;0.4;Belgium;Región Flamenca;Provincia de Flandes Occidental;De Haan;De Haan;9.4;10.0
-24/07/17 04:00;BE45500;Eurdep;air;50.85;2.74;21.0;Belgium;Región Flamenca;Provincia de Flandes Occidental;Poperinge;Poperinge;9.1;9.8
-24/07/17 04:00;BE45600;Eurdep;air;50.99;2.84;0.0;Belgium;Región Flamenca;Provincia de Flandes Occidental;Dixmuda;De Blankaart;8.0;8.8
-24/07/17 04:00;BE45700;Eurdep;air;51.03;3.14;21.2;Belgium;Región Flamenca;Provincia de Flandes Occidental;Lichtervelde;Lichtervelde;8.7;9.1
-24/07/17 04:00;BE45800;Eurdep;air;51.15;3.4;12.2;Belgium;Región Flamenca;Provincia de Flandes Occidental;Beernem;Knesselare;8.5;9.3
-24/07/17 04:00;BE46000;Eurdep;air;50.9;3.12;24.4;Belgium;Región Flamenca;Provincia de Flandes Occidental;Roeselare;Beitem;9.2;9.7
-24/07/17 04:00;BE46200;Eurdep;air;51.02;3.71;7.2;Belgium;Región Flamenca;Flandes Oriental;Gante;Gent;9.7;10.0
-24/07/17 04:00;BE46300;Eurdep;air;51.16;3.72;0.0;Belgium;0;0;0;Kluizen;8.4;8.8
-24/07/17 04:00;BE46400;Eurdep;air;51.22;3.98;3.3;Belgium;Región Flamenca;Flandes Oriental;Moerbeke-Waas;Koewacht;7.8;8.8
-24/07/17 04:00;BE46500;Eurdep;air;50.75;3.65;71.1;Belgium;Región Flamenca;Flandes Oriental;Ronse;Ronse;10.8;11.0
-24/07/17 04:00;BE46600;Eurdep;air;50.87;3.83;70.8;Belgium;Región Flamenca;Flandes Oriental;Zottegem;Zottegem;9.7;10.0
-24/07/17 04:00;BE46700;Eurdep;air;51.05;4.11;2.4;Belgium;Región Flamenca;Flandes Oriental;Dendermonde;Dendermonde;8.3;8.9
-24/07/17 04:00;BE53100;Eurdep;air;50.55;5.27;175.3;Belgium;Región Valona;Provincia de Lieja;Amay;Ampsin 1;11.3;11.0
-24/07/17 04:00;BE53200;Eurdep;air;50.54;5.26;152.6;Belgium;Región Valona;Provincia de Lieja;Wanze;Antheit;11.8;12.0
-24/07/17 04:00;BE53300;Eurdep;air;50.53;5.25;70.6;Belgium;Región Valona;Provincia de Lieja;Huy;Huy 1;10.6;11.0
-24/07/17 04:00;BE53400;Eurdep;air;50.53;5.27;94.7;Belgium;Región Valona;Provincia de Lieja;Huy;Tihange;11.7;12.0
-24/07/17 04:00;BE53500;Eurdep;air;50.53;5.3;95.6;Belgium;Región Valona;Provincia de Lieja;Huy;Ampsin 2;9.1;9.6
-24/07/17 04:00;BE53600;Eurdep;air;50.55;5.29;160.3;Belgium;Región Valona;Provincia de Lieja;Amay;Ampsin 3;11.3;11.0
-24/07/17 04:00;BE53700;Eurdep;air;50.52;5.23;79.0;Belgium;Región Valona;Provincia de Lieja;Huy;Huy 2;10.5;10.0
-24/07/17 04:00;BE54000;Eurdep;air;50.54;5.33;80.4;Belgium;Región Valona;Provincia de Lieja;Amay;Amay;10.2;10.0
-24/07/17 04:00;BE54100;Eurdep;air;50.56;5.36;74.0;Belgium;Región Valona;Provincia de Lieja;Engis;Hermalle-sous-Huy;10.8;11.0
-24/07/17 04:00;BE55100;Eurdep;air;50.63;5.0;0.0;Belgium;0;0;0;Wasseiges;11.6;12.0
-24/07/17 04:00;BE55200;Eurdep;air;50.64;5.44;178.3;Belgium;Región Valona;Provincia de Lieja;Grâce-Hollogne;Bierset;10.9;11.0
-24/07/17 04:00;BE55300;Eurdep;air;50.76;5.61;76.9;Belgium;Región Valona;Provincia de Lieja;Bassenge;Bassenge;10.0;10.0
-24/07/17 04:00;BE55400;Eurdep;air;50.75;5.69;54.0;Belgium;Región Valona;Provincia de Lieja;Visé;Lixhe;8.6;9.0
-24/07/17 04:00;BE55500;Eurdep;air;50.49;5.68;296.7;Belgium;Región Valona;Provincia de Lieja;Sprimont;Sprimont;12.4;12.0
-24/07/17 04:00;BE55600;Eurdep;air;50.66;5.85;231.8;Belgium;Región Valona;Provincia de Lieja;Thimister-Clermont;Thimister;11.4;11.0
-24/07/17 04:00;BE55700;Eurdep;air;50.72;6.01;213.4;Belgium;Región Valona;Provincia de Lieja;Kelmis;La Calamine;10.2;10.0
-24/07/17 04:00;BE55900;Eurdep;air;50.37;5.68;465.6;Belgium;Región Valona;Provincia de Lieja;Stoumont;Werbomont;10.8;11.0
-24/07/17 04:00;BE56000;Eurdep;air;50.48;5.91;465.6;Belgium;Región Valona;Provincia de Lieja;Spa;Spa;11.1;11.0
-24/07/17 04:00;BE56100;Eurdep;air;50.51;6.07;664.6;Belgium;Región Valona;Provincia de Lieja;Waimes;Mont-Rigi;9.0;9.8
-24/07/17 04:00;BE56200;Eurdep;air;49.9;5.14;402.9;Belgium;Región Valona;Luxemburgo;Paliseul;Paliseul;10.5;12.0
-24/07/17 04:00;BE56300;Eurdep;air;50.04;5.4;542.3;Belgium;Región Valona;Luxemburgo;Saint-Hubert;Saint-Hubert;11.0;12.0
-24/07/17 04:00;BE56400;Eurdep;air;50.14;5.67;292.5;Belgium;Región Valona;Luxemburgo;Houffalize;Nadrin;11.3;12.0
-24/07/17 04:00;BE56500;Eurdep;air;50.22;5.91;468.2;Belgium;Región Valona;Luxemburgo;Gouvy;Bovigny;12.2;12.0
-24/07/17 04:00;BE56600;Eurdep;air;50.3;6.06;577.7;Belgium;Región Valona;Provincia de Lieja;Saint Vith;Saint-Vith;11.4;12.0
-24/07/17 04:00;BE56800;Eurdep;air;49.79;5.25;385.2;Belgium;Región Valona;Luxemburgo;Herbeumont;Herbeumont;10.6;12.0
-24/07/17 04:00;BE56900;Eurdep;air;49.87;5.46;458.0;Belgium;Región Valona;Luxemburgo;Neufchâteau;Longlier;11.8;12.0
-24/07/17 04:00;BE57000;Eurdep;air;50.0;5.7;0.0;Belgium;0;0;0;Bastogne;11.1;11.0
-24/07/17 04:00;BE57100;Eurdep;air;49.58;5.58;225.7;Belgium;Región Valona;Luxemburgo;Virton;Virton;10.0;11.0
-24/07/17 04:00;BE57300;Eurdep;air;49.83;5.73;367.2;Belgium;Región Valona;Luxemburgo;Martelange;Martelange;10.8;11.0
-24/07/17 04:00;BE23200;Eurdep;air;51.18;5.09;26.7;Belgium;Región Flamenca;Amberes;Mol;Ezaart;7.3;7.0
-24/07/17 04:00;BE23300;Eurdep;air;51.18;5.11;25.7;Belgium;Región Flamenca;Amberes;Mol;Centrum;8.0;8.3
-24/07/17 04:00;BE23400;Eurdep;air;51.2;5.1;25.4;Belgium;Región Flamenca;Amberes;Mol;Achterbos;7.3;7.6
-24/07/17 04:00;BE23500;Eurdep;air;51.22;5.11;27.5;Belgium;Región Flamenca;Amberes;Mol;Donk;7.5;7.8
-24/07/17 04:00;BE23900;Eurdep;air;51.21;4.99;18.0;Belgium;Región Flamenca;Amberes;Geel;Ten Aard;6.9;7.2
-24/07/17 04:00;BE24000;Eurdep;air;51.17;5.04;21.6;Belgium;Región Flamenca;Amberes;Geel;Nete;7.3;7.6
-24/07/17 04:00;BE25700;Eurdep;air;50.8;4.36;91.9;Belgium;Región de Bruselas-Capital;;Uccle;Uccle;10.7;11.0
-24/07/17 04:00;BE26700;Eurdep;air;50.81;5.21;56.2;Belgium;Región Flamenca;Limburgo;Sint-Truiden;Sint Truiden;7.7;8.0
-24/07/17 04:00;BE33600;Eurdep;air;50.4;4.51;110.0;Belgium;Región Valona;Provincia de Henao;Châtelet;Châtelet;11.8;12.0
-24/07/17 04:00;BE34200;Eurdep;air;50.12;4.71;238.2;Belgium;Región Valona;Provincia de Namur;Doische;Niverlée;9.9;11.0
-24/07/17 04:00;BE35200;Eurdep;air;50.54;3.45;16.5;Belgium;Región Valona;Provincia de Henao;Antoing;Péronnes-lez-Antoing;9.1;9.4
-24/07/17 04:00;BE35300;Eurdep;air;50.57;3.83;58.9;Belgium;Región Valona;Provincia de Henao;Chievres;Chièvres;10.9;11.0
-24/07/17 04:00;BE35500;Eurdep;air;50.68;4.39;111.1;Belgium;Región Valona;Brabante Valón;Braine-l'Alleud;Braine l'Alleud;9.6;9.9
-24/07/17 04:00;BE35800;Eurdep;air;50.36;3.95;102.2;Belgium;Región Valona;Provincia de Henao;Quevy;Quévy-le-Grand;12.7;13.0
-24/07/17 04:00;BE36800;Eurdep;air;50.17;4.83;156.0;Belgium;Región Valona;Provincia de Namur;Hastière;Hastière;10.5;11.0
-24/07/17 04:00;BE45900;Eurdep;air;51.27;3.58;1.2;Belgium;Región Flamenca;Flandes Oriental;Sint-Laureins;Sint-Jan-in-Eremo;9.0;9.5
-24/07/17 04:00;BE46100;Eurdep;air;50.91;3.42;8.1;Belgium;Región Flamenca;Flandes Oriental;Zulte;Sint-Baafs-Vijve;9.0;9.4
-24/07/17 04:00;BE53800;Eurdep;air;50.51;5.26;219.2;Belgium;Región Valona;Provincia de Lieja;Huy;Sarte;10.7;11.0
-24/07/17 04:00;BE53900;Eurdep;air;50.51;5.32;250.3;Belgium;Región Valona;Provincia de Lieja;Modave;Strée;11.4;11.0
-24/07/17 04:00;BE55800;Eurdep;air;50.29;5.56;0.0;Belgium;0;0;0;Erezée;9.5;10.0
-24/07/17 04:00;BE56700;Eurdep;air;50.35;6.35;579.4;Belgium;Región Valona;Provincia de Lieja;Büllingen;Manderfeld;12.2;12.0
-24/07/17 04:00;BE57200;Eurdep;air;49.6;5.65;251.4;Belgium;Región Valona;Luxemburgo;Saint-Léger;Saint-Léger;8.7;9.5
+24/07/17 17:00;BE23100;Eurdep;air;51.25;5.13;26.0;Belgium;Región Flamenca;Amberes;Dessel;Dessel 1;8.0;8.3
+24/07/17 17:00;BE23600;Eurdep;air;51.24;5.09;22.7;Belgium;Región Flamenca;Amberes;Dessel;Dessel 2;7.6;8.0
+24/07/17 17:00;BE23700;Eurdep;air;51.27;5.08;21.5;Belgium;Región Flamenca;Amberes;Retie;Retie;8.2;8.7
+24/07/17 17:00;BE23800;Eurdep;air;51.24;4.97;21.1;Belgium;Región Flamenca;Amberes;Kasterlee;Kasterlee;8.5;9.0
+24/07/17 17:00;BE25100;Eurdep;air;51.46;4.44;16.2;Belgium;Región Flamenca;Amberes;Essen;Essen;8.1;8.5
+24/07/17 17:00;BE25200;Eurdep;air;50.75;4.02;54.8;Belgium;Región Flamenca;Brabante Flamenco;Galmaarden;Galmaarden;10.5;11.0
+24/07/17 17:00;BE25300;Eurdep;air;50.85;4.26;73.8;Belgium;Región Flamenca;Brabante Flamenco;Dilbeek;Dilbeek;11.3;12.0
+24/07/17 17:00;BE25400;Eurdep;air;51.08;4.45;6.6;Belgium;Región Flamenca;Amberes;Rumst;Walem;8.5;8.8
+24/07/17 17:00;BE25500;Eurdep;air;51.22;4.57;7.9;Belgium;Región Flamenca;Amberes;Ranst;Oelegem;8.5;9.0
+24/07/17 17:00;BE25600;Eurdep;air;51.43;4.76;13.0;Belgium;Región Flamenca;Amberes;Hoogstraten;Minderhout;8.0;8.8
+24/07/17 17:00;BE25800;Eurdep;air;50.9;4.53;45.4;Belgium;Región Flamenca;Brabante Flamenco;Steenokkerzeel;Zaventem;11.0;11.0
+24/07/17 17:00;BE25900;Eurdep;air;51.09;4.72;9.1;Belgium;Región Flamenca;Amberes;Heist-op-den-Berg;Hallaar;8.9;9.4
+24/07/17 17:00;BE26000;Eurdep;air;51.08;4.91;11.4;Belgium;Región Flamenca;Amberes;Westerlo;Westerlo;8.3;8.6
+24/07/17 17:00;BE26100;Eurdep;air;51.41;5.01;29.0;Belgium;Región Flamenca;Amberes;Ravels;Weelde;8.7;9.3
+24/07/17 17:00;BE26200;Eurdep;air;50.88;4.82;96.3;Belgium;Región Flamenca;Brabante Flamenco;Lubbeek;Lubbeek;10.5;11.0
+24/07/17 17:00;BE26300;Eurdep;air;50.99;5.06;26.0;Belgium;Región Flamenca;Brabante Flamenco;Diest;Diest;7.7;8.0
+24/07/17 17:00;BE26400;Eurdep;air;51.07;5.28;42.0;Belgium;Región Flamenca;Limburgo;Beringen;Koersel;7.5;7.9
+24/07/17 17:00;BE26500;Eurdep;air;51.17;5.46;56.2;Belgium;Región Flamenca;Limburgo;Peer;Kleine Brogel;7.2;7.8
+24/07/17 17:00;BE26600;Eurdep;air;51.24;5.3;43.8;Belgium;Región Flamenca;Limburgo;Lommel;Lommel;6.3;6.6
+24/07/17 17:00;BE26800;Eurdep;air;51.02;5.52;90.8;Belgium;Región Flamenca;Limburgo;Opglabbeek;Genk;7.1;7.4
+24/07/17 17:00;BE26900;Eurdep;air;51.1;5.79;27.9;Belgium;Región Flamenca;Limburgo;Maaseik;Maaseik;8.8;9.4
+24/07/17 17:00;BE33100;Eurdep;air;50.45;4.49;157.5;Belgium;Región Valona;Provincia de Henao;Charleroi;Ransart;8.1;8.9
+24/07/17 17:00;BE33200;Eurdep;air;50.43;4.5;118.5;Belgium;Región Valona;Provincia de Henao;Charleroi;Gilly;11.1;12.0
+24/07/17 17:00;BE33300;Eurdep;air;50.44;4.53;178.8;Belgium;Región Valona;Provincia de Henao;Farciennes;Farciennes;9.4;10.0
+24/07/17 17:00;BE33400;Eurdep;air;50.45;4.53;175.2;Belgium;Región Valona;Provincia de Henao;Farciennes;Vieux-Campinaire;11.2;12.0
+24/07/17 17:00;BE33500;Eurdep;air;50.47;4.53;170.1;Belgium;Región Valona;Provincia de Henao;Fleurus;Martinroux;10.6;11.0
+24/07/17 17:00;BE33700;Eurdep;air;50.45;4.55;180.8;Belgium;Región Valona;Provincia de Henao;Fleurus;Lambusart;11.6;12.0
+24/07/17 17:00;BE33800;Eurdep;air;50.48;4.55;161.5;Belgium;Región Valona;Provincia de Henao;Fleurus;Fleurus;11.4;12.0
+24/07/17 17:00;BE34100;Eurdep;air;50.09;4.68;124.6;Belgium;Región Valona;Provincia de Namur;Viroinval;Treignes;11.7;12.0
+24/07/17 17:00;BE34300;Eurdep;air;50.14;4.74;169.5;Belgium;Región Valona;Provincia de Namur;Doische;Doische;12.4;13.0
+24/07/17 17:00;BE34500;Eurdep;air;50.16;4.83;111.9;Belgium;Región Valona;Provincia de Namur;Hastière;Heer;13.4;14.0
+24/07/17 17:00;BE34600;Eurdep;air;50.15;4.91;225.6;Belgium;Región Valona;Provincia de Namur;Beauraing;Feschaux;10.9;11.0
+24/07/17 17:00;BE34700;Eurdep;air;50.09;4.89;308.3;Belgium;Región Valona;Provincia de Namur;Beauraing;Winenne;11.5;12.0
+24/07/17 17:00;BE34800;Eurdep;air;50.07;4.86;352.4;Belgium;Región Valona;Provincia de Namur;Beauraing;Felenne;10.8;12.0
+24/07/17 17:00;BE34900;Eurdep;air;50.02;4.86;342.7;Belgium;Región Valona;Provincia de Namur;Gedinne;Bourseigne Neuve;12.4;13.0
+24/07/17 17:00;BE35100;Eurdep;air;50.68;3.33;17.4;Belgium;Región Valona;Provincia de Henao;Pecq;Pecq;9.6;10.0
+24/07/17 17:00;BE35400;Eurdep;air;50.6;4.15;97.8;Belgium;Región Valona;Provincia de Henao;Braine-le-Comte;Braine-le-Comte;11.4;12.0
+24/07/17 17:00;BE35600;Eurdep;air;50.75;4.76;107.5;Belgium;Región Valona;Brabante Valón;Beauvechain;Beauvechain;10.7;11.0
+24/07/17 17:00;BE35700;Eurdep;air;50.39;3.7;41.8;Belgium;Región Valona;Provincia de Henao;Quievrain;Baisieux;10.0;11.0
+24/07/17 17:00;BE35900;Eurdep;air;50.48;4.25;169.4;Belgium;Región Valona;Provincia de Henao;Manage;La Hestre;11.0;11.0
+24/07/17 17:00;BE36000;Eurdep;air;50.58;4.69;155.4;Belgium;Región Valona;Provincia de Namur;Gembloux;Ernage;11.0;11.0
+24/07/17 17:00;BE36100;Eurdep;air;50.16;4.23;263.5;Belgium;Región Valona;Provincia de Henao;Sivry-Rance;Sautin;11.0;12.0
+24/07/17 17:00;BE36200;Eurdep;air;50.32;4.39;141.4;Belgium;Región Valona;Provincia de Henao;Ham-sur-Heure-Nalinnes;Ham-sur-Heure;10.4;11.0
+24/07/17 17:00;BE36300;Eurdep;air;50.45;4.78;113.2;Belgium;Región Valona;Provincia de Namur;Floreffe;Floriffoux;9.5;10.0
+24/07/17 17:00;BE36400;Eurdep;air;50.49;5.07;90.9;Belgium;Región Valona;Provincia de Namur;Andenne;Andenne;9.4;9.9
+24/07/17 17:00;BE36500;Eurdep;air;50.09;4.29;249.4;Belgium;Región Valona;Provincia de Henao;Chimay;Chimay;10.1;11.0
+24/07/17 17:00;BE36600;Eurdep;air;50.23;4.65;294.1;Belgium;Región Valona;Provincia de Namur;Florennes;Florennes;11.7;13.0
+24/07/17 17:00;BE36700;Eurdep;air;50.1;4.59;220.1;Belgium;Región Valona;Provincia de Namur;Viroinval;Dourbes;9.6;10.0
+24/07/17 17:00;BE36900;Eurdep;air;50.31;5.11;267.0;Belgium;Región Valona;Provincia de Namur;Ciney;Ciney;11.2;12.0
+24/07/17 17:00;BE37000;Eurdep;air;50.36;5.28;289.9;Belgium;Región Valona;Provincia de Namur;Havelange;Buzin;11.1;11.0
+24/07/17 17:00;BE37100;Eurdep;air;49.81;4.9;360.3;Belgium;Región Valona;Provincia de Namur;Vresse-sur-Semois;Sugny;11.7;12.0
+24/07/17 17:00;BE37200;Eurdep;air;50.14;5.21;271.0;Belgium;Región Valona;Provincia de Namur;Rochefort;Rochefort;11.7;12.0
+24/07/17 17:00;BE43200;Eurdep;air;51.3;4.31;6.7;Belgium;Región Flamenca;Amberes;Amberes;Lillo 1;7.2;8.0
+24/07/17 17:00;BE43300;Eurdep;air;51.32;4.28;0.0;Belgium;Región Flamenca;Amberes;Amberes;Lillo 2;8.6;9.6
+24/07/17 17:00;BE43400;Eurdep;air;51.36;4.26;6.5;Belgium;Región Flamenca;Amberes;Amberes;Zandvliet 1;8.5;9.5
+24/07/17 17:00;BE43500;Eurdep;air;51.29;4.17;2.6;Belgium;Región Flamenca;Flandes Oriental;Beveren;Kieldrecht;8.5;9.0
+24/07/17 17:00;BE43600;Eurdep;air;51.26;4.27;1.1;Belgium;Región Flamenca;Flandes Oriental;Beveren;Kallo;8.8;9.5
+24/07/17 17:00;BE43700;Eurdep;air;51.31;4.39;1.4;Belgium;Región Flamenca;Amberes;Stabroek;Hoevenen;6.4;7.1
+24/07/17 17:00;BE43800;Eurdep;air;51.34;4.37;4.3;Belgium;Región Flamenca;Amberes;Stabroek;Stabroek;7.4;8.5
+24/07/17 17:00;BE43900;Eurdep;air;51.37;4.3;0.0;Belgium;Región Flamenca;Amberes;Amberes;Zandvliet 2;7.1;7.8
+24/07/17 17:00;BE45100;Eurdep;air;51.09;2.65;1.1;Belgium;Región Flamenca;Provincia de Flandes Occidental;Koksijde;Koksijde;8.2;8.5
+24/07/17 17:00;BE45200;Eurdep;air;51.2;2.85;1.2;Belgium;Región Flamenca;Provincia de Flandes Occidental;Ostende;Oostende;9.1;9.5
+24/07/17 17:00;BE45300;Eurdep;air;51.26;3.03;0.4;Belgium;Región Flamenca;Provincia de Flandes Occidental;De Haan;De Haan;9.4;10.0
+24/07/17 17:00;BE45500;Eurdep;air;50.85;2.74;21.0;Belgium;Región Flamenca;Provincia de Flandes Occidental;Poperinge;Poperinge;9.1;9.5
+24/07/17 17:00;BE45600;Eurdep;air;50.99;2.84;0.0;Belgium;Región Flamenca;Provincia de Flandes Occidental;Dixmuda;De Blankaart;8.0;8.4
+24/07/17 17:00;BE45700;Eurdep;air;51.03;3.14;21.2;Belgium;Región Flamenca;Provincia de Flandes Occidental;Lichtervelde;Lichtervelde;8.7;9.0
+24/07/17 17:00;BE45800;Eurdep;air;51.15;3.4;12.2;Belgium;Región Flamenca;Provincia de Flandes Occidental;Beernem;Knesselare;8.7;9.0
+24/07/17 17:00;BE46000;Eurdep;air;50.9;3.12;24.4;Belgium;Región Flamenca;Provincia de Flandes Occidental;Roeselare;Beitem;9.3;9.5
+24/07/17 17:00;BE46200;Eurdep;air;51.02;3.71;7.2;Belgium;Región Flamenca;Flandes Oriental;Gante;Gent;9.9;10.0
+24/07/17 17:00;BE46300;Eurdep;air;51.16;3.72;0.0;Belgium;0;0;0;Kluizen;8.6;9.7
+24/07/17 17:00;BE46400;Eurdep;air;51.22;3.98;3.3;Belgium;Región Flamenca;Flandes Oriental;Moerbeke-Waas;Koewacht;8.0;8.8
+24/07/17 17:00;BE46500;Eurdep;air;50.75;3.65;71.1;Belgium;Región Flamenca;Flandes Oriental;Ronse;Ronse;10.9;11.0
+24/07/17 17:00;BE46600;Eurdep;air;50.87;3.83;70.8;Belgium;Región Flamenca;Flandes Oriental;Zottegem;Zottegem;9.7;10.0
+24/07/17 17:00;BE46700;Eurdep;air;51.05;4.11;2.4;Belgium;Región Flamenca;Flandes Oriental;Dendermonde;Dendermonde;8.3;9.0
+24/07/17 17:00;BE53100;Eurdep;air;50.55;5.27;175.3;Belgium;Región Valona;Provincia de Lieja;Amay;Ampsin 1;11.3;11.0
+24/07/17 17:00;BE53200;Eurdep;air;50.54;5.26;152.6;Belgium;Región Valona;Provincia de Lieja;Wanze;Antheit;11.8;12.0
+24/07/17 17:00;BE53300;Eurdep;air;50.53;5.25;70.6;Belgium;Región Valona;Provincia de Lieja;Huy;Huy 1;10.0;10.0
+24/07/17 17:00;BE53400;Eurdep;air;50.53;5.27;94.7;Belgium;Región Valona;Provincia de Lieja;Huy;Tihange;11.6;12.0
+24/07/17 17:00;BE53500;Eurdep;air;50.53;5.3;95.6;Belgium;Región Valona;Provincia de Lieja;Huy;Ampsin 2;9.2;9.6
+24/07/17 17:00;BE53600;Eurdep;air;50.55;5.29;160.3;Belgium;Región Valona;Provincia de Lieja;Amay;Ampsin 3;11.4;11.0
+24/07/17 17:00;BE53700;Eurdep;air;50.52;5.23;79.0;Belgium;Región Valona;Provincia de Lieja;Huy;Huy 2;10.5;11.0
+24/07/17 17:00;BE54000;Eurdep;air;50.54;5.33;80.4;Belgium;Región Valona;Provincia de Lieja;Amay;Amay;10.0;10.0
+24/07/17 17:00;BE54100;Eurdep;air;50.56;5.36;74.0;Belgium;Región Valona;Provincia de Lieja;Engis;Hermalle-sous-Huy;10.9;11.0
+24/07/17 17:00;BE55100;Eurdep;air;50.63;5.0;0.0;Belgium;0;0;0;Wasseiges;11.6;12.0
+24/07/17 17:00;BE55200;Eurdep;air;50.64;5.44;178.3;Belgium;Región Valona;Provincia de Lieja;Grâce-Hollogne;Bierset;10.9;11.0
+24/07/17 17:00;BE55300;Eurdep;air;50.76;5.61;76.9;Belgium;Región Valona;Provincia de Lieja;Bassenge;Bassenge;10.0;10.0
+24/07/17 17:00;BE55400;Eurdep;air;50.75;5.69;54.0;Belgium;Región Valona;Provincia de Lieja;Visé;Lixhe;8.6;9.0
+24/07/17 17:00;BE55500;Eurdep;air;50.49;5.68;296.7;Belgium;Región Valona;Provincia de Lieja;Sprimont;Sprimont;12.3;12.0
+24/07/17 17:00;BE55600;Eurdep;air;50.66;5.85;231.8;Belgium;Región Valona;Provincia de Lieja;Thimister-Clermont;Thimister;11.5;11.0
+24/07/17 17:00;BE55700;Eurdep;air;50.72;6.01;213.4;Belgium;Región Valona;Provincia de Lieja;Kelmis;La Calamine;10.4;11.0
+24/07/17 17:00;BE55900;Eurdep;air;50.37;5.68;465.6;Belgium;Región Valona;Provincia de Lieja;Stoumont;Werbomont;10.9;11.0
+24/07/17 17:00;BE56000;Eurdep;air;50.48;5.91;465.6;Belgium;Región Valona;Provincia de Lieja;Spa;Spa;11.3;12.0
+24/07/17 17:00;BE56100;Eurdep;air;50.51;6.07;664.6;Belgium;Región Valona;Provincia de Lieja;Waimes;Mont-Rigi;9.2;9.9
+24/07/17 17:00;BE56200;Eurdep;air;49.9;5.14;402.9;Belgium;Región Valona;Luxemburgo;Paliseul;Paliseul;10.7;12.0
+24/07/17 17:00;BE56300;Eurdep;air;50.04;5.4;542.3;Belgium;Región Valona;Luxemburgo;Saint-Hubert;Saint-Hubert;11.2;12.0
+24/07/17 17:00;BE56400;Eurdep;air;50.14;5.67;292.5;Belgium;Región Valona;Luxemburgo;Houffalize;Nadrin;11.7;12.0
+24/07/17 17:00;BE56500;Eurdep;air;50.22;5.91;468.2;Belgium;Región Valona;Luxemburgo;Gouvy;Bovigny;12.3;12.0
+24/07/17 17:00;BE56600;Eurdep;air;50.3;6.06;577.7;Belgium;Región Valona;Provincia de Lieja;Saint Vith;Saint-Vith;11.5;12.0
+24/07/17 17:00;BE56800;Eurdep;air;49.79;5.25;385.2;Belgium;Región Valona;Luxemburgo;Herbeumont;Herbeumont;10.8;12.0
+24/07/17 17:00;BE56900;Eurdep;air;49.87;5.46;458.0;Belgium;Región Valona;Luxemburgo;Neufchâteau;Longlier;12.1;12.0
+24/07/17 17:00;BE57000;Eurdep;air;50.0;5.7;0.0;Belgium;0;0;0;Bastogne;11.3;11.0
+24/07/17 17:00;BE57100;Eurdep;air;49.58;5.58;225.7;Belgium;Región Valona;Luxemburgo;Virton;Virton;10.1;11.0
+24/07/17 17:00;BE57300;Eurdep;air;49.83;5.73;367.2;Belgium;Región Valona;Luxemburgo;Martelange;Martelange;10.9;11.0
+24/07/17 17:00;BE23200;Eurdep;air;51.18;5.09;26.7;Belgium;Región Flamenca;Amberes;Mol;Ezaart;7.2;7.0
+24/07/17 17:00;BE23300;Eurdep;air;51.18;5.11;25.7;Belgium;Región Flamenca;Amberes;Mol;Centrum;8.0;8.3
+24/07/17 17:00;BE23400;Eurdep;air;51.2;5.1;25.4;Belgium;Región Flamenca;Amberes;Mol;Achterbos;7.3;7.6
+24/07/17 17:00;BE23500;Eurdep;air;51.22;5.11;27.5;Belgium;Región Flamenca;Amberes;Mol;Donk;7.4;7.8
+24/07/17 17:00;BE23900;Eurdep;air;51.21;4.99;18.0;Belgium;Región Flamenca;Amberes;Geel;Ten Aard;6.9;7.2
+24/07/17 17:00;BE24000;Eurdep;air;51.17;5.04;21.6;Belgium;Región Flamenca;Amberes;Geel;Nete;7.3;7.6
+24/07/17 17:00;BE25700;Eurdep;air;50.8;4.36;91.9;Belgium;Región de Bruselas-Capital;;Uccle;Uccle;10.8;11.0
+24/07/17 17:00;BE26700;Eurdep;air;50.81;5.21;56.2;Belgium;Región Flamenca;Limburgo;Sint-Truiden;Sint Truiden;7.7;8.0
+24/07/17 17:00;BE33600;Eurdep;air;50.4;4.51;110.0;Belgium;Región Valona;Provincia de Henao;Châtelet;Châtelet;11.7;12.0
+24/07/17 17:00;BE34200;Eurdep;air;50.12;4.71;238.2;Belgium;Región Valona;Provincia de Namur;Doische;Niverlée;9.9;11.0
+24/07/17 17:00;BE35200;Eurdep;air;50.54;3.45;16.5;Belgium;Región Valona;Provincia de Henao;Antoing;Péronnes-lez-Antoing;9.1;9.4
+24/07/17 17:00;BE35300;Eurdep;air;50.57;3.83;58.9;Belgium;Región Valona;Provincia de Henao;Chievres;Chièvres;10.9;11.0
+24/07/17 17:00;BE35500;Eurdep;air;50.68;4.39;111.1;Belgium;Región Valona;Brabante Valón;Braine-l'Alleud;Braine l'Alleud;9.5;10.0
+24/07/17 17:00;BE35800;Eurdep;air;50.36;3.95;102.2;Belgium;Región Valona;Provincia de Henao;Quevy;Quévy-le-Grand;12.6;13.0
+24/07/17 17:00;BE36800;Eurdep;air;50.17;4.83;156.0;Belgium;Región Valona;Provincia de Namur;Hastière;Hastière;10.5;11.0
+24/07/17 17:00;BE45900;Eurdep;air;51.27;3.58;1.2;Belgium;Región Flamenca;Flandes Oriental;Sint-Laureins;Sint-Jan-in-Eremo;9.1;10.0
+24/07/17 17:00;BE46100;Eurdep;air;50.91;3.42;8.1;Belgium;Región Flamenca;Flandes Oriental;Zulte;Sint-Baafs-Vijve;9.0;9.8
+24/07/17 17:00;BE53800;Eurdep;air;50.51;5.26;219.2;Belgium;Región Valona;Provincia de Lieja;Huy;Sarte;10.8;11.0
+24/07/17 17:00;BE53900;Eurdep;air;50.51;5.32;250.3;Belgium;Región Valona;Provincia de Lieja;Modave;Strée;11.3;11.0
+24/07/17 17:00;BE55800;Eurdep;air;50.29;5.56;0.0;Belgium;0;0;0;Erezée;9.6;10.0
+24/07/17 17:00;BE56700;Eurdep;air;50.35;6.35;579.4;Belgium;Región Valona;Provincia de Lieja;Büllingen;Manderfeld;12.3;12.0
+24/07/17 17:00;BE57200;Eurdep;air;49.6;5.65;251.4;Belgium;Región Valona;Luxemburgo;Saint-Léger;Saint-Léger;8.7;9.5
