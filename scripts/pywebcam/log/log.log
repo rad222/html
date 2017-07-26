@@ -9747,3 +9747,5 @@ Found Url tiempovistazo_41542206
 2017-07-25 20:20:09,386 - INFO - Get data from webcam tiempovistazo_41161087
 2017-07-26 07:00:19,799 - ERROR - Not available http://infocar.dgt.es/datex2/dgt/CCTVSiteTablePublication/all/content.xml
 2017-07-26 07:00:19,927 - INFO - #### START PYWEBCAM FROM #### metcli
+2017-07-26 10:50:53,335 - ERROR - Not available http://www.eltiempodeunvistazo.com/ubicaciones.xml
+2017-07-26 10:51:07,538 - ERROR - Not available http://informo.munimadrid.es/informo/tmadrid/cctv.kml
