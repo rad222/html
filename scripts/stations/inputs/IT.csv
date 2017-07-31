@@ -1,9 +1,9 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-30/07/17 18:00;ITJRC01;Eurdep;air;45.8;8.63;229.6;Italy;Lombardía;Varese;;JRC Station 1;1.6;2.9
-30/07/17 18:00;ITJRC03;Eurdep;air;45.81;8.64;223.6;Italy;Lombardía;Varese;;JRC Station 3;2.1;3.1
-30/07/17 18:00;ITJRC05;Eurdep;air;45.81;8.64;0.0;Italy;0;0;0;JRC Station 5;2.2;3.2
-30/07/17 18:00;ITJRC07;Eurdep;air;45.82;8.63;207.1;Italy;Lombardía;Varese;Ispra;JRC Station 7;1.9;2.6
-30/07/17 18:00;ITJRC09;Eurdep;air;45.81;8.62;211.8;Italy;Lombardía;Varese;Ispra;Station 9;2.0;2.6
+31/07/17 05:00;ITJRC01;Eurdep;air;45.8;8.63;229.6;Italy;Lombardía;Varese;;JRC Station 1;1.6;2.4
+31/07/17 05:00;ITJRC03;Eurdep;air;45.81;8.64;223.6;Italy;Lombardía;Varese;;JRC Station 3;2.2;3.1
+31/07/17 05:00;ITJRC05;Eurdep;air;45.81;8.64;0.0;Italy;0;0;0;JRC Station 5;2.2;2.8
+31/07/17 05:00;ITJRC07;Eurdep;air;45.82;8.63;207.1;Italy;Lombardía;Varese;Ispra;JRC Station 7;1.9;2.4
+31/07/17 05:00;ITJRC09;Eurdep;air;45.81;8.62;211.8;Italy;Lombardía;Varese;Ispra;Station 9;2.1;2.6
 28/07/17 00:00;IT0001;Eurdep;air;43.89;7.6;224.2;Italy;Liguria;Imperia;Rocchetta Nervina;Rocchetta Nervina;0.0;0.0
 28/07/17 00:00;IT0002;Eurdep;air;44.22;9.72;182.4;Italy;Liguria;La Spezia;;Borghetto di Vara;0.0;0.0
 28/07/17 00:00;IT0003;Eurdep;air;44.39;7.82;418.3;Italy;Piamonte;Cuneo;Mondovì;Mondovi;0.0;0.0
