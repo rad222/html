@@ -1,19 +1,19 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-01/08/17 16:00;LU0066;Eurdep;air;49.66;5.91;320.3;Luxembourg;Luxemburgo;Cantón de Capellen;Steinfort;STEINFORT;15.3;17.0
-01/08/17 17:00;LU0067;Eurdep;air;49.8;6.43;197.2;Luxembourg;Grevenmacher;Cantón de Echternach;Echternach;ECHTERNACH;11.1;14.1
-01/08/17 17:00;LU0068;Eurdep;air;50.12;6.0;0.0;Luxembourg;0;0;0;TROISVIERGES;15.7;24.6
-31/07/17 20:00;LU0069;Eurdep;air;49.93;5.79;428.2;Luxembourg;Diekirch;Wiltz;Lac de la Haute-Sûre;HARLANGE;14.6;15.0
-01/08/17 16:00;LU0070;Eurdep;air;49.5;6.27;212.2;Luxembourg;Grand Est;Mosela;Mondorff;MONDORF;13.3;16.1
-01/08/17 16:00;LU0071;Eurdep;air;49.51;6.19;251.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Frisange;FRISANGE;13.8;17.0
-01/08/17 16:00;Lu0072;Eurdep;air;49.49;6.35;165.7;Luxembourg;Grevenmacher;Cantón de Remich;Schengen;REMERSCHEN;12.8;16.0
-01/08/17 16:00;LU0073;Eurdep;air;49.61;6.4;218.2;Luxembourg;Grevenmacher;Grevenmacher;Wormeldange;WORMELDANGE;13.7;16.4
-01/08/17 16:00;LU0074;Eurdep;air;49.61;6.12;300.9;Luxembourg;Luxemburgo;Luxemburgo;Luxemburgo;LUXEMBOURG;16.2;20.0
-01/08/17 16:00;LU0075;Eurdep;air;49.5;5.98;297.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Esch-sur-Alzette;ESCH-ALZETTE;17.0;20.9
-01/08/17 16:00;LU0076;Eurdep;air;49.48;6.09;303.9;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Dudelange;DUDELANGE;12.0;16.5
-01/08/17 16:00;LU0077;Eurdep;air;49.53;6.09;0.0;Luxembourg;0;0;0;BETTEMBOURG;18.7;21.0
-01/08/17 16:00;LU0078;Eurdep;air;49.85;6.1;201.2;Luxembourg;Diekirch;Diekirch;Ettelbruck;ETTELBRUCK;12.5;17.0
-01/08/17 16:00;Lu0079;Eurdep;air;49.7;6.25;341.9;Luxembourg;Grevenmacher;Grevenmacher;;JUNGLINSTER;10.1;15.0
-01/08/17 16:00;Lu0080;Eurdep;air;49.97;6.05;464.7;Luxembourg;Diekirch;Cantón de Clervaux;Parc Hosingen;CONSTHUM;18.8;23.4
-01/08/17 16:00;Lu0082;Eurdep;air;49.62;6.27;0.0;Luxembourg;0;0;0;SCHUTTRANGE;17.9;23.5
-01/08/17 16:00;Lu0083;Eurdep;air;49.58;5.96;335.1;Luxembourg;Luxemburgo;Cantón de Capellen;Dippach;DIPPACH;20.1;24.0
-01/08/17 15:00;LU7288;Eurdep;air;49.95;6.17;0.0;Luxembourg;0;0;0;LU Vianden AGS421_7288;11.8;13.0
+02/08/17 03:00;LU0066;Eurdep;air;49.66;5.91;320.3;Luxembourg;Luxemburgo;Cantón de Capellen;Steinfort;STEINFORT;13.1;16.0
+02/08/17 04:00;LU0067;Eurdep;air;49.8;6.43;197.2;Luxembourg;Grevenmacher;Cantón de Echternach;Echternach;ECHTERNACH;9.2;9.8
+02/08/17 03:00;LU0068;Eurdep;air;50.12;6.0;0.0;Luxembourg;0;0;0;TROISVIERGES;13.2;14.5
+31/07/17 00:00;LU0069;Eurdep;air;49.93;5.79;428.2;Luxembourg;Diekirch;Wiltz;Lac de la Haute-Sûre;HARLANGE;0.0;0.0
+02/08/17 03:00;LU0070;Eurdep;air;49.5;6.27;212.2;Luxembourg;Grand Est;Mosela;Mondorff;MONDORF;11.1;14.0
+02/08/17 03:00;LU0071;Eurdep;air;49.51;6.19;251.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Frisange;FRISANGE;11.0;11.0
+02/08/17 03:00;Lu0072;Eurdep;air;49.49;6.35;165.7;Luxembourg;Grevenmacher;Cantón de Remich;Schengen;REMERSCHEN;10.4;11.0
+02/08/17 03:00;LU0073;Eurdep;air;49.61;6.4;218.2;Luxembourg;Grevenmacher;Grevenmacher;Wormeldange;WORMELDANGE;12.6;13.2
+02/08/17 03:00;LU0074;Eurdep;air;49.61;6.12;300.9;Luxembourg;Luxemburgo;Luxemburgo;Luxemburgo;LUXEMBOURG;15.8;16.0
+02/08/17 03:00;LU0075;Eurdep;air;49.5;5.98;297.0;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Esch-sur-Alzette;ESCH-ALZETTE;16.1;17.4
+02/08/17 03:00;LU0076;Eurdep;air;49.48;6.09;303.9;Luxembourg;Luxemburgo;Cantón de Esch-sur-Alzette;Dudelange;DUDELANGE;10.4;10.8
+02/08/17 03:00;LU0077;Eurdep;air;49.53;6.09;0.0;Luxembourg;0;0;0;BETTEMBOURG;16.4;20.0
+02/08/17 03:00;LU0078;Eurdep;air;49.85;6.1;201.2;Luxembourg;Diekirch;Diekirch;Ettelbruck;ETTELBRUCK;10.6;13.0
+02/08/17 03:00;Lu0079;Eurdep;air;49.7;6.25;341.9;Luxembourg;Grevenmacher;Grevenmacher;;JUNGLINSTER;9.1;9.6
+02/08/17 03:00;Lu0080;Eurdep;air;49.97;6.05;464.7;Luxembourg;Diekirch;Cantón de Clervaux;Parc Hosingen;CONSTHUM;18.7;19.0
+02/08/17 03:00;Lu0082;Eurdep;air;49.62;6.27;0.0;Luxembourg;0;0;0;SCHUTTRANGE;16.6;17.0
+02/08/17 03:00;Lu0083;Eurdep;air;49.58;5.96;335.1;Luxembourg;Luxemburgo;Cantón de Capellen;Dippach;DIPPACH;18.4;19.0
+02/08/17 03:00;LU7288;Eurdep;air;49.95;6.17;0.0;Luxembourg;0;0;0;LU Vianden AGS421_7288;11.0;12.0
