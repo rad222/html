@@ -1,16 +1,16 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-03/08/17 16:00;IE0003;Eurdep;air;53.31;-6.44;87.5;Ireland;Dublín;Condado de Dublín Sur;;Casement;7.8;8
-03/08/17 16:00;IE0004;Eurdep;air;54.18;-7.23;55.4;Ireland;County Monaghan;Condado de Monaghan;;Clones;7.6;7
-03/08/17 16:00;IE0005;Eurdep;air;53.31;-6.25;30.9;Ireland;Dublín;Dublin City;Dublín;Clonskeagh;9.7;9
-03/08/17 16:00;IE0006;Eurdep;air;51.85;-8.49;154.1;Ireland;County Cork;Condado de Cork;;Cork Airport;10.6;10
-03/08/17 16:00;IE0007;Eurdep;air;54.01;-6.38;0.0;Ireland;;;;Dundalk;10.7;11
-03/08/17 16:00;IE0009;Eurdep;air;53.91;-8.82;189.1;Ireland;County Mayo;Condado de Mayo;;Knock Airport;7.1;7
-03/08/17 16:00;IE0010;Eurdep;air;55.37;-7.34;17.0;Ireland;County Donegal;Condado de Donegal;;Malin Head;7.1;7
-03/08/17 16:00;IE0011;Eurdep;air;52.25;-6.34;20.1;Ireland;County Wexford;Condado de Wexford;;Rosslare;7.8;8
-03/08/17 16:00;IE0012;Eurdep;air;52.7;-8.93;2.9;Ireland;County Clare;Condado de Clare;;Shannon Airport;8.1;8
-03/08/17 16:00;IE0013;Eurdep;air;53.69;-6.32;28.5;Ireland;County Meath;Condado de Meath;;Kiltrough;8.0;8
-03/08/17 16:00;IE0014;Eurdep;air;52.23;-7.23;43.6;Ireland;Condado de Waterford;Condado de Waterford;;Kilmeadan;9.8;10
-03/08/17 16:00;IE0016;Eurdep;air;52.76;-6.23;47.2;Ireland;County Wexford;Condado de Wexford;;Coolgreany;9.8;10
-03/08/17 16:00;IE0017;Eurdep;air;53.54;-7.36;105.6;Ireland;Condado de Westmeath;Condado de Westmeath;Mullingar;Mullingar;7.5;7
-03/08/17 16:00;IE0018;Eurdep;air;53.04;-8.01;75.1;Ireland;Condado de Tipperary;North Tipperary;;Gurteen;8.2;8
-03/08/17 16:00;IE0002;Eurdep;air;51.94;-10.24;17.4;Ireland;County Kerry;Condado de Kerry;;Cahirciveen;8.3;8
+04/08/17 03:00;IE0003;Eurdep;air;53.31;-6.44;87.5;Ireland;Dublín;Condado de Dublín Sur;;Casement;7.8;8
+04/08/17 03:00;IE0004;Eurdep;air;54.18;-7.23;55.4;Ireland;County Monaghan;Condado de Monaghan;;Clones;7.5;7
+04/08/17 03:00;IE0005;Eurdep;air;53.31;-6.25;30.9;Ireland;Dublín;Dublin City;Dublín;Clonskeagh;9.6;9
+04/08/17 03:00;IE0006;Eurdep;air;51.85;-8.49;154.1;Ireland;County Cork;Condado de Cork;;Cork Airport;10.0;10
+04/08/17 03:00;IE0007;Eurdep;air;54.01;-6.38;0.0;Ireland;;;;Dundalk;10.6;11
+04/08/17 03:00;IE0009;Eurdep;air;53.91;-8.82;189.1;Ireland;County Mayo;Condado de Mayo;;Knock Airport;7.1;7
+04/08/17 03:00;IE0010;Eurdep;air;55.37;-7.34;17.0;Ireland;County Donegal;Condado de Donegal;;Malin Head;7.1;7
+04/08/17 03:00;IE0011;Eurdep;air;52.25;-6.34;20.1;Ireland;County Wexford;Condado de Wexford;;Rosslare;7.8;8
+04/08/17 03:00;IE0012;Eurdep;air;52.7;-8.93;2.9;Ireland;County Clare;Condado de Clare;;Shannon Airport;8.0;8
+04/08/17 03:00;IE0013;Eurdep;air;53.69;-6.32;28.5;Ireland;County Meath;Condado de Meath;;Kiltrough;8.6;8
+04/08/17 03:00;IE0014;Eurdep;air;52.23;-7.23;43.6;Ireland;Condado de Waterford;Condado de Waterford;;Kilmeadan;9.8;10
+04/08/17 03:00;IE0016;Eurdep;air;52.76;-6.23;47.2;Ireland;County Wexford;Condado de Wexford;;Coolgreany;9.9;10
+04/08/17 03:00;IE0017;Eurdep;air;53.54;-7.36;105.6;Ireland;Condado de Westmeath;Condado de Westmeath;Mullingar;Mullingar;7.5;7
+04/08/17 03:00;IE0018;Eurdep;air;53.04;-8.01;75.1;Ireland;Condado de Tipperary;North Tipperary;;Gurteen;8.2;8
+04/08/17 03:00;IE0002;Eurdep;air;51.94;-10.24;17.4;Ireland;County Kerry;Condado de Kerry;;Cahirciveen;8.2;8
