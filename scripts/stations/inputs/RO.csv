@@ -1,83 +1,83 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-04/08/17 04:00;RO0052;Eurdep;air;44.33;28.05;57.9;Romania;Constanța;Cernavoda;Cernavodă;Turnul Meteo Cernavoda;10.0;11
-04/08/17 04:00;RO0053;Eurdep;air;44.19;27.32;11.5;Romania;Călărași;Calarasi;;A.P.M. Calarasi;10.0;11
-04/08/17 04:00;RO0055;Eurdep;air;44.56;27.37;24.5;Romania;Ialomița;Slobozia;Slobozia;A.P.M. Slobozia;9.0;11
-04/08/17 04:00;RO0057;Eurdep;air;44.31;28.05;9.2;Romania;Constanța;Saligny;Cernavodă;Ecluza Brat Stang;7.0;9
-04/08/17 04:00;RO0058;Eurdep;air;44.31;28.04;0.0;Romania;0;0;0;Ecluza Poarta;10.0;11
-04/08/17 04:00;RO0061;Eurdep;air;44.24;27.93;62.4;Romania;Constanța;Rasova;Rasova;Politie Rasova;10.0;11
-04/08/17 04:00;RO0064;Eurdep;air;44.35;28.22;0.0;Romania;0;0;0;Primaria Tortomanu;10.0;11
-04/08/17 04:00;RO0068;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;Statie 400 KV - 3;9.0;10
-04/08/17 04:00;RO0071;Eurdep;air;44.31;28.06;32.4;Romania;Constanța;Saligny;;UM 0495 - Jandarmi;8.0;9
+04/08/17 00:00;RO0052;Eurdep;air;44.33;28.05;57.9;Romania;Constanța;Cernavoda;Cernavodă;Turnul Meteo Cernavoda;0.0;0
+04/08/17 00:00;RO0053;Eurdep;air;44.19;27.32;11.5;Romania;Călărași;Calarasi;;A.P.M. Calarasi;0.0;0
+04/08/17 00:00;RO0055;Eurdep;air;44.56;27.37;24.5;Romania;Ialomița;Slobozia;Slobozia;A.P.M. Slobozia;0.0;0
+04/08/17 00:00;RO0057;Eurdep;air;44.31;28.05;9.2;Romania;Constanța;Saligny;Cernavodă;Ecluza Brat Stang;0.0;0
+04/08/17 00:00;RO0058;Eurdep;air;44.31;28.04;0.0;Romania;0;0;0;Ecluza Poarta;0.0;0
+04/08/17 00:00;RO0061;Eurdep;air;44.24;27.93;62.4;Romania;Constanța;Rasova;Rasova;Politie Rasova;0.0;0
+04/08/17 00:00;RO0064;Eurdep;air;44.35;28.22;0.0;Romania;0;0;0;Primaria Tortomanu;0.0;0
+04/08/17 00:00;RO0068;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;Statie 400 KV - 3;0.0;0
+04/08/17 00:00;RO0071;Eurdep;air;44.31;28.06;32.4;Romania;Constanța;Saligny;;UM 0495 - Jandarmi;0.0;0
 14/07/17 00:00;RO0073;Eurdep;air;43.85;28.6;10.0;Romania;Constanța;Municipiul Mangalia;Venus;UM 2060 Mangalia;0.0;0
-04/08/17 04:00;RO0074;Eurdep;air;44.33;28.04;18.2;Romania;Constanța;Cernavoda;Cernavodă;Statie Radioactivitate;9.0;10
-04/08/17 04:00;RO0076;Eurdep;air;44.32;28.05;9.3;Romania;Constanța;Saligny;Cernavodă;Organizare Santier;8.0;9
-04/08/17 04:00;RO0077;Eurdep;air;44.39;27.84;55.0;Romania;Ialomița;Fetesti;Fetești;Statie Meteo Fetesti;10.0;11
-04/08/17 04:00;RO0080;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;C.N.E. Cernavoda tld l-9;11.0;13
-04/08/17 04:00;RO0082;Eurdep;air;44.35;28.04;100.3;Romania;Constanța;Cernavoda;Cernavodă;Statie Meteorologica;9.0;11
-04/08/17 04:00;RO0084;Eurdep;air;43.8;24.06;54.4;Romania;Dolj;Orașul Dăbuleni;;SCDPPN Dabuleni;10.0;11
-04/08/17 04:00;RO0085;Eurdep;air;43.79;24.05;32.8;Romania;Dolj;Comuna Călărași;;Primarie Calarasi;9.0;10
-04/08/17 03:00;RO0086;Eurdep;air;43.75;23.95;29.4;Romania;Dolj;Orașul Bechet;;SPET Bechet;13.4;14
-04/08/17 04:00;RO0087;Eurdep;air;43.79;23.94;37.8;Romania;Dolj;Orașul Bechet;;Statie RA Bechet;10.0;11
-04/08/17 04:00;RO0088;Eurdep;air;43.82;23.9;35.6;Romania;Dolj;Comuna Ostroveni;Ostroveni;Primarie Ostroveni;10.0;12
-04/08/17 04:00;RO0089;Eurdep;air;43.83;23.89;34.6;Romania;Dolj;Comuna Ostroveni;;Pepiniera Zaval;11.0;12
-04/08/17 04:00;RO0090;Eurdep;air;43.85;23.8;36.6;Romania;Dolj;Comuna Gighera;Gighera;Primarie Gighera;10.0;11
-04/08/17 04:00;RO0091;Eurdep;air;43.86;23.76;48.0;Romania;Dolj;Comuna Gighera;Nedeia;Electrica Nedeia;10.0;11
-04/08/17 04:00;RO0093;Eurdep;air;43.88;23.66;31.9;Romania;Dolj;Comuna Măceșu de Jos;Săpata;Biserica Sapata;12.0;13
-04/08/17 04:00;RO0095;Eurdep;air;43.89;23.55;27.3;Romania;;;;Scoala Plosca;10.0;11
-04/08/17 04:00;RO0096;Eurdep;air;44.32;23.79;91.5;Romania;Dolj;Craiova;Craiova;Agentie Craiova;10.0;12
-04/08/17 04:00;RO0097;Eurdep;air;44.31;23.87;194.7;Romania;Dolj;Craiova;;Statie RA Craiova;9.0;10
-04/08/17 04:00;RO0102;Eurdep;air;44.44;26.1;80.1;Romania;Bucarest;Bucharest;Bucarest;ICIM - DAM;9.0;10
-04/08/17 04:00;RO0066;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;Statie 400 KV - 1;16.0;17
-04/08/17 04:00;RO0067;Eurdep;air;44.32;28.07;0.0;Romania;0;0;0;Statie 400 KV - 2;12.0;13
-04/08/17 04:00;RO0083;Eurdep;air;43.78;24.18;34.2;Romania;Olt;Ianca;Ianca;Sediu Politie Ianca;9.0;10
-04/08/17 04:00;RO0060;Eurdep;air;44.18;28.12;103.1;Romania;Constanța;Pestera;;Politia Pestera;13.0;15
-04/08/17 04:00;RO0062;Eurdep;air;44.39;28.07;76.8;Romania;Constanța;Seimeni;;Politia Seimeni;13.0;14
-04/08/17 17:00;RO0103;Eurdep;air;47.77;22.87;123.0;Romania;Satu Mare;Satu Mare;Satu Mare;Satu Mare;13.5;15
-04/08/17 17:00;RO0104;Eurdep;air;47.05;21.92;125.2;Romania;Bihor;Oradea;Oradea;Oradea;9.3;11
-04/08/17 17:00;RO0105;Eurdep;air;46.52;24.57;378.8;Romania;Mureș;Targu Mures;Târgu Mureș;Targu Mures;11.0;13
-04/08/17 17:00;RO0106;Eurdep;air;46.75;23.57;399.4;Romania;Cluj;Cluj - Napoca;Cluj-Napoca;Cluj Napoca;10.5;11
-04/08/17 17:00;RO0107;Eurdep;air;45.88;22.9;199.1;Romania;Hunedoara;Deva;Deva;Deva;13.4;17
-04/08/17 17:00;RO0109;Eurdep;air;45.38;25.45;0.0;Romania;0;0;0;Ploiesti - Babele RA Station;11.1;12
-04/08/17 17:00;RO0112;Eurdep;air;44.63;22.66;73.3;Romania;Mehedinți;Drobeta - Turnu Severin;Drobeta-Turnu Severin;Drobeta Turnu Severin;10.0;11
-04/08/17 17:00;RO0113;Eurdep;air;44.85;24.87;301.2;Romania;Distrito de Argeș;Pitesti;Pitești;Pitesti;12.5;13
-04/08/17 17:00;RO0114;Eurdep;air;45.18;28.81;35.3;Romania;Tulcea;Tulcea;Tulcea;Tulcea;9.1;11
-04/08/17 17:00;RO0115;Eurdep;air;44.9;29.6;1.0;Romania;Tulcea;Comuna Sfântu Gheorghe;Sfântu Gheorghe;Tulcea - Sf. Gheorghe RA Station;8.5;9
-04/08/17 17:00;RO0117;Eurdep;air;45.42;28.02;52.5;Romania;Galați;Galati;Galați;Galati;9.7;12
-04/08/17 17:00;RO0118;Eurdep;air;47.62;26.25;371.3;Romania;Suceava;Suceava;Suceava;Suceava;11.5;12
+04/08/17 00:00;RO0074;Eurdep;air;44.33;28.04;18.2;Romania;Constanța;Cernavoda;Cernavodă;Statie Radioactivitate;0.0;0
+04/08/17 00:00;RO0076;Eurdep;air;44.32;28.05;9.3;Romania;Constanța;Saligny;Cernavodă;Organizare Santier;0.0;0
+04/08/17 00:00;RO0077;Eurdep;air;44.39;27.84;55.0;Romania;Ialomița;Fetesti;Fetești;Statie Meteo Fetesti;0.0;0
+04/08/17 00:00;RO0080;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;C.N.E. Cernavoda tld l-9;0.0;0
+04/08/17 00:00;RO0082;Eurdep;air;44.35;28.04;100.3;Romania;Constanța;Cernavoda;Cernavodă;Statie Meteorologica;0.0;0
+04/08/17 00:00;RO0084;Eurdep;air;43.8;24.06;54.4;Romania;Dolj;Orașul Dăbuleni;;SCDPPN Dabuleni;0.0;0
+04/08/17 00:00;RO0085;Eurdep;air;43.79;24.05;32.8;Romania;Dolj;Comuna Călărași;;Primarie Calarasi;0.0;0
+04/08/17 00:00;RO0086;Eurdep;air;43.75;23.95;29.4;Romania;Dolj;Orașul Bechet;;SPET Bechet;0.0;0
+04/08/17 00:00;RO0087;Eurdep;air;43.79;23.94;37.8;Romania;Dolj;Orașul Bechet;;Statie RA Bechet;0.0;0
+04/08/17 00:00;RO0088;Eurdep;air;43.82;23.9;35.6;Romania;Dolj;Comuna Ostroveni;Ostroveni;Primarie Ostroveni;0.0;0
+04/08/17 00:00;RO0089;Eurdep;air;43.83;23.89;34.6;Romania;Dolj;Comuna Ostroveni;;Pepiniera Zaval;0.0;0
+04/08/17 00:00;RO0090;Eurdep;air;43.85;23.8;36.6;Romania;Dolj;Comuna Gighera;Gighera;Primarie Gighera;0.0;0
+04/08/17 00:00;RO0091;Eurdep;air;43.86;23.76;48.0;Romania;Dolj;Comuna Gighera;Nedeia;Electrica Nedeia;0.0;0
+04/08/17 00:00;RO0093;Eurdep;air;43.88;23.66;31.9;Romania;Dolj;Comuna Măceșu de Jos;Săpata;Biserica Sapata;0.0;0
+04/08/17 00:00;RO0095;Eurdep;air;43.89;23.55;27.3;Romania;;;;Scoala Plosca;0.0;0
+04/08/17 00:00;RO0096;Eurdep;air;44.32;23.79;91.5;Romania;Dolj;Craiova;Craiova;Agentie Craiova;0.0;0
+04/08/17 00:00;RO0097;Eurdep;air;44.31;23.87;194.7;Romania;Dolj;Craiova;;Statie RA Craiova;0.0;0
+04/08/17 00:00;RO0102;Eurdep;air;44.44;26.1;80.1;Romania;Bucarest;Bucharest;Bucarest;ICIM - DAM;0.0;0
+04/08/17 00:00;RO0066;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;Statie 400 KV - 1;0.0;0
+04/08/17 00:00;RO0067;Eurdep;air;44.32;28.07;0.0;Romania;0;0;0;Statie 400 KV - 2;0.0;0
+04/08/17 00:00;RO0083;Eurdep;air;43.78;24.18;34.2;Romania;Olt;Ianca;Ianca;Sediu Politie Ianca;0.0;0
+04/08/17 00:00;RO0060;Eurdep;air;44.18;28.12;103.1;Romania;Constanța;Pestera;;Politia Pestera;0.0;0
+04/08/17 00:00;RO0062;Eurdep;air;44.39;28.07;76.8;Romania;Constanța;Seimeni;;Politia Seimeni;0.0;0
+05/08/17 02:00;RO0103;Eurdep;air;47.77;22.87;123.0;Romania;Satu Mare;Satu Mare;Satu Mare;Satu Mare;13.6;15
+05/08/17 02:00;RO0104;Eurdep;air;47.05;21.92;125.2;Romania;Bihor;Oradea;Oradea;Oradea;9.6;11
+05/08/17 02:00;RO0105;Eurdep;air;46.52;24.57;378.8;Romania;Mureș;Targu Mures;Târgu Mureș;Targu Mures;11.3;13
+05/08/17 02:00;RO0106;Eurdep;air;46.75;23.57;399.4;Romania;Cluj;Cluj - Napoca;Cluj-Napoca;Cluj Napoca;10.4;12
+05/08/17 02:00;RO0107;Eurdep;air;45.88;22.9;199.1;Romania;Hunedoara;Deva;Deva;Deva;12.6;15
+05/08/17 02:00;RO0109;Eurdep;air;45.38;25.45;0.0;Romania;0;0;0;Ploiesti - Babele RA Station;11.0;12
+05/08/17 02:00;RO0112;Eurdep;air;44.63;22.66;73.3;Romania;Mehedinți;Drobeta - Turnu Severin;Drobeta-Turnu Severin;Drobeta Turnu Severin;10.4;12
+05/08/17 02:00;RO0113;Eurdep;air;44.85;24.87;301.2;Romania;Distrito de Argeș;Pitesti;Pitești;Pitesti;12.5;13
+05/08/17 02:00;RO0114;Eurdep;air;45.18;28.81;35.3;Romania;Tulcea;Tulcea;Tulcea;Tulcea;9.0;11
+05/08/17 02:00;RO0115;Eurdep;air;44.9;29.6;1.0;Romania;Tulcea;Comuna Sfântu Gheorghe;Sfântu Gheorghe;Tulcea - Sf. Gheorghe RA Station;8.5;9
+05/08/17 02:00;RO0117;Eurdep;air;45.42;28.02;52.5;Romania;Galați;Galati;Galați;Galati;9.8;10
+05/08/17 02:00;RO0118;Eurdep;air;47.62;26.25;371.3;Romania;Suceava;Suceava;Suceava;Suceava;11.5;13
 03/08/17 00:00;RO0119;Eurdep;air;46.98;25.95;0.0;Romania;0;0;0;Piatra Neamt - Toaca RA Station;0.0;0
-04/08/17 17:00;RO0120;Eurdep;air;46.92;26.35;542.8;Romania;Neamț;Piatra Neamt;;Piatra Neamt;9.8;14
-04/08/17 17:00;RO0121;Eurdep;air;47.17;27.57;53.8;Romania;Iași;Iasi;Iași;Iasi;7.9;9
-04/08/17 17:00;RO0122;Eurdep;air;46.55;26.92;159.6;Romania;Bacău;Bacau;Bacău;Bacau;8.4;9
-04/08/17 17:00;RO0123;Eurdep;air;47.67;23.57;269.4;Romania;Maramureș;Baia Mare;Baia Mare;Baia Mare;11.4;12
-04/08/17 17:00;RO0124;Eurdep;air;43.67;25.32;19.0;Romania;Teleorman;Zimnicea;;Zimnicea;11.5;13
-04/08/17 17:00;RO0125;Eurdep;air;46.14;21.36;108.0;Romania;Arad;Arad;;Arad;10.9;12
-04/08/17 17:00;RO0126;Eurdep;air;45.67;27.17;54.0;Romania;Vrancea;Golesti;Ceardac;Focsani;9.6;11
-04/08/17 17:00;RO0127;Eurdep;air;46.06;23.56;240.2;Romania;Alba;Alba Iulia;Alba Iulia;Alba Iulia;14.3;17
-04/08/17 17:00;RO0129;Eurdep;air;47.75;26.67;160.0;Romania;Botoșani;Botosani;Botoșani;Botosani;11.8;16
-04/08/17 17:00;RO0130;Eurdep;air;45.77;24.17;423.5;Romania;Sibiu;Selimbar;Șelimbăr;Sibiu;12.0;13
-04/08/17 17:00;RO0131;Eurdep;air;46.37;25.8;661.2;Romania;Distrito Harghita;Miercurea Ciuc;Miercurea Ciuc;Miercurea Ciuc;10.8;12
-04/08/17 17:00;RO0132;Eurdep;air;46.62;27.68;97.3;Romania;Vaslui;Vaslui;;Vaslui;10.3;12
-04/08/17 17:00;RO0133;Eurdep;air;43.92;25.92;23.0;Romania;Giurgiu;Stanesti;Bălanu;Giurgiu;11.8;17
-04/08/17 17:00;RO0134;Eurdep;air;47.12;24.5;405.7;Romania;Bistrița-Năsăud;Bistrita;Bistrița;Bistrita Nasaud;12.0;13
-04/08/17 17:00;RO0135;Eurdep;air;47.17;23.07;319.3;Romania;Sălaj;Zalau;Zalău;Zalau;11.0;12
-04/08/17 17:00;RO0136;Eurdep;air;45.07;24.37;225.4;Romania;Distrito Vâlcea;Budesti;;Ramnicu Valcea;13.1;15
-04/08/17 17:00;RO0139;Eurdep;air;45.07;23.25;237.8;Romania;Gorj;Targu Jiu;;Targu Jiu;12.7;14
-04/08/17 17:00;RO0140;Eurdep;air;45.27;27.97;21.0;Romania;Brăila;Braila;Brăila;Braila;10.4;11
-04/08/17 17:00;RO0141;Eurdep;air;44.45;26.04;81.7;Romania;Bucarest;Bucharest;Bucarest;Ilfov (Lacul Morii);12.9;15
-04/08/17 04:00;RO0079;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;C.N.E. Cernavoda tld l-8;8.0;9
-04/08/17 04:00;RO0054;Eurdep;air;44.2;28.65;13.7;Romania;Constanța;Constanta;Constanza;A.P.M. CONSTANTA;9.0;10
-04/08/17 04:00;RO0059;Eurdep;air;44.34;28.03;11.8;Romania;Constanța;Cernavoda;Cernavodă;GARA CERNAVODA;13.0;14
-04/08/17 04:00;RO0072;Eurdep;air;44.24;28.27;49.3;Romania;Constanța;Medgidia;Medgidia;UM 01459 MEDGIDIA;10.0;11
-04/08/17 04:00;RO0092;Eurdep;air;43.88;23.71;33.9;Romania;Dolj;Comuna Măceșu de Jos;Măceșu de Jos;MACESU DE JOS;11.0;12
-04/08/17 04:00;RO0065;Eurdep;air;44.31;28.05;0.0;Romania;0;0;0;Statia Ecluza Cernavoda;12.0;14
-04/08/17 17:00;RO0108;Eurdep;air;45.77;21.26;0.0;Romania;0;0;0;Timisoara;10.2;11
-04/08/17 17:00;RO0111;Eurdep;air;45.67;25.57;0.0;Romania;0;0;0;Brasov;10.6;12
-04/08/17 17:00;RO0116;Eurdep;air;45.17;26.82;0.0;Romania;0;0;0;Buzau;11.1;12
-04/08/17 17:00;RO0128;Eurdep;air;45.3;21.92;0.0;Romania;0;0;0;Resita;9.9;11
-04/08/17 17:00;RO0137;Eurdep;air;45.87;25.8;0.0;Romania;0;0;0;Sfantu Gheorghe;13.3;17
-04/08/17 17:00;RO0138;Eurdep;air;44.47;24.35;0.0;Romania;0;0;0;Slatina;9.2;11
-04/08/17 04:00;RO0050;Eurdep;air;44.31;28.06;0.0;Romania;0;0;0;Depozitul Seiru;6.0;7
-04/08/17 04:00;RO0075;Eurdep;air;44.32;28.05;0.0;Romania;0;0;0;POLICLINICA C.N.E.;9.0;11
-04/08/17 04:00;RO0081;Eurdep;air;44.36;28.53;0.0;Romania;0;0;0;UM KOGALNICEANU;9.0;10
-04/08/17 04:00;RO0094;Eurdep;air;43.88;23.59;0.0;Romania;0;0;0;PISCICOLA DUNARENI;12.0;13
-04/08/17 04:00;RO0069;Eurdep;air;44.21;27.33;11.5;Romania;Călărași;Calarasi;;Statie Meteo Calarasi;11.0;13
+05/08/17 02:00;RO0120;Eurdep;air;46.92;26.35;542.8;Romania;Neamț;Piatra Neamt;;Piatra Neamt;9.9;14
+05/08/17 02:00;RO0121;Eurdep;air;47.17;27.57;53.8;Romania;Iași;Iasi;Iași;Iasi;7.7;8
+05/08/17 02:00;RO0122;Eurdep;air;46.55;26.92;159.6;Romania;Bacău;Bacau;Bacău;Bacau;8.3;9
+05/08/17 02:00;RO0123;Eurdep;air;47.67;23.57;269.4;Romania;Maramureș;Baia Mare;Baia Mare;Baia Mare;11.8;14
+05/08/17 02:00;RO0124;Eurdep;air;43.67;25.32;19.0;Romania;Teleorman;Zimnicea;;Zimnicea;11.5;14
+05/08/17 02:00;RO0125;Eurdep;air;46.14;21.36;108.0;Romania;Arad;Arad;;Arad;10.8;12
+05/08/17 02:00;RO0126;Eurdep;air;45.67;27.17;54.0;Romania;Vrancea;Golesti;Ceardac;Focsani;9.4;10
+05/08/17 02:00;RO0127;Eurdep;air;46.06;23.56;240.2;Romania;Alba;Alba Iulia;Alba Iulia;Alba Iulia;14.0;17
+05/08/17 02:00;RO0129;Eurdep;air;47.75;26.67;160.0;Romania;Botoșani;Botosani;Botoșani;Botosani;12.3;16
+05/08/17 02:00;RO0130;Eurdep;air;45.77;24.17;423.5;Romania;Sibiu;Selimbar;Șelimbăr;Sibiu;12.1;14
+05/08/17 02:00;RO0131;Eurdep;air;46.37;25.8;661.2;Romania;Distrito Harghita;Miercurea Ciuc;Miercurea Ciuc;Miercurea Ciuc;11.0;12
+05/08/17 02:00;RO0132;Eurdep;air;46.62;27.68;97.3;Romania;Vaslui;Vaslui;;Vaslui;10.1;11
+05/08/17 02:00;RO0133;Eurdep;air;43.92;25.92;23.0;Romania;Giurgiu;Stanesti;Bălanu;Giurgiu;11.8;16
+05/08/17 02:00;RO0134;Eurdep;air;47.12;24.5;405.7;Romania;Bistrița-Năsăud;Bistrita;Bistrița;Bistrita Nasaud;12.3;14
+05/08/17 02:00;RO0135;Eurdep;air;47.17;23.07;319.3;Romania;Sălaj;Zalau;Zalău;Zalau;11.1;14
+05/08/17 02:00;RO0136;Eurdep;air;45.07;24.37;225.4;Romania;Distrito Vâlcea;Budesti;;Ramnicu Valcea;13.1;14
+05/08/17 02:00;RO0139;Eurdep;air;45.07;23.25;237.8;Romania;Gorj;Targu Jiu;;Targu Jiu;12.4;14
+05/08/17 02:00;RO0140;Eurdep;air;45.27;27.97;21.0;Romania;Brăila;Braila;Brăila;Braila;10.7;12
+05/08/17 02:00;RO0141;Eurdep;air;44.45;26.04;81.7;Romania;Bucarest;Bucharest;Bucarest;Ilfov (Lacul Morii);12.5;14
+04/08/17 00:00;RO0079;Eurdep;air;44.32;28.06;22.3;Romania;Constanța;Saligny;Cernavodă;C.N.E. Cernavoda tld l-8;0.0;0
+04/08/17 00:00;RO0054;Eurdep;air;44.2;28.65;13.7;Romania;Constanța;Constanta;Constanza;A.P.M. CONSTANTA;0.0;0
+04/08/17 00:00;RO0059;Eurdep;air;44.34;28.03;11.8;Romania;Constanța;Cernavoda;Cernavodă;GARA CERNAVODA;0.0;0
+04/08/17 00:00;RO0072;Eurdep;air;44.24;28.27;49.3;Romania;Constanța;Medgidia;Medgidia;UM 01459 MEDGIDIA;0.0;0
+04/08/17 00:00;RO0092;Eurdep;air;43.88;23.71;33.9;Romania;Dolj;Comuna Măceșu de Jos;Măceșu de Jos;MACESU DE JOS;0.0;0
+04/08/17 00:00;RO0065;Eurdep;air;44.31;28.05;0.0;Romania;0;0;0;Statia Ecluza Cernavoda;0.0;0
+05/08/17 02:00;RO0108;Eurdep;air;45.77;21.26;0.0;Romania;0;0;0;Timisoara;10.1;11
+05/08/17 02:00;RO0111;Eurdep;air;45.67;25.57;0.0;Romania;0;0;0;Brasov;10.6;12
+05/08/17 02:00;RO0116;Eurdep;air;45.17;26.82;0.0;Romania;0;0;0;Buzau;11.2;15
+05/08/17 02:00;RO0128;Eurdep;air;45.3;21.92;0.0;Romania;0;0;0;Resita;9.9;11
+05/08/17 02:00;RO0137;Eurdep;air;45.87;25.8;0.0;Romania;0;0;0;Sfantu Gheorghe;13.8;17
+05/08/17 02:00;RO0138;Eurdep;air;44.47;24.35;0.0;Romania;0;0;0;Slatina;9.0;10
+04/08/17 00:00;RO0050;Eurdep;air;44.31;28.06;0.0;Romania;0;0;0;Depozitul Seiru;0.0;0
+04/08/17 00:00;RO0075;Eurdep;air;44.32;28.05;0.0;Romania;0;0;0;POLICLINICA C.N.E.;0.0;0
+04/08/17 00:00;RO0081;Eurdep;air;44.36;28.53;0.0;Romania;0;0;0;UM KOGALNICEANU;0.0;0
+04/08/17 00:00;RO0094;Eurdep;air;43.88;23.59;0.0;Romania;0;0;0;PISCICOLA DUNARENI;0.0;0
+04/08/17 00:00;RO0069;Eurdep;air;44.21;27.33;11.5;Romania;Călărași;Calarasi;;Statie Meteo Calarasi;0.0;0
