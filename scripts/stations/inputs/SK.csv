@@ -1,12 +1,12 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-09/08/17 04:00;SK0813;Eurdep;air;48.17;17.12;195.1;Slovakia;Región de Bratislava;Bratislava III;Bratislava;Bratislava Koliba;11.1;11.0
-09/08/17 04:00;SK0819;Eurdep;air;48.48;17.67;173.1;Slovakia;Región de Trnava;Distrito de Trnava;Jaslovské Bohunice;Jaslovske Bohunice;12.9;13.0
-09/08/17 04:00;SK0855;Eurdep;air;48.28;18.13;130.3;Slovakia;Región de Nitra;Distrito de Nitra;Nitra;Nitra;12.6;14.0
-09/08/17 04:00;SK0856;Eurdep;air;48.22;18.47;175.1;Slovakia;Región de Nitra;Levice;Nový Tekov;Mochovce;12.0;12.0
-09/08/17 04:00;SK0867;Eurdep;air;48.77;18.6;261.5;Slovakia;Región de Trenčín;Distrito de Prievidza;Prievidza;Prievidza;12.3;13.0
-09/08/17 04:00;SK0930;Eurdep;air;49.15;20.25;982.1;Slovakia;Región de Prešov;Distrito de Poprad;Vysoké Tatry;Lomnicky Stit;15.3;16.0
-09/08/17 04:00;SK0933;Eurdep;air;49.12;20.07;0.0;Slovakia;0;0;0;Strbske Pleso;11.3;12.0
-13/07/17 00:00;SK0938;Eurdep;air;48.85;20.18;0.0;Slovakia;0;0;0;Telgart;0.0;0.0
-02/08/17 00:00;SK0952;Eurdep;air;49.33;20.32;755.6;Slovakia;Región de Prešov;Distrito de Kežmarok;Spišské Hanušovce;Poprad-Ganovce;0.0;0.0
-09/08/17 04:00;SK0976;Eurdep;air;49.22;21.65;229.9;Slovakia;Región de Prešov;Distrito de Stropkov;Tisinec;Stropkov;11.6;14.0
-08/08/17 07:00;SK0993;Eurdep;air;48.93;22.0;0.0;Slovakia;0;0;0;Kamenica nad Cirochou;9.2;9.4
+10/08/17 04:00;SK0813;Eurdep;air;48.17;17.12;195.1;Slovakia;Región de Bratislava;Bratislava III;Bratislava;Bratislava Koliba;11.3;11
+10/08/17 04:00;SK0819;Eurdep;air;48.48;17.67;173.1;Slovakia;Región de Trnava;Distrito de Trnava;Jaslovské Bohunice;Jaslovske Bohunice;13.1;13
+10/08/17 04:00;SK0855;Eurdep;air;48.28;18.13;130.3;Slovakia;Región de Nitra;Distrito de Nitra;Nitra;Nitra;12.8;14
+10/08/17 04:00;SK0856;Eurdep;air;48.22;18.47;175.1;Slovakia;Región de Nitra;Levice;Nový Tekov;Mochovce;12.3;13
+10/08/17 04:00;SK0867;Eurdep;air;48.77;18.6;261.5;Slovakia;Región de Trenčín;Distrito de Prievidza;Prievidza;Prievidza;12.0;13
+10/08/17 04:00;SK0930;Eurdep;air;49.15;20.25;982.1;Slovakia;Región de Prešov;Distrito de Poprad;Vysoké Tatry;Lomnicky Stit;15.3;16
+10/08/17 04:00;SK0933;Eurdep;air;49.12;20.07;0.0;Slovakia;0;0;0;Strbske Pleso;11.4;12
+13/07/17 00:00;SK0938;Eurdep;air;48.85;20.18;0.0;Slovakia;0;0;0;Telgart;0.0;0
+02/08/17 00:00;SK0952;Eurdep;air;49.33;20.32;755.6;Slovakia;Región de Prešov;Distrito de Kežmarok;Spišské Hanušovce;Poprad-Ganovce;0.0;0
+10/08/17 04:00;SK0976;Eurdep;air;49.22;21.65;229.9;Slovakia;Región de Prešov;Distrito de Stropkov;Tisinec;Stropkov;11.4;13
+08/08/17 00:00;SK0993;Eurdep;air;48.93;22.0;0.0;Slovakia;0;0;0;Kamenica nad Cirochou;0.0;0
