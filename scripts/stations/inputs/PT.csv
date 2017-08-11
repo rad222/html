@@ -1,14 +1,14 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-10/08/17 14:00;PT0101;Eurdep;air;38.76;-9.13;73.0;Portugal;Distrito de Lisboa;Lisboa;Lisboa;Lisboa;10.6;11.0
-10/08/17 14:00;PT0102;Eurdep;air;37.95;-8.84;88.3;Portugal;Distrito de Setúbal;Sines;Sines;SINES;9.0;9.6
-10/08/17 14:00;PT0103;Eurdep;air;37.04;-7.95;10.1;Portugal;Distrito de Faro;Faro;Faro;FARO;8.2;8.6
-10/08/17 14:00;PT0104;Eurdep;air;38.02;-7.87;254.3;Portugal;Distrito de Beja;Beja;Beja;BEJA;5.8;6.1
-10/08/17 14:00;PT0105;Eurdep;air;39.29;-7.42;537.7;Portugal;Distrito de Portalegre;Portalegre;Portalegre;PORTALEGRE;16.4;16.6
-10/08/17 14:00;PT0106;Eurdep;air;39.84;-7.48;377.0;Portugal;Distrito de Castelo Branco;Castelo Branco;Castelo Branco;CASTELO BRANCO;17.6;17.8
-10/08/17 14:00;PT0107;Eurdep;air;40.41;-7.56;0.0;Portugal;0;0;0;PENHAS DOURADAS;22.0;22.3
-10/08/17 14:00;PT0108;Eurdep;air;41.8;-6.74;604.8;Portugal;Distrito de Braganza;Braganza;Bragança;BRAGANCA;8.1;8.4
-10/08/17 14:00;PT0109;Eurdep;air;41.14;-8.6;29.0;Portugal;Distrito de Oporto;Vila Nova de Gaia;Vila Nova de Gaia;PORTO;17.7;18.0
-10/08/17 14:00;PT0110;Eurdep;air;40.21;-8.41;127.9;Portugal;Distrito de Coímbra;Coímbra;Coímbra;COIMBRA;12.6;13.0
-10/08/17 14:00;PT0111;Eurdep;air;37.74;-25.66;2.8;Portugal;;;;PONTA DELGADA;13.2;13.5
-10/08/17 14:00;PT0112;Eurdep;air;32.64;-16.89;0.0;Portugal;;;;Funchal;6.9;7.1
-10/08/17 14:00;PT0113;Eurdep;air;38.89;-7.15;257.1;Portugal;Distrito de Portalegre;Elvas;Elvas;ELVAS;15.4;15.8
+11/08/17 02:00;PT0101;Eurdep;air;38.76;-9.13;73.0;Portugal;Distrito de Lisboa;Lisboa;Lisboa;Lisboa;10.8;11.0
+11/08/17 02:00;PT0102;Eurdep;air;37.95;-8.84;88.3;Portugal;Distrito de Setúbal;Sines;Sines;SINES;9.3;9.6
+11/08/17 02:00;PT0103;Eurdep;air;37.04;-7.95;10.1;Portugal;Distrito de Faro;Faro;Faro;FARO;8.2;8.6
+11/08/17 02:00;PT0104;Eurdep;air;38.02;-7.87;254.3;Portugal;Distrito de Beja;Beja;Beja;BEJA;5.6;6.0
+11/08/17 02:00;PT0105;Eurdep;air;39.29;-7.42;537.7;Portugal;Distrito de Portalegre;Portalegre;Portalegre;PORTALEGRE;16.4;16.6
+11/08/17 02:00;PT0106;Eurdep;air;39.84;-7.48;377.0;Portugal;Distrito de Castelo Branco;Castelo Branco;Castelo Branco;CASTELO BRANCO;17.7;18.0
+11/08/17 02:00;PT0107;Eurdep;air;40.41;-7.56;0.0;Portugal;0;0;0;PENHAS DOURADAS;21.9;22.0
+11/08/17 02:00;PT0108;Eurdep;air;41.8;-6.74;604.8;Portugal;Distrito de Braganza;Braganza;Bragança;BRAGANCA;8.2;8.5
+11/08/17 02:00;PT0109;Eurdep;air;41.14;-8.6;29.0;Portugal;Distrito de Oporto;Vila Nova de Gaia;Vila Nova de Gaia;PORTO;17.9;18.0
+11/08/17 02:00;PT0110;Eurdep;air;40.21;-8.41;127.9;Portugal;Distrito de Coímbra;Coímbra;Coímbra;COIMBRA;12.7;13.1
+11/08/17 02:00;PT0111;Eurdep;air;37.74;-25.66;2.8;Portugal;;;;PONTA DELGADA;13.3;13.5
+11/08/17 02:00;PT0112;Eurdep;air;32.64;-16.89;0.0;Portugal;;;;Funchal;6.9;7.2
+11/08/17 02:00;PT0113;Eurdep;air;38.89;-7.15;257.1;Portugal;Distrito de Portalegre;Elvas;Elvas;ELVAS;15.4;15.8
