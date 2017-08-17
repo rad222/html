@@ -1,5 +1,5 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-16/08/17 12:00;MT005;Eurdep;air;35.89;14.43;90.7;Malta;;;Attard;ATTARD STATION;5.8;6.2
-16/08/17 12:00;MT006;Eurdep;air;35.82;14.53;0.0;Malta;0.0;0.0;0;BENGHISA STATION;5.9;6.6
-16/08/17 12:00;MT007;Eurdep;air;36.07;14.2;0.0;Malta;0.0;0.0;0;GHARB STATION;9.0;9.3
-16/08/17 11:00;MT001;Eurdep;air;35.89;14.5;0.0;Malta;0.0;0.0;0;KORDIN STATION;8.5;8.0
+16/08/17 23:00;MT005;Eurdep;air;35.89;14.43;90.7;Malta;;;Attard;ATTARD STATION;5.9;6.2
+16/08/17 23:00;MT006;Eurdep;air;35.82;14.53;0.0;Malta;0.0;0.0;0;BENGHISA STATION;5.8;6.2
+16/08/17 23:00;MT007;Eurdep;air;36.07;14.2;0.0;Malta;0.0;0.0;0;GHARB STATION;8.6;9.3
+16/08/17 22:00;MT001;Eurdep;air;35.89;14.5;0.0;Malta;0.0;0.0;0;KORDIN STATION;8.6;9.0
