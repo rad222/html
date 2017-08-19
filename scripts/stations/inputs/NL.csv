@@ -1,167 +1,167 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-18/08/17 18:00;NL0970;Eurdep;air;51.98;5.87;16.3;Netherlands;Güeldres;Arnhem;Arnhem;ARNHEM;7.6;8.1
-18/08/17 18:00;NL0972;Eurdep;air;53.33;6.28;-1.0;Netherlands;Frisia;Kollumerland en Nieuwkruisland;Munnekezijl;KOLLUMERWAARD;8.5;8.6
-18/08/17 18:00;NL0974;Eurdep;air;52.88;6.93;7.0;Netherlands;Drente;Borger-Odoorn;Valthermond;VALTHERMOND;6.9;7.3
-18/08/17 18:00;NL0976;Eurdep;air;51.91;4.33;-0.8;Netherlands;Holanda Meridional;Vlaardingen;Vlaardingen;VLAARDINGEN;7.8;8.0
-18/08/17 18:00;NL0978;Eurdep;air;51.29;3.75;2.1;Netherlands;Zelanda;Terneuzen;Philippine;BRAAKMAN;7.5;9.4
-18/08/17 18:00;NL0980;Eurdep;air;51.43;4.36;20.1;Netherlands;Brabante Septentrional;Woensdrecht;Huijbergen;HUIJBERGEN;6.4;7.8
-18/08/17 18:00;NL0982;Eurdep;air;51.52;5.15;13.4;Netherlands;Brabante Septentrional;Hilvarenbeek;Biest-Houtakker;HOUTAKKER;7.1;7.4
-18/08/17 18:00;NL0984;Eurdep;air;50.9;5.88;91.1;Netherlands;Limburgo;Nuth;Wijnandsrade;WIJNANDSRADE;8.7;9.3
-18/08/17 18:00;NL0986;Eurdep;air;52.09;6.61;20.8;Netherlands;Güeldres;Berkelland;Eibergen;EIBERGEN;6.8;7.2
-18/08/17 18:00;NL0988;Eurdep;air;52.3;4.51;4.7;Netherlands;Holanda Meridional;Noordwijk;Noordwijk;DE ZILK;7.0;7.0
-18/08/17 18:00;NL0990;Eurdep;air;52.8;5.05;-5.9;Netherlands;Holanda Septentrional;Hollands Kroon;Middenmeer;WIERINGERWERF;8.0;8.2
-18/08/17 18:00;NL0992;Eurdep;air;51.54;5.85;27.0;Netherlands;Limburgo;Venray;Vredepeel;VREDEPEEL;6.2;6.4
-18/08/17 18:00;NL0994;Eurdep;air;52.45;5.62;-6.0;Netherlands;Flevolanda;Dronten;Biddinghuizen;BIDDINGHUIZEN;8.3;8.7
-18/08/17 18:00;NL0998;Eurdep;air;52.12;5.2;9.8;Netherlands;Utrecht;De Bilt;Bilthoven;BILTHOVEN (AB);6.8;7.3
-18/08/17 18:00;NL1001;Eurdep;air;53.06;4.79;1.0;Netherlands;Holanda Septentrional;Texel;Den Burg;DEN BURG;7.6;7.9
-18/08/17 18:00;NL1002;Eurdep;air;52.94;4.75;2.9;Netherlands;Holanda Septentrional;Den Helder;Den Helder;DEN HELDER;7.7;7.9
-18/08/17 18:00;NL1003;Eurdep;air;52.93;5.05;0.1;Netherlands;;;;DEN OEVER;7.8;8.0
-18/08/17 18:00;NL1006;Eurdep;air;52.78;4.68;-1.0;Netherlands;Holanda Septentrional;Schagen;Sint Maartensvlotbrug;PETTEN;6.6;7.4
-18/08/17 18:00;NL1007;Eurdep;air;52.78;4.9;-1.8;Netherlands;Holanda Septentrional;Hollands Kroon;Lutjewinkel;KOLHORN;9.4;9.7
-18/08/17 18:00;NL1009;Eurdep;air;52.61;4.63;13.2;Netherlands;Holanda Septentrional;Bergen;Egmond-Binnen;EGMOND AAN ZEE;7.0;7.2
-18/08/17 18:00;NL1011;Eurdep;air;52.66;4.84;-1.6;Netherlands;Holanda Septentrional;Heerhugowaard;Heerhugowaard;HEERHUGOWAARD;8.3;8.6
-18/08/17 18:00;NL1015;Eurdep;air;52.26;5.05;-1.0;Netherlands;Holanda Septentrional;Wijdemeren;Nederhorst den Berg;NEDERHORST DEN BERG;8.2;8.6
-18/08/17 18:00;NL1016;Eurdep;air;52.46;4.65;1.3;Netherlands;Holanda Septentrional;Velsen;Velsen-Zuid;VELSEN (M);7.7;7.9
-18/08/17 18:00;NL1018;Eurdep;air;52.69;5.28;0.0;Netherlands;;;;ENKHUIZEN;8.0;8.2
-18/08/17 18:00;NL1019;Eurdep;air;52.58;5.0;0.0;Netherlands;0;0;0;OOSTHUIZEN;8.0;8.2
-18/08/17 18:00;NL1021;Eurdep;air;52.45;4.82;0.8;Netherlands;Holanda Septentrional;Zaanstad;Zaandam;ZAANDAM;11.1;11.0
-18/08/17 18:00;NL1024;Eurdep;air;52.01;4.74;-0.1;Netherlands;Holanda Meridional;Gouda;Gouda;GOUDA;8.0;8.3
-18/08/17 18:00;NL1027;Eurdep;air;51.82;4.75;3.3;Netherlands;Holanda Meridional;Dordrecht;Dordrecht;DORDRECHT;6.8;7.7
-18/08/17 18:00;NL1028;Eurdep;air;51.75;4.37;1.3;Netherlands;Holanda Meridional;Korendijk;Zuid-Beijerland;ZUID BEIJERLAND;8.6;9.2
-18/08/17 18:00;NL1031;Eurdep;air;51.95;4.46;-3.0;Netherlands;Holanda Meridional;Government of Rotterdam;Róterdam;ROTTERDAM-SCHIEBROEK;7.2;7.4
-18/08/17 18:00;NL1032;Eurdep;air;52.03;4.43;-5.0;Netherlands;Holanda Meridional;Pijnacker-Nootdorp;Pijnacker;PIJNACKER;8.0;8.2
-18/08/17 18:00;NL1035;Eurdep;air;51.96;4.03;3.6;Netherlands;Holanda Meridional;Government of Rotterdam;Maasvlakte Rotterdam;MAASVLAKTE;8.1;8.3
-18/08/17 18:00;NL1036;Eurdep;air;51.88;4.45;1.4;Netherlands;Holanda Meridional;Government of Rotterdam;Róterdam;ROTTERDAM-WAALHAVEN;6.3;6.6
-18/08/17 18:00;NL1037;Eurdep;air;51.93;4.24;3.1;Netherlands;Holanda Meridional;Maassluis;Maassluis;MAASSLUIS;9.8;10.0
-18/08/17 18:00;NL1038;Eurdep;air;51.82;4.13;3.3;Netherlands;Holanda Meridional;Hellevoetsluis;Hellevoetsluis;HELLEVOETSLUIS;11.1;11.0
-18/08/17 18:00;NL1039;Eurdep;air;51.81;3.86;10.1;Netherlands;Holanda Meridional;Goeree-Overflakkee;Ouddorp;OUDDORP;6.9;7.0
-18/08/17 18:00;NL1043;Eurdep;air;51.97;5.68;33.0;Netherlands;Güeldres;Wageningen;Wageningen;WAGENINGEN;7.3;8.1
-18/08/17 18:00;NL1046;Eurdep;air;52.19;5.41;2.8;Netherlands;Utrecht;Amersfoort;Amersfoort;AMERSFOORT;8.0;8.7
-18/08/17 18:00;NL1050;Eurdep;air;52.34;5.63;3.5;Netherlands;Güeldres;Harderwijk;Harderwijk;HARDERWIJK;7.1;7.4
-18/08/17 18:00;NL1056;Eurdep;air;51.97;5.32;5.8;Netherlands;Utrecht;Wijk bij Duurstede;Wijk bij Duurstede;WIJK BIJ DUURSTEDE;9.0;9.5
-18/08/17 18:00;NL1062;Eurdep;air;52.01;5.11;1.0;Netherlands;Utrecht;Nieuwegein;Nieuwegein;NIEUWEGEIN;9.0;9.6
-18/08/17 18:00;NL1063;Eurdep;air;52.14;4.84;-2.5;Netherlands;Utrecht;Woerden;Zegveld;ZEGVELD;7.4;7.6
-18/08/17 18:00;NL1064;Eurdep;air;51.97;4.92;-2.0;Netherlands;Utrecht;Lopik;Lopik;LOPIK (CABAUW);8.8;9.5
-18/08/17 18:00;NL1066;Eurdep;air;52.23;5.96;14.1;Netherlands;Güeldres;Apeldoorn;Apeldoorn;APELDOORN;7.8;8.5
-18/08/17 18:00;NL1071;Eurdep;air;52.95;5.93;0.2;Netherlands;Frisia;Heerenveen;Heerenveen;HEERENVEEN (F);6.9;7.0
-18/08/17 18:00;NL1072;Eurdep;air;52.99;6.3;7.7;Netherlands;Frisia;Ooststellingwerf;Oosterwolde;OOSTERWOLDE (F);8.6;8.8
-18/08/17 18:00;NL1074;Eurdep;air;53.19;6.0;0.0;Netherlands;0;0;0;BERGUM (F);7.6;7.8
-18/08/17 18:00;NL1077;Eurdep;air;53.03;5.65;1.0;Netherlands;Frisia;Súdwest-Fryslân;Sneek;SNEEK (F);7.9;8.1
-18/08/17 18:00;NL1081;Eurdep;air;53.27;5.61;-1.0;Netherlands;Frisia;Het Bildt;Sint Jacobiparochie;ST JACOBIPAROCHIE (F);8.6;8.9
-18/08/17 18:00;NL1082;Eurdep;air;53.37;5.9;1.8;Netherlands;Frisia;Dongeradeel;Holwerd;HOLWERD (F);9.5;9.9
-18/08/17 18:00;NL1085;Eurdep;air;53.22;5.79;-1.8;Netherlands;Frisia;Leeuwarden;Leeuwarden;LEEUWARDEN (F);7.8;8.2
-18/08/17 18:00;NL1095;Eurdep;air;52.57;6.61;7.9;Netherlands;Overijssel;Hardenberg;Hardenberg;HARDENBERG;7.4;8.2
-18/08/17 18:00;NL1099;Eurdep;air;52.8;5.7;-5.0;Netherlands;Flevolanda;Noordoostpolder;Rutten;RUTTEN;8.4;8.6
-18/08/17 18:00;NL1103;Eurdep;air;52.5;5.51;0.0;Netherlands;0;0;0;LELYSTAD;8.1;8.0
-18/08/17 18:00;NL1105;Eurdep;air;52.66;5.62;-4.0;Netherlands;Flevolanda;Urk;Urk;URK;8.2;8.4
-18/08/17 18:00;NL1106;Eurdep;air;53.41;6.87;0.0;Netherlands;;;;EEMSHAVEN (G);8.2;8.5
-18/08/17 18:00;NL1107;Eurdep;air;53.41;6.68;1.0;Netherlands;Groninga;Eemsmond;Uithuizen;UITHUIZEN (G);9.0;9.2
-18/08/17 18:00;NL1109;Eurdep;air;53.26;6.93;-2.5;Netherlands;Groninga;Delfzijl;Wagenborgen;WAGENBORGEN (G);7.9;8.2
-18/08/17 18:00;NL1110;Eurdep;air;53.15;7.02;-1.0;Netherlands;Groninga;Oldambt;Winschoten;WINSCHOTEN (G);8.2;8.4
-18/08/17 18:00;NL1112;Eurdep;air;52.98;6.97;4.6;Netherlands;Groninga;Stadskanaal;Stadskanaal;STADSKANAAL (G);7.2;7.0
-18/08/17 18:00;NL1113;Eurdep;air;53.18;7.2;-2.0;Netherlands;Groninga;Oldambt;Bad Nieuweschans;NIEUWESCHANS (G);7.8;8.0
-18/08/17 18:00;NL1114;Eurdep;air;53.1;7.14;-0.3;Netherlands;Groninga;Bellingwedde;Bellingwolde;BELLINGWOLDE (G);6.5;6.0
-18/08/17 18:00;NL1116;Eurdep;air;53.22;6.59;0.1;Netherlands;Groninga;Groningen;Groninga;GRONINGEN (G);8.5;8.7
-18/08/17 18:00;NL1117;Eurdep;air;53.36;6.38;1.6;Netherlands;Groninga;De Marne;Leens;LEENS (G);8.8;8.9
-18/08/17 18:00;NL1118;Eurdep;air;53.26;6.31;0.2;Netherlands;Groninga;Zuidhorn;Grijpskerk;GRIJPSKERK (G);7.9;8.2
-18/08/17 18:00;NL1125;Eurdep;air;52.69;6.22;2.2;Netherlands;Drente;Meppel;Meppel;MEPPEL (D);7.5;8.0
-18/08/17 18:00;NL1126;Eurdep;air;52.72;6.5;11.4;Netherlands;Drente;Hoogeveen;Hoogeveen;HOOGEVEEN (D);6.9;7.2
-18/08/17 18:00;NL1129;Eurdep;air;52.67;6.7;11.2;Netherlands;Drente;Coevorden;Coevorden;STEENWIJKSMOER (D);7.5;8.3
-18/08/17 18:00;NL1130;Eurdep;air;52.71;6.86;15.7;Netherlands;Drente;Emmen;Nieuw Amsterdam;NIEUW AMSTERDAM (D);7.9;8.0
-18/08/17 18:00;NL1131;Eurdep;air;52.66;6.96;14.0;Netherlands;Drente;Emmen;Schoonebeek;NW SCHOONEBEEK/WEITEVEEN (D);7.1;7.0
-18/08/17 18:00;NL1132;Eurdep;air;52.78;6.89;23.4;Netherlands;Drente;Emmen;Emmen;EMMEN (D);7.9;8.3
-18/08/17 18:00;NL1135;Eurdep;air;52.28;6.78;14.8;Netherlands;Overijssel;Hengelo;Hengelo;HENGELO (OV);7.8;8.2
-18/08/17 18:00;NL1138;Eurdep;air;52.46;6.56;0.0;Netherlands;0;0;0;VROOMSHOOP;7.7;8.1
-18/08/17 18:00;NL1139;Eurdep;air;52.23;6.92;57.4;Netherlands;Overijssel;Enschede;Enschede;ENSCHEDE;7.1;7.5
-18/08/17 18:00;NL1140;Eurdep;air;52.25;7.01;38.0;Netherlands;Overijssel;Losser;Losser;LOSSER;6.8;7.4
-18/08/17 18:00;NL1141;Eurdep;air;52.31;6.91;35.4;Netherlands;Overijssel;Oldenzaal;Oldenzaal;OLDENZAAL;7.6;8.2
-18/08/17 18:00;NL1143;Eurdep;air;52.31;6.52;11.1;Netherlands;Overijssel;Rijssen-Holten;Rijssen;RIJSSEN;8.2;8.4
-18/08/17 18:00;NL1144;Eurdep;air;51.87;6.26;13.4;Netherlands;Güeldres;Montferland;'s-Heerenberg;HEERENBERG 'S;8.1;8.3
-18/08/17 18:00;NL1146;Eurdep;air;51.94;6.47;18.0;Netherlands;Güeldres;Oude IJsselstreek;Varsseveld;VARSSEVELD;8.1;8.5
-18/08/17 18:00;NL1147;Eurdep;air;52.04;6.63;23.4;Netherlands;Güeldres;Oost Gelre;Groenlo;GROENLO;9.3;9.9
-18/08/17 18:00;NL1148;Eurdep;air;52.26;6.18;7.9;Netherlands;Overijssel;Deventer;Deventer;DEVENTER;8.6;9.1
-18/08/17 18:00;NL1154;Eurdep;air;51.58;4.66;2.2;Netherlands;Brabante Septentrional;Etten-Leur;Etten-Leur;ETTEN-LEUR;7.5;7.8
-18/08/17 18:00;NL1157;Eurdep;air;51.7;5.3;5.4;Netherlands;Brabante Septentrional;s-Hertogenbosch;Bolduque;DEN BOSCH;7.7;8.0
-18/08/17 18:00;NL1159;Eurdep;air;51.69;4.88;1.0;Netherlands;Brabante Septentrional;Geertruidenberg;Raamsdonksveer;RAAMSDONKVEER;9.4;10.0
-18/08/17 18:00;NL1160;Eurdep;air;51.54;4.79;4.0;Netherlands;Brabante Septentrional;Breda;;ULVENHOUT;7.4;8.0
-18/08/17 18:00;NL1161;Eurdep;air;51.44;4.94;26.0;Netherlands;Brabante Septentrional;Baarle-Nassau;Baarle-Nassau;BAARLE NASSAU;8.0;8.3
-18/08/17 18:00;NL1163;Eurdep;air;51.69;5.78;16.7;Netherlands;Brabante Septentrional;Mill en Sint Hubert;Mill;MILL;7.1;7.4
-18/08/17 18:00;NL1172;Eurdep;air;51.48;5.55;16.3;Netherlands;Brabante Septentrional;Nuenen, Gerwen en Nederwetten;Nuenen;NUENEN;7.7;7.9
-18/08/17 18:00;NL1174;Eurdep;air;51.32;5.36;32.8;Netherlands;Brabante Septentrional;Bergeijk;Bergeijk;BERGEIJK;10.1;10.0
-18/08/17 18:00;NL1175;Eurdep;air;51.39;5.48;21.5;Netherlands;Brabante Septentrional;Waalre;Waalre;WAALRE;7.6;8.0
-18/08/17 18:00;NL1176;Eurdep;air;51.39;5.71;26.7;Netherlands;Brabante Septentrional;Someren;Someren;SOMEREN (DORP);7.6;8.5
-18/08/17 18:00;NL1178;Eurdep;air;51.58;5.19;13.0;Netherlands;Brabante Septentrional;Oisterwijk;Oisterwijk;OISTERWIJK;8.1;8.5
-18/08/17 18:00;NL1179;Eurdep;air;51.53;5.01;14.3;Netherlands;Brabante Septentrional;Goirle;Riel;RIEL;8.1;8.4
-18/08/17 18:00;NL1180;Eurdep;air;51.47;5.27;19.6;Netherlands;Brabante Septentrional;Oirschot;Oost-, West- en Middelbeers;OOSTELBEERS;11.1;11.0
-18/08/17 18:00;NL1181;Eurdep;air;51.49;5.14;16.0;Netherlands;Brabante Septentrional;Hilvarenbeek;Hilvarenbeek;HILVARENBEEK;7.0;7.6
-18/08/17 18:00;NL1183;Eurdep;air;51.55;5.99;20.0;Netherlands;Limburgo;Venray;Venray;VENRAY;6.6;6.8
-18/08/17 18:00;NL1184;Eurdep;air;51.6;6.06;17.0;Netherlands;Limburgo;Bergen;Bergen;NIEUW-BERGEN;6.7;6.9
-18/08/17 18:00;NL1185;Eurdep;air;51.41;6.03;28.4;Netherlands;Limburgo;Horst aan de Maas;Sevenum;SEVENUM;8.0;8.3
-18/08/17 18:00;NL1188;Eurdep;air;51.29;6.07;20.7;Netherlands;Limburgo;Beesel;Reuver;REUVER;7.6;8.0
-18/08/17 18:00;NL1189;Eurdep;air;51.29;5.76;31.7;Netherlands;Limburgo;Nederweert;Nederweert;NEDERWEERT;8.0;8.6
-18/08/17 18:00;NL1190;Eurdep;air;51.25;5.88;29.0;Netherlands;Limburgo;Leudal;Heythuysen;HEYTHUYSEN;8.3;8.5
-18/08/17 18:00;NL1192;Eurdep;air;51.19;5.71;30.2;Netherlands;Limburgo;Weert;Stramproy;STRAMPROY;7.1;7.6
-18/08/17 18:00;NL1193;Eurdep;air;52.11;6.07;17.1;Netherlands;Güeldres;Brummen;Eerbeek;EERBEEK;7.9;8.0
-18/08/17 18:00;NL1196;Eurdep;air;52.17;4.48;2.6;Netherlands;Holanda Meridional;Leiden;Leiden;LEIDEN;8.6;8.8
-18/08/17 18:00;NL1197;Eurdep;air;51.28;4.06;1.4;Netherlands;Zelanda;Hulst;Hulst;HULST;8.4;8.8
-18/08/17 18:00;NL1199;Eurdep;air;51.31;3.86;1.4;Netherlands;;;;TERNEUZEN;8.0;9.2
-18/08/17 18:00;NL1201;Eurdep;air;51.31;3.39;2.0;Netherlands;Zelanda;Esclusa;Sluis;SLUIS;8.1;8.6
-18/08/17 18:00;NL1202;Eurdep;air;51.46;3.56;2.0;Netherlands;Zelanda;Flesinga;Flesinga;VLISSINGEN;8.3;8.6
-18/08/17 18:00;NL1204;Eurdep;air;51.52;4.3;7.0;Netherlands;Brabante Septentrional;Bergen op Zoom;Halsteren;HALSTEREN;7.3;8.0
-18/08/17 18:00;NL1206;Eurdep;air;51.59;4.46;2.7;Netherlands;Brabante Septentrional;Halderberge;Oud Gastel;OUD GASTEL;7.5;8.6
-18/08/17 18:00;NL1207;Eurdep;air;51.48;3.91;1.1;Netherlands;Zelanda;Goes;Goes;GOES;8.0;8.7
-18/08/17 18:00;NL1209;Eurdep;air;51.66;4.09;0.8;Netherlands;Zelanda;Schouwen-Duiveland;Bruinisse;BRUINISSE;8.0;8.5
-18/08/17 18:00;NL1211;Eurdep;air;51.69;3.71;11.2;Netherlands;Zelanda;Schouwen-Duiveland;Burgh-Haamstede;BURGH-HAAMSTEDE;6.6;6.8
-18/08/17 18:00;NL1212;Eurdep;air;51.59;3.58;9.8;Netherlands;Zelanda;Veere;Vrouwenpolder;VROUWENPOLDER;6.7;6.9
-18/08/17 18:00;NL1213;Eurdep;air;51.5;4.05;1.4;Netherlands;Zelanda;Reimerswaal;Yerseke;YERSEKE;8.8;9.9
-18/08/17 18:00;NL1215;Eurdep;air;51.49;3.59;3.4;Netherlands;Zelanda;Middelburg;Middelburg;MIDDELBURG;8.5;8.7
-18/08/17 18:00;NL1216;Eurdep;air;51.53;3.44;2.7;Netherlands;Zelanda;Veere;Westkapelle;WESTKAPELLE;7.6;7.7
-18/08/17 18:00;NL1220;Eurdep;air;50.84;5.68;51.0;Netherlands;Limburgo;Maastricht;Maastricht;MAASTRICHT;10.3;11.0
-18/08/17 18:00;NL1221;Eurdep;air;50.89;5.83;127.6;Netherlands;Limburgo;Valkenburg aan de Geul;Valkenburg;RAVENSBOS (ARENSGEHOUT);9.0;9.5
-18/08/17 18:00;NL1222;Eurdep;air;50.77;6.0;0.0;Netherlands;0;0;0;VAALS;9.4;10.0
-18/08/17 18:00;NL1223;Eurdep;air;50.78;5.89;202.0;Netherlands;Limburgo;Gulpen-Wittem;Mechelen;GULPEN;8.4;8.8
-18/08/17 18:00;NL1224;Eurdep;air;50.88;6.06;139.0;Netherlands;Limburgo;Kerkrade;Kerkrade;KERKRADE;9.3;9.8
-18/08/17 18:00;NL1225;Eurdep;air;50.92;5.91;95.5;Netherlands;Limburgo;Heerlen;Hoensbroek;HOENSBROEK;9.6;10.0
-18/08/17 18:00;NL1228;Eurdep;air;51.69;5.97;16.0;Netherlands;Limburgo;Gennep;Gennep;GENNEP;7.5;7.8
-18/08/17 18:00;NL1229;Eurdep;air;51.93;5.84;6.4;Netherlands;Güeldres;Overbetuwe;Elst;ELST (GLD);8.3;8.7
-18/08/17 18:00;NL1230;Eurdep;air;51.94;6.07;9.1;Netherlands;Güeldres;Zevenaar;Zevenaar;ZEVENAAR;8.2;8.8
-18/08/17 18:00;NL1231;Eurdep;air;51.83;5.79;9.1;Netherlands;Güeldres;Nimega;Nimega;NIJMEGEN;7.4;7.8
-18/08/17 18:00;NL1233;Eurdep;air;52.32;4.88;-3.6;Netherlands;Holanda Septentrional;Amstelveen;Amstelveen;AMSTELVEEN;8.6;8.9
-18/08/17 18:00;NL1236;Eurdep;air;52.27;4.78;-2.1;Netherlands;Holanda Septentrional;Aalsmeer;Aalsmeer;AALSMEER;8.1;8.3
-18/08/17 18:00;NL1237;Eurdep;air;51.48;4.48;10.7;Netherlands;Brabante Septentrional;Roosendaal;Nispen;NISPEN;7.1;8.8
-18/08/17 18:00;NL1240;Eurdep;air;51.78;5.94;31.4;Netherlands;Güeldres;Groesbeek;Groesbeek;GROESBEEK;8.0;8.0
-18/08/17 18:00;NL1243;Eurdep;air;52.41;6.78;25.5;Netherlands;Overijssel;Tubbergen;Tubbergen;TUBBERGEN;7.7;7.9
-18/08/17 18:00;NL1244;Eurdep;air;52.15;6.72;23.7;Netherlands;Overijssel;Haaksbergen;Haaksbergen;HAAKSBERGEN;7.0;7.0
-18/08/17 18:00;NL1247;Eurdep;air;52.1;4.27;5.7;Netherlands;Holanda Meridional;La Haya;La Haya;SCHEVENINGEN;8.3;8.6
-18/08/17 18:00;NL1251;Eurdep;air;51.8;5.24;1.5;Netherlands;Güeldres;Zaltbommel;Zaltbommel;ZALTBOMMEL;8.1;8.8
-18/08/17 18:00;NL1252;Eurdep;air;51.32;3.62;2.4;Netherlands;Zelanda;Esclusa;IJzendijke;IJZENDIJKE;8.5;9.5
-18/08/17 18:00;NL1253;Eurdep;air;51.44;3.61;0.0;Netherlands;0;0;0;RITTHEM;8.9;9.4
-18/08/17 18:00;NL1254;Eurdep;air;51.47;3.68;4.6;Netherlands;Zelanda;Flesinga;Ritthem;VLISSINGEN HAVEN;8.1;8.6
-18/08/17 18:00;NL1255;Eurdep;air;51.47;3.74;1.3;Netherlands;Zelanda;Borsele;Nieuwdorp;NIEUWDORP;8.2;8.8
-18/08/17 18:00;NL1256;Eurdep;air;51.45;3.77;0.8;Netherlands;Zelanda;Borsele;'s-Heerenhoek;HEERENHOEK 'S;12.4;13.0
-18/08/17 18:00;NL1257;Eurdep;air;51.41;3.79;0.5;Netherlands;Zelanda;Borsele;Driewegen;DRIEWEGEN;9.3;10.0
-18/08/17 18:00;NL1258;Eurdep;air;51.51;3.73;0.8;Netherlands;Zelanda;Middelburg;Arnemuiden;ARNEMUIDEN;8.4;8.8
-18/08/17 18:00;NL1259;Eurdep;air;51.47;3.82;0.0;Netherlands;0;0;0;HEINKENSZAND;9.6;10.0
-18/08/17 18:00;NL1260;Eurdep;air;51.41;3.89;0.7;Netherlands;Zelanda;Borsele;Baarland;BAARLAND;9.8;11.0
-18/08/17 18:00;NL1261;Eurdep;air;51.33;3.69;3.1;Netherlands;Zelanda;Terneuzen;Biervliet;BIERVLIET;7.7;8.9
-18/08/17 18:00;NL1262;Eurdep;air;51.38;3.6;1.5;Netherlands;Zelanda;Esclusa;Hoofdplaat;NUMMER EEN;8.7;9.4
-18/08/17 18:00;NL1263;Eurdep;air;51.42;4.19;1.6;Netherlands;Zelanda;Reimerswaal;Rilland;RILLAND;8.2;9.0
-18/08/17 18:00;NL1264;Eurdep;air;51.37;4.39;14.4;Netherlands;Brabante Septentrional;Woensdrecht;Putte;PUTTE;6.2;6.8
-18/08/17 18:00;NL1265;Eurdep;air;51.29;4.16;3.8;Netherlands;Región Flamenca;Flandes Oriental;Sint-Gillis-Waas;NIEUW NAMEN;9.1;9.4
-18/08/17 18:00;NL1272;Eurdep;air;51.88;5.52;8.0;Netherlands;Güeldres;West Maas en Waal;Beneden-Leeuwen;BENEDEN LEEUWEN;8.6;9.4
-18/08/17 18:00;NL1278;Eurdep;air;52.38;7.01;24.1;Netherlands;Overijssel;Dinkelland;Denekamp;DENEKAMP;7.3;8.0
-18/08/17 18:00;NL1279;Eurdep;air;51.97;6.77;40.8;Netherlands;Güeldres;Winterswijk;Winterswijk Henxel;WINTERSWIJK (KOTTEN);7.5;8.0
-18/08/17 18:00;NL1280;Eurdep;air;52.12;5.2;9.8;Netherlands;Utrecht;De Bilt;Bilthoven;BILTHOVEN (GAMMA);6.2;6.0
-18/08/17 18:00;NL1281;Eurdep;air;51.29;5.55;27.0;Netherlands;Brabante Septentrional;Cranendonck;Gastel;GASTEL (MAARHEZE);7.9;8.4
-18/08/17 18:00;NL1093;Eurdep;air;52.53;6.41;5.2;Netherlands;Overijssel;Ommen;Ommen;OMMEN;7.1;7.5
-18/08/17 18:00;NL1097;Eurdep;air;53.0;6.58;0.0;Netherlands;0;0;0;ASSEN (D);7.4;7.6
-18/08/17 18:00;NL1111;Eurdep;air;52.88;7.06;10.0;Netherlands;Groninga;Vlagtwedde;Ter Apel;TER APEL (G);7.5;7.9
-18/08/17 18:00;NL1145;Eurdep;air;51.86;6.5;21.0;Netherlands;Renania del Norte-Westfalia;Münster;Bocholt;DINXPERLO;9.0;9.4
-18/08/17 18:00;NL1088;Eurdep;air;52.51;6.05;2.7;Netherlands;Overijssel;Zwolle;Zwolle;ZWOLLE;8.8;9.2
-18/08/17 18:00;NL1218;Eurdep;air;50.97;5.75;44.6;Netherlands;Limburgo;Stein;Stein;MAASBAND;8.7;9.1
-18/08/17 18:00;NL1042;Eurdep;air;52.1;5.77;27.9;Netherlands;Güeldres;Ede;Otterlo;OTTERLO;8.5;9.0
-18/08/17 18:00;NL1134;Eurdep;air;52.19;6.36;11.0;Netherlands;Güeldres;Lochem;Laren;LAREN (GLD);7.3;7.6
-18/08/17 18:00;NL1234;Eurdep;air;52.4;4.96;-0.1;Netherlands;Holanda Septentrional;Amsterdam;Ámsterdam;AMSTERDAM;8.1;8.5
-18/08/17 18:00;NL1167;Eurdep;air;51.76;5.53;6.0;Netherlands;Brabante Septentrional;Oss;Oss;OSS;8.0;8.5
-18/08/17 18:00;NL1075;Eurdep;air;53.17;5.45;-2.0;Netherlands;Frisia;Harlingen;Harlingen;HARLINGEN (F);8.4;8.8
-18/08/17 18:00;NL1191;Eurdep;air;51.09;5.97;44.2;Netherlands;Limburgo;Echt-Susteren;Maria-Hoop;MARIA HOOP;8.0;9.0
+19/08/17 05:00;NL0970;Eurdep;air;51.98;5.87;16.3;Netherlands;Güeldres;Arnhem;Arnhem;ARNHEM;7.6;8.1
+19/08/17 05:00;NL0972;Eurdep;air;53.33;6.28;-1.0;Netherlands;Frisia;Kollumerland en Nieuwkruisland;Munnekezijl;KOLLUMERWAARD;8.0;8.7
+19/08/17 05:00;NL0974;Eurdep;air;52.88;6.93;7.0;Netherlands;Drente;Borger-Odoorn;Valthermond;VALTHERMOND;6.8;7.3
+19/08/17 05:00;NL0976;Eurdep;air;51.91;4.33;-0.8;Netherlands;Holanda Meridional;Vlaardingen;Vlaardingen;VLAARDINGEN;7.8;8.1
+19/08/17 05:00;NL0978;Eurdep;air;51.29;3.75;2.1;Netherlands;Zelanda;Terneuzen;Philippine;BRAAKMAN;7.5;9.4
+19/08/17 05:00;NL0980;Eurdep;air;51.43;4.36;20.1;Netherlands;Brabante Septentrional;Woensdrecht;Huijbergen;HUIJBERGEN;6.4;7.8
+19/08/17 05:00;NL0982;Eurdep;air;51.52;5.15;13.4;Netherlands;Brabante Septentrional;Hilvarenbeek;Biest-Houtakker;HOUTAKKER;7.1;7.4
+19/08/17 05:00;NL0984;Eurdep;air;50.9;5.88;91.1;Netherlands;Limburgo;Nuth;Wijnandsrade;WIJNANDSRADE;8.6;8.9
+19/08/17 05:00;NL0986;Eurdep;air;52.09;6.61;20.8;Netherlands;Güeldres;Berkelland;Eibergen;EIBERGEN;6.8;7.0
+19/08/17 05:00;NL0988;Eurdep;air;52.3;4.51;4.7;Netherlands;Holanda Meridional;Noordwijk;Noordwijk;DE ZILK;7.0;7.3
+19/08/17 05:00;NL0990;Eurdep;air;52.8;5.05;-5.9;Netherlands;Holanda Septentrional;Hollands Kroon;Middenmeer;WIERINGERWERF;8.1;8.4
+19/08/17 05:00;NL0992;Eurdep;air;51.54;5.85;27.0;Netherlands;Limburgo;Venray;Vredepeel;VREDEPEEL;6.2;6.4
+19/08/17 05:00;NL0994;Eurdep;air;52.45;5.62;-6.0;Netherlands;Flevolanda;Dronten;Biddinghuizen;BIDDINGHUIZEN;8.4;8.7
+19/08/17 05:00;NL0998;Eurdep;air;52.12;5.2;9.8;Netherlands;Utrecht;De Bilt;Bilthoven;BILTHOVEN (AB);6.8;7.3
+19/08/17 05:00;NL1001;Eurdep;air;53.06;4.79;1.0;Netherlands;Holanda Septentrional;Texel;Den Burg;DEN BURG;7.7;8.3
+19/08/17 05:00;NL1002;Eurdep;air;52.94;4.75;2.9;Netherlands;Holanda Septentrional;Den Helder;Den Helder;DEN HELDER;7.8;8.3
+19/08/17 05:00;NL1003;Eurdep;air;52.93;5.05;0.1;Netherlands;;;;DEN OEVER;7.8;8.0
+19/08/17 05:00;NL1006;Eurdep;air;52.78;4.68;-1.0;Netherlands;Holanda Septentrional;Schagen;Sint Maartensvlotbrug;PETTEN;6.8;7.4
+19/08/17 05:00;NL1007;Eurdep;air;52.78;4.9;-1.8;Netherlands;Holanda Septentrional;Hollands Kroon;Lutjewinkel;KOLHORN;9.5;9.8
+19/08/17 05:00;NL1009;Eurdep;air;52.61;4.63;13.2;Netherlands;Holanda Septentrional;Bergen;Egmond-Binnen;EGMOND AAN ZEE;7.1;7.4
+19/08/17 05:00;NL1011;Eurdep;air;52.66;4.84;-1.6;Netherlands;Holanda Septentrional;Heerhugowaard;Heerhugowaard;HEERHUGOWAARD;8.3;8.6
+19/08/17 05:00;NL1015;Eurdep;air;52.26;5.05;-1.0;Netherlands;Holanda Septentrional;Wijdemeren;Nederhorst den Berg;NEDERHORST DEN BERG;8.3;8.6
+19/08/17 05:00;NL1016;Eurdep;air;52.46;4.65;1.3;Netherlands;Holanda Septentrional;Velsen;Velsen-Zuid;VELSEN (M);7.8;8.0
+19/08/17 05:00;NL1018;Eurdep;air;52.69;5.28;0.0;Netherlands;;;;ENKHUIZEN;8.1;8.0
+19/08/17 05:00;NL1019;Eurdep;air;52.58;5.0;0.0;Netherlands;0;0;0;OOSTHUIZEN;8.1;8.4
+19/08/17 05:00;NL1021;Eurdep;air;52.45;4.82;0.8;Netherlands;Holanda Septentrional;Zaanstad;Zaandam;ZAANDAM;11.1;11.0
+19/08/17 05:00;NL1024;Eurdep;air;52.01;4.74;-0.1;Netherlands;Holanda Meridional;Gouda;Gouda;GOUDA;8.1;8.8
+19/08/17 05:00;NL1027;Eurdep;air;51.82;4.75;3.3;Netherlands;Holanda Meridional;Dordrecht;Dordrecht;DORDRECHT;6.8;7.7
+19/08/17 05:00;NL1028;Eurdep;air;51.75;4.37;1.3;Netherlands;Holanda Meridional;Korendijk;Zuid-Beijerland;ZUID BEIJERLAND;8.6;9.2
+19/08/17 05:00;NL1031;Eurdep;air;51.95;4.46;-3.0;Netherlands;Holanda Meridional;Government of Rotterdam;Róterdam;ROTTERDAM-SCHIEBROEK;7.2;7.0
+19/08/17 05:00;NL1032;Eurdep;air;52.03;4.43;-5.0;Netherlands;Holanda Meridional;Pijnacker-Nootdorp;Pijnacker;PIJNACKER;8.1;8.9
+19/08/17 05:00;NL1035;Eurdep;air;51.96;4.03;3.6;Netherlands;Holanda Meridional;Government of Rotterdam;Maasvlakte Rotterdam;MAASVLAKTE;8.2;8.4
+19/08/17 05:00;NL1036;Eurdep;air;51.88;4.45;1.4;Netherlands;Holanda Meridional;Government of Rotterdam;Róterdam;ROTTERDAM-WAALHAVEN;6.3;6.6
+19/08/17 05:00;NL1037;Eurdep;air;51.93;4.24;3.1;Netherlands;Holanda Meridional;Maassluis;Maassluis;MAASSLUIS;9.8;10.0
+19/08/17 05:00;NL1038;Eurdep;air;51.82;4.13;3.3;Netherlands;Holanda Meridional;Hellevoetsluis;Hellevoetsluis;HELLEVOETSLUIS;11.0;11.0
+19/08/17 05:00;NL1039;Eurdep;air;51.81;3.86;10.1;Netherlands;Holanda Meridional;Goeree-Overflakkee;Ouddorp;OUDDORP;6.9;7.0
+19/08/17 05:00;NL1043;Eurdep;air;51.97;5.68;33.0;Netherlands;Güeldres;Wageningen;Wageningen;WAGENINGEN;7.3;8.1
+19/08/17 05:00;NL1046;Eurdep;air;52.19;5.41;2.8;Netherlands;Utrecht;Amersfoort;Amersfoort;AMERSFOORT;8.1;8.7
+19/08/17 05:00;NL1050;Eurdep;air;52.34;5.63;3.5;Netherlands;Güeldres;Harderwijk;Harderwijk;HARDERWIJK;7.1;7.4
+19/08/17 05:00;NL1056;Eurdep;air;51.97;5.32;5.8;Netherlands;Utrecht;Wijk bij Duurstede;Wijk bij Duurstede;WIJK BIJ DUURSTEDE;8.9;9.5
+19/08/17 05:00;NL1062;Eurdep;air;52.01;5.11;1.0;Netherlands;Utrecht;Nieuwegein;Nieuwegein;NIEUWEGEIN;9.0;9.6
+19/08/17 05:00;NL1063;Eurdep;air;52.14;4.84;-2.5;Netherlands;Utrecht;Woerden;Zegveld;ZEGVELD;7.5;7.9
+19/08/17 05:00;NL1064;Eurdep;air;51.97;4.92;-2.0;Netherlands;Utrecht;Lopik;Lopik;LOPIK (CABAUW);8.8;9.5
+19/08/17 05:00;NL1066;Eurdep;air;52.23;5.96;14.1;Netherlands;Güeldres;Apeldoorn;Apeldoorn;APELDOORN;7.8;8.5
+19/08/17 05:00;NL1071;Eurdep;air;52.95;5.93;0.2;Netherlands;Frisia;Heerenveen;Heerenveen;HEERENVEEN (F);6.9;7.1
+19/08/17 05:00;NL1072;Eurdep;air;52.99;6.3;7.7;Netherlands;Frisia;Ooststellingwerf;Oosterwolde;OOSTERWOLDE (F);8.6;8.8
+19/08/17 05:00;NL1074;Eurdep;air;53.19;6.0;0.0;Netherlands;0;0;0;BERGUM (F);7.6;7.9
+19/08/17 05:00;NL1077;Eurdep;air;53.03;5.65;1.0;Netherlands;Frisia;Súdwest-Fryslân;Sneek;SNEEK (F);7.9;8.1
+19/08/17 05:00;NL1081;Eurdep;air;53.27;5.61;-1.0;Netherlands;Frisia;Het Bildt;Sint Jacobiparochie;ST JACOBIPAROCHIE (F);8.6;8.9
+19/08/17 05:00;NL1082;Eurdep;air;53.37;5.9;1.8;Netherlands;Frisia;Dongeradeel;Holwerd;HOLWERD (F);9.4;9.9
+19/08/17 05:00;NL1085;Eurdep;air;53.22;5.79;-1.8;Netherlands;Frisia;Leeuwarden;Leeuwarden;LEEUWARDEN (F);7.9;8.0
+19/08/17 05:00;NL1095;Eurdep;air;52.57;6.61;7.9;Netherlands;Overijssel;Hardenberg;Hardenberg;HARDENBERG;7.0;8.2
+19/08/17 05:00;NL1099;Eurdep;air;52.8;5.7;-5.0;Netherlands;Flevolanda;Noordoostpolder;Rutten;RUTTEN;8.5;8.8
+19/08/17 05:00;NL1103;Eurdep;air;52.5;5.51;0.0;Netherlands;0;0;0;LELYSTAD;8.2;8.6
+19/08/17 05:00;NL1105;Eurdep;air;52.66;5.62;-4.0;Netherlands;Flevolanda;Urk;Urk;URK;8.3;8.7
+19/08/17 05:00;NL1106;Eurdep;air;53.41;6.87;0.0;Netherlands;;;;EEMSHAVEN (G);8.2;8.5
+19/08/17 05:00;NL1107;Eurdep;air;53.41;6.68;1.0;Netherlands;Groninga;Eemsmond;Uithuizen;UITHUIZEN (G);9.0;9.0
+19/08/17 05:00;NL1109;Eurdep;air;53.26;6.93;-2.5;Netherlands;Groninga;Delfzijl;Wagenborgen;WAGENBORGEN (G);7.9;8.2
+19/08/17 05:00;NL1110;Eurdep;air;53.15;7.02;-1.0;Netherlands;Groninga;Oldambt;Winschoten;WINSCHOTEN (G);8.1;8.4
+19/08/17 05:00;NL1112;Eurdep;air;52.98;6.97;4.6;Netherlands;Groninga;Stadskanaal;Stadskanaal;STADSKANAAL (G);7.2;7.0
+19/08/17 05:00;NL1113;Eurdep;air;53.18;7.2;-2.0;Netherlands;Groninga;Oldambt;Bad Nieuweschans;NIEUWESCHANS (G);7.8;8.0
+19/08/17 05:00;NL1114;Eurdep;air;53.1;7.14;-0.3;Netherlands;Groninga;Bellingwedde;Bellingwolde;BELLINGWOLDE (G);6.5;6.7
+19/08/17 05:00;NL1116;Eurdep;air;53.22;6.59;0.1;Netherlands;Groninga;Groningen;Groninga;GRONINGEN (G);8.6;9.0
+19/08/17 05:00;NL1117;Eurdep;air;53.36;6.38;1.6;Netherlands;Groninga;De Marne;Leens;LEENS (G);8.8;9.0
+19/08/17 05:00;NL1118;Eurdep;air;53.26;6.31;0.2;Netherlands;Groninga;Zuidhorn;Grijpskerk;GRIJPSKERK (G);8.0;8.3
+19/08/17 05:00;NL1125;Eurdep;air;52.69;6.22;2.2;Netherlands;Drente;Meppel;Meppel;MEPPEL (D);7.6;8.0
+19/08/17 05:00;NL1126;Eurdep;air;52.72;6.5;11.4;Netherlands;Drente;Hoogeveen;Hoogeveen;HOOGEVEEN (D);6.9;7.0
+19/08/17 05:00;NL1129;Eurdep;air;52.67;6.7;11.2;Netherlands;Drente;Coevorden;Coevorden;STEENWIJKSMOER (D);7.5;8.3
+19/08/17 05:00;NL1130;Eurdep;air;52.71;6.86;15.7;Netherlands;Drente;Emmen;Nieuw Amsterdam;NIEUW AMSTERDAM (D);7.8;8.0
+19/08/17 05:00;NL1131;Eurdep;air;52.66;6.96;14.0;Netherlands;Drente;Emmen;Schoonebeek;NW SCHOONEBEEK/WEITEVEEN (D);7.0;7.0
+19/08/17 05:00;NL1132;Eurdep;air;52.78;6.89;23.4;Netherlands;Drente;Emmen;Emmen;EMMEN (D);7.9;8.3
+19/08/17 05:00;NL1135;Eurdep;air;52.28;6.78;14.8;Netherlands;Overijssel;Hengelo;Hengelo;HENGELO (OV);7.8;8.2
+19/08/17 05:00;NL1138;Eurdep;air;52.46;6.56;0.0;Netherlands;0;0;0;VROOMSHOOP;7.6;8.1
+19/08/17 05:00;NL1139;Eurdep;air;52.23;6.92;57.4;Netherlands;Overijssel;Enschede;Enschede;ENSCHEDE;7.2;7.5
+19/08/17 05:00;NL1140;Eurdep;air;52.25;7.01;38.0;Netherlands;Overijssel;Losser;Losser;LOSSER;6.8;7.4
+19/08/17 05:00;NL1141;Eurdep;air;52.31;6.91;35.4;Netherlands;Overijssel;Oldenzaal;Oldenzaal;OLDENZAAL;7.6;8.2
+19/08/17 05:00;NL1143;Eurdep;air;52.31;6.52;11.1;Netherlands;Overijssel;Rijssen-Holten;Rijssen;RIJSSEN;8.3;8.0
+19/08/17 05:00;NL1144;Eurdep;air;51.87;6.26;13.4;Netherlands;Güeldres;Montferland;'s-Heerenberg;HEERENBERG 'S;8.1;8.4
+19/08/17 05:00;NL1146;Eurdep;air;51.94;6.47;18.0;Netherlands;Güeldres;Oude IJsselstreek;Varsseveld;VARSSEVELD;8.0;8.5
+19/08/17 05:00;NL1147;Eurdep;air;52.04;6.63;23.4;Netherlands;Güeldres;Oost Gelre;Groenlo;GROENLO;9.4;10.0
+19/08/17 05:00;NL1148;Eurdep;air;52.26;6.18;7.9;Netherlands;Overijssel;Deventer;Deventer;DEVENTER;8.6;9.1
+19/08/17 05:00;NL1154;Eurdep;air;51.58;4.66;2.2;Netherlands;Brabante Septentrional;Etten-Leur;Etten-Leur;ETTEN-LEUR;7.5;7.8
+19/08/17 05:00;NL1157;Eurdep;air;51.7;5.3;5.4;Netherlands;Brabante Septentrional;s-Hertogenbosch;Bolduque;DEN BOSCH;7.6;8.0
+19/08/17 05:00;NL1159;Eurdep;air;51.69;4.88;1.0;Netherlands;Brabante Septentrional;Geertruidenberg;Raamsdonksveer;RAAMSDONKVEER;9.3;10.0
+19/08/17 05:00;NL1160;Eurdep;air;51.54;4.79;4.0;Netherlands;Brabante Septentrional;Breda;;ULVENHOUT;7.3;8.0
+19/08/17 05:00;NL1161;Eurdep;air;51.44;4.94;26.0;Netherlands;Brabante Septentrional;Baarle-Nassau;Baarle-Nassau;BAARLE NASSAU;8.0;8.3
+19/08/17 05:00;NL1163;Eurdep;air;51.69;5.78;16.7;Netherlands;Brabante Septentrional;Mill en Sint Hubert;Mill;MILL;7.1;7.4
+19/08/17 05:00;NL1172;Eurdep;air;51.48;5.55;16.3;Netherlands;Brabante Septentrional;Nuenen, Gerwen en Nederwetten;Nuenen;NUENEN;7.6;7.9
+19/08/17 05:00;NL1174;Eurdep;air;51.32;5.36;32.8;Netherlands;Brabante Septentrional;Bergeijk;Bergeijk;BERGEIJK;10.0;10.0
+19/08/17 05:00;NL1175;Eurdep;air;51.39;5.48;21.5;Netherlands;Brabante Septentrional;Waalre;Waalre;WAALRE;7.6;8.0
+19/08/17 05:00;NL1176;Eurdep;air;51.39;5.71;26.7;Netherlands;Brabante Septentrional;Someren;Someren;SOMEREN (DORP);7.5;8.5
+19/08/17 05:00;NL1178;Eurdep;air;51.58;5.19;13.0;Netherlands;Brabante Septentrional;Oisterwijk;Oisterwijk;OISTERWIJK;8.1;8.5
+19/08/17 05:00;NL1179;Eurdep;air;51.53;5.01;14.3;Netherlands;Brabante Septentrional;Goirle;Riel;RIEL;8.1;8.4
+19/08/17 05:00;NL1180;Eurdep;air;51.47;5.27;19.6;Netherlands;Brabante Septentrional;Oirschot;Oost-, West- en Middelbeers;OOSTELBEERS;11.1;11.0
+19/08/17 05:00;NL1181;Eurdep;air;51.49;5.14;16.0;Netherlands;Brabante Septentrional;Hilvarenbeek;Hilvarenbeek;HILVARENBEEK;7.4;7.6
+19/08/17 05:00;NL1183;Eurdep;air;51.55;5.99;20.0;Netherlands;Limburgo;Venray;Venray;VENRAY;6.6;6.8
+19/08/17 05:00;NL1184;Eurdep;air;51.6;6.06;17.0;Netherlands;Limburgo;Bergen;Bergen;NIEUW-BERGEN;6.6;6.9
+19/08/17 05:00;NL1185;Eurdep;air;51.41;6.03;28.4;Netherlands;Limburgo;Horst aan de Maas;Sevenum;SEVENUM;8.0;8.3
+19/08/17 05:00;NL1188;Eurdep;air;51.29;6.07;20.7;Netherlands;Limburgo;Beesel;Reuver;REUVER;7.5;7.8
+19/08/17 05:00;NL1189;Eurdep;air;51.29;5.76;31.7;Netherlands;Limburgo;Nederweert;Nederweert;NEDERWEERT;8.0;8.6
+19/08/17 05:00;NL1190;Eurdep;air;51.25;5.88;29.0;Netherlands;Limburgo;Leudal;Heythuysen;HEYTHUYSEN;8.3;8.5
+19/08/17 05:00;NL1192;Eurdep;air;51.19;5.71;30.2;Netherlands;Limburgo;Weert;Stramproy;STRAMPROY;7.1;7.6
+19/08/17 05:00;NL1193;Eurdep;air;52.11;6.07;17.1;Netherlands;Güeldres;Brummen;Eerbeek;EERBEEK;7.9;8.0
+19/08/17 05:00;NL1196;Eurdep;air;52.17;4.48;2.6;Netherlands;Holanda Meridional;Leiden;Leiden;LEIDEN;8.6;8.9
+19/08/17 05:00;NL1197;Eurdep;air;51.28;4.06;1.4;Netherlands;Zelanda;Hulst;Hulst;HULST;8.4;8.8
+19/08/17 05:00;NL1199;Eurdep;air;51.31;3.86;1.4;Netherlands;;;;TERNEUZEN;8.0;9.2
+19/08/17 05:00;NL1201;Eurdep;air;51.31;3.39;2.0;Netherlands;Zelanda;Esclusa;Sluis;SLUIS;8.0;8.6
+19/08/17 05:00;NL1202;Eurdep;air;51.46;3.56;2.0;Netherlands;Zelanda;Flesinga;Flesinga;VLISSINGEN;8.3;8.6
+19/08/17 05:00;NL1204;Eurdep;air;51.52;4.3;7.0;Netherlands;Brabante Septentrional;Bergen op Zoom;Halsteren;HALSTEREN;7.3;8.0
+19/08/17 05:00;NL1206;Eurdep;air;51.59;4.46;2.7;Netherlands;Brabante Septentrional;Halderberge;Oud Gastel;OUD GASTEL;7.5;8.6
+19/08/17 05:00;NL1207;Eurdep;air;51.48;3.91;1.1;Netherlands;Zelanda;Goes;Goes;GOES;8.0;8.7
+19/08/17 05:00;NL1209;Eurdep;air;51.66;4.09;0.8;Netherlands;Zelanda;Schouwen-Duiveland;Bruinisse;BRUINISSE;8.1;8.5
+19/08/17 05:00;NL1211;Eurdep;air;51.69;3.71;11.2;Netherlands;Zelanda;Schouwen-Duiveland;Burgh-Haamstede;BURGH-HAAMSTEDE;6.6;6.0
+19/08/17 05:00;NL1212;Eurdep;air;51.59;3.58;9.8;Netherlands;Zelanda;Veere;Vrouwenpolder;VROUWENPOLDER;6.7;6.9
+19/08/17 05:00;NL1213;Eurdep;air;51.5;4.05;1.4;Netherlands;Zelanda;Reimerswaal;Yerseke;YERSEKE;8.7;9.9
+19/08/17 05:00;NL1215;Eurdep;air;51.49;3.59;3.4;Netherlands;Zelanda;Middelburg;Middelburg;MIDDELBURG;8.6;8.8
+19/08/17 05:00;NL1216;Eurdep;air;51.53;3.44;2.7;Netherlands;Zelanda;Veere;Westkapelle;WESTKAPELLE;7.6;7.8
+19/08/17 05:00;NL1220;Eurdep;air;50.84;5.68;51.0;Netherlands;Limburgo;Maastricht;Maastricht;MAASTRICHT;10.2;10.0
+19/08/17 05:00;NL1221;Eurdep;air;50.89;5.83;127.6;Netherlands;Limburgo;Valkenburg aan de Geul;Valkenburg;RAVENSBOS (ARENSGEHOUT);8.8;9.0
+19/08/17 05:00;NL1222;Eurdep;air;50.77;6.0;0.0;Netherlands;0;0;0;VAALS;9.3;10.0
+19/08/17 05:00;NL1223;Eurdep;air;50.78;5.89;202.0;Netherlands;Limburgo;Gulpen-Wittem;Mechelen;GULPEN;8.4;8.6
+19/08/17 05:00;NL1224;Eurdep;air;50.88;6.06;139.0;Netherlands;Limburgo;Kerkrade;Kerkrade;KERKRADE;9.3;9.7
+19/08/17 05:00;NL1225;Eurdep;air;50.92;5.91;95.5;Netherlands;Limburgo;Heerlen;Hoensbroek;HOENSBROEK;9.4;9.8
+19/08/17 05:00;NL1228;Eurdep;air;51.69;5.97;16.0;Netherlands;Limburgo;Gennep;Gennep;GENNEP;7.4;7.8
+19/08/17 05:00;NL1229;Eurdep;air;51.93;5.84;6.4;Netherlands;Güeldres;Overbetuwe;Elst;ELST (GLD);8.3;8.6
+19/08/17 05:00;NL1230;Eurdep;air;51.94;6.07;9.1;Netherlands;Güeldres;Zevenaar;Zevenaar;ZEVENAAR;8.2;8.8
+19/08/17 05:00;NL1231;Eurdep;air;51.83;5.79;9.1;Netherlands;Güeldres;Nimega;Nimega;NIJMEGEN;7.4;7.8
+19/08/17 05:00;NL1233;Eurdep;air;52.32;4.88;-3.6;Netherlands;Holanda Septentrional;Amstelveen;Amstelveen;AMSTELVEEN;8.7;9.1
+19/08/17 05:00;NL1236;Eurdep;air;52.27;4.78;-2.1;Netherlands;Holanda Septentrional;Aalsmeer;Aalsmeer;AALSMEER;8.2;8.0
+19/08/17 05:00;NL1237;Eurdep;air;51.48;4.48;10.7;Netherlands;Brabante Septentrional;Roosendaal;Nispen;NISPEN;7.1;8.8
+19/08/17 05:00;NL1240;Eurdep;air;51.78;5.94;31.4;Netherlands;Güeldres;Groesbeek;Groesbeek;GROESBEEK;8.0;8.0
+19/08/17 05:00;NL1243;Eurdep;air;52.41;6.78;25.5;Netherlands;Overijssel;Tubbergen;Tubbergen;TUBBERGEN;7.7;8.0
+19/08/17 05:00;NL1244;Eurdep;air;52.15;6.72;23.7;Netherlands;Overijssel;Haaksbergen;Haaksbergen;HAAKSBERGEN;7.0;7.0
+19/08/17 05:00;NL1247;Eurdep;air;52.1;4.27;5.7;Netherlands;Holanda Meridional;La Haya;La Haya;SCHEVENINGEN;8.3;8.6
+19/08/17 05:00;NL1251;Eurdep;air;51.8;5.24;1.5;Netherlands;Güeldres;Zaltbommel;Zaltbommel;ZALTBOMMEL;8.0;8.8
+19/08/17 05:00;NL1252;Eurdep;air;51.32;3.62;2.4;Netherlands;Zelanda;Esclusa;IJzendijke;IJZENDIJKE;8.5;9.5
+19/08/17 05:00;NL1253;Eurdep;air;51.44;3.61;0.0;Netherlands;0;0;0;RITTHEM;8.9;9.4
+19/08/17 05:00;NL1254;Eurdep;air;51.47;3.68;4.6;Netherlands;Zelanda;Flesinga;Ritthem;VLISSINGEN HAVEN;8.2;8.6
+19/08/17 05:00;NL1255;Eurdep;air;51.47;3.74;1.3;Netherlands;Zelanda;Borsele;Nieuwdorp;NIEUWDORP;8.3;8.8
+19/08/17 05:00;NL1256;Eurdep;air;51.45;3.77;0.8;Netherlands;Zelanda;Borsele;'s-Heerenhoek;HEERENHOEK 'S;12.4;13.0
+19/08/17 05:00;NL1257;Eurdep;air;51.41;3.79;0.5;Netherlands;Zelanda;Borsele;Driewegen;DRIEWEGEN;9.3;10.0
+19/08/17 05:00;NL1258;Eurdep;air;51.51;3.73;0.8;Netherlands;Zelanda;Middelburg;Arnemuiden;ARNEMUIDEN;8.4;8.8
+19/08/17 05:00;NL1259;Eurdep;air;51.47;3.82;0.0;Netherlands;0;0;0;HEINKENSZAND;9.6;10.0
+19/08/17 05:00;NL1260;Eurdep;air;51.41;3.89;0.7;Netherlands;Zelanda;Borsele;Baarland;BAARLAND;9.8;11.0
+19/08/17 05:00;NL1261;Eurdep;air;51.33;3.69;3.1;Netherlands;Zelanda;Terneuzen;Biervliet;BIERVLIET;7.7;8.9
+19/08/17 05:00;NL1262;Eurdep;air;51.38;3.6;1.5;Netherlands;Zelanda;Esclusa;Hoofdplaat;NUMMER EEN;8.7;9.4
+19/08/17 05:00;NL1263;Eurdep;air;51.42;4.19;1.6;Netherlands;Zelanda;Reimerswaal;Rilland;RILLAND;8.2;9.0
+19/08/17 05:00;NL1264;Eurdep;air;51.37;4.39;14.4;Netherlands;Brabante Septentrional;Woensdrecht;Putte;PUTTE;6.2;6.8
+19/08/17 05:00;NL1265;Eurdep;air;51.29;4.16;3.8;Netherlands;Región Flamenca;Flandes Oriental;Sint-Gillis-Waas;NIEUW NAMEN;9.1;9.4
+19/08/17 05:00;NL1272;Eurdep;air;51.88;5.52;8.0;Netherlands;Güeldres;West Maas en Waal;Beneden-Leeuwen;BENEDEN LEEUWEN;8.6;9.4
+19/08/17 05:00;NL1278;Eurdep;air;52.38;7.01;24.1;Netherlands;Overijssel;Dinkelland;Denekamp;DENEKAMP;7.3;8.0
+19/08/17 05:00;NL1279;Eurdep;air;51.97;6.77;40.8;Netherlands;Güeldres;Winterswijk;Winterswijk Henxel;WINTERSWIJK (KOTTEN);7.5;8.0
+19/08/17 05:00;NL1280;Eurdep;air;52.12;5.2;9.8;Netherlands;Utrecht;De Bilt;Bilthoven;BILTHOVEN (GAMMA);6.2;6.0
+19/08/17 05:00;NL1281;Eurdep;air;51.29;5.55;27.0;Netherlands;Brabante Septentrional;Cranendonck;Gastel;GASTEL (MAARHEZE);7.9;8.4
+19/08/17 05:00;NL1093;Eurdep;air;52.53;6.41;5.2;Netherlands;Overijssel;Ommen;Ommen;OMMEN;7.1;7.5
+19/08/17 05:00;NL1097;Eurdep;air;53.0;6.58;0.0;Netherlands;0;0;0;ASSEN (D);7.4;7.0
+19/08/17 05:00;NL1111;Eurdep;air;52.88;7.06;10.0;Netherlands;Groninga;Vlagtwedde;Ter Apel;TER APEL (G);7.5;7.9
+19/08/17 05:00;NL1145;Eurdep;air;51.86;6.5;21.0;Netherlands;Renania del Norte-Westfalia;Münster;Bocholt;DINXPERLO;8.9;9.4
+19/08/17 05:00;NL1088;Eurdep;air;52.51;6.05;2.7;Netherlands;Overijssel;Zwolle;Zwolle;ZWOLLE;8.7;9.2
+19/08/17 05:00;NL1218;Eurdep;air;50.97;5.75;44.6;Netherlands;Limburgo;Stein;Stein;MAASBAND;8.6;8.9
+19/08/17 05:00;NL1042;Eurdep;air;52.1;5.77;27.9;Netherlands;Güeldres;Ede;Otterlo;OTTERLO;8.5;9.0
+19/08/17 05:00;NL1134;Eurdep;air;52.19;6.36;11.0;Netherlands;Güeldres;Lochem;Laren;LAREN (GLD);7.3;7.6
+19/08/17 05:00;NL1234;Eurdep;air;52.4;4.96;-0.1;Netherlands;Holanda Septentrional;Amsterdam;Ámsterdam;AMSTERDAM;8.2;8.5
+19/08/17 05:00;NL1167;Eurdep;air;51.76;5.53;6.0;Netherlands;Brabante Septentrional;Oss;Oss;OSS;8.0;8.5
+19/08/17 05:00;NL1075;Eurdep;air;53.17;5.45;-2.0;Netherlands;Frisia;Harlingen;Harlingen;HARLINGEN (F);8.4;8.8
+19/08/17 05:00;NL1191;Eurdep;air;51.09;5.97;44.2;Netherlands;Limburgo;Echt-Susteren;Maria-Hoop;MARIA HOOP;7.9;8.0
