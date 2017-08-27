@@ -1,16 +1,16 @@
 date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
-26/08/17 16:00;EE20395;Eurdep;air;59.45;24.71;19.9;Estonia;Condado de Harju;Tallinna linn;Tallin;Tallinn;4.3;4.5
-26/08/17 16:00;EE20400;Eurdep;air;59.52;26.54;7.3;Estonia;Condado de Lääne-Viru;Kunda linn;Kunda;Kunda;5.6;5.7
-26/08/17 16:00;EE20396;Eurdep;air;58.95;23.82;25.0;Estonia;Lääne County;Lääne-Nigula Parish;;Laane-Nigula;4.7;4.8
-26/08/17 16:00;EE20402;Eurdep;air;57.91;22.06;0.0;Estonia;;;;Sorve;3.6;3.9
-26/08/17 16:00;EE20401;Eurdep;air;58.42;24.47;12.0;Estonia;Condado de Pärnu;Sauga Parish;;Parnu;3.2;3.3
-26/08/17 16:00;EE20397;Eurdep;air;58.81;25.41;64.7;Estonia;Condado de Järva;Türi;Türi;Turi;5.5;5.7
-26/08/17 16:00;EE20398;Eurdep;air;58.97;24.73;56.4;Estonia;Condado de Rapla;Rapla;Kuusiku;Kuusiku;4.5;4.6
-26/08/17 16:00;EE20399;Eurdep;air;59.14;26.23;120.0;Estonia;Condado de Lääne-Viru;Väike-Maarja Parish;;Vaike-Maarja;6.4;6.5
-26/08/17 16:00;EE20409;Eurdep;air;59.39;28.11;30.8;Estonia;Condado de Ida-Viru;Vaivara Parish;;Narva-Joesuu;9.0;9.5
-26/08/17 16:00;EE20405;Eurdep;air;58.87;26.95;37.9;Estonia;Condado de Ida-Viru;Lohusuu Parish;;Mustvee;3.5;3.8
-26/08/17 16:00;EE20406;Eurdep;air;58.26;26.46;60.9;Estonia;Condado de Tartu;Nõo Parish;Tõravere;Toravere;5.7;6.3
-26/08/17 16:00;EE20407;Eurdep;air;57.85;27.02;79.7;Estonia;Condado de Võru;Võru Parish;Võrumõisa;Voru;6.4;7.2
-26/08/17 16:00;EE20403;Eurdep;air;57.79;26.04;61.3;Estonia;Condado de Valga;Valga linn;Valga;Valga;7.1;8.0
-26/08/17 16:00;EE20404;Eurdep;air;58.38;25.6;85.7;Estonia;Condado de Viljandi;Viljandi;;Viljandi;4.6;4.9
-26/08/17 16:00;EE20411;Eurdep;air;58.92;22.07;17.5;Estonia;Condado de Hiiu;Hiiu Parish;;Ristna;4.0;4.1
+27/08/17 03:00;EE20395;Eurdep;air;59.45;24.71;19.9;Estonia;Condado de Harju;Tallinna linn;Tallin;Tallinn;4.3;4.5
+27/08/17 03:00;EE20400;Eurdep;air;59.52;26.54;7.3;Estonia;Condado de Lääne-Viru;Kunda linn;Kunda;Kunda;5.5;5.7
+27/08/17 03:00;EE20396;Eurdep;air;58.95;23.82;25.0;Estonia;Lääne County;Lääne-Nigula Parish;;Laane-Nigula;4.7;4.8
+27/08/17 03:00;EE20402;Eurdep;air;57.91;22.06;0.0;Estonia;;;;Sorve;3.7;3.8
+27/08/17 03:00;EE20401;Eurdep;air;58.42;24.47;12.0;Estonia;Condado de Pärnu;Sauga Parish;;Parnu;3.2;3.3
+27/08/17 03:00;EE20397;Eurdep;air;58.81;25.41;64.7;Estonia;Condado de Järva;Türi;Türi;Turi;5.5;5.7
+27/08/17 03:00;EE20398;Eurdep;air;58.97;24.73;56.4;Estonia;Condado de Rapla;Rapla;Kuusiku;Kuusiku;4.5;4.6
+27/08/17 03:00;EE20399;Eurdep;air;59.14;26.23;120.0;Estonia;Condado de Lääne-Viru;Väike-Maarja Parish;;Vaike-Maarja;6.4;6.5
+27/08/17 03:00;EE20409;Eurdep;air;59.39;28.11;30.8;Estonia;Condado de Ida-Viru;Vaivara Parish;;Narva-Joesuu;9.0;9.1
+27/08/17 03:00;EE20405;Eurdep;air;58.87;26.95;37.9;Estonia;Condado de Ida-Viru;Lohusuu Parish;;Mustvee;3.5;3.8
+27/08/17 03:00;EE20406;Eurdep;air;58.26;26.46;60.9;Estonia;Condado de Tartu;Nõo Parish;Tõravere;Toravere;5.7;5.9
+27/08/17 03:00;EE20407;Eurdep;air;57.85;27.02;79.7;Estonia;Condado de Võru;Võru Parish;Võrumõisa;Voru;6.4;6.4
+27/08/17 03:00;EE20403;Eurdep;air;57.79;26.04;61.3;Estonia;Condado de Valga;Valga linn;Valga;Valga;7.0;7.2
+27/08/17 03:00;EE20404;Eurdep;air;58.38;25.6;85.7;Estonia;Condado de Viljandi;Viljandi;;Viljandi;4.6;4.8
+27/08/17 03:00;EE20411;Eurdep;air;58.92;22.07;17.5;Estonia;Condado de Hiiu;Hiiu Parish;;Ristna;4.0;4.1
