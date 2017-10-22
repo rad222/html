@@ -34,6 +34,10 @@ import argparse
 # base dir
 base_dir = os.path.realpath(os.path.dirname(__file__))
 csv_dir = os.path.join(base_dir, "outputs")
+stations_db_file = os.path.join(csv_dir, "stations.db")
+
+if not os.path.exists(csv_dir): os.makedirs(csv_dir)
+if not os.path.exists(stations_db_file): initStationsDatabase()
 
 # define ArgumentParser
 def createParser ():
