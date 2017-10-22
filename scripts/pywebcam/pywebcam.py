@@ -18,7 +18,12 @@ sys.setrecursionlimit(10000) #to avoid RuntimeError: maximum recursion depth exc
 #                                                                                           #
 #===========================================================================================#
 
-home = '/home/radon/html/scripts/pywebcam/'
+home = os.path.realpath(os.path.dirname(__file__))
+
+log_dir = os.path.join(home, 'log')
+if not os.path.exists(log_dir): os.makedirs(log_dir)
+log_file = os.path.join(log_dir, 'log.log')
+if not os.path.exists(log_file): os.mknod(log_file)
 
 logger = logging.getLogger("Rotating Log")
 format = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
@@ -27,7 +32,8 @@ logger.setLevel(logging.DEBUG)
 ch = logging.StreamHandler(sys.stdout)
 ch.setFormatter(format)
 logger.addHandler(ch)
-handler = RotatingFileHandler(os.path.join(os.path.join(home, 'log'), 'log.log'), maxBytes=1000000, backupCount=1)
+if not os.path.exists(layer_dir): os.makedirs(layer_dir)
+handler = RotatingFileHandler(log_file), maxBytes=1000000, backupCount=1)
 handler.setFormatter(format)
 logger.addHandler(handler)
 
