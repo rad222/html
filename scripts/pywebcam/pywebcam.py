@@ -33,7 +33,7 @@ ch = logging.StreamHandler(sys.stdout)
 ch.setFormatter(format)
 logger.addHandler(ch)
 if not os.path.exists(layer_dir): os.makedirs(layer_dir)
-handler = RotatingFileHandler(log_file), maxBytes=1000000, backupCount=1)
+handler = RotatingFileHandler(log_file, maxBytes=1000000, backupCount=1)
 handler.setFormatter(format)
 logger.addHandler(handler)
 
