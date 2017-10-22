@@ -206,3 +206,7 @@ input[type="checkbox"] {
     margin-left: 10px;
     height: 8px;
 }
+
+#stations-filter-dynamic {
+    display: none;
+}

@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="libs/leaflet.groupedlayercontrol-0.5.0/leaflet.groupedlayercontrol.min.css">
     <link rel="stylesheet" href="libs/sidebar-v2-0.3.1/leaflet-sidebar.min.css">
     <link rel="stylesheet" href="libs/leaflet-control-geocoder-1.5.4/Control.Geocoder.css">
-    <link rel="stylesheet" href="libs/jquery-ui-1.12.1/jquery-ui.css">
+    <link rel="stylesheet" href="libs/jquery-ui-1.12.1/jquery-ui.min.css">
     <link rel="stylesheet" href="libs/main.css">
 </head>
 
@@ -36,22 +36,45 @@
                 <img src="img/logo-sidebar.png" alt="">
             </ul>
             <ul role="tablist">
-                <li><a href="#sidebar-settings" title="Settings" role="tab"><i class="fa fa-gear"></i></a></li>
-                <li><a href="#sidebar-messages" title="Messages" role="tab"><i class="fa fa-envelope"></i></a></li>
-                <li><a href="#sidebar-documentation" title="Documentation" role="tab"><i class="fa fa-file-text-o"></i></a></li>
-                <li><a href="#sidebar-whatisnew" title="Whatisnew" role="tab"><i class="fa fa-info-circle"></i></a></li>
+                <li>
+                    <a href="#sidebar-settings" title="Settings" role="tab">
+                        <i class="fa fa-gear"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#sidebar-messages" title="Messages" role="tab">
+                        <i class="fa fa-envelope"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#sidebar-documentation" title="Documentation" role="tab">
+                        <i class="fa fa-file-text-o"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#sidebar-whatisnew" title="Whatisnew" role="tab">
+                        <i class="fa fa-info-circle"></i>
+                    </a>
+                </li>
             </ul>
         </div>
         <!-- Tab panes -->
         <div class="sidebar-content">
             <div class="sidebar-pane" id="sidebar-settings">
                 <h1 class="sidebar-header">
-                    <i class="fa fa-gear fa-1x"></i>&nbsp;&nbsp;<span tkey="settings">Settings</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                    <i class="fa fa-gear fa-1x"></i>&nbsp;&nbsp;
+                    <span tkey="settings">Settings</span>
+                    <span class="sidebar-close">
+                        <i class="fa fa-caret-left"></i>
+                    </span>
+                </h1>
 
                 <div id="settings-accordion">
 
 
-                    <h3><span tkey="stations-filter-selector">Stations filter options</span></h3>
+                    <h3>
+                        <span tkey="stations-filter-selector">Stations filter options</span>
+                    </h3>
                     <div>
                         <div id="stations-mode-ranges">
                             <p tkey="stations-mode-selector">Stations mode:</p>
@@ -63,26 +86,63 @@
                             </div>
                         </div>
                         <hr>
-                        <div id="stations-filter">
+
+
+                        <div id="stations-filter-static">
+                            static
                             <p tkey="change-country">Select country:</p>
-                            <select class="selectpicker show-menu-arrow" data-live-search="true" data-size="5">
+                            <select class="selectpicker show-menu-arrow static" data-live-search="true" data-size="5">
+                                <option>All countries</option>
+                                <!-- loading values -->
+                            </select>
+                            <hr>
+                            <!--<p tkey="change-date">Select date:</p>
+                            <input class="datepicker" id="station-date-static">
+                            <hr>-->
+                            <p tkey="change-altitude">Altitude:</p>
+                            <span id="station_altitude_min_static">0</span>&nbsp;&nbsp;
+                            <input type="text" class="span2" value="" id="station_slider_altitude_static" data-slider-step="1">&nbsp;&nbsp;
+                            <span id="station_altitude_max_static">0</span>
+                            <hr>
+                            <p tkey="change-value">Value:</p>
+                            <span id="station_value_min_static">0</span>&nbsp;&nbsp;
+                            <input type="text" class="span2" value="" id="station_slider_value_static" data-slider-step="1">&nbsp;&nbsp;
+                            <span id="station_value_max_static">0</span>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                        </div>
+
+
+
+                        <div id="stations-filter-dynamic">
+                            dynamic
+                            <p tkey="change-country">Select country:</p>
+                            <select class="selectpicker show-menu-arrow dynamic" data-live-search="true" data-size="5">
                                 <option>All countries</option>
                                 <!-- loading values -->
                             </select>
                             <hr>
                             <p tkey="change-date">Select date:</p>
-                            <input class="datepicker" id="station-date">
+                            <input class="datepicker" id="station-date-dynamic">
                             <hr>
                             <p tkey="change-altitude">Altitude:</p>
-                            <span id="station_altitude_min">0</span>&nbsp;&nbsp;
-                            <input type="text" class="span2" value="" id="station_slider_altitude" data-slider-step="1">&nbsp;&nbsp;
-                            <span id="station_altitude_max">0</span>
+                            <span id="station_altitude_min_dynamic">0</span>&nbsp;&nbsp;
+                            <input type="text" class="span2" value="" id="station_slider_altitude_dynamic" data-slider-step="1">&nbsp;&nbsp;
+                            <span id="station_altitude_max_dynamic">0</span>
                             <hr>
                             <p tkey="change-value">Value:</p>
-                            <span id="station_value_min">0</span>&nbsp;&nbsp;
-                            <input type="text" class="span2" value="" id="station_slider_value" data-slider-step="1">&nbsp;&nbsp;
-                            <span id="station_value_max">0</span>
+                            <span id="station_value_min_dynamic">0</span>&nbsp;&nbsp;
+                            <input type="text" class="span2" value="" id="station_slider_value_dynamic" data-slider-step="1">&nbsp;&nbsp;
+                            <span id="station_value_max_dynamic">0</span>
                         </div>
+
+
+
+
+
                     </div>
 
 
@@ -104,12 +164,16 @@
                     </div>
 
 
-                    <h3><span tkey="overlay-layer">Overlay layer popup display options</span></h3>
+                    <h3>
+                        <span tkey="overlay-layer">Overlay layer popup display options</span>
+                    </h3>
                     <div id="overlay-layer-popup-display">
                         <form class="form">
                             <div class="switch-field point-event">
                                 <div class="switch-title">
-                                    <p tkey="point-layer"><i>Point layer:</i></p>
+                                    <p tkey="point-layer">
+                                        <i>Point layer:</i>
+                                    </p>
                                 </div>
                                 <input type="radio" id="optradio_point_click" name="optradio_point" value="click" checked/>
                                 <label for="optradio_point_click">Click</label>
@@ -119,7 +183,9 @@
                             <hr>
                             <div class="switch-field polygon-event">
                                 <div class="switch-title">
-                                    <p tkey="polygon-layer"><i>Polygon layer:</i></p>
+                                    <p tkey="polygon-layer">
+                                        <i>Polygon layer:</i>
+                                    </p>
                                 </div>
                                 <input type="radio" id="optradio_polygon_click" name="optradio_polygon" value="click" checked/>
                                 <label for="optradio_polygon_click">Click</label>
@@ -174,17 +240,30 @@
             </div>
             <div class="sidebar-pane" id="sidebar-messages">
                 <h1 class="sidebar-header">
-                    <i class="fa fa-envelope fa-1x"></i>&nbsp;&nbsp;<span tkey="messages">Email</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                    <i class="fa fa-envelope fa-1x"></i>&nbsp;&nbsp;
+                    <span tkey="messages">Email</span>
+                    <span class="sidebar-close">
+                        <i class="fa fa-caret-left"></i>
+                    </span>
+                </h1>
             </div>
             <div class="sidebar-pane" id="sidebar-documentation">
                 <h1 class="sidebar-header">
-                    <i class="fa fa-file-text fa-1x"></i>&nbsp;&nbsp;<span tkey="documentation">Documentation</span>
-                    <span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                    <i class="fa fa-file-text fa-1x"></i>&nbsp;&nbsp;
+                    <span tkey="documentation">Documentation</span>
+                    <span class="sidebar-close">
+                        <i class="fa fa-caret-left"></i>
+                    </span>
                 </h1>
             </div>
             <div class="sidebar-pane" id="sidebar-whatisnew">
                 <h1 class="sidebar-header">
-                    <i class="fa fa-info-circle fa-1x"></i>&nbsp;&nbsp;<span tkey="whatisnew">What is new</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span></h1>
+                    <i class="fa fa-info-circle fa-1x"></i>&nbsp;&nbsp;
+                    <span tkey="whatisnew">What is new</span>
+                    <span class="sidebar-close">
+                        <i class="fa fa-caret-left"></i>
+                    </span>
+                </h1>
             </div>
         </div>
     </div>
@@ -224,7 +303,7 @@
     </script>
 
     <script src="libs/jquery-1.12.4.js"></script>
-    <script src="libs/jquery-ui-1.12.1/jquery-ui.js"></script>
+    <script src="libs/jquery-ui-1.12.1/jquery-ui.min.js"></script>
     <script src="libs/handlebars-4.0.6.js"></script>
     <script src="libs/bootstrap-3.3.7/js/bootstrap.min.js"></script>
     <script src="libs/bootstrap-slider-9.5.4/bootstrap-slider.min.js"></script>
@@ -244,6 +323,7 @@
     <script src="libs/leaflet-hash.js"></script>
     <script src="libs/leaflet-heat.js"></script>
     <script src="data/earthquakes.js"></script>
+    <script src="libs/geojson.min.js"></script>
     <script src="libs/main.js"></script>
     <script src="libs/multilanguage/lang.js"></script>
 

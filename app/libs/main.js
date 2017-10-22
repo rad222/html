@@ -21,7 +21,7 @@ function capitalizeEachWord(str) {
 };
 
 // markers, polygons and legend color range style
-var colorRange1 = [{
+var colorRange_1 = [{
 	min: 0,
 	max: 5,
 	color: '#A6F9FF'
@@ -99,7 +99,7 @@ var colorRange1 = [{
 	color: '#CD326C'
 }];
 
-var colorRange2 = [{
+var colorRange_2 = [{
 	min: 0,
 	max: 10,
 	color: '#1AB0AF'
@@ -125,7 +125,7 @@ var colorRange2 = [{
 	color: '#671CAE'
 }];
 
-var colorRange3 = [{
+var colorRange_3 = [{
 	min: 0,
 	max: 8,
 	color: '#6BBA70'
@@ -139,7 +139,7 @@ var colorRange3 = [{
 	color: '#EA4949'
 }];
 
-var colorRange = colorRange1; // define global colorRange variable
+var colorRange = colorRange_1; // define global colorRange variable
 
 
 function getColor(radon_mean) {
@@ -358,7 +358,10 @@ var map = new L.map('map', {
 // add Leaflet scale control
 L.control.scale().addTo(map);
 // add Leaflet sidebar control
-L.control.sidebar('sidebar').addTo(map);
+var sidebar = L.control.sidebar('sidebar').addTo(map);
+sidebar.open('sidebar-settings'); // open default tab
+
+
 // add Leaflet Geocoder control
 var geocoder = L.Control.geocoder({
 	position: 'topleft',
@@ -473,10 +476,12 @@ var layerControl = L.control.groupedLayers(baseLayers, null, {
 // ----------------------------------------------------------------------------------------------
 
 
+
 // define stations GeoJSON data from meta.csv
 var stationsMetaData = {};
 
 // worker for update stationsMetaData object from meta.csv every 'n' ms
+/*
 (function worker() {
 	console.time("loading meta.csv");
 	$.ajax({
@@ -489,6 +494,12 @@ var stationsMetaData = {};
 				delimiter: ';'
 			}, function (err, data) {
 				stationsMetaData = data;
+
+
+				console.log(data);
+
+
+
 				console.log('meta.csv loaded. count: ' + stationsMetaData['features'].length);
 			});
 		},
@@ -499,6 +510,9 @@ var stationsMetaData = {};
 	});
 	console.timeEnd("loading meta.csv");
 })();
+*/
+
+
 
 
 var clusterType = 'average';
@@ -597,12 +611,25 @@ var stationsMCG = L.markerClusterGroup.layerSupport({
 
 function initStations() {
 	setTimeout(() => {
+
+
+
+		function stationsFilter(feature, layer) {
+			return true //(feature.properties.altitude <= alt_max) && (feature.properties.altitude >= alt_min);
+		};
+
+
+
+
 		var categories = {},
 			category;
 
 		console.time("init allStations");
 
 		var allStations = L.geoJson(null, {
+
+			filter: stationsFilter,
+
 			pointToLayer: function (feature, latlng) {
 
 				// https://github.com/marslan390/BeautifyMarker
@@ -635,6 +662,7 @@ function initStations() {
 				// });
 			},
 			onEachFeature: function (feature, layer) {
+
 				// define click and mouseover events
 				layer.on({
 					click: showPopupClickPoint,
@@ -649,6 +677,7 @@ function initStations() {
 				categories[category].push(layer);
 			}
 		});
+
 		allStations.addData(stationsMetaData);
 
 		console.timeEnd("init allStations");
@@ -837,47 +866,330 @@ function updateCircleRadius(value) {
 
 // ------------------------------------------------------------------------------------------------
 
-// Get selected country in stations filter
-$('#stations-filter .selectpicker').on('change', function () {
-	var selected_country = $('#stations-filter .selectpicker').selectpicker('val');
-	console.log(selected_country);
+/*
+MODE:
+- STATIC		meta.csv
+- DYNAMIC		stations.db | stable
+
+COLUMNS:
+date;id_station;id_network;type;latitude;longitude;altitude;country;area_adm_1;area_adm_2;area_adm_3;name;value;value_max
+
+
+- check mode
+- load parameters from static&dynamic
+- init filter panel
+
+
+*/
+
+// if ($("#optradio_modeStatic").prop('checked')) {
+// 	console.log('static mode')
+// };
+
+// if ($("#optradio_modeDynamic").prop('checked')) {
+// 	console.log('dynamic mode')
+// };
+
+
+
+
+$(".switch-field.mode-selector").change(function (e) {
+	var value = e.target.value;
+
+	if (value === 'modeStatic') {
+		$('#stations-filter-dynamic').css('display', 'none');
+		$('#stations-filter-static').css('display', 'block');
+
+
+
+	};
+
+	if (value === 'modeDynamic') {
+		$('#stations-filter-static').css('display', 'none');
+		$('#stations-filter-dynamic').css('display', 'block');
+
+		initDynamicStationsFilterControl();
+		updateDynamicStationsLayer()
+	};
 });
 
 
 
 
 
-// $.getJSON("libs/get_stations_params.php", function (data) {
-// 	getStationsParameters(data);
-// });
 
-// Stations Country control
-getStationsParameters()
-function getStationsParameters() {
+var staticStationsParamsInitial = {
+	"altitude": {},
+	"value": {}
+};
+var staticStationsParamsSelected = {};
 
-	var data = {"sdate":["2017-03-03","2017-03-04","2017-03-06","2017-03-07","2017-03-08","2017-03-09","2017-03-11","2017-03-12","2017-03-13","2017-03-14","2017-03-15","2017-03-16","2017-03-17","2017-03-20","2017-03-21","2017-03-22","2017-03-23","2017-03-24","2017-03-26","2017-03-27","2017-03-28","2017-03-29","2017-03-30","2017-03-31","2017-04-01","2017-04-02","2017-04-03","2017-04-04","2017-04-05","2017-04-06","2017-04-07","2017-04-08","2017-04-09","2017-04-10","2017-04-11","2017-04-12","2017-04-13","2017-04-14","2017-04-15","2017-04-16","2017-04-17","2017-04-18","2017-04-19","2017-04-20","2017-04-21","2017-04-22","2017-04-23","2017-04-24","2017-04-25","2017-04-26","2017-04-27","2017-04-28","2017-04-29","2017-04-30","2017-05-01","2017-05-02"],"country":["Austria","Belgium","Bulgaria","Croatia","Cyprus","Czech Republic","Denmark","Estonia","Finland","France","Germany","Greece","Greenland","Hungary","Iceland","Ireland","Italy","Latvia","Lithuania","Luxembourg","Macedonia","Malta","Netherlands","Norway","Poland","Portugal","Romania","Russia","Serbia","Slovakia","Slovenia","Spain","Sweden","Switzerland","Turkey","Ukraine","United Kingdom"],"altitude":{"min":"-80.8","max":"3511.1"},"value":{"min":"0","max":"48"}};
+// GET STATIC STATIONS LAYER PARAMETERS FOR FILTER
+function getStaticSationsLayerParameters() {
+	// To Do
 
-	// Stations Country control
-	var station_country = data['country'];
+	$.ajax({
+		url: 'data/meta.csv',
+		cache: false,
+		success: function (csv) {
+			csv2geojson.csv2geojson(csv, {
+				latfield: 'latitude',
+				lonfield: 'longitude',
+				delimiter: ';'
+			}, function (err, data) {
+				stationsMetaData = data;
 
-	console.log(station_country)
+				console.log(data)
+
+				var st_country_arr = [];
+				var st_date_arr = [];
+				var st_altitude_arr = [];
+				var st_value_arr = [];
+				data['features'].forEach(function (item, i, arr) {
+					var country = item['properties']['country'];
+					//var date = item['properties']['date'];
+					var altitude = item['properties']['altitude'];
+					var value = item['properties']['value'];
+					if (st_country_arr.indexOf(country) === -1) {
+						st_country_arr.push(country)
+					};
+					// if (st_date_arr.indexOf(date) === -1) {
+					// 	st_date_arr.push(date)
+					// };
+					if (st_altitude_arr.indexOf(altitude) === -1) {
+						st_altitude_arr.push(altitude)
+					};
+					if (st_value_arr.indexOf(value) === -1) {
+						st_value_arr.push(value)
+					};
+				});
+
+				staticStationsParamsInitial['country'] = st_country_arr;
+
+				//staticStationsParamsInitial['sdate'] = st_date_arr;
+
+				staticStationsParamsInitial['altitude']['min'] = Math.min.apply(Math, st_altitude_arr);
+				staticStationsParamsInitial['altitude']['max'] = Math.max.apply(Math, st_altitude_arr);
+
+				staticStationsParamsInitial['value']['min'] = Math.min.apply(Math, st_value_arr);
+				staticStationsParamsInitial['value']['max'] = Math.max.apply(Math, st_value_arr);
 
 
+
+				// Static Stations Country control
+				var station_country = staticStationsParamsInitial['country'];
+				station_country.forEach(function (item, i, arr) {
+					$('#stations-filter-static .selectpicker.static').append($('<option>', {
+						//value: item,
+						text: item
+					}));
+				});
+				$('#stations-filter-static .selectpicker.static').selectpicker('refresh');
+				staticStationsParamsSelected['country'] = 'All countries';
+
+				// Get selected country in static stations filter
+				$('#stations-filter-static .selectpicker.static').on('change', function () {
+					var selected_country = $('#stations-filter-static .selectpicker.static').selectpicker('val');
+					staticStationsParamsSelected['country'] = selected_country;
+					updateStaticStationsLayer();
+				});
+
+				/*	
+				// Stations Date control
+				var station_date_array = dynamicStationsParamsInitial['sdate'];
+				$('#station-date-dynamic').datepicker({
+					format: 'yyyy-mm-dd',
+					todayHighlight: true,
+					autoclose: true,
+					beforeShowDay: function (date) {
+						var datestring = date.getFullYear() + "-" + ("0" + (date.getMonth() + 1)).slice(-2) + "-" + ("0" + date.getDate()).slice(-2);
+						if ($.inArray(datestring, station_date_array) === -1) {
+							return {
+								enabled: false
+							}
+						};
+						return;
+					}
+				}).on('changeDate', function (e) {
+					var datestring = e.date.getFullYear() + "-" + ("0" + (e.date.getMonth() + 1)).slice(-2) + "-" + ("0" + e.date.getDate()).slice(-2);
+					dynamicStationsParamsSelected['sdate'] = datestring;
+					updateDynamicStationsLayer();
+				});
+				$("#station-date-dynamic").datepicker("update", station_date_array.slice(-1)[0]);
+				dynamicStationsParamsSelected['sdate'] = station_date_array.slice(-1)[0];
+				*/
+
+
+
+				// Stations Altitude control
+				var station_altitide = staticStationsParamsInitial['altitude'];
+				var station_altitide_min = Math.ceil(station_altitide['min']);
+				var station_altitide_max = Math.ceil(station_altitide['max']);
+
+				$('#station_slider_altitude_static').bootstrapSlider({
+					min: station_altitide_min,
+					max: station_altitide_max,
+					value: [station_altitide_min, station_altitide_max]
+				});
+				staticStationsParamsSelected['altitude'] = {
+					'min': station_altitide_min,
+					'max': station_altitide_max
+				};
+
+				$('#station_slider_altitude_static').on("slideStop", function (e) {
+					station_altitide = e.value;
+					station_altitide_min = station_altitide[0];
+					station_altitide_max = station_altitide[1];
+
+					staticStationsParamsSelected['altitude'] = {
+						'min': station_altitide_min,
+						'max': station_altitide_max
+					};
+					updateStaticStationsLayer();
+				});
+
+				$("#station_altitude_min_static").text(station_altitide_min);
+				$("#station_altitude_max_static").text(station_altitide_max);
+
+
+				// Stations Value control
+				var station_value = staticStationsParamsInitial['value'];
+
+				var station_value_min = Math.ceil(station_value['min']);
+				var station_value_max = Math.ceil(station_value['max']);
+
+				$('#station_slider_value_static').bootstrapSlider({
+					min: station_value_min,
+					max: station_value_max,
+					value: [station_value_min, station_value_max]
+				});
+				staticStationsParamsSelected['value'] = {
+					'min': station_value_min,
+					'max': station_value_max
+				};
+
+				$('#station_slider_value_static').on("slideStop", function (e) {
+					station_value = e.value;
+					station_value_min = station_value[0];
+					station_value_max = station_value[1];
+
+					staticStationsParamsSelected['value'] = {
+						'min': station_value_min,
+						'max': station_value_max
+					};
+					updateStaticStationsLayer();
+				});
+
+				$("#station_value_min_static").text(station_value_min);
+				$("#station_value_max_static").text(station_value_max);
+
+			});
+		},
+		complete: function () {
+			//setTimeout(worker, 1800000);
+			//setTimeout(worker, 5000);
+		}
+	});
+
+
+};
+
+
+function updateStaticStationsLayer() {
+
+	console.log(staticStationsParamsSelected);
+
+	var country = staticStationsParamsSelected['country'];
+	var alt_min = staticStationsParamsSelected['altitude']['min'];
+	var alt_max = staticStationsParamsSelected['altitude']['max'];
+	var val_min = staticStationsParamsSelected['value']['min'];
+	var val_max = staticStationsParamsSelected['value']['max'];
+
+	console.log(country + ' ' + alt_min + ' ' + alt_max + ' ' + val_min + ' ' + val_max);
+
+
+	initStations()
+
+
+	// var popplaces = new L.geoJson(exp_popplaces,{
+	// 	onEachFeature: pop_popplaces,
+	// 		filter:
+	// 			function(feature, layer) {
+	// 				return (feature.properties.altitude <= alt_max) && (feature.properties.altitude >= alt_min);
+	// 			},
+	// 	pointToLayer: popplaces_marker
+	// });	
+	// popplaces.addTo(map);
+
+
+
+
+
+
+
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var dynamicStationsParamsInitial = {};
+var dynamicStationsParamsSelected = {};
+// GET DYNAMIC STATIONS LAYER PARAMETERS FOR FILTER
+function getDynamicSationsLayerParameters() {
+	// get dynamic stations parameters from stations.db database
+	$.getJSON("libs/get_dynamic_stations_params.php", function (data) {
+		dynamicStationsParamsInitial = data;
+		initDynamicStationsFilterControl();
+	});
+};
+
+
+
+function initDynamicStationsFilterControl() {
+	// Dynamic Stations Country control
+	var station_country = dynamicStationsParamsInitial['country'];
 	station_country.forEach(function (item, i, arr) {
-		$('#stations-filter .selectpicker').append($('<option>', {
+		$('#stations-filter-dynamic .selectpicker.dynamic').append($('<option>', {
 			//value: item,
 			text: item
 		}));
 	});
+	$('#stations-filter-dynamic .selectpicker.dynamic').selectpicker('refresh');
+	dynamicStationsParamsSelected['country'] = 'All countries';
+
+	// Get selected country in stations filter
+	$('#stations-filter-dynamic .selectpicker.dynamic').on('change', function () {
+		var selected_country = $('#stations-filter-dynamic .selectpicker.dynamic').selectpicker('val');
+		dynamicStationsParamsSelected['country'] = selected_country;
+		updateDynamicStationsLayer();
+	});
 
 
 	// Stations Date control
-	var station_date_array = data['sdate'];
-	$('#station-date').datepicker({
+	var station_date_array = dynamicStationsParamsInitial['sdate'];
+	$('#station-date-dynamic').datepicker({
 		format: 'yyyy-mm-dd',
 		todayHighlight: true,
 		autoclose: true,
-		beforeShowDay: function (date) { // disable dates if they not available in database
+		beforeShowDay: function (date) {
 			var datestring = date.getFullYear() + "-" + ("0" + (date.getMonth() + 1)).slice(-2) + "-" + ("0" + date.getDate()).slice(-2);
 			if ($.inArray(datestring, station_date_array) === -1) {
 				return {
@@ -888,58 +1200,113 @@ function getStationsParameters() {
 		}
 	}).on('changeDate', function (e) {
 		var datestring = e.date.getFullYear() + "-" + ("0" + (e.date.getMonth() + 1)).slice(-2) + "-" + ("0" + e.date.getDate()).slice(-2);
-		console.log(datestring);
+		dynamicStationsParamsSelected['sdate'] = datestring;
+		updateDynamicStationsLayer();
 	});
-	$("#station-date").datepicker("update", station_date_array.slice(-1)[0]); // set default date 
-
-
+	$("#station-date-dynamic").datepicker("update", station_date_array.slice(-1)[0]);
+	dynamicStationsParamsSelected['sdate'] = station_date_array.slice(-1)[0];
 
 	// Stations Altitude control
-	var station_altitide = data['altitude'];
+	var station_altitide = dynamicStationsParamsInitial['altitude'];
 	var station_altitide_min = Math.ceil(station_altitide['min']);
 	var station_altitide_max = Math.ceil(station_altitide['max']);
 
-	$('#station_slider_altitude').bootstrapSlider({
+	$('#station_slider_altitude_dynamic').bootstrapSlider({
 		min: station_altitide_min,
 		max: station_altitide_max,
 		value: [station_altitide_min, station_altitide_max]
 	});
-	$('#station_slider_altitude').on("slide", function (e) {
+	dynamicStationsParamsSelected['altitude'] = {
+		'min': station_altitide_min,
+		'max': station_altitide_max
+	};
+
+	$('#station_slider_altitude_dynamic').on("slideStop", function (e) {
 		station_altitide = e.value;
 		station_altitide_min = station_altitide[0];
 		station_altitide_max = station_altitide[1];
 
-		console.log(station_altitide_min);
-		console.log(station_altitide_max);
+		dynamicStationsParamsSelected['altitude'] = {
+			'min': station_altitide_min,
+			'max': station_altitide_max
+		};
+		updateDynamicStationsLayer();
 	});
 
-	$("#station_altitude_min").text(station_altitide_min);
-	$("#station_altitude_max").text(station_altitide_max);
+	$("#station_altitude_min_dynamic").text(station_altitide_min);
+	$("#station_altitude_max_dynamic").text(station_altitide_max);
 
 
 	// Stations Value control
-	var station_value = data['value'];
+	var station_value = dynamicStationsParamsInitial['value'];
 
 	var station_value_min = Math.ceil(station_value['min']);
 	var station_value_max = Math.ceil(station_value['max']);
 
-	$('#station_slider_value').bootstrapSlider({
+	$('#station_slider_value_dynamic').bootstrapSlider({
 		min: station_value_min,
 		max: station_value_max,
 		value: [station_value_min, station_value_max]
 	});
-	$('#station_slider_value').on("slide", function (e) {
+	dynamicStationsParamsSelected['value'] = {
+		'min': station_value_min,
+		'max': station_value_max
+	};
+
+	$('#station_slider_value_dynamic').on("slideStop", function (e) {
 		station_value = e.value;
 		station_value_min = station_value[0];
 		station_value_max = station_value[1];
 
-		console.log(station_value_min);
-		console.log(station_value_max);
+		dynamicStationsParamsSelected['value'] = {
+			'min': station_value_min,
+			'max': station_value_max
+		};
+		updateDynamicStationsLayer();
 	});
 
-	$("#station_value_min").text(station_value_min);
-	$("#station_value_max").text(station_value_max);
+	$("#station_value_min_dynamic").text(station_value_min);
+	$("#station_value_max_dynamic").text(station_value_max);
 };
+
+
+
+
+
+
+
+function updateDynamicStationsLayer() {
+	var dataString = 'sdate=' + dynamicStationsParamsSelected['sdate'] +
+		'&country=' + dynamicStationsParamsSelected['country'] +
+		'&alt_min=' + dynamicStationsParamsSelected['altitude']['min'] +
+		'&alt_max=' + dynamicStationsParamsSelected['altitude']['max'] +
+		'&val_min=' + dynamicStationsParamsSelected['value']['min'] +
+		'&val_max=' + dynamicStationsParamsSelected['value']['max'];
+	$.ajax({
+		type: "POST",
+		url: "libs/get_dynamic_stations_data.php",
+		data: dataString,
+		success: function (data) {
+			//console.log(data)
+			var dStationsGeoJSON = GeoJSON.parse(JSON.parse(data), {
+				Point: ['lat', 'lon']
+			});
+
+			console.log(dStationsGeoJSON);
+
+			stationsMetaData = dStationsGeoJSON
+			initStations();
+		}
+	});
+};
+
+
+
+
+
+
+
+
 
 
 
@@ -1009,12 +1376,12 @@ legend.addTo(map);
 $(".switch-field.color-selector").change(function (e) {
 	var value = e.target.value;
 	// change legend color range
-	if (value === 'colorRange1') { // colorRange1
-		colorRange = colorRange1;
-	} else if (value === 'colorRange2') { // colorRange2
-		colorRange = colorRange2;
-	} else { // colorRange3
-		colorRange = colorRange3;
+	if (value === 'colorRange_1') { // colorRange_1
+		colorRange = colorRange_1;
+	} else if (value === 'colorRange_2') { // colorRange_2
+		colorRange = colorRange_2;
+	} else { // colorRange_3
+		colorRange = colorRange_3;
 	};
 
 	// update style for stations layer
@@ -1050,7 +1417,7 @@ $(".switch-field.color-selector").change(function (e) {
 	$(".info.legend.leaflet-control").append(html);
 
 	// change text color in '.color-block'
-	if (value === 'colorRange2') {
+	if (value === 'colorRange_2') {
 		$("#legend-layers>div>div>.color-block").css('color', '#FFFFFF');
 	} else {
 		$("#legend-layers>div>div>.color-block").css('color', '#000000');
@@ -1214,7 +1581,7 @@ var earthquakesPointsHeat = L.heatLayer(earthquakesPoints, {
 // document ready event
 $(document).ready(function () {
 
-	initStations(); // init 'stations' layers
+	//initStations(); // init 'stations' layers
 	initWebCams(); // init 'webcams' layer
 	initNuclearPowerStations(); // init 'Nuclear Power Stations' layer
 
@@ -1234,6 +1601,14 @@ $(document).ready(function () {
 		collapsible: true,
 		heightStyle: "content"
 	});
+
+
+
+
+	getStaticSationsLayerParameters();
+	getDynamicSationsLayerParameters();
+
+
 
 
 });
